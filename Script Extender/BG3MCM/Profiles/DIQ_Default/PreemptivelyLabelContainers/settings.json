@@ -1,0 +1,40 @@
+{
+	"features" : 
+	{
+		"filters_settings" : 
+		{
+			"ignored_items" : true
+		},
+		"label_format_settings" : 
+		{
+			"add_parentheses" : true,
+			"append" : true,
+			"capitalize" : true,
+			"display_number_of_items" : true,
+			"if_empty" : true,
+			"simulate_controller" : false
+		},
+		"labeling_settings" : 
+		{
+			"also_check_for_party_members" : true,
+			"nested_containers" : true,
+			"owned_containers" : true,
+			"perception_check_dc" : 0,
+			"radius" : 15,
+			"refresh_interval_ms" : 500,
+			"remove_from_opened" : true
+		}
+	},
+	"general" : 
+	{
+		"debugging_settings" : 
+		{
+			"always_relabel" : true,
+			"debug_level" : 0
+		},
+		"general_settings" : 
+		{
+			"mod_enabled" : false
+		}
+	}
+}

@@ -1,0 +1,72 @@
+{
+	"AdvancedSettingsTab" : 
+	{
+		"AdvancedSettingsSection" : 
+		{
+			"customClass10ResourceMultiplier" : 1.0,
+			"customClass10SpellChoiceMultiplier" : 1.0,
+			"customClass10SpellSlotMultiplier" : 1.0,
+			"customClass1ResourceMultiplier" : 1.0,
+			"customClass1SpellChoiceMultiplier" : 1.0,
+			"customClass1SpellSlotMultiplier" : 1.0,
+			"customClass2ResourceMultiplier" : 1.0,
+			"customClass2SpellChoiceMultiplier" : 1.0,
+			"customClass2SpellSlotMultiplier" : 1.0,
+			"customClass3ResourceMultiplier" : 1.0,
+			"customClass3SpellChoiceMultiplier" : 1.0,
+			"customClass3SpellSlotMultiplier" : 1.0,
+			"customClass4ResourceMultiplier" : 1.0,
+			"customClass4SpellChoiceMultiplier" : 1.0,
+			"customClass4SpellSlotMultiplier" : 1.0,
+			"customClass5ResourceMultiplier" : 1.0,
+			"customClass5SpellChoiceMultiplier" : 1.0,
+			"customClass5SpellSlotMultiplier" : 1.0,
+			"customClass6ResourceMultiplier" : 1.0,
+			"customClass6SpellChoiceMultiplier" : 1.0,
+			"customClass6SpellSlotMultiplier" : 1.0,
+			"customClass7ResourceMultiplier" : 1.0,
+			"customClass7SpellChoiceMultiplier" : 1.0,
+			"customClass7SpellSlotMultiplier" : 1.0,
+			"customClass8ResourceMultiplier" : 1.0,
+			"customClass8SpellChoiceMultiplier" : 1.0,
+			"customClass8SpellSlotMultiplier" : 1.0,
+			"customClass9ResourceMultiplier" : 1.0,
+			"customClass9SpellChoiceMultiplier" : 1.0,
+			"customClass9SpellSlotMultiplier" : 1.0,
+			"customClassName1" : "Wizard",
+			"customClassName10" : "none",
+			"customClassName2" : "none",
+			"customClassName3" : "none",
+			"customClassName4" : "none",
+			"customClassName5" : "none",
+			"customClassName6" : "none",
+			"customClassName7" : "none",
+			"customClassName8" : "none",
+			"customClassName9" : "none",
+			"enableAdvancedSettings" : false
+		}
+	},
+	"GeneralSettingsTab" : 
+	{
+		"EnableModSection" : 
+		{
+			"enableMod" : false,
+			"excludeFirstSpellSelector" : false,
+			"ignoreAlwaysPrepared" : false,
+			"spellChoiceMultiplier" : 1.0
+		},
+		"WarningSection" : 
+		{
+			"warningMessage" : "NOTE: Every setting in here only applies on game start. After changing anything, must RESTART game to take effect."
+		}
+	},
+	"SpellSlotSettingsTab" : 
+	{
+		"SpellSlotMultiplierSection" : 
+		{
+			"AllResourceMultiplier" : 1.0,
+			"multiclassSpellSlotMultiplier" : 1.0,
+			"spellSlotMultiplier" : 1.0
+		}
+	}
+}

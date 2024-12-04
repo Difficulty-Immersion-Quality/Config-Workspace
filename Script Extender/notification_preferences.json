@@ -1,0 +1,17 @@
+{
+	"BG3MCM" : 
+	{
+		"Dependency_Missing_Version_Info_4b1035f1-6e41-4591-8516-72752a448681_Requires_4cb0fd40-7212-4fe9-8733-9a8dbc6637ae" : 
+		{
+			"show" : false
+		},
+		"Dependency_Missing_Version_Info_a175d16b-2a1b-4711-9b26-2002f8a83f18_Requires_4cb0fd40-7212-4fe9-8733-9a8dbc6637ae" : 
+		{
+			"show" : false
+		},
+		"Dependency_Version_Issue_163a16e7-7e92-475d-a979-24de44fdd9d1_Requires_755a8a72-407f-4f0d-9a33-274ac0f0b53d_1.18.0.0_Loaded_1.17.1.0" : 
+		{
+			"show" : false
+		}
+	}
+}

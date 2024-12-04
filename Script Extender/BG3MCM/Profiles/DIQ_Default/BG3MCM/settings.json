@@ -1,0 +1,25 @@
+{
+	"debug" : 
+	{
+		"debug_settings" : 
+		{
+			"debug_level" : 0,
+			"print_deprecation_warnings" : false
+		}
+	},
+	"settings" : 
+	{
+		"general_settings" : 
+		{
+			"auto_resize_window" : false,
+			"dynamic_opacity" : true,
+			"host-only_mode" : true,
+			"open_on_start" : false,
+			"toggle_mcm_keybinding" : 
+			{
+				"Modifier" : "LShift",
+				"ScanCode" : "INSERT"
+			}
+		}
+	}
+}

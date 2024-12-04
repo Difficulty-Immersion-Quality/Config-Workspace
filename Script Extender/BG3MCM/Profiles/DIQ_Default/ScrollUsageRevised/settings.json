@@ -1,0 +1,9 @@
+{
+	"Settings" : 
+	{
+		"debugToggle" : false,
+		"disableOutOfCombat" : true,
+		"removeAP" : true,
+		"skillCheck" : "SpellCastingAbility"
+	}
+}

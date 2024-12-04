@@ -1,0 +1,26 @@
+{
+	"AdditionalTab" : 
+	{
+		"DEGeneralAdditionalMCM" : 
+		{
+			"DragonBite" : "None",
+			"DragonClaws" : "None",
+			"DragonClawsAttackReplacer" : false
+		},
+		"DRebornMCM" : 
+		{
+			"DRebornLevelOne" : false
+		}
+	},
+	"GeneralTab" : 
+	{
+		"DEGeneralMCM" : 
+		{
+			"BreathCharges" : true,
+			"BreathWeaponMap" : "Fizban 1d10",
+			"Disclaimer" : true,
+			"ExtraAttack" : true,
+			"ResourceCost" : "ActionPoint"
+		}
+	}
+}

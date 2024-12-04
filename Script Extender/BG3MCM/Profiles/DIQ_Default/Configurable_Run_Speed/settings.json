@@ -1,0 +1,37 @@
+{
+	"debug" : 
+	{
+		"debug_level" : 0
+	},
+	"features" : 
+	{
+		"ENEMY_COMBAT_SPEED_SETTINGS" : 
+		{
+			"Combat_Enemy_AccelerationMultiplier" : 1,
+			"Combat_Enemy_ClimbSpeedMultiplier" : 1,
+			"Combat_Enemy_MovementSpeedMultiplier" : 1
+		},
+		"EXPOLORATION_SPEED_SETTINGS" : 
+		{
+			"Exploration_AccelerationMultiplier" : 1,
+			"Exploration_ClimbSpeedMultiplier" : 1,
+			"Exploration_MovementSpeedMultiplier" : 1
+		},
+		"GENERAL_SETTINGS" : 
+		{
+			"COMBAT_ENABLED" : false,
+			"ON_SPEED_STATUS" : false,
+			"SNEAKING_ENABLED" : false
+		},
+		"PARTY_COMBAT_SPEED_SETTINGS" : 
+		{
+			"Combat_Party_AccelerationMultiplier" : 1,
+			"Combat_Party_ClimbSpeedMultiplier" : 1,
+			"Combat_Party_MovementSpeedMultiplier" : 1
+		}
+	},
+	"general" : 
+	{
+		"MOD_ENABLED" : false
+	}
+}
