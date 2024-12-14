@@ -1,111 +1,111 @@
 {
       "Health": {
         "Allies": {
-        "HealthMultiplier": 0,
-        "StaticBoost": 0.69,
-        "HealthPerLevel": 0.005
+          "HealthMultiplier": 0,
+          "StaticBoost": 0.69,
+          "HealthPerLevel": 0.005
     },
         "Bosses": {
-        "HealthMultiplier": 0,
-        "StaticBoost": 0.69,
-        "HealthPerLevel": 0.010
+          "HealthMultiplier": 0,
+          "StaticBoost": 0.69,
+          "HealthPerLevel": 0.010
     },
         "Enemies": {
-        "HealthMultiplier": 0,
-        "StaticBoost": 0.69,
-        "HealthPerLevel": 0.005
+          "HealthMultiplier": 0,
+          "StaticBoost": 0.69,
+          "HealthPerLevel": 0.005
     }
     },
       "Damage": {
         "Allies": {
-        "StaticDamageBoost": 0,
-        "DamagePerIncrement": 0,
-        "LevelIncrement": 4		
+          "StaticDamageBoost": 0,
+          "DamagePerIncrement": 0,
+          "LevelIncrement": 4		
     },
         "Bosses": {
-        "StaticDamageBoost": 0,
-        "DamagePerIncrement": 0,
-        "LevelIncrement": 4
+          "StaticDamageBoost": 0,
+          "DamagePerIncrement": 0,
+          "LevelIncrement": 4
     },
         "Enemies": {
-        "StaticDamageBoost": 0,
-        "DamagePerIncrement": 0,
-        "LevelIncrement": 4
+          "StaticDamageBoost": 0,
+          "DamagePerIncrement": 0,
+          "LevelIncrement": 4
     }
     },
       "ArmourClass": {
         "Allies": {
-        "StaticBoost": 0,
-        "BoostPerIncrement": 0,
-        "LevelIncrement": 4
+          "StaticBoost": 0,
+          "BoostPerIncrement": 0,
+          "LevelIncrement": 4
     },
         "Bosses": {
-        "StaticBoost": 0,
-        "BoostPerIncrement": 0,
-        "LevelIncrement": 4
+          "StaticBoost": 0,
+          "BoostPerIncrement": 0,
+          "LevelIncrement": 4
     },
         "Enemies": {
-        "StaticBoost": 0,
-        "BoostPerIncrement": 0,
-        "LevelIncrement": 4
+          "StaticBoost": 0,
+          "BoostPerIncrement": 0,
+          "LevelIncrement": 4
     }
     },
       "SpellSaveDC": {
         "Allies": {
-        "StaticBoost": 0,
-        "BoostPerIncrement": 0,
-        "LevelIncrement": 4
+          "StaticBoost": 0,
+          "BoostPerIncrement": 0,
+          "LevelIncrement": 4
     },
         "Bosses": {
-        "StaticBoost": 0,
-        "BoostPerIncrement": 0,
-        "LevelIncrement": 4
+          "StaticBoost": 0,
+          "BoostPerIncrement": 0,
+          "LevelIncrement": 4
     },
         "Enemies": {
-        "StaticBoost": 0,
-        "BoostPerIncrement": 0,
-        "LevelIncrement": 4
+          "StaticBoost": 0,
+          "BoostPerIncrement": 0,
+          "LevelIncrement": 4
     }
     },
       "AbilityPoints": {
         "Allies": {
-        "StaticBoost": 1,
-        "BoostPerIncrement": 1,
-        "LevelIncrement": 4	
+          "StaticBoost": 1,
+          "BoostPerIncrement": 1,
+          "LevelIncrement": 4	
     },
         "Bosses": {
-        "StaticBoost": 3,
-        "BoostPerIncrement": 2,
-        "LevelIncrement": 4
+          "StaticBoost": 3,
+          "BoostPerIncrement": 2,
+          "LevelIncrement": 4
     },
         "Enemies": {
-        "StaticBoost": 1,
-        "BoostPerIncrement": 1,
-        "LevelIncrement": 4
+          "StaticBoost": 1,
+          "BoostPerIncrement": 1,
+          "LevelIncrement": 4
     }
     },
       "Movement": {
         "Allies": {
-        "StaticBoost": 1	
+          "StaticBoost": 1	
     },
         "Bosses": {
-        "StaticBoost": 3
+          "StaticBoost": 3
     },
         "Enemies": {
-        "StaticBoost": 1
+          "StaticBoost": 1
     }
     },
       "ExtraAction": {
         "Allies": {
-        "Action": {
+          "Action": {
             "Additional": 0
-        },
-        "BonusAction": {
+    },
+          "BonusAction": {
             "Additional": 0
     }
     },
         "Bosses": {
-        "Action": {
+          "Action": {
             "Additional": 1
     },
         "BonusAction": {
@@ -113,184 +113,184 @@
     }
     },
         "Enemies": {
-        "Action": {
+          "Action": {
             "Additional": 0
-        },
-        "BonusAction": {
+    },
+          "BonusAction": {
             "Additional": 0
     }
     }
     },
       "Rolls": {
         "Allies": {
-        "Attack": {
+          "Attack": {
             "StaticRollBonus": 0,
             "RollBonusPerIncrement": 0,
             "LevelIncrement": 4
     },
-        "SavingThrow": {
+          "SavingThrow": {
             "StaticRollBonus": 0,
             "RollBonusPerIncrement": 0,
             "LevelIncrement": 4
     }		
     },
         "Bosses": {
-        "Attack": {
+          "Attack": {
             "StaticRollBonus": 0,
             "RollBonusPerIncrement": 0,
             "LevelIncrement": 4
     },
-        "SavingThrow": {
+          "SavingThrow": {
             "StaticRollBonus": 0,
             "RollBonusPerIncrement": 0,
             "LevelIncrement": 4
     }
     },
         "Enemies": {
-        "Attack": {
+          "Attack": {
             "StaticRollBonus": 0,
             "RollBonusPerIncrement": 0,
             "LevelIncrement": 4
     },
-        "SavingThrow": {
+          "SavingThrow": {
             "StaticRollBonus": 0,
             "RollBonusPerIncrement": 0,
             "LevelIncrement": 4
     }
     }
     },
-    "Passives": [
+      "Passives": [
     {
-    "PassiveName": "CX_Magic_Boost",
+      "PassiveName": "CX_Magic_Boost",
         "Act": {
-        "1": {
-        "ExtraPassives": ["WarCaster_OpportunitySpell","Mod_MAG_AdditionalSpellSlot_Level1_Passive"]
+          "1": {
+            "ExtraPassives": ["WarCaster_OpportunitySpell","Mod_MAG_AdditionalSpellSlot_Level1_Passive"]
     },
-        "2": {
-        "ExtraPassives": ["SpellSniper_Critical","WarCaster_Bonuses","Mod_MAG_AdditionalSpellSlot_Level2_Passive"]
+          "2": {
+            "ExtraPassives": ["SpellSniper_Critical","WarCaster_Bonuses","Mod_MAG_AdditionalSpellSlot_Level2_Passive"]
     },
-        "3": {
-        "ExtraPassives": ["SYR_DeadlyAlacrity","Goon_SavageCaster","PotentCantrip","Mod_MAG_AdditionalSpellSlot_Level3_Passive"]
+          "3": {
+            "ExtraPassives": ["SYR_DeadlyAlacrity","Goon_SavageCaster","PotentCantrip","Mod_MAG_AdditionalSpellSlot_Level3_Passive"]
     }
     }
     },
     {
-    "PassiveName": "CX_Barbarian_Boost",
+      "PassiveName": "CX_Barbarian_Boost",
         "Act": {
-        "1": {
+          "1": {
             "Spells": ["Target_RecklessAttack","Projectile_Jump"],
             "ExtraPassives": ["Tough","MindlessRage","FeralInstinct"]
     },
-        "2": {
-        "Spells": ["Throw_FrenziedThrow","Target_FrenziedStrike","Shout_ActionSurge"],
+          "2": {
+            "Spells": ["Throw_FrenziedThrow","Target_FrenziedStrike","Shout_ActionSurge"],
             "ExtraPassives": ["MindlessRage","FeralInstinct","SavageAttacker","FightingStyle_GreatWeaponFighting","Mod_MAG_Shove_Damage","Goon_Summon_Potion_Healing_x1","Goon_Increased_Movement_2"]
     },
-        "3": {
+          "3": {
             "ExtraPassives": ["Durable","BrutalCritical","RelentlessRage","Mobile_PassiveBonuses","ExtraAttack_2","DangerSense","BloodThirsty_Redcap","Goon_Damage_Bludgeoning_d4_Attacks","Mod_MAG_LowHP_IncreaseSpeed_Passive","Mod_CriticalVsObjects_Passive","Goon_Summon_Potion_Healing_Greater_x1","MAG_Violence_LowHP_Violence_Passive"]
     }
     }
     },
     {
-    "PassiveName": "CX_Cleric_Boost",
+      "PassiveName": "CX_Cleric_Boost",
         "Act": {
-        "1": {
+          "1": {
             "Spells": ["Shout_WordOfRadiance","Target_LifeTransference","Projectile_GuidingBolt","Target_InflictWounds","Target_HealingWord","Shout_HealingWord_Mass","Target_TollTheDead","Target_Bless","Projectile_Jump"]
     },
-        "2": {
+          "2": {
             "Spells": ["Target_SummonShadowspawn","Target_Mystic_InciteCourage","Shout_SpiritGuardians"],
             "ExtraPassives": ["PotentSpellcasting","WarCaster_OpportunitySpell","WarCaster_Bonuses","Mod_MAG_AdditionalSpellSlot_Level1_Passive","Mod_MAG_AdditionalSpellSlot_Level2_Passive","Goon_Summon_Potion_Healing_Superior_x1"]
     },
-        "3": {
+          "3": {
             "Spells": ["Shout_AuraOfVitality","Target_FlameStrike","Target_Contagion","Shout_MAG_DevoteesMace_Healing_Aura","Shout_AuraOfLife","Zone_Sunbeam"],
-              "ExtraPassives": ["MAG_Healer_HealSelf_Passive","BlessedHealer","ShieldMaster_PassiveBonuses","ShieldMaster_Block","Goon_Summon_Potion_Healing_Superior_x1"]
+            "ExtraPassives": ["MAG_Healer_HealSelf_Passive","BlessedHealer","ShieldMaster_PassiveBonuses","ShieldMaster_Block","Goon_Summon_Potion_Healing_Superior_x1"]
     }
     }
     },
     {
-    "PassiveName": "CX_Fighter_Boost",
+      "PassiveName": "CX_Fighter_Boost",
         "Act": {
-        "1": {
+          "1": {
             "Spells": ["Target_DistractingStrike","Target_PushingAttack","Target_FeintingAttack","Shout_ActionSurge","Projectile_Jump"],
             "ExtraPassives": ["Riposte","FightingStyle_GreatWeaponFighting","FightingStyle_TwoWeaponFighting","FightingStyle_Dueling","Goon_Increased_Movement_1","Goon_Summon_Potion_Healing_x1"]
     },
-    "2": {
-        "ExtraPassives": ["PolearmMaster_AttackOfOpportunity","PolearmMaster_BonusAttack","HeavyArmorMaster", "Tough"]
+          "2": {
+            "ExtraPassives": ["PolearmMaster_AttackOfOpportunity","PolearmMaster_BonusAttack","HeavyArmorMaster", "Tough"]
     },
-        "3": {
+          "3": {
             "Spells": ["Zone_SweepingAttack","Target_TripAttack"],
             "ExtraPassives": ["MAG_Fighter_ActionSurge_AttackBonus_Gloves_Passive","Indomitable","ImprovedCombatSuperiority","SYR_DeadlyAlacrity","Tough","HeavyArmorMaster","SavageAttacker","ShieldMaster_PassiveBonuses","ShieldMaster_Block","Riposte","ImprovedCritical","Goon_Damage_Slashing_d4_Attacks","Mod_MAG_Shove_Damage","Mod_CriticalVsObjects_Passive","Goon_Summon_Potion_Healing_Superior_x1","FightingStyle_Protection","Athlete_PassiveBonuses","Athlete_StandUp"]
     }
     }
     },
     {
-    "PassiveName": "CX_Monk_Boost",
+      "PassiveName": "CX_Monk_Boost",
         "Act": {
-        "1": {
-                "ExtraPassives": ["Mobile_PassiveBonuses","Mobile_CounterAttackOfOpportunity","Mobile_DashAcrossDifficultTerrain","Goon_Increased_Movement_2","SecondStoryWork_Jumping","Projectile_Jump"]
+          "1": {
+            "ExtraPassives": ["Mobile_PassiveBonuses","Mobile_CounterAttackOfOpportunity","Mobile_DashAcrossDifficultTerrain","Goon_Increased_Movement_2","SecondStoryWork_Jumping","Projectile_Jump"]
     },
-        "2": {
+          "2": {
             "Spells": [],
-                    "ExtraPassives": ["SavageAttacker","TavernBrawler_Bonuses","TavernBrawler"]
+            "ExtraPassives": ["SavageAttacker","TavernBrawler_Bonuses","TavernBrawler"]
     }
     },
-        "3": {
+          "3": {
             "Spells": ["Target_StunningStrike","Target_StunningStrike_Unarmed","Target_WaterWhip","Projectile_FangsOfTheFireSnake","Zone_Thunderwave_Monk","Target_FistOfUnbrokenAir"],
             "ExtraPassives": ["MAG_OfMissileSnaring_Gloves_Passive","BeguilingDefenses","SteelWill","Mod_ARM_MartialArtsLethality_2_Passive","Mod_MartialArts_BonusUnarmedStrike","Mod_Greater_LeaperStride","Mod_CriticalVsObjects_Passive"]
     }
     },
     {
-    "PassiveName": "CX_Paladin_Boost",
+      "PassiveName": "CX_Paladin_Boost",
         "Act": {
-        "1": {
+          "1": {
             "Spells": ["Target_BoomingBlade","Target_GreenFlameBlade","Target_Smite_Thunderous","Target_Smite_Wrathful","Target_Smite_Searing","Projectile_Jump"],
             "ExtraPassives": ["FightingStyle_GreatWeaponFighting","FightingStyle_TwoWeaponFighting","FightingStyle_Dueling","Sentinel_Attack","Sentinel_OpportunityAdvantage","Smite_Divine_NPC","Goon_Summon_Potion_Healing_x1"]
-        },
-        "2": {
+    },
+          "2": {
             "Spells": ["Target_Smite_Divine","Target_HolyWeapon"],
             "ExtraPassives": ["MAG_Paladin_LayOnHandsSupport_Gloves_Passive","WarMagic","Sentinel_ZeroSpeed","SteelWill","FightingStyle_Protection","Goon_Summon_Potion_Healing_Greater_x1"]
     },
-        "3": {
+          "3": {
             "Spells": ["CUST_Rally","Shout_PrayerOfHealing","Shout_AuraOfLife","Target_Smite_Blinding","Shout_ActionSurge","Shout_HealingRadiance"],
             "ExtraPassives": ["ImprovedDivineSmite","FightingStyle_GreatWeaponFighting","Tough","WarCaster_Bonuses","WarCaster_OpportunitySpell","SavageAttacker","ShieldMaster_PassiveBonuses","ShieldMaster_Block","ExtraAttack_2","Smite_Divine_2_NPC","RelentlessAvenger","SYR_WarMagic","BeguilingDefenses","Goon_Damage_Necrotic_d4_Attacks","Mod_MAG_Critical_Force_Critical_Passive","Mod_CriticalVsObjects_Passive","Goon_Summon_Potion_Healing_Supreme_x1","PolearmMaster_AttackOfOpportunity","PolearmMaster_BonusAttack"]
     }
     }
     },
     {
-    "PassiveName": "CX_Ranger_Boost",
+      "PassiveName": "CX_Ranger_Boost",
         "Act": {
-        "1": {
+          "1": {
             "Spells": ["Target_BoomingBlade","Target_GreenFlameBlade","Projectile_Jump"],
             "ExtraPassives": ["FightingStyle_Archery","Goon_Summon_Potion_Healing_x1"]
     },
-        "2": {
+          "2": {
             "Spells": ["Target_MistyStep","Target_ElementalWeapon","Projectile_HailOfThorns"],
             "ExtraPassives": ["MultiattackDefense","DreadAmbusher","SYR_LightArmorMaster","CrossbowExpert_PointBlank","Mobile_PassiveBonuses","FightingStyle_Dueling","FightingStyle_TwoWeaponFighting","Goon_Increased_Movement_2","Goon_Summon_Potion_Healing_Greater_x1"]
     },
-        "3": {
+          "3": {
             "Spells": ["Shout_HideInPlainSight","Target_Volley","Shout_Whirlwind","Target_Smite_Searing","Target_Snare","Target_SummonBeast","Target_SummonFey","Target_SummonElemental","Shout_SwiftQuiver","Shout_HideInPlainSight"],
             "ExtraPassives": ["SYR_DeadlyAlacrity","SYR_Feat_WarMagic_AltSpell_Passive","SavageAttacker","Goon_SavageShooter","Target_MAG_TheDueller_BonusAttack","MultiattackDefense","Goon_Damage_Piercing_d4_Attacks","EscapeTheHorde","ColossusSlayer","Mod_Reckless_Aim","Mod_PointBlank","Mod_LeaperStride","Goon_Summon_Potion_Healing_Superior_x1"]
     }
     }
     },
     {
-    "PassiveName": "CX_Rogue_Boost",
+      "PassiveName": "CX_Rogue_Boost",
         "Act": {
-        "1": {
+          "1": {
             "Spells": ["Projectile_SneakAttack","Target_SneakAttack","Shout_Dash_CunningAction","Shout_Disengage_CunningAction","Shout_Hide_BonusAction","Projectile_Jump"],
             "ExtraPassives": ["UncannyDodge","SYR_LightArmorMaster","Mobile_PassiveBonuses","Goon_Summon_Potion_Healing_Greater_x1"]
     },
-        "2": {
+          "2": {
             "ExtraPassives": ["Evasion","FightingStyle_Dueling","FightingStyle_TwoWeaponFighting","Fast_Hands","DreadAmbusher","MultiattackDefense","Evasion","SYR_DeadlyAlacrity","SYR_NimbleFingers","CrossbowExpert_PointBlank","Mobile_CounterAttackOfOpportunity","Mobile_DashAcrossDifficultTerrain","Goon_Increased_Movement_2","SecondStoryWork_Jumping","Goon_Summon_Potion_Healing_Superior_x2"]
     },
-        "3": {
+          "3": {
             "ExtraPassives": ["ReliableTalent","SYR_ThiefsApprentice","SYR_Alchemist","FightingStyle_Dueling","FightingStyle_TwoWeaponFighting","ExtraAttack","Assassinate_Ambush","Assassinate_Initiative","StalkersFlurry","EscapeTheHorde","Target_MAG_TheDueller_BonusAttack","Mod_MAG_TheClover_Rearrangement_Passive","Goon_Damage_Piercing_d4_Attacks","BloodThirsty_Redcap","Mod_DEN_Apprentice_DaggerOfShar_Passive","Mod_MAG_Infernal_Weapon_Passive","Mod_MAG_Slicing_Shortsword_Passive","Mod_Reckless_Aim","Mod_PointBlank","Mod_Greater_LeaperStride","Goon_Summon_Potion_Healing_Supreme_x1","MAG_Harpers_RingOfTwilight_Passive","Riposte","SavageAttacker","Goon_SavageShooter"]
     }
     }
     },
     {
     "PassiveName": "CX_Spells_L1",
-    "Spells": ["Target_LHB_SEL_Frostbite","Target_MindSliver","Target_Frostbite","Target_LightningLure","Target_Frostbite","Target_GreenFlameBlade","Target_TollTheDead","Zone_FrostFingers","Shout_EarthTremor","Zone_TashasCausticBrew","Projectile_IceKnife","Zone_Thunderwave","Zone_ArcticBreath","Projectile_GaleBolt","Projectile_WaterBlast","Shout_Thunderclap"],
-    "ExtraSpellSlots": ["1","0","0","0","0","0"]
+      "Spells": ["Target_LHB_SEL_Frostbite","Target_MindSliver","Target_Frostbite","Target_LightningLure","Target_Frostbite","Target_GreenFlameBlade","Target_TollTheDead","Zone_FrostFingers","Shout_EarthTremor","Zone_TashasCausticBrew","Projectile_IceKnife","Zone_Thunderwave","Zone_ArcticBreath","Projectile_GaleBolt","Projectile_WaterBlast","Shout_Thunderclap"],
+      "ExtraSpellSlots": ["1","0","0","0","0","0"]
     },
     {
     "PassiveName": "CX_Spells_L2",
