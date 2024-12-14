@@ -975,7 +975,7 @@
       "HealthOverride": 90
   },
     "S_FOR_Bottomless_SpiderQueen_e6b2f3ba-2d02-4507-8680-6047322e1a4b": {
-      "Passives": ["JWL_Passive_SymbolLolth","JWL_Passive_Follower_SymbolLolth","MAG_Critical_Force_Critical_Passive","Mod_FOR_SpiderQueen_Robe_Passive","Goon_Increased_Weight_Size_Scale_1","ARP_BonusActionPoint","Goon_Fall_Damage_Immunity","ARP_SpellSlot_1_1","ARP_SpellSlot_2_1","ARP_SpellSlot_3_1","FrontFace_Shadowbound","ShadowBound_Obscurityff","ShadowBow_Feat_darkness","ShadowboundSpear_Passive","ShadowboundArmorstealthPassive","ShadowCriticalBoostWhileObscuredfeat","Shadowbound_SpellDCpassive","Shadowbound_RingOfTwilight_Passive"],
+      "Passives": ["SunlightSensitivity","JWL_Passive_SymbolLolth","JWL_Passive_Follower_SymbolLolth","MAG_Critical_Force_Critical_Passive","Mod_FOR_SpiderQueen_Robe_Passive","Goon_Increased_Weight_Size_Scale_1","ARP_BonusActionPoint","Goon_Fall_Damage_Immunity","ARP_SpellSlot_1_1","ARP_SpellSlot_2_1","ARP_SpellSlot_3_1","FrontFace_Shadowbound","ShadowBound_Obscurityff","ShadowBow_Feat_darkness","ShadowboundSpear_Passive","ShadowboundArmorstealthPassive","ShadowCriticalBoostWhileObscuredfeat","Shadowbound_SpellDCpassive","Shadowbound_RingOfTwilight_Passive"],
       "Spells": ["Shout_SpiritGuardians","Target_InflictWounds","Target_HealingWord","Projectile_Jump_Minotaur","Shout_Invisibility_ShadarKai_GloomWeaver"],
       "HealthOverride": 250
   },
