@@ -2,17 +2,17 @@
       "Health": {
         "Allies": {
           "HealthMultiplier": 0,
-          "StaticBoost": 0.300,
+          "StaticBoost": 0.150,
           "HealthPerLevel": 0.100
     },
         "Bosses": {
           "HealthMultiplier": 0,
-          "StaticBoost": 0.400,
-          "HealthPerLevel": 0.169
+          "StaticBoost": 0.250,
+          "HealthPerLevel": 0.150
     },
         "Enemies": {
           "HealthMultiplier": 0,
-          "StaticBoost": 0.300,
+          "StaticBoost": 0.150,
           "HealthPerLevel": 0.100
     }
     },
@@ -1264,8 +1264,7 @@
   },
     "S_LOW_MurderTribunal_Sarevok_ae9f784a-ea64-4297-95a7-8377e85231b6": {
       "Passives": ["MAG_Critical_Force_Critical_Passive","Tough","Mod_MAG_DazingSmite_Passive","Mod_MAG_ZOC_AdvantageOnMeleeAttackWhileSurounded_Gloves_Passive","Mod_UNDEAD","Mod_AntiMagic_Attacks_Passive","ClarifiedMortality","Goon_Thunder_Resistant","Goon_Fire_Resistant","Goon_Bludgeoning_Resistant","Goon_Cold_Resistant","Goon_Force_Resistant","Goon_Necrotic_Resistant","Goon_Poison_Resistant","RelentlessEndurance","UndeadFortitude","MAG_ToughVestPassive","MAG_PHB_OfRegeneration_Ring_Passive","MageSlayer_BreakConcentration","Mobile_DashAcrossDifficultTerrain","SavageAttacker","MAG_ShapesifterSlayer_Passive","MAG_MonsterSlayer_Passive","ARP_SpellSlot_1_4","ARP_SpellSlot_2_3","ARP_SpellSlot_3_2","ARP_SpellSlot_4_1","InfernalHeart_Feat","InfernalHeart_Feat_One","InfernalHeart_Feat_Two","InfernalHeart_Feat_Three","InfernalHeart_Feat_Four","InfernalHeart_Feat_Unlocker","ARA_Cloak_WrathOnHit","Tough","Mobile_PassiveBonuses","Mobile_CounterAttackOfOpportunity"],
-      "Spells": ["Target_Smite_Branding","Target_Smite_Wrathful","Target_Smite_Blinding"],
-      "HealthOverride": 500
+      "Spells": ["Target_Smite_Branding","Target_Smite_Wrathful","Target_Smite_Blinding"]
   },
     "S_GLO_Orin_bf24e0ec-a3a6-4905-bd2d-45dc8edf8101": {
       "Passives": ["CX_Rogue_Boost","MAG_Critical_Force_Critical_Passive","Tough","Mod_AntiMagic_Attacks_Passive","ClarifiedMortality","UndeadFortitude","Mobile_PassiveBonuses","Mobile_CounterAttackOfOpportunity","Mobile_DashAcrossDifficultTerrain","SavageAttacker","MOO_KethericArmor","Durable","FightingStyle_TwoWeaponFighting","MAG_Frightened_Immunity_Passive","MAG_StunnImmunity_Passive","MAG_Shadow_BlindImmunity_Ring_Passive"],
@@ -1289,8 +1288,7 @@
   },
     "S_MOO_Ketheric_e9918f3e-5b87-40a3-a9bd-61545151573f": {
       "Passives": ["MAG_Myrkulites_CircletOfMyrkul_Circlet_Passive","MAG_ElementalGish_BaneOnElementalWeaponDamage_Gloves_Passive","MAG_ZOC_AdvantageOnMeleeAttackWhileSurounded_Gloves_Passive","MAG_DarkJusticiarGloves_Passive","MAG_Critical_Force_Critical_Passive","Goon_AURA_OF_HATE_Passive","Mod_MAG_LowHP_IncreaseDamagePsychic_Passive","Mod_MAG_Radiant_RadiatingOrb_OnDamage_Passive","ClarifiedMortality","Goon_Lightning_Resistant","SpellSniper_Critical","SYR_DeadlyAlacrity","DevilsSight","Tough","ARP_SpellSlot_3_1","ARP_SpellSlot_2_2","ARP_SpellSlot_1_3","ThirdEye","DevilsSight","Blindsight","MAG_Sarevok_HornedHelmet_DeathbringerSight_Passive","SavageAttacker"],
-      "Spells": ["Target_HoldPerson","Target_SleetStorm","Target_SpitefulSuffering","Target_ControlUndead","Shout_Dreadful_Aspect","Shout_HellishRebuke","Target_CrownOfMadness","Shout_Repulsor","NPC_Repulsion","NPC_ChillingDarkness"],
-      "HealthOverride": 450
+      "Spells": ["Target_HoldPerson","Target_SleetStorm","Target_SpitefulSuffering","Target_ControlUndead","Shout_Dreadful_Aspect","Shout_HellishRebuke","Target_CrownOfMadness","Shout_Repulsor","NPC_Repulsion","NPC_ChillingDarkness"]
   },
     "S_LOW_FireworksHouse_BaniteGuard01_cb956cc3-0e77-4a2b-8500-7a37486348b4": {
       "Passives": ["DEN_RaidingParty_GoblinCaptain_Gloves_Passive","MAG_ElementalGish_BaneOnElementalWeaponDamage_Gloves_Passive","DirtyFighter","PsyRiderPassive1","DarkOnesBlessing","ClarifiedMortality","extraattack_3","Goon_Thunder_Resistant","Goon_Fire_Resistant","Goon_Bludgeoning_Resistant","Goon_Cold_Resistant","Goon_Force_Resistant","Goon_Necrotic_Resistant","Goon_Poison_Resistant","Goon_Psychic_Vulnerable","ARP_SpellSlot_1_1","LOW_Chasm_Mangle_Pushback"],
@@ -1556,19 +1554,23 @@
   },
     "S_DEN_Harpy_002_12a20a1e-c588-401c-930e-e755cebf2ff5": {
       "Passives": ["Goon_Fall_Damage_Resistance","Goon_Fire_Vulnerable"],
-      "Spells": []
+      "Spells": [],
+      "HealthOverride": 20
   },
     "S_DEN_Harpy_003_8ea6f80a-65e6-44b0-a8ff-9ab5ddd4d8f3": {
       "Passives": ["Goon_Fall_Damage_Resistance","Goon_Fire_Vulnerable"],
-      "Spells": []
+      "Spells": [],
+      "HealthOverride": 20
   },
     "S_DEN_Harpy_001_9ef79b8f-b516-4a4b-8f57-e93e2a17e6f7": {
       "Passives": ["Goon_Fall_Damage_Resistance","Goon_Fire_Vulnerable"],
-      "Spells": []
+      "Spells": [],
+      "HealthOverride": 20
   },
     "S_DEN_Harpy_000_e5f24d94-a1a9-40e0-b3ee-fe0480c408d3": {
       "Passives": ["Goon_Fall_Damage_Resistance","Goon_Fire_Vulnerable"],
-      "Spells": []
+      "Spells": [],
+      "HealthOverride": 20
   },
     "S_GOB_GoblinPriestOgre_658c5f80-33ea-4f8d-bded-8ef6ac2ed511": {
       "Passives": ["MAG_Barbarian_Helmet_BoneSpike_Passive","MAG_Violence_ViolenceOnDamaged_Passive","Mod_Titans_Reach","Mod_MAG_LowHP_IncreaseDamage_Passive","Mod_RockSlinger_Cache","Mod_MAG_Violence_LowHP_Violence_Passive","Mod_MAG_Acid_AcidDamageOnWeaponAttack_Ring_Passive","ARP_Rage_1","Mod_Dazed_Attack_Passive","Mod_UND_DuergarRaft_Hammer_Passive","MultiattackDefense","TrueSoul_Feat","TrueSoul_Feat_Unlock","TrueSoul_Feat_Shield","TrueSoul_Feat_Warboard","TrueSoul_Ring","TrueSoul_Amulet","TrueSoul_Glove"],
@@ -2003,14 +2005,13 @@
   },
     "S_LOW_Viconia_b1ea974d-96fb-47ca-b6d9-9c85fcb69313": {
       "Passives": ["ARP_SpellSlot_5_2","ARP_SpellSlot_6_1","Mobile_PassiveBonuses","Mobile_DashAcrossDifficultTerrain","CX_Cleric_Boost","CX_Paladin_Boost","LOW_Chasm_Mangle_Pushback"],
-      "Spells": ["Projectile_ChillingDarkness","Projectile_MoonlightRay","Projectile_SearingLight","Projectile_DivineLance","Target_Harm","Zone_Thunderwave","NPC_Fissure"],
-      "HealthOverride": 400
+      "Spells": ["Projectile_ChillingDarkness","Projectile_MoonlightRay","Projectile_SearingLight","Projectile_DivineLance","Target_Harm","Zone_Thunderwave","NPC_Fissure"]
   },
     "S_GLO_Cazador_2f1880e6-1297-4ca3-a79c-9fabc7f179d3": {
       "Passives": ["CX_Spells_L4C","CX_Spells_L6C","CX_Spells_L7","CX_Spells_L7C","CX_Spells_L8","ARP_SpellSlot_3_3","ARP_SpellSlot_4_2","ARP_SpellSlot_5_2","ARP_SpellSlot_6_1","Mobile_PassiveBonuses","Mobile_DashAcrossDifficultTerrain","ArmyArcana","LOW_Chasm_Mangle_Pushback"],
       "Spells": ["Target_Cloudkill","Target_CircleOfDeath","Target_HypnoticPattern","Moghadam_Projectile_Disintegrate","Projectile_ChillingDarkness","Projectile_MoonlightRay","NPC_BloodFeast","NPC_EclipseBurst","NPC_Fissure"]
   },
-    "S_SHA_PUZ_SilentLibrary_Librarian_DEPRECATED_b23fc018-cffb-4ea5-8aaf-9785b2598766": {
+    "S_SHA_PUZ_SilentLibrary_Librarian_Item_8f766750-9d29-4170-b898-57b95e92e3c0": {
       "Passives": ["ARP_ActionPoint","ARP_BonusActionPoint","Goon_Radiant_Immune","MAG_Frightened_Immunity_Passive","MAG_StunnImmunity_Passive","MAG_Shadow_BlindImmunity_Ring_Passive","LOW_PHILGRAVESMANSION_CANOPICAURA_LUNGS"],
       "Spells": ["Target_LHB_SEL_Frostbite","Target_MindSliver","Target_Frostbite","Target_LightningLure","Target_TollTheDead","Zone_FrostFingers","Zone_TashasCausticBrew","Projectile_IceKnife","Zone_ArcticBreath","Shout_LuringSong_Harpy"],
       "HealthOverride": 250
@@ -2041,15 +2042,15 @@
   },
     "S_FOR_SchoolOgre1_848b6f10-3ae5-41f6-b1a1-98c34a19ba3f": {
       "Passives": ["CX_Barbarian_Boost","LOW_Chasm_Mangle_Pushback"],      
-      "Spells": ["Projectile_Jump"]
+      "Spells": []
   },
     "S_FOR_SchoolOgre2_b847c9ba-1b52-4afa-be10-accd07134245": {
       "Passives": ["CX_Barbarian_Boost","LOW_Chasm_Mangle_Pushback"],      
-      "Spells": ["Projectile_Jump"]
+      "Spells": []
   },
     "S_FOR_SchoolOgre3_62c5741f-061b-4dbc-afe6-5fd2368485ce": {
       "Passives": ["CX_Barbarian_Boost","LOW_Chasm_Mangle_Pushback"],      
-      "Spells": ["Projectile_Jump"]
+      "Spells": []
     },
 	  "S_TWN_Hospital_Surgeon_e58b8b34-038b-4858-b817-c2a8096a9381": {
 		"Passives": ["CX_Rogue_Boost","Goon_Necrotic_Resistant","Goon_Necrotic_Ignore_Resistance","Goon_Damage_Necrotic_d4_Attacks"],
