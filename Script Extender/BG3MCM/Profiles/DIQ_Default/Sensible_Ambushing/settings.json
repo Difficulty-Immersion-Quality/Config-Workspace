@@ -29,6 +29,11 @@
 	},
 	"rules" : 
 	{
+		"distance" : 
+		{
+			"SA_distance_enable" : true,
+			"SA_distance_from_combat_member" : 30
+		},
 		"sneaking" : 
 		{
 			"SA_hide_sneaking_char_ghost" : true,
