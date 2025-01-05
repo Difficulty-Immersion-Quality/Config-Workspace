@@ -1,0 +1,53 @@
+{
+	"settings" : 
+	{
+		"feats_settings" : 
+		{
+			"Feats" : "None"
+		},
+		"miscellaneous_settings" : 
+		{
+			"Sorcerer11thSubclass" : false,
+			"WizardBladesinger" : false
+		},
+		"optional_features_settings" : 
+		{
+			"Barbarian" : true,
+			"Bard" : true,
+			"Cleric" : true,
+			"Druid" : true,
+			"Fighter" : true,
+			"Monk" : true,
+			"Paladin" : true,
+			"Ranger" : true,
+			"Rogue" : true,
+			"Sorcerer" : true,
+			"Warlock" : true,
+			"Wizard" : true
+		},
+		"xp_rate_settings" : 
+		{
+			"Level1" : 1,
+			"Level10" : 20000,
+			"Level11" : 24000,
+			"Level12" : 30000,
+			"Level13" : 20000,
+			"Level14" : 25000,
+			"Level15" : 30000,
+			"Level16" : 30000,
+			"Level17" : 40000,
+			"Level18" : 40000,
+			"Level19" : 50000,
+			"Level2" : 2,
+			"Level3" : 1800,
+			"Level4" : 3800,
+			"Level5" : 6500,
+			"Level6" : 8300.0,
+			"Level7" : 9600,
+			"Level8" : 12000,
+			"Level9" : 14000,
+			"MaxLevel" : 12,
+			"MaxXP" : 420000
+		}
+	}
+}
