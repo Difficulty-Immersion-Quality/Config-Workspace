@@ -12,7 +12,7 @@
 		"general_settings" : 
 		{
 			"auto_resize_window" : false,
-			"dynamic_opacity" : true,
+			"dynamic_opacity" : false,
 			"host-only_mode" : true,
 			"open_on_start" : false,
 			"toggle_mcm_keybinding" : 
