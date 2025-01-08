@@ -410,6 +410,18 @@
 },
 "Overrides": 
 {
+  "MMM_THIEFTRIO_ccdeaaba-50e9-4e61-8f3c-912839e0a930": {
+    "Passives": ["CX_Fighter_Boost"],
+    "Spells": ["Target_PsionicPull","Target_SteelWatcher_Biped_RetrievingShot"]
+},
+  "MMM_THIEFTRIO_ab8be8db-2ad3-4a8f-819f-e58a3d1eacc5": {
+    "Passives": ["CX_Magic_Boost","CX_Rogue_Boost"],
+    "Spells": ["Target_PsionicPull"]
+},
+  "MMM_THIEFTRIO_b07175bc-6ba7-4043-a9fb-9c36b9ab3af2": {
+    "Passives": ["CX_Barbarian_Boost"],
+    "Spells": ["Target_PsionicPull","Target_SteelWatcher_Biped_RetrievingShot"]
+},
   "MMM_OOF_1119bea0-a63f-4617-99ab-7f0af17bfdf4": {
     "Passives": ["Goon_Bludgeoning_Vulnerable","Goon_Piercing_Vulnerable","Goon_Slashing_Vulnerable"],
     "Spells": [],
@@ -1060,9 +1072,9 @@
     "HealthOverride": 100
 },
   "S_FOR_Bottomless_SpiderQueen_e6b2f3ba-2d02-4507-8680-6047322e1a4b": {
-    "Passives": ["SunlightSensitivity","MAG_LowHP_IncreasedSpellDamage_Passive","Spider_Infestation","AversionOfFire","JWL_Passive_SymbolLolth","JWL_Passive_Follower_SymbolLolth","MAG_Critical_Force_Critical_Passive","Mod_FOR_SpiderQueen_Robe_Passive","Goon_Increased_Weight_Size_Scale_1","ARP_BonusActionPoint","Goon_Fall_Damage_Immunity","BlindSight","FrontFace_Shadowbound","ShadowBound_Obscurityff","ShadowBow_Feat_darkness","ShadowboundSpear_Passive","ShadowboundArmorstealthPassive","ShadowCriticalBoostWhileObscuredfeat","Shadowbound_SpellDCpassive","Shadowbound_RingOfTwilight_Passive","Goon_Target_Invisibility_Greater_Resource_5"],
-    "Spells": ["NPC_ParalyzingRay","NPC_OttoDance","NPC_MassHealingWord","NPC_Agonize","DemonEyes_Darkness","Shout_SpiritGuardians","Target_InflictWounds","Target_HealingWord","Goon_Target_Invisibility_Greater_2_Turn"],
-    "HealthOverride": 269
+    "Passives": ["SunlightSensitivity","MAG_LowHP_IncreasedSpellDamage_Passive","Spider_Infestation","AversionOfFire","JWL_Passive_SymbolLolth","JWL_Passive_Follower_SymbolLolth","MAG_Critical_Force_Critical_Passive","Mod_FOR_SpiderQueen_Robe_Passive","Goon_Increased_Weight_Size_Scale_1","ARP_BonusActionPoint","Goon_Fall_Damage_Immunity","BlindSight","Goon_Custom_Invisibility_Resource_5"],
+    "Spells": ["NPC_ParalyzingRay","NPC_Agonize","DemonEyes_Darkness","Goon_Custom_Invisibility_Spider_3_Turn"],
+    "HealthOverride": 240
 },
   "S_DEN_ShadowDruid_001_0cb92c37-fb4d-4547-8702-1fb1dd52d0b6": {
     "Passives": ["FeralInstict","MAG_ShapeshiftersBurgeon_Passive","MAG_Greenstone_Amulet_Passive","FrontFace_Shadowbound","ShadowBound_Obscurityff","ShadowBow_Feat_darkness","ShadowboundSpear_Passive","DevilsSight_Shadowbound","ShadowboundArmorstealthPassive","ShadowCriticalBoostWhileObscuredfeat","Shadowbound_SpellDCpassive","Shadowbound_RingOfTwilight_Passive"],
@@ -1780,7 +1792,7 @@
     "Spells": ["Target_MAG_Myrkulites_GhoulTouch","NPC_FleshToStone","NPC_ParalyzingRay"]
 },
   "S_HAG_Hagspawn_SurrogateMother_08c970d7-3138-45e8-8965-68eadf4b07cd": {
-    "Passives": ["Tough","GOON_MAGICALLERGY_UNLOCK","Goon_Fire_Resistant","Goon_Cold_Resistant","Goon_Psychic_Vulnerable","Goon_Slashing_Resistant","Goon_Bludgeoning_Resistant","Goon_Piercing_Resistant","Durable"],
+    "Passives": ["Tough","Goon_Fire_Resistant","Goon_Cold_Resistant","Goon_Psychic_Vulnerable","Goon_Slashing_Resistant","Goon_Bludgeoning_Resistant","Goon_Piercing_Resistant","Durable"],
     "Spells": []
 },
   "EO_GnollMelee_1_3a373420-dda8-40df-b867-de6f970011d4": {
