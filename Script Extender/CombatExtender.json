@@ -974,8 +974,8 @@
     "Spells": []
 },
   "S_TUT_Helm_MindFlayer_22a400ec-5f01-4659-82e1-aed0b203c846": {
-    "Passives": [],
-    "Spells": [],
+    "Passives": ["ARP_SpellSlot_1_3","ARP_SpellSlot_2_1"],
+    "Spells": ["Shout_Shield_Wizard","Shout_MirrorImage"],
     "HealthOverride": 169
 },
   "S_TUT_Helm_DevilBackUp_001_c6b3a323-d7cf-4b02-8a21-fefeaf3e7a0a": {
