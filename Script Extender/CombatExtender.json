@@ -410,6 +410,14 @@
 },
 "Overrides": 
 {
+  "MMM_DAWNMASTER_e4c919df-5e52-4a68-ab65-4d550debfcdb": {
+    "Passives": ["ARP_ActionPoint","CX_Cleric_Boost","CX_Paladin_Boost","CX_Magic_Boost"],
+    "Spells": []
+},
+  "MMM_OLGREGG_14541d9b-7fcc-4cd4-adde-2a36ea204163": {
+    "Passives": ["ARP_ActionPoint"],
+    "Spells": []
+},
   "SteelWatcher_Quadruped_A_26fa3fe9-608c-4113-99a6-727781351ea4": {
     "Passives": ["ARP_ActionPoint","Riposte","ARP_SuperiorityDie_5"],
     "Spells": []
