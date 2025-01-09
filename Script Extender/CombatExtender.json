@@ -479,7 +479,7 @@
     "Spells": []
 },
   "S_LOW_Elfsong_GithyankiShield_Paladin_54467aa9-33dd-41c4-bd77-87a71ed22c16": {
-    "Passives": ["ARP_ActionPoint"],
+    "Passives": ["ARP_ActionPoint","CX_Magic_Boost","CX_Paladin_Boost"],
     "Spells": []
 },
   "S_TWN_VlaakithAttack_Caster_000_e4141a02-f5e7-4a0c-a7af-d3dda6610c1b": {
