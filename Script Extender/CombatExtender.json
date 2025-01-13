@@ -106,7 +106,7 @@
 },
     "Bosses": {
       "Action": {
-        "Additional": 1
+        "Additional": 0
 },
     "BonusAction": {
         "Additional": 0
@@ -410,6 +410,30 @@
 },
 "Overrides": 
 {
+  "S_TUT_TransformChamber_DrainVictim_001_dd1d4bcf-da0e-441a-b700-7273bad6579e": {
+    "Passives": [],
+    "Spells": []
+},
+  "S_TUT_TransformChamber_DrainVictim_000_5bc43df4-6274-4b73-baed-c7f5268b2fc7": {
+    "Passives": [],
+    "Spells": []
+},
+  "S_FirstFight_Imp_Ranged_02_df44fa65-5399-47d6-b5bb-70e4b8e63314": {
+    "Passives": [],
+    "Spells": []
+},
+  "S_FirstFight_Imp_Ranged_01_38d1ce2f-4f19-4266-971d-61f08bc1a895": {
+    "Passives": [],
+    "Spells": []
+},
+  "S_FirstFight_Imp_Melee_02_5c5bd50b-147e-42e5-93cb-59a754df91ec": {
+    "Passives": [],
+    "Spells": []
+},
+  "S_FirstFight_Imp_Melee_01_07f1512b-efe9-4eb8-8ade-783435e9d7c9": {
+    "Passives": [],
+    "Spells": []
+},
   "MMM_DAWNMASTER_e4c919df-5e52-4a68-ab65-4d550debfcdb": {
     "Passives": ["ARP_ActionPoint","CX_Cleric_Boost","CX_Paladin_Boost","CX_Magic_Boost"],
     "Spells": []
@@ -455,7 +479,7 @@
     "Spells": []
 },
   "S_SCL_Drider_aa59ce01-3d2e-42e8-a539-c07e0ea292ab": {
-    "Passives": ["ARP_ActionPoint","CX_Barbarian_Boost"],
+    "Passives": ["ARP_ActionPoint","CX_Magic_Boost","CX_Fighter_Boost"],
     "Spells": []
 },
   "S_TWN_Tollhouse_TollhouseMaster_3b460226-8ca2-4bbc-9bd7-8bb947aa2c06": {
@@ -1492,8 +1516,8 @@
     "Spells": ["Projectile_Potion_Destroy_Speed"]
 },
   "S_LOW_BaneiteOfficer01_db345b42-35f7-4a31-b5f4-1c4b86ebd25c": {
-    "Passives": ["DEN_RaidingParty_GoblinCaptain_Gloves_Passive","MAG_ElementalGish_BaneOnElementalWeaponDamage_Gloves_Passive","DirtyFighter","DarkOnesBlessing","ClarifiedMortality","extraattack_3","Goon_Thunder_Resistant","Goon_Fire_Resistant","Goon_Bludgeoning_Resistant","Goon_Cold_Resistant","Goon_Force_Resistant","Goon_Necrotic_Resistant","Goon_Poison_Resistant","Goon_Psychic_Vulnerable"],
-    "Spells": ["Projectile_Potion_Destroy_Healing_Superior"]
+    "Passives": ["DEN_RaidingParty_GoblinCaptain_Gloves_Passive","MAG_ElementalGish_BaneOnElementalWeaponDamage_Gloves_Passive","DirtyFighter","DarkOnesBlessing","ClarifiedMortality","extraattack_3","Goon_Thunder_Resistant","Goon_Fire_Resistant","Goon_Bludgeoning_Resistant","Goon_Cold_Resistant","Goon_Force_Resistant","Goon_Necrotic_Resistant","Goon_Poison_Resistant","Goon_Psychic_Vulnerable","Goon_Summon_Potion_Healing_Superior_x2"],
+    "Spells": []
 },
   "S_LOW_BaneiteOfficer14_750a35b3-b0c5-4007-ae1a-4446c95a56ae": {
     "Passives": ["DEN_RaidingParty_GoblinCaptain_Gloves_Passive","MAG_ElementalGish_BaneOnElementalWeaponDamage_Gloves_Passive","DirtyFighter","Mod_AntiMagic_Attacks_Passive","DarkOnesBlessing","ClarifiedMortality","extraattack_3","Goon_Thunder_Resistant","Goon_Fire_Resistant","Goon_Bludgeoning_Resistant","Goon_Cold_Resistant","Goon_Force_Resistant","Goon_Necrotic_Resistant","Goon_Poison_Resistant","Goon_Psychic_Vulnerable"],
