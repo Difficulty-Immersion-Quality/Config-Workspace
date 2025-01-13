@@ -19,11 +19,6 @@
 				"New" : "Uncommon",
 				"Original" : "Legendary"
 			},
-			"ARM_BootsOfSpeed" : 
-			{
-				"New" : "Uncommon",
-				"Original" : "Rare"
-			},
 			"ARM_Boots_Leather_Alfira" : 
 			{
 				"New" : "Uncommon",
@@ -131,7 +126,7 @@
 			},
 			"BSM_BS_TheUnstopableWrath" : 
 			{
-				"New" : "Rare",
+				"New" : "VeryRare",
 				"Original" : "Legendary"
 			},
 			"Better_Weave_Robe" : 
@@ -529,6 +524,11 @@
 				"New" : "Legendary",
 				"Original" : "VeryRare"
 			},
+			"MAG_BBBG_LegendaryClothing" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Legendary"
+			},
 			"MAG_BG_DragonsBreath_Glaive" : 
 			{
 				"New" : "VeryRare",
@@ -542,6 +542,11 @@
 			"MAG_BG_OfDexterity_Gloves" : 
 			{
 				"New" : "Legendary",
+				"Original" : "VeryRare"
+			},
+			"MAG_BG_Sarevok_OfChaos_Greatsword" : 
+			{
+				"New" : "Rare",
 				"Original" : "VeryRare"
 			},
 			"MAG_BG_Sarevok_OfChaos_Greatsword_NoPassives" : 
@@ -1159,6 +1164,11 @@
 				"New" : "Legendary",
 				"Original" : "VeryRare"
 			},
+			"Valkrana_LimitedEditionBone" : 
+			{
+				"New" : "Legendary",
+				"Original" : "VeryRare"
+			},
 			"WI_Tablecloth_Cloak" : 
 			{
 				"New" : "Legendary",
@@ -1247,268 +1257,30 @@
 		},
 		"requiresAttunementOverrides" : 
 		{
-			"ARA_Cloak_Cleric1_2" : true,
-			"ARA_Cloak_Parry1_2" : true,
-			"ARA_Cloak_Rare_Protection" : true,
-			"ARA_Cloak_Uncommon_Barbarian_1" : true,
-			"ARA_Cloak_Uncommon_Monk_1" : true,
-			"ARA_Cloak_Uncommon_Rogue_1" : true,
-			"ARA_Cloak_VeryRare_Symbiote" : false,
-			"ARA_Cloak_Warlock1_2" : true,
-			"ARA_Cloak_Wizard1_2" : true,
-			"ARMBEALUS_AND_HRINGS" : false,
-			"ARM_Artificer_Alchemist" : false,
-			"ARM_Artificer_BattleSmith" : false,
-			"ARM_Mystic_Mastermind_Gloves" : false,
-			"ARM_Mystic_MentalExertion_Ring" : false,
-			"ARM_Mystic_PotentPsionics_Ring" : true,
-			"ARM_Mystic_PsychicRenewal_Amulet" : true,
-			"ARM_Mystic_Sadism_Ring" : true,
-			"ARM_Seasons_Boots" : false,
-			"ARM_Splint_Body_Dwarven" : true,
-			"ARM_TalismanOfJergal" : false,
-			"ATO_Pepperbox_3" : false,
-			"ATO_SCOB_Flintlock_2" : false,
-			"AWCW_Longsword_1" : true,
-			"AWCW_Shortsword_2" : true,
-			"BB_DisplacedHunter" : false,
-			"BB_LoyalSpiritWhistle" : false,
-			"BB_PreciseStrike" : true,
-			"BSM_BS_TheBerserkerPact" : true,
-			"BSM_BS_TheOniSkin" : false,
-			"CSS_HelmStatue_Longsword" : false,
-			"CSS_Lathander_Circ_Band_A" : false,
-			"CSS_Lathander_DarkUrge_Cloak" : false,
-			"CSS_Lathander_Ring_Topaz" : true,
-			"CSS_Lathander_VineCircletM" : false,
-			"CSS_Shield_LathanderCircle_Enamel" : true,
-			"CUST_Amulet_Minotaur" : false,
-			"CUST_Armor_HealAndCleanse_RadiantExplosion" : true,
-			"CUST_Armor_High_Spellcasting" : false,
-			"CUST_Armor_Light_Sanctuary" : false,
-			"CUST_Armor_Sneak_Attacks" : false,
-			"CUST_Cloak_Hitpoints" : true,
-			"CUST_Glaive_Repel" : false,
-			"CUST_Gloves_Medium" : true,
-			"CUST_Hat_Smites" : false,
-			"CUST_HeavyCrossbow_Sniper" : false,
-			"CUST_Longbow_Stealth" : false,
-			"CUST_Mace_See_Invisibility" : false,
-			"CUST_Maul_Lightning" : false,
-			"CUST_Ring_MageAndWarrior" : false,
-			"CUST_Shoes_Light" : true,
-			"CUST_Trident_Sneaky" : true,
-			"ClericEquipmentAct1_Censer_of_Forgotten_Prayers" : true,
-			"ClericEquipmentAct2_LifeWeaver_Crossbow" : false,
-			"ClericEquipmentAct2_Shield_of_the_Azure_Star" : true,
-			"ClericEquipmentAct2_Staff_of_Resurrection" : false,
-			"ClericEquipmentAct2_Symbol_of_Hope" : false,
-			"ClericEquipmentAct3_Boots_of_the_Blessed_Step" : false,
-			"ClericEquipmentAct3_Shield_of_the_Zealous" : false,
-			"DEN_FaithwardenStaff" : false,
-			"DEN_HellridersPride" : true,
-			"DeGreaser_Adamantine_String_Bow" : false,
-			"DeGreaser_Breath_of_Yaccocmuud" : false,
-			"DeGreaser_Demon_Eyes_Halberd" : false,
-			"DeGreaser_Devilstring_Bow" : false,
-			"DeGreaser_Durkons_Hammer" : false,
-			"DeGreaser_Flamepearls_Vorpal_Greataxe" : false,
-			"DeGreaser_Jarlaxles_Piwafwa" : false,
-			"DeGreaser_Moghadam" : false,
-			"DeGreaser_Necrotic_Conduit" : false,
-			"DeGreaser_Rolans_Stolen_Spellbook" : false,
-			"DeGreaser_Yaccocmuuds_Yang" : true,
-			"DruidEquipmentAct2_Barnacle_Bulwark" : false,
-			"DruidEquipmentAct2_Blightwood_Embrace" : true,
-			"DruidEquipmentAct2_Briarwood_Cuirass" : false,
-			"DruidEquipmentAct3_Breastplate_of_the_Frenzied_Beast" : false,
-			"DruidEquipmentAct3_Cowl_of_Decaying_Touch" : false,
-			"END_Emperor_Staff" : true,
-			"EO_AcidDamageOnWeaponAttack_Ring" : false,
-			"EO_BeholderEye_Amulet" : false,
-			"EO_BlightBringer_Shortbow" : false,
-			"EO_MAG_SkullLords_Quarterstaff" : false,
-			"EO_Monk_Gloves" : true,
-			"EO_Robe_FlameWeave" : false,
-			"EO_Sickle_NightwalkersClaw" : false,
-			"EO_SpellSlotRestoration_Amulet" : false,
-			"EO_Tidecaller_Ring" : false,
-			"ETH_KethericBoots" : false,
-			"Eladrin_Bow" : false,
-			"FOR_NightWalkers" : false,
-			"FOR_OgresForHire_HeadbandOfIntellect" : true,
-			"GotA_Equipment_Absolutes_Benediction" : false,
-			"GotA_Equipment_Absolutes_Courage" : false,
-			"GotA_Equipment_Absolutes_Dominion" : false,
-			"GotA_Equipment_Absolutes_Judgment" : false,
-			"GotA_Equipment_Absolutes_Resonance" : false,
-			"GotA_Equipment_Absolutes_Trickery" : false,
-			"GotA_Equipment_The_Absolutes_Hex" : false,
-			"GotA_Equipment_The_Absolutes_Rage" : false,
-			"GotA_Equipment_The_Absolutes_Spark" : false,
-			"GotA_Equipment_Whispers_of_the_Absolute" : false,
-			"HUM_M_ARM_Bard_Gloves" : false,
-			"JWL_DiscordantInstruments_BagHolding" : false,
-			"JWL_DiscordantInstruments_BannerMourningsteel" : true,
-			"JWL_DiscordantInstruments_BloodwellCorrupted" : true,
-			"JWL_DiscordantInstruments_BloodwellGoblin" : true,
-			"JWL_DiscordantInstruments_EndlessMead" : true,
-			"JWL_DiscordantInstruments_HandyHaversack" : false,
-			"JWL_DiscordantInstruments_MourningsteelCoin" : true,
-			"JWL_DiscordantInstruments_QuiverBrambleheart" : true,
-			"JWL_DiscordantInstruments_TotemDread" : true,
-			"JWL_DiscordantInstruments_WeaponStrap" : true,
-			"LOW_OrphicHammer" : false,
-			"MAG_Acid_AcidDamageOnWeaponAttack_Ring" : false,
-			"MAG_Acid_AcidMeleeCounter_Cloak" : true,
-			"MAG_ArcaneAbsorption_Dagger" : false,
-			"MAG_BBB_ScarLetterReforged" : false,
-			"MAG_BG_Gargoyle_Boots" : false,
-			"MAG_BG_OfDevotion_Shield" : false,
-			"MAG_BG_Sarevok_OfChaos_Greatsword_NoPassives" : false,
-			"MAG_Banites_Gloves" : true,
-			"MAG_BarbMonk_Cloth_B_1" : false,
-			"MAG_BarbMonk_Cloth_Hat_A_1_Late" : true,
-			"MAG_Barbarian_BoneSpike_Helmet" : false,
-			"MAG_Barbarian_Magic_Armor_1" : true,
-			"MAG_Bard_HealingBardicInspiration_Hat" : true,
-			"MAG_BonusAttack_AgainstMarked_Circlet" : false,
-			"MAG_ChargedLightning_Longbow" : true,
-			"MAG_ChargedLightning_Quarterstaff" : true,
-			"MAG_Colossal_Greatsword_ABW" : false,
-			"MAG_Critical_BolsteringCritical_Armor" : true,
-			"MAG_Druid_Late_Hide_Armor_2" : false,
-			"MAG_Druid_Wildshape_Hat" : false,
-			"MAG_EGW_OfTheDrunkard_Amulet" : true,
-			"MAG_ElementalGish_CantripBooster_Amulet" : true,
-			"MAG_EndGame_StuddedLeather_Armor" : false,
-			"MAG_Fire_AlwaysDippedInFire_Greatsword" : true,
-			"MAG_Fire_BonusActionOnFireSpell_Circlet" : false,
-			"MAG_Gish_ArcaneSynergy_Circlet" : true,
-			"MAG_Gish_ArcaneSynergy_Ring" : true,
-			"MAG_Gish_WeaknessBranding_Amulet" : true,
-			"MAG_Githborn_PsionicMovement_Boots" : false,
-			"MAG_Harpers_JhannylGloves" : true,
-			"MAG_Healer_TempHPOnHeal_Boots" : true,
-			"MAG_Illithid_Carapace_Gloves" : true,
-			"MAG_Infernal_Metal_Helmet" : false,
-			"MAG_Invisible_Pike" : true,
-			"MAG_Justiciar_Scimitar" : false,
-			"MAG_Kuotoa_Lightning_Spear" : false,
-			"MAG_LC_Jannath_Hat" : false,
-			"MAG_LC_Nymph_Cloak" : false,
-			"MAG_LC_Umberlee_Regeneration_Robe" : false,
-			"MAG_Lesser_Infernal_Plate_Armor" : false,
-			"MAG_Mesmerist_Ring_Adamant" : true,
-			"MAG_Mesmerist_Ring_Valiant" : true,
-			"MAG_Mesmerist_WatcherDiadem" : true,
-			"MAG_Monk_Cold_Gloves" : true,
-			"MAG_Monk_Fire_Gloves" : true,
-			"MAG_Monk_Lightning_Gloves" : true,
-			"MAG_Monk_Magic_Boots" : true,
-			"MAG_Monk_Magic_Gloves" : true,
-			"MAG_Monk_SoulRejunevation_Armor" : false,
-			"MAG_Monk_Thunder_Gloves" : true,
-			"MAG_Myrkulites_CircletOfMyrkul_Circlet" : true,
-			"MAG_OfFeywildSparks_Ring" : false,
-			"MAG_OfSpellPower_Quarterstaff" : false,
-			"MAG_OfTheDuelist_Gloves" : true,
-			"MAG_OpenHand_Radiant_Gloves" : true,
-			"MAG_Orthon_Hellfire_HandCrossbow" : false,
-			"MAG_PHB_CloakOfDisplacement_Cloak" : true,
-			"MAG_PHB_DwarvenThrower_Warhammer" : false,
-			"MAG_PHB_OfLifestealing_Shortsword" : false,
-			"MAG_PHB_OfSpeed_Scimitar" : false,
-			"MAG_PHB_PeriaptofWoundClosure_Amulet" : true,
-			"MAG_PHB_Ring_Of_Protection" : true,
-			"MAG_PHB_Sentinel_Shield" : true,
-			"MAG_ParalyzingRay_Ring" : false,
-			"MAG_PoR_OfVigilance_Halberd" : false,
-			"MAG_Primeval_Silver_Longsword" : false,
-			"MAG_RadiantLight_Morningstar" : false,
-			"MAG_Radiant_CrusaderMantle_Cloak" : false,
-			"MAG_Radiant_DamageBonusOnIlluminatedTarget_Ring" : true,
-			"MAG_SHA_SeluneBlessing_Spear" : false,
-			"MAG_SHA_SharBlessing_Spear" : false,
-			"MAG_Taras_Collar_Amulet" : false,
-			"MAG_TheChromatic_Staff" : false,
-			"MAG_TheDestroyer_Maul" : false,
-			"MAG_Thunder_ReverberationOnRangeSpellDamage_Amulet" : true,
-			"MAG_Vampiric_Gloves" : false,
-			"MAG_Vicious_Battleaxe" : true,
-			"MAG_Vicious_Shortbow" : true,
-			"MAG_Vicious_Shortsword" : true,
-			"MAG_Warlock_Quickened_Gloves" : false,
-			"MOD_CorellonsWrath_Splint" : false,
-			"MOD_MAG_IceCube_Javelin" : false,
-			"MOD_Matalotok" : false,
-			"MOD_Meph_Ranseur" : false,
-			"MOD_Zariel_Flail" : false,
-			"MonkEquipmentAct1_Gloves_of_the_Striking_Vine" : true,
-			"MonkEquipmentAct3_Staff_of_Striking" : false,
-			"Ninjoma_CloakMassCureWounds_VeryRare" : false,
-			"Ninjoma_DefendersShield_VeryRare" : false,
-			"Ninjoma_HandCrossbowViciousCritical_VeryRare" : false,
-			"Ninjoma_MediumCasterArmor_VeryRare" : false,
-			"Ninjoma_ZeusShortBow_Rare" : true,
-			"ORI_Wyll_Infernal_Robe" : false,
-			"PP_Warlock_Equipment_Band_of_the_Shifting_Sands" : true,
-			"PP_Warlock_Equipment_Bloodstone_Ring" : true,
-			"PP_Warlock_Equipment_Boots_of_the_Devouring_Void" : false,
-			"PP_Warlock_Equipment_Gloves_of_the_Pact_Weaver" : true,
-			"PP_Warlock_Equipment_Shortbow_of_the_Pact_Keeper" : true,
-			"PP_Warlock_Equipment_Soulfire_Shroud" : false,
-			"Planetar_Blade" : false,
-			"REPLICA_Flying_Boots" : false,
-			"REPLICA_OfUndeadServant_Ring" : false,
-			"RangerEquipmentAIO_Deadeyes_Breastplate" : true,
-			"RangerEquipmentAIO_Feral_Companions_Call" : false,
-			"RangerEquipmentAIO_Ring_of_the_Primal_Hunter" : true,
-			"RatcatcherFlute" : false,
-			"SEM_Item_MonkeysPawSweater" : true,
-			"SOF_Goggles_Neck" : true,
-			"SS_Bard_Equipment_Boots_of_the_Quickblade" : false,
-			"SS_Bard_Equipment_Cape_of_the_Swift_Blade" : true,
-			"SS_Bard_Equipment_Hat_of_Persuasion" : true,
-			"SS_Bard_Equipment_Lyre_of_the_Wanderer" : false,
-			"SS_Bard_Equipment_The_Luck_Blade" : false,
-			"SS_Bard_Equipment_Tunic_of_Spectral_Shift" : false,
-			"StudyGuide_Counterspell" : false,
-			"StudyGuide_Healer1" : true,
-			"StudyGuide_Slot_2" : true,
-			"Template_MAG_Paitm_DakZerthBlade" : false,
-			"UND_SocietyOfBrilliance_MagicMissileNecklace" : true,
-			"UNI_ARM_OfArchery_Gloves" : true,
-			"UNI_ARM_OfDefense_Gloves" : true,
-			"UNI_ARM_Sarevok_Armor" : false,
-			"UNI_ArtificerHammer_Leg" : false,
-			"UNI_DarkUrge_Bhaal_Cloak" : true,
-			"UNI_LOW_FalataericCliLyre" : false,
-			"VV_Rogue_Equipment_Amulet_of_the_Cornered_Rat" : true,
-			"VV_Rogue_Equipment_Bloodletters_Band" : true,
-			"VV_Rogue_Equipment_Ring_of_the_Assassins_Mark" : false,
-			"VV_Rogue_Equipment_Ring_of_the_Nightwhisper" : true,
-			"VV_Rogue_Equipment_The_Shadowdancers_Boots" : false,
-			"WI_Absolute_Cloak" : true,
-			"WPN_Artificer_Rifle_1" : false,
-			"WPN_Artillerist_Eldritch_Cannon_2h" : false,
-			"WPN_Mystic_EruditeSpear" : true,
-			"WPN_Mystic_SoulKnife_UltimateDagger_Right" : false,
-			"WPN_Mystic_SoulKnife_UltimateHandaxe_Left" : false,
-			"WPN_Mystic_SoulKnife_UltimateScimitar_Left" : false,
-			"WPN_Mystic_SoulKnife_UltimateWarhammer_Left" : false,
-			"WPN_Mystic_WanderersBow" : true,
-			"WPN_Paitm_ElectrifiedMancatcher_Template" : false,
-			"WPN_Paitm_HavocHammer_Template" : false,
-			"WW_Wizard_Equipment_Band_of_Minor_Arcana" : true,
-			"WW_Wizard_Equipment_Boots_of_the_Icy_Blink" : false,
-			"WW_Wizard_Equipment_Boots_of_the_Shifting_Elements" : false,
-			"WW_Wizard_Equipment_Robe_of_the_Crimson_Conduit" : false,
-			"WW_Wizard_Equipment_Shroud_of_the_Shadow_Weaver" : false,
-			"WW_Wizard_Equipment_Spell_Bottle" : false,
-			"_ARA_Cloak_Rare_Reeling" : true,
-			"_ARA_Cloak_Uncommon_Sorcerer_1" : true,
-			"_ARA_Cloak_VeryRare_Eldritch" : false
+			"EW_OB_Cloak_VeryRare_A" : true,
+			"JWL_DEN_CapturedGoblin_MurderDagger_UP3" : true,
+			"JWL_MAG_Colossal_Greatsword_UP1" : true,
+			"JWL_MAG_Corrosive_Flail_UP2" : true,
+			"JWL_MAG_SWA_Roaring_Maul_UP1" : true,
+			"JWL_UND_Nere_Sword_UP3" : true,
+			"LOW_OskarsBeloved_TorchOfTrueRevocation" : true,
+			"MAG_Cleric_Devotees_Mace" : true,
+			"MAG_Finesse_Glaive" : true,
+			"MAG_SpiritualStand_Greataxe" : true,
+			"MAG_TheDueller_Rapier" : true,
+			"MAG_Weapon103" : true,
+			"MAG_Weapon40" : true,
+			"MAG_Weapon41" : true,
+			"MOD_Matalotok" : true,
+			"MOD_Meph_Ranseur" : true,
+			"MOD_Zariel_Flail" : true,
+			"Planetar_Blade" : true,
+			"UNI_SickleOfBOOOAL" : true,
+			"WPN_Artificer_Rifle_1" : true,
+			"WPN_Djinni_Scimitar_Circus" : true,
+			"WPN_Paitm_BurnishedBlade_Template" : true,
+			"WPN_Paitm_EnervatingTrident_Template" : true,
+			"WPN_Paitm_HarmoniumBlade_Template" : true
 		}
 	},
 	"rules" : 
@@ -1531,169 +1303,9 @@
 				{
 					"Legendary" : 
 					{
-						"Accessories" : 1,
-						"Armor" : 1,
-						"Total" : 3,
-						"Weapons" : 1
-					},
-					"Rare" : 
-					{
 						"Accessories" : 4,
 						"Armor" : 5,
 						"Total" : 13,
-						"Weapons" : 4
-					},
-					"Uncommon" : 
-					{
-						"Accessories" : 4,
-						"Armor" : 5,
-						"Total" : 13,
-						"Weapons" : 4
-					},
-					"VeryRare" : 
-					{
-						"Accessories" : 4,
-						"Armor" : 5,
-						"Total" : 13,
-						"Weapons" : 4
-					}
-				},
-				"totalAttunementLimit" : 8
-			},
-			"EASY" : 
-			{
-				"rarityGuiDisplay" : 
-				{
-					"resource" : false,
-					"statusOnLimit" : true
-				},
-				"rarityLimits" : 
-				{
-					"Legendary" : 
-					{
-						"Accessories" : 1,
-						"Armor" : 1,
-						"Total" : 3,
-						"Weapons" : 1
-					},
-					"Rare" : 
-					{
-						"Accessories" : 4,
-						"Armor" : 5,
-						"Total" : 13,
-						"Weapons" : 4
-					},
-					"Uncommon" : 
-					{
-						"Accessories" : 4,
-						"Armor" : 5,
-						"Total" : 13,
-						"Weapons" : 4
-					},
-					"VeryRare" : 
-					{
-						"Accessories" : 4,
-						"Armor" : 5,
-						"Total" : 13,
-						"Weapons" : 4
-					}
-				},
-				"totalAttunementLimit" : 8
-			},
-			"HARD" : 
-			{
-				"rarityGuiDisplay" : 
-				{
-					"resource" : false,
-					"statusOnLimit" : true
-				},
-				"rarityLimits" : 
-				{
-					"Legendary" : 
-					{
-						"Accessories" : 1,
-						"Armor" : 1,
-						"Total" : 3,
-						"Weapons" : 1
-					},
-					"Rare" : 
-					{
-						"Accessories" : 4,
-						"Armor" : 5,
-						"Total" : 13,
-						"Weapons" : 4
-					},
-					"Uncommon" : 
-					{
-						"Accessories" : 4,
-						"Armor" : 5,
-						"Total" : 13,
-						"Weapons" : 4
-					},
-					"VeryRare" : 
-					{
-						"Accessories" : 4,
-						"Armor" : 5,
-						"Total" : 13,
-						"Weapons" : 4
-					}
-				},
-				"totalAttunementLimit" : 8
-			},
-			"HONOUR" : 
-			{
-				"rarityGuiDisplay" : 
-				{
-					"resource" : false,
-					"statusOnLimit" : true
-				},
-				"rarityLimits" : 
-				{
-					"Legendary" : 
-					{
-						"Accessories" : 1,
-						"Armor" : 1,
-						"Total" : 3,
-						"Weapons" : 1
-					},
-					"Rare" : 
-					{
-						"Accessories" : 4,
-						"Armor" : 5,
-						"Total" : 13,
-						"Weapons" : 4
-					},
-					"Uncommon" : 
-					{
-						"Accessories" : 4,
-						"Armor" : 5,
-						"Total" : 13,
-						"Weapons" : 4
-					},
-					"VeryRare" : 
-					{
-						"Accessories" : 4,
-						"Armor" : 5,
-						"Total" : 13,
-						"Weapons" : 4
-					}
-				},
-				"totalAttunementLimit" : 8
-			},
-			"MEDIUM" : 
-			{
-				"rarityGuiDisplay" : 
-				{
-					"resource" : false,
-					"statusOnLimit" : true
-				},
-				"rarityLimits" : 
-				{
-					"Legendary" : 
-					{
-						"Accessories" : 1,
-						"Armor" : 1,
-						"Total" : 3,
 						"Weapons" : 1
 					},
 					"Rare" : 
