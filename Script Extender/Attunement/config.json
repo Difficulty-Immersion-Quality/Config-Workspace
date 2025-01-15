@@ -304,6 +304,11 @@
 				"New" : "Rare",
 				"Original" : "Uncommon"
 			},
+			"DW_Steangun_Base_A" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Uncommon"
+			},
 			"DeGreaser_Adamantine_String_Bow" : 
 			{
 				"New" : "Legendary",
@@ -499,6 +504,26 @@
 				"New" : "Rare",
 				"Original" : "VeryRare"
 			},
+			"JWL_MAG_MeleeDebuff_AttackDebuff12versatile_OnDamage_Longsword_UP2" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Legendary"
+			},
+			"JWL_MAG_MeleeDebuff_AttackDebuff1_OnDamage_Scimitar_UP2" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Legendary"
+			},
+			"LHB_GR_AdamantineHeavyCrossbow" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Rare"
+			},
+			"LHB_GR_AdamantineMaul" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Rare"
+			},
 			"LOW_OfWindrider_Amulet" : 
 			{
 				"New" : "Rare",
@@ -523,11 +548,6 @@
 			{
 				"New" : "Legendary",
 				"Original" : "VeryRare"
-			},
-			"MAG_BBBG_LegendaryClothing" : 
-			{
-				"New" : "VeryRare",
-				"Original" : "Legendary"
 			},
 			"MAG_BG_DragonsBreath_Glaive" : 
 			{
@@ -743,6 +763,11 @@
 			{
 				"New" : "Rare",
 				"Original" : "VeryRare"
+			},
+			"MAG_MeleeDebuff_AttackDebuff1_OnDamage_Shield" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Rare"
 			},
 			"MAG_MeleeDebuff_AttackDebuff2_OnDamage_SplintMail" : 
 			{
@@ -1261,16 +1286,20 @@
 			"JWL_DEN_CapturedGoblin_MurderDagger_UP3" : true,
 			"JWL_MAG_Colossal_Greatsword_UP1" : true,
 			"JWL_MAG_Corrosive_Flail_UP2" : true,
+			"JWL_MAG_Finesse_Glaive_UP1" : true,
 			"JWL_MAG_SWA_Roaring_Maul_UP1" : true,
 			"JWL_UND_Nere_Sword_UP3" : true,
+			"LOW_OskarsBeloved_TorchOfRevocation" : true,
 			"LOW_OskarsBeloved_TorchOfTrueRevocation" : true,
 			"MAG_Cleric_Devotees_Mace" : true,
+			"MAG_Colossal_Greatsword_ABW" : true,
 			"MAG_Finesse_Glaive" : true,
 			"MAG_SpiritualStand_Greataxe" : true,
 			"MAG_TheDueller_Rapier" : true,
 			"MAG_Weapon103" : true,
 			"MAG_Weapon40" : true,
 			"MAG_Weapon41" : true,
+			"MOD_IrenicusMace" : true,
 			"MOD_Matalotok" : true,
 			"MOD_Meph_Ranseur" : true,
 			"MOD_Zariel_Flail" : true,
@@ -1306,7 +1335,7 @@
 						"Accessories" : 4,
 						"Armor" : 5,
 						"Total" : 13,
-						"Weapons" : 1
+						"Weapons" : 4
 					},
 					"Rare" : 
 					{
