@@ -1,0 +1,126 @@
+{
+	"avatar_settings" : 
+	{
+		"avatar_settings_section" : 
+		{
+			"avatar_sleeps_barefoot" : true,
+			"avatar_sleeps_without_clothes" : false
+		}
+	},
+	"companion_settings" : 
+	{
+		"astarion_settings" : 
+		{
+			"c7c13742-bacd-460a-8f65-f864fe41f255_sleeps_barefoot" : true,
+			"c7c13742-bacd-460a-8f65-f864fe41f255_sleeps_without_clothes" : false
+		},
+		"gale_settings" : 
+		{
+			"ad9af97d-75da-406a-ae13-7071c563f604_sleeps_barefoot" : true,
+			"ad9af97d-75da-406a-ae13-7071c563f604_sleeps_without_clothes" : false
+		},
+		"halsin_settings" : 
+		{
+			"1a3d9848-f86e-4f4c-bba5-125ab605c69e_sleeps_barefoot" : true,
+			"1a3d9848-f86e-4f4c-bba5-125ab605c69e_sleeps_without_clothes" : false
+		},
+		"jaheira_settings" : 
+		{
+			"91b6b200-7d00-4d62-8dc9-99e8339dfa1a_sleeps_barefoot" : true,
+			"91b6b200-7d00-4d62-8dc9-99e8339dfa1a_sleeps_without_clothes" : false
+		},
+		"karlach_settings" : 
+		{
+			"2c76687d-93a2-477b-8b18-8a14b549304c_sleeps_barefoot" : true,
+			"2c76687d-93a2-477b-8b18-8a14b549304c_sleeps_without_clothes" : false
+		},
+		"laezel_settings" : 
+		{
+			"58a69333-40bf-8358-1d17-fff240d7fb12_sleeps_barefoot" : true,
+			"58a69333-40bf-8358-1d17-fff240d7fb12_sleeps_without_clothes" : false
+		},
+		"minsc_settings" : 
+		{
+			"0de603c5-42e2-4811-9dad-f652de080eba_sleeps_barefoot" : true,
+			"0de603c5-42e2-4811-9dad-f652de080eba_sleeps_without_clothes" : false
+		},
+		"minthara_settings" : 
+		{
+			"25721313-0c15-4935-8176-9f134385451b_sleeps_barefoot" : true,
+			"25721313-0c15-4935-8176-9f134385451b_sleeps_without_clothes" : false
+		},
+		"shadowheart_settings" : 
+		{
+			"3ed74f06-3c60-42dc-83f6-f034cb47c679_sleeps_barefoot" : true,
+			"3ed74f06-3c60-42dc-83f6-f034cb47c679_sleeps_without_clothes" : false
+		},
+		"wyll_settings" : 
+		{
+			"c774d764-4a17-48dc-b470-32ace9ce447d_sleeps_barefoot" : true,
+			"c774d764-4a17-48dc-b470-32ace9ce447d_sleeps_without_clothes" : false
+		}
+	},
+	"mercenaries_settings" : 
+	{
+		"brinna_settings" : 
+		{
+			"4d3c9cb3-ca34-46ba-9c81-44081270bfde_sleeps_barefoot" : true,
+			"4d3c9cb3-ca34-46ba-9c81-44081270bfde_sleeps_without_clothes" : false
+		},
+		"danton_settings" : 
+		{
+			"49f522f8-9ac9-431e-ab39-a45e38e222c2_sleeps_barefoot" : true,
+			"49f522f8-9ac9-431e-ab39-a45e38e222c2_sleeps_without_clothes" : false
+		},
+		"eldra_settings" : 
+		{
+			"7bed07ee-d1db-498d-bbfd-600ddf04676e_sleeps_barefoot" : true,
+			"7bed07ee-d1db-498d-bbfd-600ddf04676e_sleeps_without_clothes" : false
+		},
+		"jacelyn_settings" : 
+		{
+			"097aa418-eda5-47f9-867f-29a4339be03e_sleeps_barefoot" : true,
+			"097aa418-eda5-47f9-867f-29a4339be03e_sleeps_without_clothes" : false
+		},
+		"kerz_settings" : 
+		{
+			"244e782b-a99c-444a-bd8d-d356c26c2902_sleeps_barefoot" : true,
+			"244e782b-a99c-444a-bd8d-d356c26c2902_sleeps_without_clothes" : false
+		},
+		"kreederryck_settings" : 
+		{
+			"ee3f1f8d-f2d1-43f2-aba0-72cacafce03c_sleeps_barefoot" : true,
+			"ee3f1f8d-f2d1-43f2-aba0-72cacafce03c_sleeps_without_clothes" : false
+		},
+		"maddaladeadeye_settings" : 
+		{
+			"e4818484-7ee4-466b-82b3-60bbd7b2ff8f_sleeps_barefoot" : true,
+			"e4818484-7ee4-466b-82b3-60bbd7b2ff8f_sleeps_without_clothes" : false
+		},
+		"sinazith_settings" : 
+		{
+			"0b149cab-4438-467a-953d-8697535b953d_sleeps_barefoot" : true,
+			"0b149cab-4438-467a-953d-8697535b953d_sleeps_without_clothes" : false
+		},
+		"sirfuzzalump_settings" : 
+		{
+			"2c8c93f0-898b-42d6-b2ca-cf4922852632_sleeps_barefoot" : true,
+			"2c8c93f0-898b-42d6-b2ca-cf4922852632_sleeps_without_clothes" : false
+		},
+		"varannasunblossom_settings" : 
+		{
+			"d61d12ad-dc80-4805-8c6e-fb876da196cd_sleeps_barefoot" : true,
+			"d61d12ad-dc80-4805-8c6e-fb876da196cd_sleeps_without_clothes" : false
+		},
+		"veryllwenkiir_settings" : 
+		{
+			"0488a406-402c-4bd1-ba38-63b28c112d8d_sleeps_barefoot" : true,
+			"0488a406-402c-4bd1-ba38-63b28c112d8d_sleeps_without_clothes" : false
+		},
+		"zenithfeursel_settings" : 
+		{
+			"12e541ac-1eb3-4b8c-a8b8-95263e30b217_sleeps_barefoot" : true,
+			"12e541ac-1eb3-4b8c-a8b8-95263e30b217_sleeps_without_clothes" : false
+		}
+	}
+}
