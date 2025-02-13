@@ -35673,37 +35673,38 @@
 					"GOON_GREATER_RESTORATION_INJURY_REMOVAL" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"difficulty_class" : 15,
+						"stacks_to_remove" : 2
 					},
-					"GOON_HEALING_INJURY_REMOVAL" : 
+					"GOON_GRIT_GLORY_LONG_REST_TRACKER_BLINDNESS_14" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"difficulty_class" : 15,
+						"stacks_to_remove" : 2
 					},
 					"GOON_HEAL_INJURY_REMOVAL" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"difficulty_class" : 15,
+						"stacks_to_remove" : 2
 					},
 					"GOON_INJURY_KIT_INJURY_REMOVAL" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
-					},
-					"GOON_LESSER_RESTORATION_INJURY_REMOVAL" : 
-					{
-						"ability" : "No Save",
-						"difficulty_class" : 15
+						"difficulty_class" : 15,
+						"stacks_to_remove" : 2
 					},
 					"GOON_REGENERATE_INJURY_REMOVAL" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"difficulty_class" : 15,
+						"stacks_to_remove" : 2
 					},
 					"TUT_RESTORATION" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"difficulty_class" : 15,
+						"stacks_to_remove" : 2
 					}
 				},
 				"severity" : "High"
@@ -36127,37 +36128,38 @@
 					"GOON_GREATER_RESTORATION_INJURY_REMOVAL" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"difficulty_class" : 15,
+						"stacks_to_remove" : 2
 					},
-					"GOON_HEALING_INJURY_REMOVAL" : 
+					"GOON_GRIT_GLORY_LONG_REST_TRACKER_DEAFNESS_14" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"difficulty_class" : 15,
+						"stacks_to_remove" : 2
 					},
 					"GOON_HEAL_INJURY_REMOVAL" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"difficulty_class" : 15,
+						"stacks_to_remove" : 2
 					},
 					"GOON_INJURY_KIT_INJURY_REMOVAL" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
-					},
-					"GOON_LESSER_RESTORATION_INJURY_REMOVAL" : 
-					{
-						"ability" : "No Save",
-						"difficulty_class" : 15
+						"difficulty_class" : 15,
+						"stacks_to_remove" : 2
 					},
 					"GOON_REGENERATE_INJURY_REMOVAL" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"difficulty_class" : 15,
+						"stacks_to_remove" : 2
 					},
 					"TUT_RESTORATION" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"difficulty_class" : 15,
+						"stacks_to_remove" : 2
 					}
 				},
 				"severity" : "High"
@@ -36384,6 +36386,11 @@
 						"ability" : "No Save",
 						"difficulty_class" : 15
 					},
+					"GOON_GRIT_GLORY_LONG_REST_TRACKER_FIRST_DEGREE_BURNS_3" : 
+					{
+						"ability" : "No Save",
+						"difficulty_class" : 15
+					},
 					"GOON_HEALING_INJURY_REMOVAL" : 
 					{
 						"ability" : "No Save",
@@ -36500,37 +36507,38 @@
 					"GOON_GREATER_RESTORATION_INJURY_REMOVAL" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"difficulty_class" : 15,
+						"stacks_to_remove" : 4
 					},
-					"GOON_HEALING_INJURY_REMOVAL" : 
+					"GOON_GRIT_GLORY_LONG_REST_TRACKER_FOURTH_DEGREE_BURNS_14" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"difficulty_class" : 15,
+						"stacks_to_remove" : 4
 					},
 					"GOON_HEAL_INJURY_REMOVAL" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"difficulty_class" : 15,
+						"stacks_to_remove" : 4
 					},
 					"GOON_INJURY_KIT_INJURY_REMOVAL" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
-					},
-					"GOON_LESSER_RESTORATION_INJURY_REMOVAL" : 
-					{
-						"ability" : "No Save",
-						"difficulty_class" : 15
+						"difficulty_class" : 15,
+						"stacks_to_remove" : 4
 					},
 					"GOON_REGENERATE_INJURY_REMOVAL" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"difficulty_class" : 15,
+						"stacks_to_remove" : 4
 					},
 					"TUT_RESTORATION" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"difficulty_class" : 15,
+						"stacks_to_remove" : 4
 					}
 				},
 				"severity" : "High"
@@ -36677,37 +36685,44 @@
 					"GOON_GREATER_RESTORATION_INJURY_REMOVAL" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"difficulty_class" : 15,
+						"stacks_to_remove" : 2
 					},
-					"GOON_HEALING_INJURY_REMOVAL" : 
+					"GOON_GRIT_GLORY_LONG_REST_TRACKER_HORRIBLE_DISFIGUREMENT_7" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"difficulty_class" : 15,
+						"stacks_to_remove" : 2
 					},
 					"GOON_HEAL_INJURY_REMOVAL" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"difficulty_class" : 15,
+						"stacks_to_remove" : 2
 					},
 					"GOON_INJURY_KIT_INJURY_REMOVAL" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"difficulty_class" : 15,
+						"stacks_to_remove" : 2
 					},
 					"GOON_LESSER_RESTORATION_INJURY_REMOVAL" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"difficulty_class" : 15,
+						"stacks_to_remove" : 2
 					},
 					"GOON_REGENERATE_INJURY_REMOVAL" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"difficulty_class" : 15,
+						"stacks_to_remove" : 2
 					},
 					"TUT_RESTORATION" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"difficulty_class" : 15,
+						"stacks_to_remove" : 2
 					}
 				},
 				"severity" : "Medium"
@@ -36893,37 +36908,44 @@
 					"GOON_GREATER_RESTORATION_INJURY_REMOVAL" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"difficulty_class" : 15,
+						"stacks_to_remove" : 2
 					},
-					"GOON_HEALING_INJURY_REMOVAL" : 
+					"GOON_GRIT_GLORY_LONG_REST_TRACKER_LARGE_SKIN_TUMOURS_7" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"difficulty_class" : 15,
+						"stacks_to_remove" : 2
 					},
 					"GOON_HEAL_INJURY_REMOVAL" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"difficulty_class" : 15,
+						"stacks_to_remove" : 2
 					},
 					"GOON_INJURY_KIT_INJURY_REMOVAL" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"difficulty_class" : 15,
+						"stacks_to_remove" : 2
 					},
 					"GOON_LESSER_RESTORATION_INJURY_REMOVAL" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"difficulty_class" : 15,
+						"stacks_to_remove" : 2
 					},
 					"GOON_REGENERATE_INJURY_REMOVAL" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"difficulty_class" : 15,
+						"stacks_to_remove" : 2
 					},
 					"TUT_RESTORATION" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"difficulty_class" : 15,
+						"stacks_to_remove" : 2
 					}
 				},
 				"severity" : "Medium"
@@ -37035,37 +37057,44 @@
 					"GOON_GREATER_RESTORATION_INJURY_REMOVAL" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"difficulty_class" : 15,
+						"stacks_to_remove" : 2
 					},
-					"GOON_HEALING_INJURY_REMOVAL" : 
+					"GOON_GRIT_GLORY_LONG_REST_TRACKER_MAJOR_CONCUSSION_7" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"difficulty_class" : 15,
+						"stacks_to_remove" : 2
 					},
 					"GOON_HEAL_INJURY_REMOVAL" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"difficulty_class" : 15,
+						"stacks_to_remove" : 2
 					},
 					"GOON_INJURY_KIT_INJURY_REMOVAL" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"difficulty_class" : 15,
+						"stacks_to_remove" : 2
 					},
 					"GOON_LESSER_RESTORATION_INJURY_REMOVAL" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"difficulty_class" : 15,
+						"stacks_to_remove" : 2
 					},
 					"GOON_REGENERATE_INJURY_REMOVAL" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"difficulty_class" : 15,
+						"stacks_to_remove" : 2
 					},
 					"TUT_RESTORATION" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"difficulty_class" : 15,
+						"stacks_to_remove" : 2
 					}
 				},
 				"severity" : "Medium"
@@ -37123,40 +37152,41 @@
 					"GOON_GREATER_RESTORATION_INJURY_REMOVAL" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"difficulty_class" : 15,
+						"stacks_to_remove" : 2
 					},
-					"GOON_HEALING_INJURY_REMOVAL" : 
+					"GOON_GRIT_GLORY_LONG_REST_TRACKER_MAJOR_KIDNEY_FAILURE_14" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"difficulty_class" : 15,
+						"stacks_to_remove" : 2
 					},
 					"GOON_HEAL_INJURY_REMOVAL" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"difficulty_class" : 15,
+						"stacks_to_remove" : 2
 					},
 					"GOON_INJURY_KIT_INJURY_REMOVAL" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
-					},
-					"GOON_LESSER_RESTORATION_INJURY_REMOVAL" : 
-					{
-						"ability" : "No Save",
-						"difficulty_class" : 15
+						"difficulty_class" : 15,
+						"stacks_to_remove" : 2
 					},
 					"GOON_REGENERATE_INJURY_REMOVAL" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"difficulty_class" : 15,
+						"stacks_to_remove" : 2
 					},
 					"TUT_RESTORATION" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"difficulty_class" : 15,
+						"stacks_to_remove" : 2
 					}
 				},
-				"severity" : "Exclude"
+				"severity" : "High"
 			},
 			"GOON_INJURY_GRIT_GLORY_MAJOR_LIVER_DAMAGE" : 
 			{
@@ -37211,37 +37241,38 @@
 					"GOON_GREATER_RESTORATION_INJURY_REMOVAL" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"difficulty_class" : 15,
+						"stacks_to_remove" : 2
 					},
-					"GOON_HEALING_INJURY_REMOVAL" : 
+					"GOON_GRIT_GLORY_LONG_REST_TRACKER_MAJOR_LIVER_DAMAGE_14" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"difficulty_class" : 15,
+						"stacks_to_remove" : 2
 					},
 					"GOON_HEAL_INJURY_REMOVAL" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"difficulty_class" : 15,
+						"stacks_to_remove" : 2
 					},
 					"GOON_INJURY_KIT_INJURY_REMOVAL" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
-					},
-					"GOON_LESSER_RESTORATION_INJURY_REMOVAL" : 
-					{
-						"ability" : "No Save",
-						"difficulty_class" : 15
+						"difficulty_class" : 15,
+						"stacks_to_remove" : 2
 					},
 					"GOON_REGENERATE_INJURY_REMOVAL" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"difficulty_class" : 15,
+						"stacks_to_remove" : 2
 					},
 					"TUT_RESTORATION" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"difficulty_class" : 15,
+						"stacks_to_remove" : 2
 					}
 				},
 				"severity" : "High"
@@ -37299,37 +37330,38 @@
 					"GOON_GREATER_RESTORATION_INJURY_REMOVAL" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"difficulty_class" : 15,
+						"stacks_to_remove" : 2
 					},
-					"GOON_HEALING_INJURY_REMOVAL" : 
+					"GOON_GRIT_GLORY_LONG_REST_TRACKER_MAJOR_NEURALGIA_14" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"difficulty_class" : 15,
+						"stacks_to_remove" : 2
 					},
 					"GOON_HEAL_INJURY_REMOVAL" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"difficulty_class" : 15,
+						"stacks_to_remove" : 2
 					},
 					"GOON_INJURY_KIT_INJURY_REMOVAL" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
-					},
-					"GOON_LESSER_RESTORATION_INJURY_REMOVAL" : 
-					{
-						"ability" : "No Save",
-						"difficulty_class" : 15
+						"difficulty_class" : 15,
+						"stacks_to_remove" : 2
 					},
 					"GOON_REGENERATE_INJURY_REMOVAL" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"difficulty_class" : 15,
+						"stacks_to_remove" : 2
 					},
 					"TUT_RESTORATION" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"difficulty_class" : 15,
+						"stacks_to_remove" : 2
 					}
 				},
 				"severity" : "High"
@@ -37389,6 +37421,11 @@
 						"ability" : "No Save",
 						"difficulty_class" : 15
 					},
+					"GOON_GRIT_GLORY_LONG_REST_TRACKER_MINOR_CONCUSSION_3" : 
+					{
+						"ability" : "No Save",
+						"difficulty_class" : 15
+					},
 					"GOON_HEALING_INJURY_REMOVAL" : 
 					{
 						"ability" : "No Save",
@@ -37444,6 +37481,11 @@
 				"remove_on_status" : 
 				{
 					"GOON_GREATER_RESTORATION_INJURY_REMOVAL" : 
+					{
+						"ability" : "No Save",
+						"difficulty_class" : 15
+					},
+					"GOON_GRIT_GLORY_LONG_REST_TRACKER_MINOR_DISFIGUREMENT_3" : 
 					{
 						"ability" : "No Save",
 						"difficulty_class" : 15
@@ -37536,6 +37578,11 @@
 						"ability" : "No Save",
 						"difficulty_class" : 15
 					},
+					"GOON_GRIT_GLORY_LONG_REST_TRACKER_MINOR_HEADACHES_3" : 
+					{
+						"ability" : "No Save",
+						"difficulty_class" : 15
+					},
 					"GOON_HEALING_INJURY_REMOVAL" : 
 					{
 						"ability" : "No Save",
@@ -37624,7 +37671,7 @@
 						"ability" : "No Save",
 						"difficulty_class" : 15
 					},
-					"GOON_HEALING_INJURY_REMOVAL" : 
+					"GOON_GRIT_GLORY_LONG_REST_TRACKER_MINOR_KIDNEY_FAILURE_7" : 
 					{
 						"ability" : "No Save",
 						"difficulty_class" : 15
@@ -37712,7 +37759,7 @@
 						"ability" : "No Save",
 						"difficulty_class" : 15
 					},
-					"GOON_HEALING_INJURY_REMOVAL" : 
+					"GOON_GRIT_GLORY_LONG_REST_TRACKER_MINOR_LIVER_DAMAGE_7" : 
 					{
 						"ability" : "No Save",
 						"difficulty_class" : 15
@@ -37800,7 +37847,7 @@
 						"ability" : "No Save",
 						"difficulty_class" : 15
 					},
-					"GOON_HEALING_INJURY_REMOVAL" : 
+					"GOON_GRIT_GLORY_LONG_REST_TRACKER_MINOR_NEURALGIA_7" : 
 					{
 						"ability" : "No Save",
 						"difficulty_class" : 15
@@ -38378,7 +38425,7 @@
 						"ability" : "No Save",
 						"difficulty_class" : 15
 					},
-					"GOON_HEALING_INJURY_REMOVAL" : 
+					"GOON_GRIT_GLORY_LONG_REST_TRACKER_PARTIAL_BLINDNESS_7" : 
 					{
 						"ability" : "No Save",
 						"difficulty_class" : 15
@@ -38437,7 +38484,7 @@
 						"ability" : "No Save",
 						"difficulty_class" : 15
 					},
-					"GOON_HEALING_INJURY_REMOVAL" : 
+					"GOON_GRIT_GLORY_LONG_REST_TRACKER_PARTIAL_DEAFNESS_7" : 
 					{
 						"ability" : "No Save",
 						"difficulty_class" : 15
@@ -38587,37 +38634,44 @@
 					"GOON_GREATER_RESTORATION_INJURY_REMOVAL" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"difficulty_class" : 15,
+						"stacks_to_remove" : 2
 					},
-					"GOON_HEALING_INJURY_REMOVAL" : 
+					"GOON_GRIT_GLORY_LONG_REST_TRACKER_SECOND_DEGREE_BURNS_7" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"difficulty_class" : 15,
+						"stacks_to_remove" : 2
 					},
 					"GOON_HEAL_INJURY_REMOVAL" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"difficulty_class" : 15,
+						"stacks_to_remove" : 2
 					},
 					"GOON_INJURY_KIT_INJURY_REMOVAL" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"difficulty_class" : 15,
+						"stacks_to_remove" : 2
 					},
 					"GOON_LESSER_RESTORATION_INJURY_REMOVAL" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"difficulty_class" : 15,
+						"stacks_to_remove" : 2
 					},
 					"GOON_REGENERATE_INJURY_REMOVAL" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"difficulty_class" : 15,
+						"stacks_to_remove" : 2
 					},
 					"TUT_RESTORATION" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"difficulty_class" : 15,
+						"stacks_to_remove" : 2
 					}
 				},
 				"severity" : "Medium"
@@ -38739,37 +38793,44 @@
 					"GOON_GREATER_RESTORATION_INJURY_REMOVAL" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"difficulty_class" : 15,
+						"stacks_to_remove" : 2
 					},
-					"GOON_HEALING_INJURY_REMOVAL" : 
+					"GOON_GRIT_GLORY_LONG_REST_TRACKER_SEVERE_HEADACHES_7" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"difficulty_class" : 15,
+						"stacks_to_remove" : 2
 					},
 					"GOON_HEAL_INJURY_REMOVAL" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"difficulty_class" : 15,
+						"stacks_to_remove" : 2
 					},
 					"GOON_INJURY_KIT_INJURY_REMOVAL" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"difficulty_class" : 15,
+						"stacks_to_remove" : 2
 					},
 					"GOON_LESSER_RESTORATION_INJURY_REMOVAL" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"difficulty_class" : 15,
+						"stacks_to_remove" : 2
 					},
 					"GOON_REGENERATE_INJURY_REMOVAL" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"difficulty_class" : 15,
+						"stacks_to_remove" : 2
 					},
 					"TUT_RESTORATION" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"difficulty_class" : 15,
+						"stacks_to_remove" : 2
 					}
 				},
 				"severity" : "Medium"
@@ -38996,6 +39057,11 @@
 						"ability" : "No Save",
 						"difficulty_class" : 15
 					},
+					"GOON_GRIT_GLORY_LONG_REST_TRACKER_SMALL_SKIN_TUMOURS_3" : 
+					{
+						"ability" : "No Save",
+						"difficulty_class" : 15
+					},
 					"GOON_HEALING_INJURY_REMOVAL" : 
 					{
 						"ability" : "No Save",
@@ -39107,37 +39173,38 @@
 					"GOON_GREATER_RESTORATION_INJURY_REMOVAL" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"difficulty_class" : 15,
+						"stacks_to_remove" : 3
 					},
-					"GOON_HEALING_INJURY_REMOVAL" : 
+					"GOON_GRIT_GLORY_LONG_REST_TRACKER_THIRD_DEGREE_BURNS_14" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"difficulty_class" : 15,
+						"stacks_to_remove" : 3
 					},
 					"GOON_HEAL_INJURY_REMOVAL" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"difficulty_class" : 15,
+						"stacks_to_remove" : 3
 					},
 					"GOON_INJURY_KIT_INJURY_REMOVAL" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
-					},
-					"GOON_LESSER_RESTORATION_INJURY_REMOVAL" : 
-					{
-						"ability" : "No Save",
-						"difficulty_class" : 15
+						"difficulty_class" : 15,
+						"stacks_to_remove" : 3
 					},
 					"GOON_REGENERATE_INJURY_REMOVAL" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"difficulty_class" : 15,
+						"stacks_to_remove" : 3
 					},
 					"TUT_RESTORATION" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"difficulty_class" : 15,
+						"stacks_to_remove" : 3
 					}
 				},
 				"severity" : "High"
