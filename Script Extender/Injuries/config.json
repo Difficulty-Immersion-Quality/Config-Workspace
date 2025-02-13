@@ -36331,8 +36331,25 @@
 			{
 				"apply_on_status" : 
 				{
-					"applicable_statuses" : [],
-					"number_of_rounds" : 3
+					"applicable_statuses" : 
+					{
+						"LOW_BHAALCULTIST_THROATPUNCH" : 
+						{
+							"guarantee_application" : false,
+							"multiplier" : 1
+						},
+						"MAG_THUNDER_REVERBERATION" : 
+						{
+							"guarantee_application" : false,
+							"multiplier" : 2
+						},
+						"SILENCED" : 
+						{
+							"guarantee_application" : false,
+							"multiplier" : 1
+						}
+					},
+					"number_of_rounds" : 10
 				},
 				"chance_of_application" : 20,
 				"character_multipliers" : 
@@ -36342,8 +36359,14 @@
 				},
 				"damage" : 
 				{
-					"damage_types" : [],
-					"threshold" : 10
+					"damage_types" : 
+					{
+						"Thunder" : 
+						{
+							"multiplier" : 1
+						}
+					},
+					"threshold" : 75
 				},
 				"include_in_random_table" : true,
 				"remove_on_status" : 
@@ -37340,8 +37363,45 @@
 			{
 				"apply_on_status" : 
 				{
-					"applicable_statuses" : [],
-					"number_of_rounds" : 3
+					"applicable_statuses" : 
+					{
+						"ACID" : 
+						{
+							"guarantee_application" : false,
+							"multiplier" : 2
+						},
+						"BURNING" : 
+						{
+							"guarantee_application" : false,
+							"multiplier" : 1
+						},
+						"BURNING_AZER" : 
+						{
+							"guarantee_application" : false,
+							"multiplier" : 1
+						},
+						"BURNING_TRAPWALL" : 
+						{
+							"guarantee_application" : false,
+							"multiplier" : 1
+						},
+						"BURNING_TRIAL" : 
+						{
+							"guarantee_application" : false,
+							"multiplier" : 1
+						},
+						"END_NETHERILLUSION_BURNING" : 
+						{
+							"guarantee_application" : false,
+							"multiplier" : 1
+						},
+						"MAG_INFERNAL_BURNING" : 
+						{
+							"guarantee_application" : false,
+							"multiplier" : 1
+						}
+					},
+					"number_of_rounds" : 6
 				},
 				"chance_of_application" : 20,
 				"character_multipliers" : 
@@ -37351,8 +37411,26 @@
 				},
 				"damage" : 
 				{
-					"damage_types" : [],
-					"threshold" : 10
+					"damage_types" : 
+					{
+						"Acid" : 
+						{
+							"multiplier" : 1
+						},
+						"Fire" : 
+						{
+							"multiplier" : 0.68999999999999995
+						},
+						"Piercing" : 
+						{
+							"multiplier" : 0.5
+						},
+						"Slashing" : 
+						{
+							"multiplier" : 0.5
+						}
+					},
+					"threshold" : 55
 				},
 				"include_in_random_table" : true,
 				"remove_on_status" : 
@@ -37906,6 +37984,11 @@
 							"guarantee_application" : false,
 							"multiplier" : 1
 						},
+						"HAG_ROT" : 
+						{
+							"guarantee_application" : false,
+							"multiplier" : 1
+						},
 						"HARM" : 
 						{
 							"guarantee_application" : false,
@@ -37922,7 +38005,7 @@
 							"multiplier" : 1
 						}
 					},
-					"number_of_rounds" : 3
+					"number_of_rounds" : 5
 				},
 				"chance_of_application" : 20,
 				"character_multipliers" : 
@@ -37932,8 +38015,14 @@
 				},
 				"damage" : 
 				{
-					"damage_types" : [],
-					"threshold" : 10
+					"damage_types" : 
+					{
+						"Radiant" : 
+						{
+							"multiplier" : 0.80000000000000004
+						}
+					},
+					"threshold" : 55
 				},
 				"include_in_random_table" : true,
 				"remove_on_status" : 
@@ -38083,8 +38172,40 @@
 			{
 				"apply_on_status" : 
 				{
-					"applicable_statuses" : [],
-					"number_of_rounds" : 3
+					"applicable_statuses" : 
+					{
+						"PRONE" : 
+						{
+							"guarantee_application" : false,
+							"multiplier" : 1
+						},
+						"PRONE_FALLEN" : 
+						{
+							"guarantee_application" : false,
+							"multiplier" : 1
+						},
+						"PRONE_GREASE" : 
+						{
+							"guarantee_application" : false,
+							"multiplier" : 1
+						},
+						"PRONE_ICE" : 
+						{
+							"guarantee_application" : false,
+							"multiplier" : 1
+						},
+						"PRONE_SEWER" : 
+						{
+							"guarantee_application" : false,
+							"multiplier" : 1
+						},
+						"PRONE_THUNDEROUS_SMITE" : 
+						{
+							"guarantee_application" : false,
+							"multiplier" : 1
+						}
+					},
+					"number_of_rounds" : 4
 				},
 				"chance_of_application" : 20,
 				"character_multipliers" : 
@@ -38123,8 +38244,22 @@
 				},
 				"damage" : 
 				{
-					"damage_types" : [],
-					"threshold" : 10
+					"damage_types" : 
+					{
+						"Bludgeoning" : 
+						{
+							"multiplier" : 0.68999999999999995
+						},
+						"Force" : 
+						{
+							"multiplier" : 0.68999999999999995
+						},
+						"Thunder" : 
+						{
+							"multiplier" : 0.68999999999999995
+						}
+					},
+					"threshold" : 75
 				},
 				"include_in_random_table" : true,
 				"remove_on_status" : 
@@ -38183,7 +38318,7 @@
 						"CONS_DRUG_EUPHORIC" : 
 						{
 							"guarantee_application" : false,
-							"multiplier" : 1
+							"multiplier" : 2
 						},
 						"DRINK_ALCOHOL" : 
 						{
@@ -38193,12 +38328,12 @@
 						"DRUG_DREAMMIST_CONDITION" : 
 						{
 							"guarantee_application" : false,
-							"multiplier" : 1
+							"multiplier" : 2
 						},
 						"DRUG_ETHER_CONDITION" : 
 						{
 							"guarantee_application" : false,
-							"multiplier" : 1
+							"multiplier" : 2
 						},
 						"DRUNK" : 
 						{
@@ -38213,32 +38348,32 @@
 						"GOON_POISONED_KIDNEY_LIVER" : 
 						{
 							"guarantee_application" : false,
-							"multiplier" : 1
+							"multiplier" : 2
 						},
 						"LOW_FATHERCARRION_POISONED" : 
 						{
 							"guarantee_application" : false,
-							"multiplier" : 1
+							"multiplier" : 2
 						},
 						"POISONED" : 
 						{
 							"guarantee_application" : false,
-							"multiplier" : 1
+							"multiplier" : 2
 						},
 						"POISON_SIMPLE_CONDITION" : 
 						{
 							"guarantee_application" : false,
-							"multiplier" : 1
+							"multiplier" : 2
 						},
 						"POTION_OF_POISON" : 
 						{
 							"guarantee_application" : false,
-							"multiplier" : 1
+							"multiplier" : 2
 						},
 						"SHA_SPIDERMEAT_POISONED" : 
 						{
 							"guarantee_application" : false,
-							"multiplier" : 1
+							"multiplier" : 2
 						},
 						"TWN_DISTILLERY_DRANK_ONCE" : 
 						{
@@ -38248,7 +38383,7 @@
 						"TWN_DISTILLERY_DRANK_TWICE" : 
 						{
 							"guarantee_application" : false,
-							"multiplier" : 1
+							"multiplier" : 2
 						},
 						"WYR_SHARESSCARESS_POTENTDRINK" : 
 						{
@@ -38256,7 +38391,7 @@
 							"multiplier" : 1
 						}
 					},
-					"number_of_rounds" : 3
+					"number_of_rounds" : 12
 				},
 				"chance_of_application" : 20,
 				"character_multipliers" : 
@@ -38295,8 +38430,18 @@
 				},
 				"damage" : 
 				{
-					"damage_types" : [],
-					"threshold" : 10
+					"damage_types" : 
+					{
+						"Lightning" : 
+						{
+							"multiplier" : 0.68999999999999995
+						},
+						"Poison" : 
+						{
+							"multiplier" : 0.68999999999999995
+						}
+					},
+					"threshold" : 75
 				},
 				"include_in_random_table" : true,
 				"remove_on_status" : 
@@ -38349,7 +38494,7 @@
 						"CONS_DRUG_EUPHORIC" : 
 						{
 							"guarantee_application" : false,
-							"multiplier" : 1
+							"multiplier" : 2
 						},
 						"DRINK_ALCOHOL" : 
 						{
@@ -38359,12 +38504,12 @@
 						"DRUG_DREAMMIST_CONDITION" : 
 						{
 							"guarantee_application" : false,
-							"multiplier" : 1
+							"multiplier" : 2
 						},
 						"DRUG_ETHER_CONDITION" : 
 						{
 							"guarantee_application" : false,
-							"multiplier" : 1
+							"multiplier" : 2
 						},
 						"DRUNK" : 
 						{
@@ -38379,32 +38524,32 @@
 						"GOON_POISONED_KIDNEY_LIVER" : 
 						{
 							"guarantee_application" : false,
-							"multiplier" : 1
+							"multiplier" : 2
 						},
 						"LOW_FATHERCARRION_POISONED" : 
 						{
 							"guarantee_application" : false,
-							"multiplier" : 1
+							"multiplier" : 2
 						},
 						"POISONED" : 
 						{
 							"guarantee_application" : false,
-							"multiplier" : 1
+							"multiplier" : 2
 						},
 						"POISON_SIMPLE_CONDITION" : 
 						{
 							"guarantee_application" : false,
-							"multiplier" : 1
+							"multiplier" : 2
 						},
 						"POTION_OF_POISON" : 
 						{
 							"guarantee_application" : false,
-							"multiplier" : 1
+							"multiplier" : 2
 						},
 						"SHA_SPIDERMEAT_POISONED" : 
 						{
 							"guarantee_application" : false,
-							"multiplier" : 1
+							"multiplier" : 2
 						},
 						"TWN_DISTILLERY_DRANK_ONCE" : 
 						{
@@ -38414,7 +38559,7 @@
 						"TWN_DISTILLERY_DRANK_TWICE" : 
 						{
 							"guarantee_application" : false,
-							"multiplier" : 1
+							"multiplier" : 2
 						},
 						"WYR_SHARESSCARESS_POTENTDRINK" : 
 						{
@@ -38422,7 +38567,7 @@
 							"multiplier" : 1
 						}
 					},
-					"number_of_rounds" : 3
+					"number_of_rounds" : 12
 				},
 				"chance_of_application" : 20,
 				"character_multipliers" : 
@@ -38461,8 +38606,14 @@
 				},
 				"damage" : 
 				{
-					"damage_types" : [],
-					"threshold" : 10
+					"damage_types" : 
+					{
+						"Poison" : 
+						{
+							"multiplier" : 0.90000000000000002
+						}
+					},
+					"threshold" : 75
 				},
 				"include_in_random_table" : true,
 				"remove_on_status" : 
@@ -38510,8 +38661,170 @@
 			{
 				"apply_on_status" : 
 				{
-					"applicable_statuses" : [],
-					"number_of_rounds" : 3
+					"applicable_statuses" : 
+					{
+						"BURSTINGBROOD_INFESTATION_SPIDER" : 
+						{
+							"guarantee_application" : false,
+							"multiplier" : 1
+						},
+						"CONTAGION_BLINDING_SICKNESS" : 
+						{
+							"guarantee_application" : false,
+							"multiplier" : 1
+						},
+						"CONTAGION_BLINDING_SICKNESS_1" : 
+						{
+							"guarantee_application" : false,
+							"multiplier" : 1
+						},
+						"CONTAGION_BLINDING_SICKNESS_2" : 
+						{
+							"guarantee_application" : false,
+							"multiplier" : 1
+						},
+						"CONTAGION_BLINDING_SICKNESS_3" : 
+						{
+							"guarantee_application" : false,
+							"multiplier" : 1
+						},
+						"CONTAGION_FILTH_FEVER" : 
+						{
+							"guarantee_application" : false,
+							"multiplier" : 1
+						},
+						"CONTAGION_FILTH_FEVER_1" : 
+						{
+							"guarantee_application" : false,
+							"multiplier" : 1
+						},
+						"CONTAGION_FILTH_FEVER_2" : 
+						{
+							"guarantee_application" : false,
+							"multiplier" : 1
+						},
+						"CONTAGION_FILTH_FEVER_3" : 
+						{
+							"guarantee_application" : false,
+							"multiplier" : 1
+						},
+						"CONTAGION_FLESH_ROT" : 
+						{
+							"guarantee_application" : false,
+							"multiplier" : 1
+						},
+						"CONTAGION_FLESH_ROT_1" : 
+						{
+							"guarantee_application" : false,
+							"multiplier" : 1
+						},
+						"CONTAGION_FLESH_ROT_2" : 
+						{
+							"guarantee_application" : false,
+							"multiplier" : 1
+						},
+						"CONTAGION_FLESH_ROT_3" : 
+						{
+							"guarantee_application" : false,
+							"multiplier" : 1
+						},
+						"CONTAGION_MINDFIRE" : 
+						{
+							"guarantee_application" : false,
+							"multiplier" : 1
+						},
+						"CONTAGION_MINDFIRE_1" : 
+						{
+							"guarantee_application" : false,
+							"multiplier" : 1
+						},
+						"CONTAGION_MINDFIRE_2" : 
+						{
+							"guarantee_application" : false,
+							"multiplier" : 1
+						},
+						"CONTAGION_MINDFIRE_3" : 
+						{
+							"guarantee_application" : false,
+							"multiplier" : 1
+						},
+						"CONTAGION_SEIZURE" : 
+						{
+							"guarantee_application" : false,
+							"multiplier" : 1
+						},
+						"CONTAGION_SEIZURE_1" : 
+						{
+							"guarantee_application" : false,
+							"multiplier" : 1
+						},
+						"CONTAGION_SEIZURE_2" : 
+						{
+							"guarantee_application" : false,
+							"multiplier" : 1
+						},
+						"CONTAGION_SEIZURE_3" : 
+						{
+							"guarantee_application" : false,
+							"multiplier" : 1
+						},
+						"CONTAGION_SLIMY_DOOM" : 
+						{
+							"guarantee_application" : false,
+							"multiplier" : 1
+						},
+						"CONTAGION_SLIMY_DOOM_1" : 
+						{
+							"guarantee_application" : false,
+							"multiplier" : 1
+						},
+						"CONTAGION_SLIMY_DOOM_2" : 
+						{
+							"guarantee_application" : false,
+							"multiplier" : 1
+						},
+						"CONTAGION_SLIMY_DOOM_3" : 
+						{
+							"guarantee_application" : false,
+							"multiplier" : 1
+						},
+						"CRAWLING_GNAW_SWITCH" : 
+						{
+							"guarantee_application" : false,
+							"multiplier" : 1
+						},
+						"HAG_FEVER" : 
+						{
+							"guarantee_application" : false,
+							"multiplier" : 1
+						},
+						"HAG_FLESHROT" : 
+						{
+							"guarantee_application" : false,
+							"multiplier" : 1
+						},
+						"HAG_ROT" : 
+						{
+							"guarantee_application" : false,
+							"multiplier" : 1
+						},
+						"HARM" : 
+						{
+							"guarantee_application" : false,
+							"multiplier" : 1
+						},
+						"INFECTIOUS_BITE_WOLF" : 
+						{
+							"guarantee_application" : false,
+							"multiplier" : 1
+						},
+						"SPIDER_INFESTATION" : 
+						{
+							"guarantee_application" : false,
+							"multiplier" : 1
+						}
+					},
+					"number_of_rounds" : 10
 				},
 				"chance_of_application" : 20,
 				"character_multipliers" : 
@@ -38550,8 +38863,46 @@
 				},
 				"damage" : 
 				{
-					"damage_types" : [],
-					"threshold" : 10
+					"damage_types" : 
+					{
+						"Acid" : 
+						{
+							"multiplier" : 0.20000000000000001
+						},
+						"Bludgeoning" : 
+						{
+							"multiplier" : 0.20000000000000001
+						},
+						"Cold" : 
+						{
+							"multiplier" : 0.20000000000000001
+						},
+						"Fire" : 
+						{
+							"multiplier" : 0.20000000000000001
+						},
+						"Force" : 
+						{
+							"multiplier" : 0.20000000000000001
+						},
+						"Necrotic" : 
+						{
+							"multiplier" : 0.20000000000000001
+						},
+						"Piercing" : 
+						{
+							"multiplier" : 0.20000000000000001
+						},
+						"Slashing" : 
+						{
+							"multiplier" : 0.20000000000000001
+						},
+						"Thunder" : 
+						{
+							"multiplier" : 0.20000000000000001
+						}
+					},
+					"threshold" : 80
 				},
 				"include_in_random_table" : true,
 				"remove_on_status" : 
@@ -38599,8 +38950,40 @@
 			{
 				"apply_on_status" : 
 				{
-					"applicable_statuses" : [],
-					"number_of_rounds" : 3
+					"applicable_statuses" : 
+					{
+						"PRONE" : 
+						{
+							"guarantee_application" : false,
+							"multiplier" : 1
+						},
+						"PRONE_FALLEN" : 
+						{
+							"guarantee_application" : false,
+							"multiplier" : 1
+						},
+						"PRONE_GREASE" : 
+						{
+							"guarantee_application" : false,
+							"multiplier" : 1
+						},
+						"PRONE_ICE" : 
+						{
+							"guarantee_application" : false,
+							"multiplier" : 1
+						},
+						"PRONE_SEWER" : 
+						{
+							"guarantee_application" : false,
+							"multiplier" : 1
+						},
+						"PRONE_THUNDEROUS_SMITE" : 
+						{
+							"guarantee_application" : false,
+							"multiplier" : 1
+						}
+					},
+					"number_of_rounds" : 2
 				},
 				"chance_of_application" : 20,
 				"character_multipliers" : 
@@ -38639,8 +39022,22 @@
 				},
 				"damage" : 
 				{
-					"damage_types" : [],
-					"threshold" : 10
+					"damage_types" : 
+					{
+						"Bludgeoning" : 
+						{
+							"multiplier" : 0.80000000000000004
+						},
+						"Force" : 
+						{
+							"multiplier" : 0.80000000000000004
+						},
+						"Thunder" : 
+						{
+							"multiplier" : 0.80000000000000004
+						}
+					},
+					"threshold" : 35
 				},
 				"include_in_random_table" : true,
 				"remove_on_status" : 
@@ -38692,8 +39089,15 @@
 			{
 				"apply_on_status" : 
 				{
-					"applicable_statuses" : [],
-					"number_of_rounds" : 3
+					"applicable_statuses" : 
+					{
+						"ACID" : 
+						{
+							"guarantee_application" : false,
+							"multiplier" : 1
+						}
+					},
+					"number_of_rounds" : 2
 				},
 				"chance_of_application" : 20,
 				"character_multipliers" : 
@@ -38703,8 +39107,22 @@
 				},
 				"damage" : 
 				{
-					"damage_types" : [],
-					"threshold" : 10
+					"damage_types" : 
+					{
+						"Acid" : 
+						{
+							"multiplier" : 1
+						},
+						"Piercing" : 
+						{
+							"multiplier" : 0.5
+						},
+						"Slashing" : 
+						{
+							"multiplier" : 0.5
+						}
+					},
+					"threshold" : 35
 				},
 				"include_in_random_table" : true,
 				"remove_on_status" : 
@@ -38756,7 +39174,39 @@
 			{
 				"apply_on_status" : 
 				{
-					"applicable_statuses" : [],
+					"applicable_statuses" : 
+					{
+						"CLARIFIED_MORTALITY" : 
+						{
+							"guarantee_application" : false,
+							"multiplier" : 1
+						},
+						"FRIGHTENED" : 
+						{
+							"guarantee_application" : false,
+							"multiplier" : 1
+						},
+						"FRIGHTENED_SHADOWHEART" : 
+						{
+							"guarantee_application" : false,
+							"multiplier" : 1
+						},
+						"MAG_THUNDER_REVERBERATION" : 
+						{
+							"guarantee_application" : false,
+							"multiplier" : 1
+						},
+						"PLA_GITHCHOKEPOINT_FRIGHTENED" : 
+						{
+							"guarantee_application" : false,
+							"multiplier" : 1
+						},
+						"SEEN_WOLF_SHADOWHEART" : 
+						{
+							"guarantee_application" : false,
+							"multiplier" : 1
+						}
+					},
 					"number_of_rounds" : 3
 				},
 				"chance_of_application" : 20,
@@ -38796,8 +39246,18 @@
 				},
 				"damage" : 
 				{
-					"damage_types" : [],
-					"threshold" : 10
+					"damage_types" : 
+					{
+						"Psychic" : 
+						{
+							"multiplier" : 0.75
+						},
+						"Thunder" : 
+						{
+							"multiplier" : 0.75
+						}
+					},
+					"threshold" : 35
 				},
 				"include_in_random_table" : true,
 				"remove_on_status" : 
@@ -38854,7 +39314,7 @@
 						"CONS_DRUG_EUPHORIC" : 
 						{
 							"guarantee_application" : false,
-							"multiplier" : 1
+							"multiplier" : 2
 						},
 						"DRINK_ALCOHOL" : 
 						{
@@ -38864,12 +39324,12 @@
 						"DRUG_DREAMMIST_CONDITION" : 
 						{
 							"guarantee_application" : false,
-							"multiplier" : 1
+							"multiplier" : 2
 						},
 						"DRUG_ETHER_CONDITION" : 
 						{
 							"guarantee_application" : false,
-							"multiplier" : 1
+							"multiplier" : 2
 						},
 						"DRUNK" : 
 						{
@@ -38884,32 +39344,32 @@
 						"GOON_POISONED_KIDNEY_LIVER" : 
 						{
 							"guarantee_application" : false,
-							"multiplier" : 1
+							"multiplier" : 2
 						},
 						"LOW_FATHERCARRION_POISONED" : 
 						{
 							"guarantee_application" : false,
-							"multiplier" : 1
+							"multiplier" : 2
 						},
 						"POISONED" : 
 						{
 							"guarantee_application" : false,
-							"multiplier" : 1
+							"multiplier" : 2
 						},
 						"POISON_SIMPLE_CONDITION" : 
 						{
 							"guarantee_application" : false,
-							"multiplier" : 1
+							"multiplier" : 2
 						},
 						"POTION_OF_POISON" : 
 						{
 							"guarantee_application" : false,
-							"multiplier" : 1
+							"multiplier" : 2
 						},
 						"SHA_SPIDERMEAT_POISONED" : 
 						{
 							"guarantee_application" : false,
-							"multiplier" : 1
+							"multiplier" : 2
 						},
 						"TWN_DISTILLERY_DRANK_ONCE" : 
 						{
@@ -38918,16 +39378,16 @@
 						},
 						"TWN_DISTILLERY_DRANK_TWICE" : 
 						{
-							"guarantee_application" : false,
-							"multiplier" : 1
+							"guarantee_application" : true,
+							"multiplier" : 2
 						},
 						"WYR_SHARESSCARESS_POTENTDRINK" : 
 						{
 							"guarantee_application" : false,
-							"multiplier" : 1
+							"multiplier" : 4
 						}
 					},
-					"number_of_rounds" : 3
+					"number_of_rounds" : 8
 				},
 				"chance_of_application" : 20,
 				"character_multipliers" : 
@@ -38966,8 +39426,22 @@
 				},
 				"damage" : 
 				{
-					"damage_types" : [],
-					"threshold" : 10
+					"damage_types" : 
+					{
+						"Lightning" : 
+						{
+							"multiplier" : 0.68999999999999995
+						},
+						"Poison" : 
+						{
+							"multiplier" : 1
+						},
+						"Slashing" : 
+						{
+							"multiplier" : 0.33000000000000002
+						}
+					},
+					"threshold" : 55
 				},
 				"include_in_random_table" : true,
 				"remove_on_status" : 
@@ -39019,7 +39493,7 @@
 						"CONS_DRUG_EUPHORIC" : 
 						{
 							"guarantee_application" : false,
-							"multiplier" : 1
+							"multiplier" : 2
 						},
 						"DRINK_ALCOHOL" : 
 						{
@@ -39029,12 +39503,12 @@
 						"DRUG_DREAMMIST_CONDITION" : 
 						{
 							"guarantee_application" : false,
-							"multiplier" : 1
+							"multiplier" : 2
 						},
 						"DRUG_ETHER_CONDITION" : 
 						{
 							"guarantee_application" : false,
-							"multiplier" : 1
+							"multiplier" : 2
 						},
 						"DRUNK" : 
 						{
@@ -39049,32 +39523,32 @@
 						"GOON_POISONED_KIDNEY_LIVER" : 
 						{
 							"guarantee_application" : false,
-							"multiplier" : 1
+							"multiplier" : 2
 						},
 						"LOW_FATHERCARRION_POISONED" : 
 						{
-							"guarantee_application" : false,
-							"multiplier" : 1
+							"guarantee_application" : true,
+							"multiplier" : 2
 						},
 						"POISONED" : 
 						{
 							"guarantee_application" : false,
-							"multiplier" : 1
+							"multiplier" : 2
 						},
 						"POISON_SIMPLE_CONDITION" : 
 						{
 							"guarantee_application" : false,
-							"multiplier" : 1
+							"multiplier" : 2
 						},
 						"POTION_OF_POISON" : 
 						{
 							"guarantee_application" : false,
-							"multiplier" : 1
+							"multiplier" : 2
 						},
 						"SHA_SPIDERMEAT_POISONED" : 
 						{
 							"guarantee_application" : false,
-							"multiplier" : 1
+							"multiplier" : 2
 						},
 						"TWN_DISTILLERY_DRANK_ONCE" : 
 						{
@@ -39084,15 +39558,15 @@
 						"TWN_DISTILLERY_DRANK_TWICE" : 
 						{
 							"guarantee_application" : false,
-							"multiplier" : 1
+							"multiplier" : 2
 						},
 						"WYR_SHARESSCARESS_POTENTDRINK" : 
 						{
 							"guarantee_application" : false,
-							"multiplier" : 1
+							"multiplier" : 4
 						}
 					},
-					"number_of_rounds" : 3
+					"number_of_rounds" : 8
 				},
 				"chance_of_application" : 20,
 				"character_multipliers" : 
@@ -39131,8 +39605,14 @@
 				},
 				"damage" : 
 				{
-					"damage_types" : [],
-					"threshold" : 10
+					"damage_types" : 
+					{
+						"Poison" : 
+						{
+							"multiplier" : 1
+						}
+					},
+					"threshold" : 55
 				},
 				"include_in_random_table" : true,
 				"remove_on_status" : 
@@ -39179,8 +39659,170 @@
 			{
 				"apply_on_status" : 
 				{
-					"applicable_statuses" : [],
-					"number_of_rounds" : 3
+					"applicable_statuses" : 
+					{
+						"BURSTINGBROOD_INFESTATION_SPIDER" : 
+						{
+							"guarantee_application" : false,
+							"multiplier" : 1
+						},
+						"CONTAGION_BLINDING_SICKNESS" : 
+						{
+							"guarantee_application" : false,
+							"multiplier" : 1
+						},
+						"CONTAGION_BLINDING_SICKNESS_1" : 
+						{
+							"guarantee_application" : false,
+							"multiplier" : 1
+						},
+						"CONTAGION_BLINDING_SICKNESS_2" : 
+						{
+							"guarantee_application" : false,
+							"multiplier" : 1
+						},
+						"CONTAGION_BLINDING_SICKNESS_3" : 
+						{
+							"guarantee_application" : false,
+							"multiplier" : 1
+						},
+						"CONTAGION_FILTH_FEVER" : 
+						{
+							"guarantee_application" : false,
+							"multiplier" : 1
+						},
+						"CONTAGION_FILTH_FEVER_1" : 
+						{
+							"guarantee_application" : false,
+							"multiplier" : 1
+						},
+						"CONTAGION_FILTH_FEVER_2" : 
+						{
+							"guarantee_application" : false,
+							"multiplier" : 1
+						},
+						"CONTAGION_FILTH_FEVER_3" : 
+						{
+							"guarantee_application" : false,
+							"multiplier" : 1
+						},
+						"CONTAGION_FLESH_ROT" : 
+						{
+							"guarantee_application" : false,
+							"multiplier" : 1
+						},
+						"CONTAGION_FLESH_ROT_1" : 
+						{
+							"guarantee_application" : false,
+							"multiplier" : 1
+						},
+						"CONTAGION_FLESH_ROT_2" : 
+						{
+							"guarantee_application" : false,
+							"multiplier" : 1
+						},
+						"CONTAGION_FLESH_ROT_3" : 
+						{
+							"guarantee_application" : false,
+							"multiplier" : 1
+						},
+						"CONTAGION_MINDFIRE" : 
+						{
+							"guarantee_application" : false,
+							"multiplier" : 1
+						},
+						"CONTAGION_MINDFIRE_1" : 
+						{
+							"guarantee_application" : false,
+							"multiplier" : 1
+						},
+						"CONTAGION_MINDFIRE_2" : 
+						{
+							"guarantee_application" : false,
+							"multiplier" : 1
+						},
+						"CONTAGION_MINDFIRE_3" : 
+						{
+							"guarantee_application" : false,
+							"multiplier" : 1
+						},
+						"CONTAGION_SEIZURE" : 
+						{
+							"guarantee_application" : false,
+							"multiplier" : 1
+						},
+						"CONTAGION_SEIZURE_1" : 
+						{
+							"guarantee_application" : false,
+							"multiplier" : 1
+						},
+						"CONTAGION_SEIZURE_2" : 
+						{
+							"guarantee_application" : false,
+							"multiplier" : 1
+						},
+						"CONTAGION_SEIZURE_3" : 
+						{
+							"guarantee_application" : false,
+							"multiplier" : 1
+						},
+						"CONTAGION_SLIMY_DOOM" : 
+						{
+							"guarantee_application" : false,
+							"multiplier" : 1
+						},
+						"CONTAGION_SLIMY_DOOM_1" : 
+						{
+							"guarantee_application" : false,
+							"multiplier" : 1
+						},
+						"CONTAGION_SLIMY_DOOM_2" : 
+						{
+							"guarantee_application" : false,
+							"multiplier" : 1
+						},
+						"CONTAGION_SLIMY_DOOM_3" : 
+						{
+							"guarantee_application" : false,
+							"multiplier" : 1
+						},
+						"CRAWLING_GNAW_SWITCH" : 
+						{
+							"guarantee_application" : false,
+							"multiplier" : 1
+						},
+						"HAG_FEVER" : 
+						{
+							"guarantee_application" : false,
+							"multiplier" : 1
+						},
+						"HAG_FLESHROT" : 
+						{
+							"guarantee_application" : false,
+							"multiplier" : 1
+						},
+						"HAG_ROT" : 
+						{
+							"guarantee_application" : false,
+							"multiplier" : 1
+						},
+						"HARM" : 
+						{
+							"guarantee_application" : false,
+							"multiplier" : 1
+						},
+						"INFECTIOUS_BITE_WOLF" : 
+						{
+							"guarantee_application" : false,
+							"multiplier" : 1
+						},
+						"SPIDER_INFESTATION" : 
+						{
+							"guarantee_application" : false,
+							"multiplier" : 1
+						}
+					},
+					"number_of_rounds" : 6
 				},
 				"chance_of_application" : 20,
 				"character_multipliers" : 
@@ -39219,8 +39861,26 @@
 				},
 				"damage" : 
 				{
-					"damage_types" : [],
-					"threshold" : 10
+					"damage_types" : 
+					{
+						"Acid" : 
+						{
+							"multiplier" : 0.68999999999999995
+						},
+						"Bludgeoning" : 
+						{
+							"multiplier" : 0.5
+						},
+						"Cold" : 
+						{
+							"multiplier" : 0.68999999999999995
+						},
+						"Fire" : 
+						{
+							"multiplier" : 0.68999999999999995
+						}
+					},
+					"threshold" : 55
 				},
 				"include_in_random_table" : true,
 				"remove_on_status" : 
@@ -40592,7 +41252,24 @@
 			{
 				"apply_on_status" : 
 				{
-					"applicable_statuses" : [],
+					"applicable_statuses" : 
+					{
+						"LOW_BHAALCULTIST_THROATPUNCH" : 
+						{
+							"guarantee_application" : false,
+							"multiplier" : 1
+						},
+						"MAG_THUNDER_REVERBERATION" : 
+						{
+							"guarantee_application" : false,
+							"multiplier" : 1
+						},
+						"SILENCED" : 
+						{
+							"guarantee_application" : false,
+							"multiplier" : 1
+						}
+					},
 					"number_of_rounds" : 3
 				},
 				"chance_of_application" : 20,
@@ -40603,8 +41280,14 @@
 				},
 				"damage" : 
 				{
-					"damage_types" : [],
-					"threshold" : 10
+					"damage_types" : 
+					{
+						"Thunder" : 
+						{
+							"multiplier" : 1
+						}
+					},
+					"threshold" : 55
 				},
 				"include_in_random_table" : true,
 				"remove_on_status" : 
@@ -40992,8 +41675,40 @@
 			{
 				"apply_on_status" : 
 				{
-					"applicable_statuses" : [],
-					"number_of_rounds" : 3
+					"applicable_statuses" : 
+					{
+						"CLARIFIED_MORTALITY" : 
+						{
+							"guarantee_application" : false,
+							"multiplier" : 1
+						},
+						"FRIGHTENED" : 
+						{
+							"guarantee_application" : false,
+							"multiplier" : 1
+						},
+						"FRIGHTENED_SHADOWHEART" : 
+						{
+							"guarantee_application" : false,
+							"multiplier" : 1
+						},
+						"MAG_THUNDER_REVERBERATION" : 
+						{
+							"guarantee_application" : false,
+							"multiplier" : 1
+						},
+						"PLA_GITHCHOKEPOINT_FRIGHTENED" : 
+						{
+							"guarantee_application" : false,
+							"multiplier" : 1
+						},
+						"SEEN_WOLF_SHADOWHEART" : 
+						{
+							"guarantee_application" : false,
+							"multiplier" : 1
+						}
+					},
+					"number_of_rounds" : 5
 				},
 				"chance_of_application" : 20,
 				"character_multipliers" : 
@@ -41032,8 +41747,18 @@
 				},
 				"damage" : 
 				{
-					"damage_types" : [],
-					"threshold" : 10
+					"damage_types" : 
+					{
+						"Psychic" : 
+						{
+							"multiplier" : 0.68999999999999995
+						},
+						"Thunder" : 
+						{
+							"multiplier" : 0.68999999999999995
+						}
+					},
+					"threshold" : 55
 				},
 				"include_in_random_table" : true,
 				"remove_on_status" : 
@@ -41513,6 +42238,11 @@
 							"guarantee_application" : false,
 							"multiplier" : 1
 						},
+						"HAG_ROT" : 
+						{
+							"guarantee_application" : false,
+							"multiplier" : 1
+						},
 						"HARM" : 
 						{
 							"guarantee_application" : false,
@@ -41539,8 +42269,14 @@
 				},
 				"damage" : 
 				{
-					"damage_types" : [],
-					"threshold" : 10
+					"damage_types" : 
+					{
+						"Radiant" : 
+						{
+							"multiplier" : 1
+						}
+					},
+					"threshold" : 35
 				},
 				"include_in_random_table" : true,
 				"remove_on_status" : 
@@ -41985,7 +42721,14 @@
 			{
 				"apply_on_status" : 
 				{
-					"applicable_statuses" : [],
+					"applicable_statuses" : 
+					{
+						"LOW_BHAALCULTIST_THROATPUNCH" : 
+						{
+							"guarantee_application" : true,
+							"multiplier" : 1
+						}
+					},
 					"number_of_rounds" : 3
 				},
 				"chance_of_application" : 20,
