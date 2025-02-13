@@ -40299,7 +40299,7 @@
 		"universal" : 
 		{
 			"healing_subtracts_injury_damage" : true,
-			"healing_subtracts_injury_damage_modifier" : 0.80000000000000004,
+			"healing_subtracts_injury_damage_modifier" : 0.68999999999999995,
 			"how_many_injuries_can_be_removed_at_once" : "All",
 			"injury_removal_severity_priority" : "Most Severe",
 			"npc_multipliers" : 
@@ -40327,7 +40327,7 @@
 			},
 			"remove_all_on_long_rest" : false,
 			"remove_on_death" : false,
-			"when_does_counter_reset" : "Long Rest",
+			"when_does_counter_reset" : "Short Rest",
 			"who_can_receive_injuries" : 
 			{
 				"Allies" : true,
