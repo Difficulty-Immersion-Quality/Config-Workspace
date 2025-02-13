@@ -88,10 +88,7 @@
 		},
 		"GeneralLevelSpecificFeatsSection" : 
 		{
-			"alwaysGrantFeatAtLevels" : 
-			[
-				1
-			],
+			"DEPRECIATEDalwaysGrantFeatAtLevels" : "The always grant feat feat at specific level part has been moved, it should be below this when you have loaded or started a new save. It won't show up in the main menu.",
 			"multiclassFeatAtLevel1" : false
 		},
 		"WarningSection" : 

@@ -1,9 +1,18 @@
 {
 	"settings" : 
 	{
-		"feats_settings" : 
+		"basec_feats_settings" : 
 		{
-			"Feats" : "None"
+			"BaseClassFeats" : "None"
+		},
+		"class_feat_selection" : 
+		{
+			"BaseClassFeatSelection" : true,
+			"CustomClassFeatSelection" : false
+		},
+		"customc_feats_settings" : 
+		{
+			"CustomClassFeats" : "None"
 		},
 		"miscellaneous_settings" : 
 		{
