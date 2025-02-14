@@ -43653,7 +43653,7 @@
 		{
 			"healing_subtracts_injury_damage" : true,
 			"healing_subtracts_injury_damage_modifier" : 0.68999999999999995,
-			"how_many_injuries_can_be_removed_at_once" : "All",
+			"how_many_injuries_can_be_removed_at_once" : "One",
 			"injury_removal_severity_priority" : "Most Severe",
 			"npc_multipliers" : 
 			{
