@@ -80,7 +80,7 @@
 	{
 		"EnableModSection" : 
 		{
-			"enableMod" : false
+			"enableMod" : true
 		},
 		"FeatFrequencySection" : 
 		{
