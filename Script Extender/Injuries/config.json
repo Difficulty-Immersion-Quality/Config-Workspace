@@ -38140,6 +38140,11 @@
 						"ability" : "No Save",
 						"difficulty_class" : 15
 					},
+					"GOON_GRIT_GLORY_LONGTERM_MADNESS_REMOVAL" : 
+					{
+						"ability" : "No Save",
+						"difficulty_class" : 15
+					},
 					"GOON_GRIT_GLORY_LONG_REST_TRACKER_LONGTERM_MADNESS_14" : 
 					{
 						"ability" : "No Save",
@@ -41877,6 +41882,11 @@
 						"difficulty_class" : 15
 					},
 					"GOON_GRIT_GLORY_LONG_REST_TRACKER_SHORTTERM_MADNESS_7" : 
+					{
+						"ability" : "No Save",
+						"difficulty_class" : 15
+					},
+					"GOON_GRIT_GLORY_SHORTTERM_MADNESS_REMOVAL" : 
 					{
 						"ability" : "No Save",
 						"difficulty_class" : 15
