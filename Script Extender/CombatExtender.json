@@ -164,16 +164,16 @@
   "PassiveName": "CX_Magic_Boost",
     "Act": {
       "1": {
-        "Spells": [],
-        "ExtraPassives": ["WarCaster_OpportunitySpell","Mod_MAG_AdditionalSpellSlot_Level1_Passive","BSM_BS_UnstoppableMassacre_Passive"]
+        "ExtraPassives": ["WarCaster_OpportunitySpell","Mod_MAG_AdditionalSpellSlot_Level1_Passive"],
+        "Spells": []
 },
       "2": {
-        "Spells": [],
-        "ExtraPassives": ["SpellSniper_Critical","Mod_MAG_AdditionalSpellSlot_Level2_Passive","WarCaster_Bonuses"]
+        "ExtraPassives": ["SpellSniper_Critical","SpellSniper_Empowered","Mod_MAG_AdditionalSpellSlot_Level2_Passive"],
+        "Spells": []
 },
       "3": {
-        "Spells": [],
-        "ExtraPassives": ["PotentCantrip","Mod_MAG_AdditionalSpellSlot_Level3_Passive","SYR_DeadlyAlacrity","Goon_SavageCaster"]
+        "ExtraPassives": ["WarCaster_Bonuses","PotentCantrip","Mod_MAG_AdditionalSpellSlot_Level3_Passive","Goon_SavageCaster"],
+        "Spells": []
 }
 }
 },
@@ -182,15 +182,15 @@
     "Act": {
       "1": {
         "Spells": ["Target_RecklessAttack","Projectile_Jump","Target_Shove"],
-        "ExtraPassives": ["Tough","BSM_BS_BerzerkerRing_Passive","BSM_BS_UnstoppableMassacre_Passive","MindlessRage","FeralInstinct"]
+        "ExtraPassives": ["Tough","MindlessRage"]
 },
       "2": {
         "Spells": ["Throw_FrenziedThrow","Target_FrenziedStrike","Shout_ActionSurge"],
-        "ExtraPassives": ["SavageAttacker","FightingStyle_GreatWeaponFighting","Mod_MAG_Shove_Damage","Goon_Summon_Potion_Healing_x1","Goon_Increased_Movement_2","BSM_BS_BerzerkerSeekingBlood_Passive"]
+        "ExtraPassives": ["FeralInstinct","SavageAttacker","FightingStyle_GreatWeaponFighting","Mod_MAG_Shove_Damage","Goon_Summon_Potion_Healing_x1","Goon_Increased_Movement_2"]
 },
       "3": {
-        "Spells": ["Projectile_StoneThrow"],
-        "ExtraPassives": ["Durable","BrutalCritical","RelentlessRage","Mobile_PassiveBonuses","DangerSense","BloodThirsty_Redcap","Mod_MAG_LowHP_IncreaseSpeed_Passive","Mod_CriticalVsObjects_Passive","Goon_Summon_Potion_Healing_Greater_x1","MAG_Violence_LowHP_Violence_Passive","MAG_Shove_DealDamage","ARA_Cloak_BullStrength","ImprovedCritical","BSM_BS_OniSkin_Passive","ExtraAttack_2"]
+        "Spells": ["Projectile_StoneThrow","Shout_Whirlwind"],
+        "ExtraPassives": ["Durable","BrutalCritical","RelentlessRage","Mobile_PassiveBonuses","DangerSense","BloodThirsty_Redcap","Mod_MAG_LowHP_IncreaseSpeed_Passive","Mod_CriticalVsObjects_Passive","Goon_Summon_Potion_Healing_Greater_x1","MAG_Violence_LowHP_Violence_Passive","MAG_Shove_DealDamage","ARA_Cloak_BullStrength","BSM_BS_BerzerkerRing_Passive","ExtraAttack_2","RR_Berserker_Heart_Passive"]
 }
 }
 },
@@ -198,16 +198,16 @@
   "PassiveName": "CX_Cleric_Boost",
     "Act": {
       "1": {
-        "Spells": ["Shout_WordOfRadiance","Target_LifeTransference","Projectile_GuidingBolt","Target_InflictWounds","Target_HealingWord","Shout_HealingWord_Mass","Target_TollTheDead","Target_Bless","Projectile_Jump","Target_Shove","Target_ShieldShove"],
-        "ExtraPassives": ["BSM_BS_UnstoppableMassacre_Passive"]
+        "Spells": ["Shout_WordOfRadiance","Projectile_GuidingBolt","Target_InflictWounds","Target_HealingWord","Shout_HealingWord_Mass","Target_Bless","Projectile_Jump","Target_Shove","Target_ShieldShove","Target_TollTheDead"],
+        "ExtraPassives": []
 },
       "2": {
-        "Spells": ["Shout_FocusingHum","Target_SummonShadowspawn","Target_Mystic_InciteCourage","Shout_SpiritGuardians"],
+        "Spells": ["VBT_Spell_0_SiphoningStrike","Shout_FocusingHum","Target_SummonShadowspawn","Target_Mystic_InciteCourage","Shout_SpiritGuardians"],
         "ExtraPassives": ["PotentSpellcasting","WarCaster_OpportunitySpell","WarCaster_Bonuses","Mod_MAG_AdditionalSpellSlot_Level1_Passive","Mod_MAG_AdditionalSpellSlot_Level2_Passive","Goon_Summon_Potion_Healing_Superior_x1"]
 },
       "3": {
-        "Spells": ["Shout_GirzanjesMarch","Projectile_ChillingDarkness","Projectile_MoonlightRay","Projectile_SearingLight","Projectile_DivineLance","Shout_AuraOfVitality","Zone_Sunbeam","Target_RiseUndead_DeathShepherd_Hardcore","NPC_ADAoE","Shout_MAG_DevoteesMace_Healing_Aura","Shout_AuraOfLife","Target_FlameStrike","Target_Contagion"],
-        "ExtraPassives": ["MAG_Healer_HealSelf_Passive","BlessedHealer","ShieldMaster_PassiveBonuses","ShieldMaster_Block","Goon_Summon_Potion_Healing_Superior_x1","ARA_Cloak_OwlWisdom","SYR_DeadlyAlacrity","FightingStyle_Protection","BSM_BS_BerzerkerReflexes_Passive"]
+        "Spells": ["Shout_GirzanjesMarch","Projectile_ChillingDarkness","Projectile_MoonlightRay","Projectile_SearingLight","Projectile_DivineLance","Shout_AuraOfVitality","Zone_Sunbeam","NPC_ADAoE"],
+        "ExtraPassives": ["MAG_Healer_HealSelf_Passive","BlessedHealer","ShieldMaster_PassiveBonuses","ShieldMaster_Block","Goon_Summon_Potion_Healing_Superior_x1","ARA_Cloak_OwlWisdom","FightingStyle_Protection"]
 }
 }
 },
@@ -237,7 +237,7 @@
 },
       "2": {
         "Spells": ["Target_Shove","Target_FlurryOfBlows"],
-        "ExtraPassives": ["SavageAttacker","TavernBrawler_Bonuses","TavernBrawler","ARP_KiPoint_1","SYR_DeadlyAlacrity","UnarmoredMovement_1"]
+        "ExtraPassives": ["SavageAttacker","TavernBrawler_Bonuses","TavernBrawler","ARP_KiPoint_1","ImprovedCritical","UnarmoredMovement_1"]
 }
 },
       "3": {
@@ -249,16 +249,16 @@
   "PassiveName": "CX_Paladin_Boost",
     "Act": {
       "1": {
-        "Spells": ["Target_BoomingBlade","Target_GreenFlameBlade","Target_Smite_Thunderous","Target_Smite_Wrathful","Target_Smite_Searing","Projectile_Jump","Target_Shove","Shout_ActionSurge"],
-        "ExtraPassives": ["FightingStyle_GreatWeaponFighting","FightingStyle_Dueling","Sentinel_Attack","Sentinel_OpportunityAdvantage","Smite_Divine_NPC","Goon_Summon_Potion_Healing_x1","BSM_BS_BerzerkerRing_Passive","BSM_BS_UnstoppableMassacre_Passive"]
+        "Spells": ["Target_BoomingBlade","Target_GreenFlameBlade","Target_Smite_Thunderous","Target_Smite_Wrathful","Target_Smite_Searing","Projectile_Jump","Target_Shove"],
+        "ExtraPassives": ["FightingStyle_GreatWeaponFighting","FightingStyle_Dueling","Sentinel_Attack","Sentinel_OpportunityAdvantage","Smite_Divine_NPC","Goon_Summon_Potion_Healing_x1"]
 },
       "2": {
-        "Spells": ["Target_HolyWeapon","Target_Smite_Divine"],
-        "ExtraPassives": ["MAG_Paladin_LayOnHandsSupport_Gloves_Passive","WarMagic","Sentinel_ZeroSpeed","SteelWill","Goon_Summon_Potion_Healing_Greater_x1","ImprovedCritical","FightingStyle_TwoWeaponFighting","FightingStyle_Protection"]
+        "Spells": ["Target_HolyWeapon"],
+        "ExtraPassives": ["MAG_Paladin_LayOnHandsSupport_Gloves_Passive","WarMagic","Sentinel_ZeroSpeed","SteelWill","Goon_Summon_Potion_Healing_Greater_x1","FightingStyle_TwoWeaponFighting","FightingStyle_Protection","ImprovedCritical"]
 },
       "3": {
-        "Spells": ["CUST_Rally","Shout_PrayerOfHealing","Shout_AuraOfLife","Target_Smite_Blinding","Shout_HealingRadiance","Target_Smite_Divine","Target_ShieldShove"],
-        "ExtraPassives": ["ImprovedDivineSmite","FightingStyle_GreatWeaponFighting","Tough","WarCaster_Bonuses","WarCaster_OpportunitySpell","SavageAttacker","ShieldMaster_PassiveBonuses","ShieldMaster_Block","Smite_Divine_2_NPC","RelentlessAvenger","SYR_WarMagic","BeguilingDefenses","Mod_MAG_Critical_Force_Critical_Passive","Mod_CriticalVsObjects_Passive","Goon_Summon_Potion_Healing_Supreme_x1","PolearmMaster_AttackOfOpportunity","PolearmMaster_BonusAttack","SYR_DeadlyAlacrity","ExtraAttack_2"]
+        "Spells": ["VBT_Spell_3_Smite_Draining_Melee","VBT_Spell_3_Smite_Draining_Ranged","CUST_Rally","Shout_PrayerOfHealing","Shout_AuraOfLife","Target_Smite_Blinding","Shout_ActionSurge","Shout_HealingRadiance","Target_Smite_Divine","Target_ShieldShove"],
+        "ExtraPassives": ["ImprovedDivineSmite","FightingStyle_GreatWeaponFighting","Tough","WarCaster_Bonuses","WarCaster_OpportunitySpell","SavageAttacker","ShieldMaster_PassiveBonuses","ShieldMaster_Block","Smite_Divine_2_NPC","RelentlessAvenger","SYR_WarMagic","BeguilingDefenses","Mod_MAG_Critical_Force_Critical_Passive","Mod_CriticalVsObjects_Passive","PolearmMaster_AttackOfOpportunity","PolearmMaster_BonusAttack","ExtraAttack_2"]
 }
 }
 },
@@ -266,16 +266,16 @@
   "PassiveName": "CX_Ranger_Boost",
     "Act": {
       "1": {
-        "Spells": ["Target_BoomingBlade","Target_GreenFlameBlade","Projectile_Jump","Shout_ActionSurge","Target_MistyStep"],
-        "ExtraPassives": ["FightingStyle_Archery","Goon_Summon_Potion_Healing_x1","BSM_BS_BerzerkerRing_Passive","BSM_BS_UnstoppableMassacre_Passive"]
+        "Spells": ["Target_BoomingBlade","Target_GreenFlameBlade","Projectile_Jump","Target_MistyStep"],
+        "ExtraPassives": ["FightingStyle_Archery","Goon_Summon_Potion_Healing_x1"]
 },
       "2": {
         "Spells": ["Target_ElementalWeapon","Projectile_HailOfThorns"],
-        "ExtraPassives": ["SYR_LightArmorMaster","CrossbowExpert_PointBlank","Mobile_PassiveBonuses","FightingStyle_Dueling","FightingStyle_TwoWeaponFighting","Goon_Increased_Movement_2","Goon_Summon_Potion_Healing_Greater_x1","MultiattackDefense","DreadAmbusher"]
+        "ExtraPassives": ["SYR_LightArmorMaster","CrossbowExpert_PointBlank","Mobile_PassiveBonuses","FightingStyle_Dueling","FightingStyle_TwoWeaponFighting","Goon_Increased_Movement_2","Goon_Summon_Potion_Healing_Greater_x1"]
 },
       "3": {
-        "Spells": ["Target_Smite_Searing","Target_Snare","Target_SummonBeast","Target_SummonFey","Target_SummonElemental","Shout_SwiftQuiver","Shout_HideInPlainSight","Target_Volley","Shout_Whirlwind"],
-        "ExtraPassives": ["SYR_DeadlyAlacrity","EscapeTheHorde","Mod_Reckless_Aim","Mod_PointBlank","Mod_LeaperStride","Goon_Summon_Potion_Healing_Superior_x1","DualWielder_PassiveBonuses","ARA_Cloak_ToRangedAttack_Passive","ImprovedCritical","FightingStyle_Protection","VV_Bloodletter_Passive","ExtraAttack_2","ColossusSlayer","SYR_Feat_WarMagic_AltSpell_Passive","SavageAttacker","Goon_SavageShooter","Target_MAG_TheDueller_BonusAttack"]
+        "Spells": ["Target_Smite_Searing","Target_Snare","Target_SummonBeast","Target_SummonFey","Target_SummonElemental","Shout_SwiftQuiver","Shout_HideInPlainSight","Target_Volley"],
+        "ExtraPassives": ["SYR_DeadlyAlacrity","EscapeTheHorde","Mod_Reckless_Aim","Mod_PointBlank","Mod_LeaperStride","Goon_Summon_Potion_Healing_Superior_x1","DualWielder_PassiveBonuses","ARA_Cloak_ToRangedAttack_Passive","ImprovedCritical","DreadAmbusher"]
 }
 }
 },
@@ -283,16 +283,16 @@
   "PassiveName": "CX_Rogue_Boost",
     "Act": {
       "1": {
-        "Spells": ["Projectile_SneakAttack","Target_SneakAttack","Projectile_Jump","Shout_Dash_CunningAction","Shout_Disengage_CunningAction","Shout_Hide_BonusAction"],
-        "ExtraPassives": ["SYR_LightArmorMaster","Mobile_PassiveBonuses","Goon_Summon_Potion_Healing_x1","BSM_BS_UnstoppableMassacre_Passive","UnarmoredMovement_1"]
+        "Spells": ["Projectile_SneakAttack","Target_SneakAttack","Projectile_Jump"],
+        "ExtraPassives": ["SYR_LightArmorMaster","Mobile_PassiveBonuses","Goon_Summon_Potion_Healing_x1"]
 },
       "2": {
         "Spells": ["MO_Projectile_Jump_Dex"],
-        "ExtraPassives": ["UncannyDodge","SYR_DeadlyAlacrity","SYR_NimbleFingers","CrossbowExpert_PointBlank","Goon_Increased_Movement_2","Goon_Summon_Potion_Healing_Superior_x2","DualWielder_PassiveBonuses","SYR_DeadlyAlacrity","BSM_BS_BerzerkerReflexes_Passive","VV_Bloodletter_Passive","FightingStyle_Dueling","FightingStyle_TwoWeaponFighting","Mobile_CounterAttackOfOpportunity","Mobile_DashAcrossDifficultTerrain","DreadAmbusher","MultiattackDefense","Riposte","ARP_SuperiorityDie_5","UnarmoredMovement_2"]
+        "ExtraPassives": ["UncannyDodge","SYR_DeadlyAlacrity","SYR_NimbleFingers","CrossbowExpert_PointBlank","Goon_Increased_Movement_2","Goon_Summon_Potion_Healing_Superior_x2","DualWielder_PassiveBonuses","FightingStyle_Dueling","FightingStyle_TwoWeaponFighting","Shout_Dash_CunningAction","Shout_Disengage_CunningAction","Shout_Hide_BonusAction","UnarmoredMovement_1,"]
 },
       "3": {
-        "ExtraPassives": ["Evasion","ReliableTalent","SYR_ThiefsApprentice","SYR_Alchemist","EscapeTheHorde","Target_MAG_TheDueller_BonusAttack","Mod_MAG_TheClover_Rearrangement_Passive","BloodThirsty_Redcap","Mod_DEN_Apprentice_DaggerOfShar_Passive","Mod_MAG_Infernal_Weapon_Passive","Mod_MAG_Slicing_Shortsword_Passive","Mod_Reckless_Aim","Mod_PointBlank","Mod_Greater_LeaperStride","Goon_Summon_Potion_Healing_Supreme_x1","MAG_Harpers_RingOfTwilight_Passive","MAG_Cunning_HandCrossbow_Combo_Passive","ARA_Cloak_CatGrace","ImprovedCritical","VV_CorneredRat_Passive","VV_KillerRespite_Passive","ExtraAttack","Assassinate_Ambush","Assassinate_Initiative","StalkersFlurry","SavageAttacker","Goon_SavageShooter","Fast_Hands"],
-        "Spells": ["Projectile_StoneThrow","UnarmoredMovement_3"]
+        "Spells": ["Projectile_StoneThrow"],
+        "ExtraPassives": ["Evasion","ReliableTalent","SYR_ThiefsApprentice","SYR_Alchemist","EscapeTheHorde","Mod_MAG_TheClover_Rearrangement_Passive","BloodThirsty_Redcap","Mod_DEN_Apprentice_DaggerOfShar_Passive","Mod_MAG_Infernal_Weapon_Passive","Mod_MAG_Slicing_Shortsword_Passive","Mod_Reckless_Aim","Mod_PointBlank","Mod_Greater_LeaperStride","MAG_Harpers_RingOfTwilight_Passive","MAG_Cunning_HandCrossbow_Combo_Passive","ARA_Cloak_CatGrace","BSM_BS_UnstoppableMassacre_Passive","VV_Bloodletter_Passive","ExtraAttack"]
 }
 }
 },
@@ -301,7 +301,7 @@
     "Act": {
       "1": {
         "ExtraPassives": ["ARP_SpellSlot_1_1","ARP_SpellSlot_2_1"],
-      "Spells": ["VBT_Spell_2_MawOfHadar","VBT_Spell_1_HandsOfIhbar","VBT_Spell_1_ShadowTendrils","VBT_Spell_1_HandsOfNihal","VBT_Spell_0_HarrowingRay","Target_MindSliver","Target_MindSpike","Projectile_EldritchBlast"]
+        "Spells": ["VBT_Spell_2_MawOfHadar","VBT_Spell_1_HandsOfIhbar","VBT_Spell_1_ShadowTendrils","VBT_Spell_1_HandsOfNihal","VBT_Spell_0_HarrowingRay","Target_MindSliver","Target_MindSpike","Projectile_EldritchBlast"]
 },
       "2": {
         "ExtraPassives": ["ARP_SpellSlot_3_1","ARP_SpellSlot_4_1","AgonizingBlast"],
