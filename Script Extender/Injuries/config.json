@@ -9528,7 +9528,7 @@
 				"Medium" : 10,
 				"modifiers" : 
 				{
-					"Attack Was A Critical" : 15,
+					"Attack Was A Critical" : 10,
 					"Each Existing Injury Of Same Severity" : 0,
 					"Was Downed This Round" : 0
 				}
