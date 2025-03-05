@@ -404,6 +404,7 @@
 					"number_of_rounds" : 1
 				},
 				"chance_of_application" : 50,
+				"character_multipliers" : [],
 				"damage" : 
 				{
 					"threshold" : 10
@@ -467,6 +468,7 @@
 					"number_of_rounds" : 1
 				},
 				"chance_of_application" : 50,
+				"character_multipliers" : [],
 				"damage" : 
 				{
 					"threshold" : 10
@@ -530,6 +532,7 @@
 					"number_of_rounds" : 1
 				},
 				"chance_of_application" : 50,
+				"character_multipliers" : [],
 				"damage" : 
 				{
 					"threshold" : 10
@@ -593,6 +596,7 @@
 					"number_of_rounds" : 1
 				},
 				"chance_of_application" : 50,
+				"character_multipliers" : [],
 				"damage" : 
 				{
 					"threshold" : 10
@@ -656,6 +660,7 @@
 					"number_of_rounds" : 1
 				},
 				"chance_of_application" : 50,
+				"character_multipliers" : [],
 				"damage" : 
 				{
 					"threshold" : 10
@@ -719,6 +724,7 @@
 					"number_of_rounds" : 1
 				},
 				"chance_of_application" : 50,
+				"character_multipliers" : [],
 				"damage" : 
 				{
 					"threshold" : 10
@@ -775,21 +781,25 @@
 						"GOON_REAL_INJURY_GRIT_GLORY_CARDIAC_INJURY" : 
 						{
 							"guarantee_application" : true,
-							"multiplier" : 1
+							"multiplier" : 1,
+							"onApplication" : true
 						},
 						"GOON_REAL_INJURY_GRIT_GLORY_SLEEP_DISRUPTION" : 
 						{
 							"guarantee_application" : true,
-							"multiplier" : 1
+							"multiplier" : 1,
+							"onApplication" : true
 						},
 						"GOON_REAL_INJURY_GRIT_GLORY_THROAT_INJURY" : 
 						{
 							"guarantee_application" : true,
-							"multiplier" : 1
+							"multiplier" : 1,
+							"onApplication" : true
 						}
 					},
 					"number_of_rounds" : 1
 				},
+				"character_multipliers" : [],
 				"damage" : 
 				{
 					"threshold" : 10
@@ -800,13 +810,13 @@
 					"GOON_UNRESTABLE_EXHAUSTION_REMOVAL" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15,
+						"onApplication" : true,
 						"stacks_to_remove" : 1
 					},
 					"TUT_RESTORATION" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15,
+						"onApplication" : true,
 						"stacks_to_remove" : 7
 					}
 				},
@@ -816,8 +826,10 @@
 			{
 				"apply_on_status" : 
 				{
+					"applicable_statuses" : [],
 					"number_of_rounds" : 3
 				},
+				"character_multipliers" : [],
 				"damage" : 
 				{
 					"threshold" : 10
@@ -828,13 +840,13 @@
 					"GOON_UNRESTABLE_EXHAUSTION_REMOVAL" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15,
+						"onApplication" : true,
 						"stacks_to_remove" : 1
 					},
 					"TUT_RESTORATION" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15,
+						"onApplication" : true,
 						"stacks_to_remove" : 2
 					}
 				},
@@ -844,8 +856,10 @@
 			{
 				"apply_on_status" : 
 				{
+					"applicable_statuses" : [],
 					"number_of_rounds" : 3
 				},
+				"character_multipliers" : [],
 				"damage" : 
 				{
 					"threshold" : 10
@@ -856,13 +870,13 @@
 					"GOON_UNRESTABLE_EXHAUSTION_REMOVAL" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15,
+						"onApplication" : true,
 						"stacks_to_remove" : 1
 					},
 					"TUT_RESTORATION" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15,
+						"onApplication" : true,
 						"stacks_to_remove" : 3
 					}
 				},
@@ -872,8 +886,10 @@
 			{
 				"apply_on_status" : 
 				{
+					"applicable_statuses" : [],
 					"number_of_rounds" : 3
 				},
+				"character_multipliers" : [],
 				"damage" : 
 				{
 					"threshold" : 10
@@ -884,13 +900,13 @@
 					"GOON_UNRESTABLE_EXHAUSTION_REMOVAL" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15,
+						"onApplication" : true,
 						"stacks_to_remove" : 1
 					},
 					"TUT_RESTORATION" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15,
+						"onApplication" : true,
 						"stacks_to_remove" : 4
 					}
 				},
@@ -900,8 +916,10 @@
 			{
 				"apply_on_status" : 
 				{
+					"applicable_statuses" : [],
 					"number_of_rounds" : 3
 				},
+				"character_multipliers" : [],
 				"damage" : 
 				{
 					"threshold" : 10
@@ -912,13 +930,13 @@
 					"GOON_UNRESTABLE_EXHAUSTION_REMOVAL" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15,
+						"onApplication" : true,
 						"stacks_to_remove" : 1
 					},
 					"TUT_RESTORATION" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15,
+						"onApplication" : true,
 						"stacks_to_remove" : 5
 					}
 				},
@@ -928,8 +946,10 @@
 			{
 				"apply_on_status" : 
 				{
+					"applicable_statuses" : [],
 					"number_of_rounds" : 3
 				},
+				"character_multipliers" : [],
 				"damage" : 
 				{
 					"threshold" : 10
@@ -940,13 +960,13 @@
 					"GOON_UNRESTABLE_EXHAUSTION_REMOVAL" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15,
+						"onApplication" : true,
 						"stacks_to_remove" : 1
 					},
 					"TUT_RESTORATION" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15,
+						"onApplication" : true,
 						"stacks_to_remove" : 6
 					}
 				},
@@ -956,8 +976,10 @@
 			{
 				"apply_on_status" : 
 				{
+					"applicable_statuses" : [],
 					"number_of_rounds" : 3
 				},
+				"character_multipliers" : [],
 				"damage" : 
 				{
 					"threshold" : 10
@@ -968,13 +990,13 @@
 					"GOON_UNRESTABLE_EXHAUSTION_REMOVAL" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15,
+						"onApplication" : true,
 						"stacks_to_remove" : 1
 					},
 					"TUT_RESTORATION" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15,
+						"onApplication" : true,
 						"stacks_to_remove" : 7
 					}
 				},
@@ -2451,7 +2473,6 @@
 					},
 					"number_of_rounds" : 5
 				},
-				"character_multipliers" : [],
 				"damage" : 
 				{
 					"damage_types" : 
@@ -8900,8 +8921,10 @@
 			{
 				"apply_on_status" : 
 				{
+					"applicable_statuses" : [],
 					"number_of_rounds" : 3
 				},
+				"character_multipliers" : [],
 				"damage" : 
 				{
 					"threshold" : 10
@@ -8912,27 +8935,27 @@
 					"GOON_GREATER_RESTORATION_INJURY_REMOVAL" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"onApplication" : true
 					},
 					"GOON_HEAL_INJURY_REMOVAL" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"onApplication" : true
 					},
 					"GOON_INJURY_KIT_INJURY_REMOVAL" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"onApplication" : true
 					},
 					"GOON_LONGTERM_MADNESS_5E_REMOVAL" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"onApplication" : true
 					},
 					"GOON_REGENERATE_INJURY_REMOVAL" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"onApplication" : true
 					}
 				},
 				"severity" : "Exclude"
@@ -8941,8 +8964,10 @@
 			{
 				"apply_on_status" : 
 				{
+					"applicable_statuses" : [],
 					"number_of_rounds" : 3
 				},
+				"character_multipliers" : [],
 				"damage" : 
 				{
 					"threshold" : 10
@@ -8953,27 +8978,27 @@
 					"GOON_GREATER_RESTORATION_INJURY_REMOVAL" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"onApplication" : true
 					},
 					"GOON_HEAL_INJURY_REMOVAL" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"onApplication" : true
 					},
 					"GOON_INJURY_KIT_INJURY_REMOVAL" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"onApplication" : true
 					},
 					"GOON_LONGTERM_MADNESS_5E_REMOVAL" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"onApplication" : true
 					},
 					"GOON_REGENERATE_INJURY_REMOVAL" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"onApplication" : true
 					}
 				},
 				"severity" : "Exclude"
@@ -8982,8 +9007,10 @@
 			{
 				"apply_on_status" : 
 				{
+					"applicable_statuses" : [],
 					"number_of_rounds" : 3
 				},
+				"character_multipliers" : [],
 				"damage" : 
 				{
 					"threshold" : 10
@@ -8994,27 +9021,27 @@
 					"GOON_GREATER_RESTORATION_INJURY_REMOVAL" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"onApplication" : true
 					},
 					"GOON_HEAL_INJURY_REMOVAL" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"onApplication" : true
 					},
 					"GOON_INJURY_KIT_INJURY_REMOVAL" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"onApplication" : true
 					},
 					"GOON_LONGTERM_MADNESS_5E_REMOVAL" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"onApplication" : true
 					},
 					"GOON_REGENERATE_INJURY_REMOVAL" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"onApplication" : true
 					}
 				},
 				"severity" : "Exclude"
@@ -9023,8 +9050,10 @@
 			{
 				"apply_on_status" : 
 				{
+					"applicable_statuses" : [],
 					"number_of_rounds" : 3
 				},
+				"character_multipliers" : [],
 				"damage" : 
 				{
 					"threshold" : 10
@@ -9035,27 +9064,27 @@
 					"GOON_GREATER_RESTORATION_INJURY_REMOVAL" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"onApplication" : true
 					},
 					"GOON_HEAL_INJURY_REMOVAL" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"onApplication" : true
 					},
 					"GOON_INJURY_KIT_INJURY_REMOVAL" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"onApplication" : true
 					},
 					"GOON_LONGTERM_MADNESS_5E_REMOVAL" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"onApplication" : true
 					},
 					"GOON_REGENERATE_INJURY_REMOVAL" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"onApplication" : true
 					}
 				},
 				"severity" : "Exclude"
@@ -9064,8 +9093,10 @@
 			{
 				"apply_on_status" : 
 				{
+					"applicable_statuses" : [],
 					"number_of_rounds" : 3
 				},
+				"character_multipliers" : [],
 				"damage" : 
 				{
 					"threshold" : 10
@@ -9076,27 +9107,27 @@
 					"GOON_GREATER_RESTORATION_INJURY_REMOVAL" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"onApplication" : true
 					},
 					"GOON_HEAL_INJURY_REMOVAL" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"onApplication" : true
 					},
 					"GOON_INJURY_KIT_INJURY_REMOVAL" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"onApplication" : true
 					},
 					"GOON_LONGTERM_MADNESS_5E_REMOVAL" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"onApplication" : true
 					},
 					"GOON_REGENERATE_INJURY_REMOVAL" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"onApplication" : true
 					}
 				},
 				"severity" : "Exclude"
@@ -9105,8 +9136,10 @@
 			{
 				"apply_on_status" : 
 				{
+					"applicable_statuses" : [],
 					"number_of_rounds" : 3
 				},
+				"character_multipliers" : [],
 				"damage" : 
 				{
 					"threshold" : 10
@@ -9117,27 +9150,27 @@
 					"GOON_GREATER_RESTORATION_INJURY_REMOVAL" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"onApplication" : true
 					},
 					"GOON_HEAL_INJURY_REMOVAL" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"onApplication" : true
 					},
 					"GOON_INJURY_KIT_INJURY_REMOVAL" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"onApplication" : true
 					},
 					"GOON_LONGTERM_MADNESS_5E_REMOVAL" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"onApplication" : true
 					},
 					"GOON_REGENERATE_INJURY_REMOVAL" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"onApplication" : true
 					}
 				},
 				"severity" : "Exclude"
@@ -9146,8 +9179,10 @@
 			{
 				"apply_on_status" : 
 				{
+					"applicable_statuses" : [],
 					"number_of_rounds" : 3
 				},
+				"character_multipliers" : [],
 				"damage" : 
 				{
 					"threshold" : 10
@@ -9158,32 +9193,32 @@
 					"GOON_GREATER_RESTORATION_INJURY_REMOVAL" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"onApplication" : true
 					},
 					"GOON_HEAL_INJURY_REMOVAL" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"onApplication" : true
 					},
 					"GOON_INJURY_KIT_INJURY_REMOVAL" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"onApplication" : true
 					},
 					"GOON_LESSER_RESTORATION_INJURY_REMOVAL" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"onApplication" : true
 					},
 					"GOON_REGENERATE_INJURY_REMOVAL" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"onApplication" : true
 					},
 					"GOON_SHORTTERM_MADNESS_5E_REMOVAL" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"onApplication" : true
 					}
 				},
 				"severity" : "Exclude"
@@ -9192,8 +9227,10 @@
 			{
 				"apply_on_status" : 
 				{
+					"applicable_statuses" : [],
 					"number_of_rounds" : 3
 				},
+				"character_multipliers" : [],
 				"damage" : 
 				{
 					"threshold" : 10
@@ -9204,32 +9241,32 @@
 					"GOON_GREATER_RESTORATION_INJURY_REMOVAL" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"onApplication" : true
 					},
 					"GOON_HEAL_INJURY_REMOVAL" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"onApplication" : true
 					},
 					"GOON_INJURY_KIT_INJURY_REMOVAL" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"onApplication" : true
 					},
 					"GOON_LESSER_RESTORATION_INJURY_REMOVAL" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"onApplication" : true
 					},
 					"GOON_REGENERATE_INJURY_REMOVAL" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"onApplication" : true
 					},
 					"GOON_SHORTTERM_MADNESS_5E_REMOVAL" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"onApplication" : true
 					}
 				},
 				"severity" : "Exclude"
@@ -9238,8 +9275,10 @@
 			{
 				"apply_on_status" : 
 				{
+					"applicable_statuses" : [],
 					"number_of_rounds" : 3
 				},
+				"character_multipliers" : [],
 				"damage" : 
 				{
 					"threshold" : 10
@@ -9250,32 +9289,32 @@
 					"GOON_GREATER_RESTORATION_INJURY_REMOVAL" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"onApplication" : true
 					},
 					"GOON_HEAL_INJURY_REMOVAL" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"onApplication" : true
 					},
 					"GOON_INJURY_KIT_INJURY_REMOVAL" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"onApplication" : true
 					},
 					"GOON_LESSER_RESTORATION_INJURY_REMOVAL" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"onApplication" : true
 					},
 					"GOON_REGENERATE_INJURY_REMOVAL" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"onApplication" : true
 					},
 					"GOON_SHORTTERM_MADNESS_5E_REMOVAL" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"onApplication" : true
 					}
 				},
 				"severity" : "Exclude"
@@ -9284,8 +9323,10 @@
 			{
 				"apply_on_status" : 
 				{
+					"applicable_statuses" : [],
 					"number_of_rounds" : 3
 				},
+				"character_multipliers" : [],
 				"damage" : 
 				{
 					"threshold" : 10
@@ -9296,32 +9337,32 @@
 					"GOON_GREATER_RESTORATION_INJURY_REMOVAL" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"onApplication" : true
 					},
 					"GOON_HEAL_INJURY_REMOVAL" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"onApplication" : true
 					},
 					"GOON_INJURY_KIT_INJURY_REMOVAL" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"onApplication" : true
 					},
 					"GOON_LESSER_RESTORATION_INJURY_REMOVAL" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"onApplication" : true
 					},
 					"GOON_REGENERATE_INJURY_REMOVAL" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"onApplication" : true
 					},
 					"GOON_SHORTTERM_MADNESS_5E_REMOVAL" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"onApplication" : true
 					}
 				},
 				"severity" : "Exclude"
@@ -9330,8 +9371,10 @@
 			{
 				"apply_on_status" : 
 				{
+					"applicable_statuses" : [],
 					"number_of_rounds" : 3
 				},
+				"character_multipliers" : [],
 				"damage" : 
 				{
 					"threshold" : 10
@@ -9342,32 +9385,32 @@
 					"GOON_GREATER_RESTORATION_INJURY_REMOVAL" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"onApplication" : true
 					},
 					"GOON_HEAL_INJURY_REMOVAL" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"onApplication" : true
 					},
 					"GOON_INJURY_KIT_INJURY_REMOVAL" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"onApplication" : true
 					},
 					"GOON_LESSER_RESTORATION_INJURY_REMOVAL" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"onApplication" : true
 					},
 					"GOON_REGENERATE_INJURY_REMOVAL" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"onApplication" : true
 					},
 					"GOON_SHORTTERM_MADNESS_5E_REMOVAL" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"onApplication" : true
 					}
 				},
 				"severity" : "Exclude"
@@ -9376,8 +9419,10 @@
 			{
 				"apply_on_status" : 
 				{
+					"applicable_statuses" : [],
 					"number_of_rounds" : 3
 				},
+				"character_multipliers" : [],
 				"damage" : 
 				{
 					"threshold" : 10
@@ -9388,32 +9433,32 @@
 					"GOON_GREATER_RESTORATION_INJURY_REMOVAL" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"onApplication" : true
 					},
 					"GOON_HEAL_INJURY_REMOVAL" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"onApplication" : true
 					},
 					"GOON_INJURY_KIT_INJURY_REMOVAL" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"onApplication" : true
 					},
 					"GOON_LESSER_RESTORATION_INJURY_REMOVAL" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"onApplication" : true
 					},
 					"GOON_REGENERATE_INJURY_REMOVAL" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"onApplication" : true
 					},
 					"GOON_SHORTTERM_MADNESS_5E_REMOVAL" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"onApplication" : true
 					}
 				},
 				"severity" : "Exclude"
@@ -9422,8 +9467,10 @@
 			{
 				"apply_on_status" : 
 				{
+					"applicable_statuses" : [],
 					"number_of_rounds" : 3
 				},
+				"character_multipliers" : [],
 				"damage" : 
 				{
 					"threshold" : 10
@@ -9434,32 +9481,32 @@
 					"GOON_GREATER_RESTORATION_INJURY_REMOVAL" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"onApplication" : true
 					},
 					"GOON_HEAL_INJURY_REMOVAL" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"onApplication" : true
 					},
 					"GOON_INJURY_KIT_INJURY_REMOVAL" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"onApplication" : true
 					},
 					"GOON_LESSER_RESTORATION_INJURY_REMOVAL" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"onApplication" : true
 					},
 					"GOON_REGENERATE_INJURY_REMOVAL" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"onApplication" : true
 					},
 					"GOON_SHORTTERM_MADNESS_5E_REMOVAL" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"onApplication" : true
 					}
 				},
 				"severity" : "Exclude"
@@ -9468,8 +9515,10 @@
 			{
 				"apply_on_status" : 
 				{
+					"applicable_statuses" : [],
 					"number_of_rounds" : 3
 				},
+				"character_multipliers" : [],
 				"damage" : 
 				{
 					"threshold" : 10
@@ -9480,32 +9529,32 @@
 					"GOON_GREATER_RESTORATION_INJURY_REMOVAL" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"onApplication" : true
 					},
 					"GOON_HEAL_INJURY_REMOVAL" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"onApplication" : true
 					},
 					"GOON_INJURY_KIT_INJURY_REMOVAL" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"onApplication" : true
 					},
 					"GOON_LESSER_RESTORATION_INJURY_REMOVAL" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"onApplication" : true
 					},
 					"GOON_REGENERATE_INJURY_REMOVAL" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"onApplication" : true
 					},
 					"GOON_SHORTTERM_MADNESS_5E_REMOVAL" : 
 					{
 						"ability" : "No Save",
-						"difficulty_class" : 15
+						"onApplication" : true
 					}
 				},
 				"severity" : "Exclude"
