@@ -340,7 +340,6 @@
 					"number_of_rounds" : 1
 				},
 				"chance_of_application" : 50,
-				"character_multipliers" : [],
 				"damage" : 
 				{
 					"threshold" : 100
@@ -404,7 +403,6 @@
 					"number_of_rounds" : 1
 				},
 				"chance_of_application" : 50,
-				"character_multipliers" : [],
 				"damage" : 
 				{
 					"threshold" : 10
@@ -468,7 +466,6 @@
 					"number_of_rounds" : 1
 				},
 				"chance_of_application" : 50,
-				"character_multipliers" : [],
 				"damage" : 
 				{
 					"threshold" : 10
@@ -532,7 +529,6 @@
 					"number_of_rounds" : 1
 				},
 				"chance_of_application" : 50,
-				"character_multipliers" : [],
 				"damage" : 
 				{
 					"threshold" : 10
@@ -596,7 +592,6 @@
 					"number_of_rounds" : 1
 				},
 				"chance_of_application" : 50,
-				"character_multipliers" : [],
 				"damage" : 
 				{
 					"threshold" : 10
@@ -660,7 +655,6 @@
 					"number_of_rounds" : 1
 				},
 				"chance_of_application" : 50,
-				"character_multipliers" : [],
 				"damage" : 
 				{
 					"threshold" : 10
@@ -724,7 +718,6 @@
 					"number_of_rounds" : 1
 				},
 				"chance_of_application" : 50,
-				"character_multipliers" : [],
 				"damage" : 
 				{
 					"threshold" : 10
@@ -799,7 +792,6 @@
 					},
 					"number_of_rounds" : 1
 				},
-				"character_multipliers" : [],
 				"damage" : 
 				{
 					"threshold" : 10
@@ -826,10 +818,8 @@
 			{
 				"apply_on_status" : 
 				{
-					"applicable_statuses" : [],
 					"number_of_rounds" : 3
 				},
-				"character_multipliers" : [],
 				"damage" : 
 				{
 					"threshold" : 10
@@ -856,10 +846,8 @@
 			{
 				"apply_on_status" : 
 				{
-					"applicable_statuses" : [],
 					"number_of_rounds" : 3
 				},
-				"character_multipliers" : [],
 				"damage" : 
 				{
 					"threshold" : 10
@@ -886,10 +874,8 @@
 			{
 				"apply_on_status" : 
 				{
-					"applicable_statuses" : [],
 					"number_of_rounds" : 3
 				},
-				"character_multipliers" : [],
 				"damage" : 
 				{
 					"threshold" : 10
@@ -916,10 +902,8 @@
 			{
 				"apply_on_status" : 
 				{
-					"applicable_statuses" : [],
 					"number_of_rounds" : 3
 				},
-				"character_multipliers" : [],
 				"damage" : 
 				{
 					"threshold" : 10
@@ -946,10 +930,8 @@
 			{
 				"apply_on_status" : 
 				{
-					"applicable_statuses" : [],
 					"number_of_rounds" : 3
 				},
-				"character_multipliers" : [],
 				"damage" : 
 				{
 					"threshold" : 10
@@ -976,10 +958,8 @@
 			{
 				"apply_on_status" : 
 				{
-					"applicable_statuses" : [],
 					"number_of_rounds" : 3
 				},
-				"character_multipliers" : [],
 				"damage" : 
 				{
 					"threshold" : 10
@@ -8921,642 +8901,182 @@
 			{
 				"apply_on_status" : 
 				{
-					"applicable_statuses" : [],
 					"number_of_rounds" : 3
 				},
-				"character_multipliers" : [],
 				"damage" : 
 				{
 					"threshold" : 10
 				},
 				"include_in_random_table" : true,
-				"remove_on_status" : 
-				{
-					"GOON_GREATER_RESTORATION_INJURY_REMOVAL" : 
-					{
-						"ability" : "No Save",
-						"onApplication" : true
-					},
-					"GOON_HEAL_INJURY_REMOVAL" : 
-					{
-						"ability" : "No Save",
-						"onApplication" : true
-					},
-					"GOON_INJURY_KIT_INJURY_REMOVAL" : 
-					{
-						"ability" : "No Save",
-						"onApplication" : true
-					},
-					"GOON_LONGTERM_MADNESS_5E_REMOVAL" : 
-					{
-						"ability" : "No Save",
-						"onApplication" : true
-					},
-					"GOON_REGENERATE_INJURY_REMOVAL" : 
-					{
-						"ability" : "No Save",
-						"onApplication" : true
-					}
-				},
 				"severity" : "Exclude"
 			},
 			"GOON_MADNESS_5E_LONGTERM_COMATOSED" : 
 			{
 				"apply_on_status" : 
 				{
-					"applicable_statuses" : [],
 					"number_of_rounds" : 3
 				},
-				"character_multipliers" : [],
 				"damage" : 
 				{
 					"threshold" : 10
 				},
 				"include_in_random_table" : true,
-				"remove_on_status" : 
-				{
-					"GOON_GREATER_RESTORATION_INJURY_REMOVAL" : 
-					{
-						"ability" : "No Save",
-						"onApplication" : true
-					},
-					"GOON_HEAL_INJURY_REMOVAL" : 
-					{
-						"ability" : "No Save",
-						"onApplication" : true
-					},
-					"GOON_INJURY_KIT_INJURY_REMOVAL" : 
-					{
-						"ability" : "No Save",
-						"onApplication" : true
-					},
-					"GOON_LONGTERM_MADNESS_5E_REMOVAL" : 
-					{
-						"ability" : "No Save",
-						"onApplication" : true
-					},
-					"GOON_REGENERATE_INJURY_REMOVAL" : 
-					{
-						"ability" : "No Save",
-						"onApplication" : true
-					}
-				},
 				"severity" : "Exclude"
 			},
 			"GOON_MADNESS_5E_LONGTERM_HALLUCINATIONS" : 
 			{
 				"apply_on_status" : 
 				{
-					"applicable_statuses" : [],
 					"number_of_rounds" : 3
 				},
-				"character_multipliers" : [],
 				"damage" : 
 				{
 					"threshold" : 10
 				},
 				"include_in_random_table" : true,
-				"remove_on_status" : 
-				{
-					"GOON_GREATER_RESTORATION_INJURY_REMOVAL" : 
-					{
-						"ability" : "No Save",
-						"onApplication" : true
-					},
-					"GOON_HEAL_INJURY_REMOVAL" : 
-					{
-						"ability" : "No Save",
-						"onApplication" : true
-					},
-					"GOON_INJURY_KIT_INJURY_REMOVAL" : 
-					{
-						"ability" : "No Save",
-						"onApplication" : true
-					},
-					"GOON_LONGTERM_MADNESS_5E_REMOVAL" : 
-					{
-						"ability" : "No Save",
-						"onApplication" : true
-					},
-					"GOON_REGENERATE_INJURY_REMOVAL" : 
-					{
-						"ability" : "No Save",
-						"onApplication" : true
-					}
-				},
 				"severity" : "Exclude"
 			},
 			"GOON_MADNESS_5E_LONGTERM_PANICKY" : 
 			{
 				"apply_on_status" : 
 				{
-					"applicable_statuses" : [],
 					"number_of_rounds" : 3
 				},
-				"character_multipliers" : [],
 				"damage" : 
 				{
 					"threshold" : 10
 				},
 				"include_in_random_table" : true,
-				"remove_on_status" : 
-				{
-					"GOON_GREATER_RESTORATION_INJURY_REMOVAL" : 
-					{
-						"ability" : "No Save",
-						"onApplication" : true
-					},
-					"GOON_HEAL_INJURY_REMOVAL" : 
-					{
-						"ability" : "No Save",
-						"onApplication" : true
-					},
-					"GOON_INJURY_KIT_INJURY_REMOVAL" : 
-					{
-						"ability" : "No Save",
-						"onApplication" : true
-					},
-					"GOON_LONGTERM_MADNESS_5E_REMOVAL" : 
-					{
-						"ability" : "No Save",
-						"onApplication" : true
-					},
-					"GOON_REGENERATE_INJURY_REMOVAL" : 
-					{
-						"ability" : "No Save",
-						"onApplication" : true
-					}
-				},
 				"severity" : "Exclude"
 			},
 			"GOON_MADNESS_5E_LONGTERM_PARANOIA" : 
 			{
 				"apply_on_status" : 
 				{
-					"applicable_statuses" : [],
 					"number_of_rounds" : 3
 				},
-				"character_multipliers" : [],
 				"damage" : 
 				{
 					"threshold" : 10
 				},
 				"include_in_random_table" : true,
-				"remove_on_status" : 
-				{
-					"GOON_GREATER_RESTORATION_INJURY_REMOVAL" : 
-					{
-						"ability" : "No Save",
-						"onApplication" : true
-					},
-					"GOON_HEAL_INJURY_REMOVAL" : 
-					{
-						"ability" : "No Save",
-						"onApplication" : true
-					},
-					"GOON_INJURY_KIT_INJURY_REMOVAL" : 
-					{
-						"ability" : "No Save",
-						"onApplication" : true
-					},
-					"GOON_LONGTERM_MADNESS_5E_REMOVAL" : 
-					{
-						"ability" : "No Save",
-						"onApplication" : true
-					},
-					"GOON_REGENERATE_INJURY_REMOVAL" : 
-					{
-						"ability" : "No Save",
-						"onApplication" : true
-					}
-				},
 				"severity" : "Exclude"
 			},
 			"GOON_MADNESS_5E_LONGTERM_TREMORS" : 
 			{
 				"apply_on_status" : 
 				{
-					"applicable_statuses" : [],
 					"number_of_rounds" : 3
 				},
-				"character_multipliers" : [],
 				"damage" : 
 				{
 					"threshold" : 10
 				},
 				"include_in_random_table" : true,
-				"remove_on_status" : 
-				{
-					"GOON_GREATER_RESTORATION_INJURY_REMOVAL" : 
-					{
-						"ability" : "No Save",
-						"onApplication" : true
-					},
-					"GOON_HEAL_INJURY_REMOVAL" : 
-					{
-						"ability" : "No Save",
-						"onApplication" : true
-					},
-					"GOON_INJURY_KIT_INJURY_REMOVAL" : 
-					{
-						"ability" : "No Save",
-						"onApplication" : true
-					},
-					"GOON_LONGTERM_MADNESS_5E_REMOVAL" : 
-					{
-						"ability" : "No Save",
-						"onApplication" : true
-					},
-					"GOON_REGENERATE_INJURY_REMOVAL" : 
-					{
-						"ability" : "No Save",
-						"onApplication" : true
-					}
-				},
 				"severity" : "Exclude"
 			},
 			"GOON_MADNESS_5E_SHORTTERM_HALLUCINATIONS" : 
 			{
 				"apply_on_status" : 
 				{
-					"applicable_statuses" : [],
 					"number_of_rounds" : 3
 				},
-				"character_multipliers" : [],
 				"damage" : 
 				{
 					"threshold" : 10
 				},
 				"include_in_random_table" : true,
-				"remove_on_status" : 
-				{
-					"GOON_GREATER_RESTORATION_INJURY_REMOVAL" : 
-					{
-						"ability" : "No Save",
-						"onApplication" : true
-					},
-					"GOON_HEAL_INJURY_REMOVAL" : 
-					{
-						"ability" : "No Save",
-						"onApplication" : true
-					},
-					"GOON_INJURY_KIT_INJURY_REMOVAL" : 
-					{
-						"ability" : "No Save",
-						"onApplication" : true
-					},
-					"GOON_LESSER_RESTORATION_INJURY_REMOVAL" : 
-					{
-						"ability" : "No Save",
-						"onApplication" : true
-					},
-					"GOON_REGENERATE_INJURY_REMOVAL" : 
-					{
-						"ability" : "No Save",
-						"onApplication" : true
-					},
-					"GOON_SHORTTERM_MADNESS_5E_REMOVAL" : 
-					{
-						"ability" : "No Save",
-						"onApplication" : true
-					}
-				},
 				"severity" : "Exclude"
 			},
 			"GOON_MADNESS_5E_SHORTTERM_HOMICIDAL" : 
 			{
 				"apply_on_status" : 
 				{
-					"applicable_statuses" : [],
 					"number_of_rounds" : 3
 				},
-				"character_multipliers" : [],
 				"damage" : 
 				{
 					"threshold" : 10
 				},
 				"include_in_random_table" : true,
-				"remove_on_status" : 
-				{
-					"GOON_GREATER_RESTORATION_INJURY_REMOVAL" : 
-					{
-						"ability" : "No Save",
-						"onApplication" : true
-					},
-					"GOON_HEAL_INJURY_REMOVAL" : 
-					{
-						"ability" : "No Save",
-						"onApplication" : true
-					},
-					"GOON_INJURY_KIT_INJURY_REMOVAL" : 
-					{
-						"ability" : "No Save",
-						"onApplication" : true
-					},
-					"GOON_LESSER_RESTORATION_INJURY_REMOVAL" : 
-					{
-						"ability" : "No Save",
-						"onApplication" : true
-					},
-					"GOON_REGENERATE_INJURY_REMOVAL" : 
-					{
-						"ability" : "No Save",
-						"onApplication" : true
-					},
-					"GOON_SHORTTERM_MADNESS_5E_REMOVAL" : 
-					{
-						"ability" : "No Save",
-						"onApplication" : true
-					}
-				},
 				"severity" : "Exclude"
 			},
 			"GOON_MADNESS_5E_SHORTTERM_HYSTERIA" : 
 			{
 				"apply_on_status" : 
 				{
-					"applicable_statuses" : [],
 					"number_of_rounds" : 3
 				},
-				"character_multipliers" : [],
 				"damage" : 
 				{
 					"threshold" : 10
 				},
 				"include_in_random_table" : true,
-				"remove_on_status" : 
-				{
-					"GOON_GREATER_RESTORATION_INJURY_REMOVAL" : 
-					{
-						"ability" : "No Save",
-						"onApplication" : true
-					},
-					"GOON_HEAL_INJURY_REMOVAL" : 
-					{
-						"ability" : "No Save",
-						"onApplication" : true
-					},
-					"GOON_INJURY_KIT_INJURY_REMOVAL" : 
-					{
-						"ability" : "No Save",
-						"onApplication" : true
-					},
-					"GOON_LESSER_RESTORATION_INJURY_REMOVAL" : 
-					{
-						"ability" : "No Save",
-						"onApplication" : true
-					},
-					"GOON_REGENERATE_INJURY_REMOVAL" : 
-					{
-						"ability" : "No Save",
-						"onApplication" : true
-					},
-					"GOON_SHORTTERM_MADNESS_5E_REMOVAL" : 
-					{
-						"ability" : "No Save",
-						"onApplication" : true
-					}
-				},
 				"severity" : "Exclude"
 			},
 			"GOON_MADNESS_5E_SHORTTERM_INTIMIDATED" : 
 			{
 				"apply_on_status" : 
 				{
-					"applicable_statuses" : [],
 					"number_of_rounds" : 3
 				},
-				"character_multipliers" : [],
 				"damage" : 
 				{
 					"threshold" : 10
 				},
 				"include_in_random_table" : true,
-				"remove_on_status" : 
-				{
-					"GOON_GREATER_RESTORATION_INJURY_REMOVAL" : 
-					{
-						"ability" : "No Save",
-						"onApplication" : true
-					},
-					"GOON_HEAL_INJURY_REMOVAL" : 
-					{
-						"ability" : "No Save",
-						"onApplication" : true
-					},
-					"GOON_INJURY_KIT_INJURY_REMOVAL" : 
-					{
-						"ability" : "No Save",
-						"onApplication" : true
-					},
-					"GOON_LESSER_RESTORATION_INJURY_REMOVAL" : 
-					{
-						"ability" : "No Save",
-						"onApplication" : true
-					},
-					"GOON_REGENERATE_INJURY_REMOVAL" : 
-					{
-						"ability" : "No Save",
-						"onApplication" : true
-					},
-					"GOON_SHORTTERM_MADNESS_5E_REMOVAL" : 
-					{
-						"ability" : "No Save",
-						"onApplication" : true
-					}
-				},
 				"severity" : "Exclude"
 			},
 			"GOON_MADNESS_5E_SHORTTERM_PARALYSED" : 
 			{
 				"apply_on_status" : 
 				{
-					"applicable_statuses" : [],
 					"number_of_rounds" : 3
 				},
-				"character_multipliers" : [],
 				"damage" : 
 				{
 					"threshold" : 10
 				},
 				"include_in_random_table" : true,
-				"remove_on_status" : 
-				{
-					"GOON_GREATER_RESTORATION_INJURY_REMOVAL" : 
-					{
-						"ability" : "No Save",
-						"onApplication" : true
-					},
-					"GOON_HEAL_INJURY_REMOVAL" : 
-					{
-						"ability" : "No Save",
-						"onApplication" : true
-					},
-					"GOON_INJURY_KIT_INJURY_REMOVAL" : 
-					{
-						"ability" : "No Save",
-						"onApplication" : true
-					},
-					"GOON_LESSER_RESTORATION_INJURY_REMOVAL" : 
-					{
-						"ability" : "No Save",
-						"onApplication" : true
-					},
-					"GOON_REGENERATE_INJURY_REMOVAL" : 
-					{
-						"ability" : "No Save",
-						"onApplication" : true
-					},
-					"GOON_SHORTTERM_MADNESS_5E_REMOVAL" : 
-					{
-						"ability" : "No Save",
-						"onApplication" : true
-					}
-				},
 				"severity" : "Exclude"
 			},
 			"GOON_MADNESS_5E_SHORTTERM_STUNNED" : 
 			{
 				"apply_on_status" : 
 				{
-					"applicable_statuses" : [],
 					"number_of_rounds" : 3
 				},
-				"character_multipliers" : [],
 				"damage" : 
 				{
 					"threshold" : 10
 				},
 				"include_in_random_table" : true,
-				"remove_on_status" : 
-				{
-					"GOON_GREATER_RESTORATION_INJURY_REMOVAL" : 
-					{
-						"ability" : "No Save",
-						"onApplication" : true
-					},
-					"GOON_HEAL_INJURY_REMOVAL" : 
-					{
-						"ability" : "No Save",
-						"onApplication" : true
-					},
-					"GOON_INJURY_KIT_INJURY_REMOVAL" : 
-					{
-						"ability" : "No Save",
-						"onApplication" : true
-					},
-					"GOON_LESSER_RESTORATION_INJURY_REMOVAL" : 
-					{
-						"ability" : "No Save",
-						"onApplication" : true
-					},
-					"GOON_REGENERATE_INJURY_REMOVAL" : 
-					{
-						"ability" : "No Save",
-						"onApplication" : true
-					},
-					"GOON_SHORTTERM_MADNESS_5E_REMOVAL" : 
-					{
-						"ability" : "No Save",
-						"onApplication" : true
-					}
-				},
 				"severity" : "Exclude"
 			},
 			"GOON_MADNESS_5E_SHORTTERM_TONGUE_TIED" : 
 			{
 				"apply_on_status" : 
 				{
-					"applicable_statuses" : [],
 					"number_of_rounds" : 3
 				},
-				"character_multipliers" : [],
 				"damage" : 
 				{
 					"threshold" : 10
 				},
 				"include_in_random_table" : true,
-				"remove_on_status" : 
-				{
-					"GOON_GREATER_RESTORATION_INJURY_REMOVAL" : 
-					{
-						"ability" : "No Save",
-						"onApplication" : true
-					},
-					"GOON_HEAL_INJURY_REMOVAL" : 
-					{
-						"ability" : "No Save",
-						"onApplication" : true
-					},
-					"GOON_INJURY_KIT_INJURY_REMOVAL" : 
-					{
-						"ability" : "No Save",
-						"onApplication" : true
-					},
-					"GOON_LESSER_RESTORATION_INJURY_REMOVAL" : 
-					{
-						"ability" : "No Save",
-						"onApplication" : true
-					},
-					"GOON_REGENERATE_INJURY_REMOVAL" : 
-					{
-						"ability" : "No Save",
-						"onApplication" : true
-					},
-					"GOON_SHORTTERM_MADNESS_5E_REMOVAL" : 
-					{
-						"ability" : "No Save",
-						"onApplication" : true
-					}
-				},
 				"severity" : "Exclude"
 			},
 			"GOON_MADNESS_5E_SHORTTERM_UNCONSCIOUS" : 
 			{
 				"apply_on_status" : 
 				{
-					"applicable_statuses" : [],
 					"number_of_rounds" : 3
 				},
-				"character_multipliers" : [],
 				"damage" : 
 				{
 					"threshold" : 10
 				},
 				"include_in_random_table" : true,
-				"remove_on_status" : 
-				{
-					"GOON_GREATER_RESTORATION_INJURY_REMOVAL" : 
-					{
-						"ability" : "No Save",
-						"onApplication" : true
-					},
-					"GOON_HEAL_INJURY_REMOVAL" : 
-					{
-						"ability" : "No Save",
-						"onApplication" : true
-					},
-					"GOON_INJURY_KIT_INJURY_REMOVAL" : 
-					{
-						"ability" : "No Save",
-						"onApplication" : true
-					},
-					"GOON_LESSER_RESTORATION_INJURY_REMOVAL" : 
-					{
-						"ability" : "No Save",
-						"onApplication" : true
-					},
-					"GOON_REGENERATE_INJURY_REMOVAL" : 
-					{
-						"ability" : "No Save",
-						"onApplication" : true
-					},
-					"GOON_SHORTTERM_MADNESS_5E_REMOVAL" : 
-					{
-						"ability" : "No Save",
-						"onApplication" : true
-					}
-				},
 				"severity" : "Exclude"
 			}
 		},
@@ -9586,6 +9106,15 @@
 			"healing_subtracts_injury_damage" : true,
 			"healing_subtracts_injury_damage_modifier" : 1.0,
 			"how_many_injuries_can_be_removed_at_once" : "One",
+			"injury_limit_per_event" : 
+			{
+				"Base" : 100,
+				"Exclude" : 100,
+				"Extreme" : 100,
+				"High" : 100,
+				"Low" : 100,
+				"Medium" : 100
+			},
 			"injury_removal_severity_priority" : "Most Severe",
 			"npc_multipliers" : 
 			{
