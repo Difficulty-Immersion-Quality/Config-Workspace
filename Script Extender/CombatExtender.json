@@ -880,17 +880,17 @@
     "HealthOverride": 220
 },
   "S_DEN_ShadowDruid_001_0cb92c37-fb4d-4547-8702-1fb1dd52d0b6": {
-    "Passives": ["FeralInstict","MAG_ShapeshiftersBurgeon_Passive","MAG_Greenstone_Amulet_Passive","VV_CorneredRat_Passive","Alert"],
+    "Passives": ["FeralInstinct","MAG_ShapeshiftersBurgeon_Passive","MAG_Greenstone_Amulet_Passive","VV_CorneredRat_Passive","Alert"],
     "Spells": ["Projectile_NightPiercer"],
     "HealthOverride": 40
 },
   "S_DEN_ShadowDruid_002_0820c093-f400-4efc-95b9-a6d08a58cac9": {
-    "Passives": ["FeralInstict","MAG_ShapeshiftersBurgeon_Passive","MAG_Greenstone_Amulet_Passive","VV_CorneredRat_Passive","Alert"],
+    "Passives": ["FeralInstinct","MAG_ShapeshiftersBurgeon_Passive","MAG_Greenstone_Amulet_Passive","VV_CorneredRat_Passive","Alert"],
     "Spells": ["Projectile_NightPiercer"],
     "HealthOverride": 50
 },
   "S_DEN_ShadowDruid_003_53b08334-9f79-4bb5-b580-2662355d54ad": {
-    "Passives": ["FeralInstict","MAG_ShapeshiftersBurgeon_Passive","MAG_Greenstone_Amulet_Passive","VV_CorneredRat_Passive","Alert"],
+    "Passives": ["FeralInstinct","MAG_ShapeshiftersBurgeon_Passive","MAG_Greenstone_Amulet_Passive","VV_CorneredRat_Passive","Alert"],
     "Spells": ["Projectile_NightPiercer"],
     "HealthOverride": 40
 },
@@ -2027,17 +2027,17 @@
     "Spells": ["DemonEyes_Darkness","NPC_FireworkBlast"]
 },
   "S_PLA_ZhentDungeon_Zhent03_8f63a70b-93e1-4841-8dea-b1f1542fd3c1": {
-    "Passives": ["Goon_Fire_Resistant","Goon_Force_Resistant","Goon_Poison_Immune","CX_Rogue_Boost","Goon_Damage_Poison_d4_Attacks","FeralInstict","ARA_Cloak_ToHit_Passive","VV_CorneredRat_Passive"],
+    "Passives": ["Goon_Fire_Resistant","Goon_Force_Resistant","Goon_Poison_Immune","CX_Rogue_Boost","Goon_Damage_Poison_d4_Attacks","FeralInstinct","ARA_Cloak_ToHit_Passive","VV_CorneredRat_Passive"],
     "Spells": ["Projectile_Fireworks_Rocket_A","Projectile_Fireworks_Rocket_B","Projectile_Fireworks_Rocket_C"],
     "HealthOverride": 55
 },
   "S_PLA_ZhentDungeon_Zhent05_356c9a7d-1f9d-4a51-8d9b-6908f16f7b7d": {
-    "Passives": ["Goon_Fire_Resistant","Goon_Force_Resistant","Goon_Poison_Immune","CX_Rogue_Boost","Goon_Damage_Poison_d4_Attacks","FeralInstict","ARA_Cloak_DevilsSight_Passive","ARA_Cloak_AwareAdvantage_Passive","ARA_Cloak_SeeInvisibility_Passive","VV_CorneredRat_Passive"],
+    "Passives": ["Goon_Fire_Resistant","Goon_Force_Resistant","Goon_Poison_Immune","CX_Rogue_Boost","Goon_Damage_Poison_d4_Attacks","FeralInstinct","ARA_Cloak_DevilsSight_Passive","ARA_Cloak_AwareAdvantage_Passive","ARA_Cloak_SeeInvisibility_Passive","VV_CorneredRat_Passive"],
     "Spells": ["Projectile_Fireworks_Rocket_A","Projectile_Fireworks_Rocket_B","Projectile_Fireworks_Rocket_C"],
     "HealthOverride": 55
 },
   "S_PLA_ZhentDungeon_Zhent04_50c17970-3683-4417-b4f3-bd1e117e3176": {
-    "Passives": ["Goon_Fire_Resistant","Goon_Force_Resistant","Goon_Poison_Immune","CX_Rogue_Boost","Goon_Damage_Poison_d4_Attacks","FeralInstict","ARA_Cloak_ToSpellSave_Passive","VV_CorneredRat_Passive"],
+    "Passives": ["Goon_Fire_Resistant","Goon_Force_Resistant","Goon_Poison_Immune","CX_Rogue_Boost","Goon_Damage_Poison_d4_Attacks","FeralInstinct","ARA_Cloak_ToSpellSave_Passive","VV_CorneredRat_Passive"],
     "Spells": ["Projectile_Fireworks_Rocket_A","Projectile_Fireworks_Rocket_B","Projectile_Fireworks_Rocket_C"],
     "HealthOverride": 55
 },
