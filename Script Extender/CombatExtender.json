@@ -216,7 +216,7 @@
     "Act": {
       "1": {
         "ExtraPassives": ["FightingStyle_GreatWeaponFighting","FightingStyle_TwoWeaponFighting","FightingStyle_Dueling","Goon_Increased_Movement_1","Goon_Summon_Potion_Healing_x1","BSM_BS_BerzerkerRing_Passive","BSM_BS_UnstoppableMassacre_Passive","Riposte","ARP_SuperiorityDie_5"],
-        "Spells": ["Target_DistractingStrike","Target_PushingAttack","Target_FeintingAttack","Shout_ActionSurge","Projectile_Jump","Target_Shove"]
+        "Spells": ["Target_DistractingStrike","Target_PushingAttack","Target_FeintingAttack","Projectile_Jump","Target_Shove"]
 },
       "2": {
         "ExtraPassives": ["DualWielder_PassiveBonuses","HeavyArmorMaster","WeaponMaster","BSM_BS_FLR_Passive","FightingStyle_Protection","PolearmMaster_AttackOfOpportunity","PolearmMaster_BonusAttack","Tough"],
@@ -232,17 +232,17 @@
   "PassiveName": "CX_Monk_Boost",
     "Act": {
       "1": {
-        "ExtraPassives": ["Mobile_DashAcrossDifficultTerrain","Goon_Increased_Movement_2","Projectile_Jump"],
-        "Spells": ["Target_Shove","Target_UnarmedStrike_Monk","MO_Projectile_Jump_Dex"]
+        "ExtraPassives": ["Mobile_DashAcrossDifficultTerrain","Projectile_Jump"],
+        "Spells": ["Target_Shove","MO_Projectile_Jump_Dex"]
 },
       "2": {
-        "ExtraPassives": ["SavageAttacker","TavernBrawler_Bonuses","TavernBrawler","ARP_KiPoint_1","ImprovedCritical","UnarmoredMovement_1"],
-        "Spells": ["Target_FlurryOfBlows"]
+        "ExtraPassives": ["SavageAttacker","TavernBrawler_Bonuses","TavernBrawler","ImprovedCritical"],
+        "Spells": []
 }
 },
       "3": {
-        "ExtraPassives": ["BeguilingDefenses","SteelWill","Mod_Greater_LeaperStride","Mod_CriticalVsObjects_Passive","ARA_Cloak_ToUnarmedAttack_Passive","MageSlayer_Advantage","MAG_OfMissileSnaring_Gloves_Passive","UnarmoredMovement_2"],
-        "Spells": ["Target_StunningStrike","Target_StunningStrike_Unarmed","Target_WaterWhip","Projectile_FangsOfTheFireSnake","Zone_Thunderwave_Monk","Target_FistOfUnbrokenAir"]
+        "ExtraPassives": ["BeguilingDefenses","SteelWill","Mod_Greater_LeaperStride","Mod_CriticalVsObjects_Passive","ARA_Cloak_ToUnarmedAttack_Passive","MageSlayer_Advantage"],
+        "Spells": ["Target_WaterWhip","Projectile_FangsOfTheFireSnake","Zone_Thunderwave_Monk","Target_FistOfUnbrokenAir"]
 }
 },
 {
@@ -293,6 +293,23 @@
       "3": {
         "ExtraPassives": ["Evasion","ReliableTalent","EscapeTheHorde","Mod_MAG_TheClover_Rearrangement_Passive","BloodThirsty_Redcap","Mod_MAG_Slicing_Shortsword_Passive","Mod_Greater_LeaperStride","MAG_Harpers_RingOfTwilight_Passive","MAG_Cunning_HandCrossbow_Combo_Passive","ARA_Cloak_CatGrace","BSM_BS_UnstoppableMassacre_Passive","VV_Bloodletter_Passive","ExtraAttack","SYR_ThiefsApprentice","SYR_Alchemist"],
         "Spells": ["Projectile_StoneThrow"]
+}
+}
+},
+{
+  "PassiveName": "CX_Warlock_Boost",
+    "Act": {
+      "1": {
+        "ExtraPassives": ["ARP_SpellSlot_1_1","ARP_SpellSlot_2_1"],
+      "Spells": ["VBT_Spell_2_MawOfHadar","VBT_Spell_1_HandsOfIhbar","VBT_Spell_1_ShadowTendrils","VBT_Spell_1_HandsOfNihal","VBT_Spell_0_HarrowingRay","Target_MindSliver","Target_MindSpike","Projectile_EldritchBlast"]
+},
+      "2": {
+        "ExtraPassives": ["ARP_SpellSlot_3_1","ARP_SpellSlot_4_1","AgonizingBlast"],
+        "Spells": ["VBT_Spell_3_EruptingEarth","VBT_Spell_3_DevouringForce","VBT_Spell_3_BreathOfHadar","VBT_Spell_3_HungeringDarkness","Target_FireworkBlast"]
+},
+      "3": {
+        "ExtraPassives": ["ARP_SpellSlot_5_1","ARP_SpellSlot_6_1","RepellingBlast"],
+        "Spells": ["VBT_Spell_5_Dawn","VBT_Spell_5_AcamarsMaw","VBT_Spell_6_TombOfDelban","VBT_Spell_4_ShadowOfMoil","VBT_Spell_4_BroodOfHadar","Projectile_RaulothimsPsychicLance","Target_Blight","Target_Cloudkill"]
 }
 }
 },
@@ -1732,7 +1749,7 @@
     "HealthOverride": 80
 },
   "S_HAV_FlamingSpy_acb1dd9e-952b-4281-8e30-ec6f671493a6": {
-    "Passives": ["MultiattackDefense","NPC_DamageReduction","MAG_Fighter_ActionSurge_AttackBonus_Gloves_Passive","RelentlessEndurance","MAG_BBBG_MirrorRageGloveEffect","ARP_Reaction_2","MagicResistance","CX_Barbarian_Boost","Goon_Psychic_Resistant","FeralInstinct","ARP_Rage_1","RageUnlock","VV_CorneredRat_Passive","RR_Titan_Grip_Passive"],
+    "Passives": ["MultiattackDefense","NPC_DamageReduction","MAG_Fighter_ActionSurge_AttackBonus_Gloves_Passive","RelentlessEndurance","MAG_BBBG_MirrorRageGloveEffect","ARP_Reaction_2","MagicResistance","Goon_Psychic_Resistant","FeralInstinct","ARP_Rage_1","RageUnlock","VV_CorneredRat_Passive"],
     "Spells": ["Shout_Rage","Zone_MindBlast_MindFlayer","NPC_Agonize","NPC_BloodFeast"]
 },
   "S_HAV_FlyingGhoul_000_62dd0ebd-8325-4b76-ba41-99fbee98149a": {
