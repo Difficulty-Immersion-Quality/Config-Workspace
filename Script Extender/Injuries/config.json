@@ -9108,12 +9108,12 @@
 			"how_many_injuries_can_be_removed_at_once" : "One",
 			"injury_limit_per_event" : 
 			{
-				"Base" : 100,
-				"Exclude" : 100,
-				"Extreme" : 100,
-				"High" : 100,
-				"Low" : 100,
-				"Medium" : 100
+				"Base" : 78,
+				"Exclude" : 78,
+				"Extreme" : 1,
+				"High" : 1,
+				"Low" : 1,
+				"Medium" : 1
 			},
 			"injury_removal_severity_priority" : "Most Severe",
 			"npc_multipliers" : 
@@ -9136,8 +9136,8 @@
 			"random_injury_severity_weights" : 
 			{
 				"Extreme" : 0,
-				"High" : 30,
-				"Low" : 35,
+				"High" : 25,
+				"Low" : 40,
 				"Medium" : 35
 			},
 			"remove_all_on_long_rest" : false,
