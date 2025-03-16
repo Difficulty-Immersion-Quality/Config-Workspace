@@ -13,6 +13,10 @@
 		{
 			"show" : false
 		},
+		"Dependency_Version_Issue_5442c1bf-c118-48bc-87f1-c90bcc024b1c_Requires_755a8a72-407f-4f0d-9a33-274ac0f0b53d_1.19.1.0_Loaded_1.17.1.0" : 
+		{
+			"show" : true
+		},
 		"Dependency_Version_Issue_964d7bb3-2ab1-c592-1f9c-8b04a290518b_Requires_ce2b2255-4328-4783-a696-f4f9bd34901b_5.5.7.61_Loaded_5.5.7.58" : 
 		{
 			"show" : false
