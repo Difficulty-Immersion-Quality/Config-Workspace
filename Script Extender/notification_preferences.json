@@ -20,6 +20,10 @@
 		"Dependency_Version_Issue_964d7bb3-2ab1-c592-1f9c-8b04a290518b_Requires_ce2b2255-4328-4783-a696-f4f9bd34901b_5.5.7.61_Loaded_5.5.7.58" : 
 		{
 			"show" : false
+		},
+		"Migrated_listV2_setting_ignore_weaponsfor_mod_1c132ec4-4cd2-4c40-aeb9-ff6ee0467da8" : 
+		{
+			"show" : false
 		}
 	}
 }
