@@ -1665,7 +1665,7 @@
     "Spells": ["NPC_Girzanjes"]
 },
   "S_GLO_Nightsong_6c55edb0-901b-4ba4-b9e8-3475a8392d9b": {
-    "Passives": ["ARP_ActionPoint","Goon_Defensive_Resource_5","Goon_Defensive_Mirror_Image_1","MAG_LC_Cyric_FearImmunity_Amulet_Passive","MAG_WYRM_UndeadProtector_Robe_Passive","MAG_ZOC_AdvantageOnMeleeAttackWhileSurounded_Gloves_Passive","MAG_Paladin_LayOnHandsSupport_Gloves_Passive","MAG_Harpers_JhannylGloves_Passive","CX_Cleric_Boost","CX_Paladin_Boost","Mod_Titans_Reach","Mod_MAG_LowHP_IncreaseDamage_Passive","FullSwing_Passive","Mod_MAG_Violence_LowHP_Violence_Passive","Goon_Necrotic_Immune","Goon_Radiant_Immune","Goon_Damage_Radiant_d6_Attacks","Goon_Aura_of_Devotion_Passive","Goon_Aura_of_Warding_Passive","PotentCantrip","NPC_CbD","ArmyArcana","CC_CharismaticForce_Passive"],
+    "Passives": ["ARP_ActionPoint","Goon_Defensive_Resource_5","Goon_Defensive_Mirror_Image_1","ImmuneToDisarm","MAG_LC_Cyric_FearImmunity_Amulet_Passive","MAG_WYRM_UndeadProtector_Robe_Passive","MAG_ZOC_AdvantageOnMeleeAttackWhileSurounded_Gloves_Passive","MAG_Paladin_LayOnHandsSupport_Gloves_Passive","MAG_Harpers_JhannylGloves_Passive","CX_Cleric_Boost","CX_Paladin_Boost","Mod_Titans_Reach","Mod_MAG_LowHP_IncreaseDamage_Passive","FullSwing_Passive","Mod_MAG_Violence_LowHP_Violence_Passive","Goon_Necrotic_Immune","Goon_Radiant_Immune","Goon_Damage_Radiant_d6_Attacks","Goon_Aura_of_Devotion_Passive","Goon_Aura_of_Warding_Passive","PotentCantrip","NPC_CbD","ArmyArcana","CC_CharismaticForce_Passive"],
     "Spells": ["NPC_ScouringPulse","NPC_Girzanjes","NPC_MoonlightRay","NPC_SearingLight","NPC_GuardianOfFaith","NPC_AllyDeva","NPC_Heal","NPC_MassHeal"]
 },
   "S_MOO_Executioner_8e75eb3b-7551-485e-8f98-2bf2e51d3e84": {
