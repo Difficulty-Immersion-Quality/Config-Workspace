@@ -1908,7 +1908,7 @@
     "Spells": []
 },
   "S_LOW_Viconia_b1ea974d-96fb-47ca-b6d9-9c85fcb69313": {
-    "Passives": ["ARP_ActionPoint","Goon_Defensive_Resource_5","Goon_Defensive_Mirror_Image_1","ARP_SpellSlot_5_2","ARP_SpellSlot_6_1","Tough","Durable","Mobile_PassiveBonuses","Mobile_DashAcrossDifficultTerrain","CX_Cleric_Boost","CX_Paladin_Boost","LOW_Chasm_Mangle_Pushback"],
+    "Passives": ["ARP_ActionPoint","Goon_Defensive_Resource_5","Goon_Defensive_Mirror_Image_1","ARP_SpellSlot_5_2","ARP_SpellSlot_6_1","Tough","Durable","Mobile_PassiveBonuses","Mobile_DashAcrossDifficultTerrain","LOW_Chasm_Mangle_Pushback"],
     "Spells": ["Projectile_ChillingDarkness","Projectile_MoonlightRay","Projectile_SearingLight","Projectile_DivineLance","Target_Harm","Zone_Thunderwave","NPC_Fissure"]
 },
   "S_GLO_Cazador_2f1880e6-1297-4ca3-a79c-9fabc7f179d3": {
@@ -1916,8 +1916,8 @@
     "Spells": ["Shout_ActionSurge","Target_Cloudkill","Target_CircleOfDeath","Target_HypnoticPattern","Moghadam_Projectile_Disintegrate","Projectile_ChillingDarkness","Projectile_MoonlightRay","NPC_BloodFeast","NPC_EclipseBurst","NPC_Fissure"]
 },
   "S_SHA_SilentLibrary_Justiciar_Ranger_01_3df987bc-5c0f-4133-a87a-444352e86268": {
-      "Passives": ["MAG_Frightened_Immunity_Passive","MAG_StunnImmunity_Passive","MAG_Shadow_BlindImmunity_Ring_Passive","CX_Ranger_Boost"],
-      "Spells": ["NPC_BloodFeast"]
+    "Passives": ["MAG_Frightened_Immunity_Passive","MAG_StunnImmunity_Passive","MAG_Shadow_BlindImmunity_Ring_Passive","CX_Ranger_Boost"],
+    "Spells": ["NPC_BloodFeast"]
 },
   "S_SHA_SilentLibrary_Justiciar_Caster_03_435289b8-97b5-4623-8cfb-a3b02e263841": {
     "Passives": ["MAG_Frightened_Immunity_Passive","MAG_StunnImmunity_Passive","MAG_Shadow_BlindImmunity_Ring_Passive","CX_Magic_Boost"],
