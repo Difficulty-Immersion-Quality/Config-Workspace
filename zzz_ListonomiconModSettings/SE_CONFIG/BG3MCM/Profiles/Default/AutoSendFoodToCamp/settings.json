@@ -97,7 +97,8 @@
 			"move_alcohol" : true,
 			"move_bought_food" : true,
 			"move_consumable" : true,
-			"move_food" : true
+			"move_food" : true,
+			"send_items_moved_automatically" : true
 		},
 		"inventory_management" : 
 		{

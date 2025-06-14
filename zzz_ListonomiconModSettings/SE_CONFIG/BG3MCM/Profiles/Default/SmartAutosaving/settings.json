@@ -7,7 +7,6 @@
 			"postpone_on_combat_turn" : true,
 			"postpone_on_dialogue" : true,
 			"postpone_on_idle" : true,
-			"postpone_on_inventory" : true,
 			"postpone_on_lockpicking" : true,
 			"postpone_on_looting_characters" : true,
 			"postpone_on_movement" : true,

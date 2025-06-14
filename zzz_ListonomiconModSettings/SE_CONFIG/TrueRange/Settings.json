@@ -2,7 +2,7 @@
 	"Long" : 
 	{
 		"Options" : "The range is in meters! BG3 uses 30 as maxium for all weapons, DnD 5e 182.",
-		"Range" : 36
+		"Range" : 30
 	},
 	"Normal" : 
 	{

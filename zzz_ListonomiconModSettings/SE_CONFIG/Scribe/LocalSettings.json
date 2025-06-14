@@ -1,0 +1,25 @@
+{
+	"CurrentTheme" : "00000000-0000-0000-0000-000000000000",
+	"FirstTimeAgreed" : true,
+	"OpenCloseScribe" : 
+	{
+		"Callback" : "function: 0000022E0681B130",
+		"Identifier" : "b0c1eb8f-63cd-462c-85a2-1f5d513bcccc",
+		"Modifiers" : 
+		[
+			"Shift"
+		],
+		"ScanCode" : "T"
+	},
+	"OpenCloseWatchWindow" : 
+	{
+		"Callback" : "function: 0000022E0681B160",
+		"Identifier" : "c57a9350-3fbd-4d1c-95d0-0ac6d549968e",
+		"Modifiers" : 
+		[
+			"Alt"
+		],
+		"ScanCode" : "Y"
+	},
+	"SettingsAutoResize" : true
+}

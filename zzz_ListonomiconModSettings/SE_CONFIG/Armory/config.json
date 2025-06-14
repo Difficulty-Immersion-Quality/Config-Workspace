@@ -59,6 +59,7 @@
 				"applyDyesWhenPreviewingEquipment" : true,
 				"favorites" : [],
 				"imageSize" : 90,
+				"requireModifierForPreview" : false,
 				"rowSize" : 6,
 				"showNames" : true
 			},
@@ -66,7 +67,8 @@
 			{
 				"fillEmptySlots" : true,
 				"itemValidator_ShowWorkaroundErrors" : false,
-				"outfitAndDependencyView" : "universal"
+				"outfitAndDependencyView" : "universal",
+				"removeBladesongStatusOnReload" : false
 			}
 		}
 	}

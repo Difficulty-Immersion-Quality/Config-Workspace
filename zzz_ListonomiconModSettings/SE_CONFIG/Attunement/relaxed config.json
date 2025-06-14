@@ -4294,18 +4294,18 @@
 				{
 					"Legendary" : 
 					{
-						"Accessories" : 2,
-						"Armor" : 2,
+						"Accessories" : 3,
+						"Armor" : 3,
 						"Attunement Slots" : 1,
-						"Total" : 3,
-						"Weapons" : 2
+						"Total" : 4,
+						"Weapons" : 3
 					},
 					"Rare" : 
 					{
-						"Accessories" : 4,
-						"Armor" : 4,
+						"Accessories" : 5,
+						"Armor" : 5,
 						"Attunement Slots" : 1,
-						"Total" : 6,
+						"Total" : 7,
 						"Weapons" : 4
 					},
 					"Uncommon" : 
@@ -4314,18 +4314,18 @@
 						"Armor" : 6,
 						"Attunement Slots" : 1,
 						"Total" : 13,
-						"Weapons" : 5
+						"Weapons" : 4
 					},
 					"VeryRare" : 
 					{
-						"Accessories" : 3,
-						"Armor" : 3,
+						"Accessories" : 4,
+						"Armor" : 4,
 						"Attunement Slots" : 1,
-						"Total" : 5,
+						"Total" : 6,
 						"Weapons" : 3
 					}
 				},
-				"totalAttunementLimit" : 5
+				"totalAttunementLimit" : 6
 			},
 			"EASY" : 
 			{
@@ -4338,18 +4338,18 @@
 				{
 					"Legendary" : 
 					{
-						"Accessories" : 2,
-						"Armor" : 2,
+						"Accessories" : 3,
+						"Armor" : 3,
 						"Attunement Slots" : 1,
-						"Total" : 3,
-						"Weapons" : 2
+						"Total" : 4,
+						"Weapons" : 3
 					},
 					"Rare" : 
 					{
-						"Accessories" : 4,
-						"Armor" : 4,
+						"Accessories" : 5,
+						"Armor" : 5,
 						"Attunement Slots" : 1,
-						"Total" : 6,
+						"Total" : 7,
 						"Weapons" : 4
 					},
 					"Uncommon" : 
@@ -4358,18 +4358,18 @@
 						"Armor" : 6,
 						"Attunement Slots" : 1,
 						"Total" : 13,
-						"Weapons" : 5
+						"Weapons" : 4
 					},
 					"VeryRare" : 
 					{
-						"Accessories" : 3,
-						"Armor" : 3,
+						"Accessories" : 4,
+						"Armor" : 4,
 						"Attunement Slots" : 1,
-						"Total" : 5,
+						"Total" : 6,
 						"Weapons" : 3
 					}
 				},
-				"totalAttunementLimit" : 5
+				"totalAttunementLimit" : 6
 			},
 			"HARD" : 
 			{
@@ -4382,18 +4382,18 @@
 				{
 					"Legendary" : 
 					{
-						"Accessories" : 2,
-						"Armor" : 2,
+						"Accessories" : 3,
+						"Armor" : 3,
 						"Attunement Slots" : 1,
-						"Total" : 3,
-						"Weapons" : 2
+						"Total" : 4,
+						"Weapons" : 3
 					},
 					"Rare" : 
 					{
-						"Accessories" : 4,
-						"Armor" : 4,
+						"Accessories" : 5,
+						"Armor" : 5,
 						"Attunement Slots" : 1,
-						"Total" : 6,
+						"Total" : 7,
 						"Weapons" : 4
 					},
 					"Uncommon" : 
@@ -4402,18 +4402,18 @@
 						"Armor" : 6,
 						"Attunement Slots" : 1,
 						"Total" : 13,
-						"Weapons" : 5
+						"Weapons" : 4
 					},
 					"VeryRare" : 
 					{
-						"Accessories" : 3,
-						"Armor" : 3,
+						"Accessories" : 4,
+						"Armor" : 4,
 						"Attunement Slots" : 1,
-						"Total" : 5,
+						"Total" : 6,
 						"Weapons" : 3
 					}
 				},
-				"totalAttunementLimit" : 5
+				"totalAttunementLimit" : 6
 			},
 			"HONOUR" : 
 			{
@@ -4426,18 +4426,18 @@
 				{
 					"Legendary" : 
 					{
-						"Accessories" : 2,
-						"Armor" : 2,
+						"Accessories" : 3,
+						"Armor" : 3,
 						"Attunement Slots" : 1,
-						"Total" : 3,
-						"Weapons" : 2
+						"Total" : 4,
+						"Weapons" : 3
 					},
 					"Rare" : 
 					{
-						"Accessories" : 4,
-						"Armor" : 4,
+						"Accessories" : 5,
+						"Armor" : 5,
 						"Attunement Slots" : 1,
-						"Total" : 6,
+						"Total" : 7,
 						"Weapons" : 4
 					},
 					"Uncommon" : 
@@ -4446,18 +4446,18 @@
 						"Armor" : 6,
 						"Attunement Slots" : 1,
 						"Total" : 13,
-						"Weapons" : 5
+						"Weapons" : 4
 					},
 					"VeryRare" : 
 					{
-						"Accessories" : 3,
-						"Armor" : 3,
+						"Accessories" : 4,
+						"Armor" : 4,
 						"Attunement Slots" : 1,
-						"Total" : 5,
+						"Total" : 6,
 						"Weapons" : 3
 					}
 				},
-				"totalAttunementLimit" : 5
+				"totalAttunementLimit" : 6
 			},
 			"MEDIUM" : 
 			{
@@ -4470,18 +4470,18 @@
 				{
 					"Legendary" : 
 					{
-						"Accessories" : 2,
-						"Armor" : 2,
+						"Accessories" : 3,
+						"Armor" : 3,
 						"Attunement Slots" : 1,
-						"Total" : 3,
-						"Weapons" : 2
+						"Total" : 4,
+						"Weapons" : 3
 					},
 					"Rare" : 
 					{
-						"Accessories" : 4,
-						"Armor" : 4,
+						"Accessories" : 5,
+						"Armor" : 5,
 						"Attunement Slots" : 1,
-						"Total" : 6,
+						"Total" : 7,
 						"Weapons" : 4
 					},
 					"Uncommon" : 
@@ -4490,18 +4490,18 @@
 						"Armor" : 6,
 						"Attunement Slots" : 1,
 						"Total" : 13,
-						"Weapons" : 5
+						"Weapons" : 4
 					},
 					"VeryRare" : 
 					{
-						"Accessories" : 3,
-						"Armor" : 3,
+						"Accessories" : 4,
+						"Armor" : 4,
 						"Attunement Slots" : 1,
-						"Total" : 5,
+						"Total" : 6,
 						"Weapons" : 3
 					}
 				},
-				"totalAttunementLimit" : 5
+				"totalAttunementLimit" : 6
 			}
 		},
 		"rarityGuiRules" : 
