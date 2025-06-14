@@ -1,0 +1,69 @@
+{
+	"debug" : 
+	{
+		"debug_settings" : 
+		{
+			"debug_level" : 0,
+			"print_deprecation_warnings" : false,
+			"reset_lua" : 
+			{
+				"Enabled" : false,
+				"Keyboard" : 
+				{
+					"Key" : "",
+					"ModifierKeys" : 
+					[
+						""
+					]
+				}
+			}
+		}
+	},
+	"settings" : 
+	{
+		"general_settings" : 
+		{
+			"close_mcm_keybinding" : 
+			{
+				"Enabled" : true,
+				"Keyboard" : 
+				{
+					"Key" : "ESCAPE",
+					"ModifierKeys" : []
+				}
+			},
+			"dynamic_opacity" : false,
+			"font_size" : "Large",
+			"host-only_mode" : true,
+			"open_on_start" : false,
+			"reposition_window_if_out_of_bounds" : true,
+			"restore_last_page" : true,
+			"restore_last_subtab" : true,
+			"toggle_mcm_keybinding" : 
+			{
+				"Keyboard" : 
+				{
+					"Key" : "SEMICOLON",
+					"ModifierKeys" : []
+				}
+			}
+		}
+	},
+	"sidebar_behavior" : 
+	{
+		"sidebar_settings" : 
+		{
+			"collapsed_by_default" : false,
+			"enable_auto_collapse" : true,
+			"enable_hover" : true,
+			"toggle_mcm_sidebar_keybinding" : 
+			{
+				"Enabled" : false,
+				"Keyboard" : 
+				{
+					"Key" : "CAPSLOCK"
+				}
+			}
+		}
+	}
+}

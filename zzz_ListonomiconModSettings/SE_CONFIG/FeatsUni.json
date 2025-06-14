@@ -1,0 +1,20 @@
+{
+	"advancedCustomClasses" : 
+	[
+		{
+			"alwaysGrantFeatLevels_Str" : "11",
+			"featFrequency" : 3,
+			"name" : "Mesmerist"
+		}
+	],
+	"alwaysGrantFeatAtLevels" : [],
+	"customClassFeat" : "None",
+	"customClassFeatLevels" : 1,
+	"customGrantFeatAtLevels" : [],
+	"enableAdvancedSettings" : false,
+	"enableMod" : true,
+	"featFrequency" : 3,
+	"fighterfeat" : 11,
+	"multiclassFeatAtLevel1" : false,
+	"roguefeat" : 11
+}
