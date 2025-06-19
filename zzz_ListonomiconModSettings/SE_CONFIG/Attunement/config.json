@@ -3059,6 +3059,11 @@
 				"New" : "Common",
 				"Original" : "VeryRare"
 			},
+			"MOD_Erinyes_Sword" : 
+			{
+				"New" : "Common",
+				"Original" : "VeryRare"
+			},
 			"MOD_ICEPICK_Dagger" : 
 			{
 				"New" : "Rare",
@@ -3709,6 +3714,11 @@
 				"New" : "Common",
 				"Original" : "Rare"
 			},
+			"WPN_Mystic_SoulKnife_UltimateDagger_Left" : 
+			{
+				"New" : "Common",
+				"Original" : "Legendary"
+			},
 			"WPN_Mystic_SoulKnife_UltimateDagger_Right" : 
 			{
 				"New" : "Common",
@@ -3725,6 +3735,11 @@
 				"Original" : "Legendary"
 			},
 			"WPN_Mystic_SoulKnife_UltimateWarhammer_Left" : 
+			{
+				"New" : "Common",
+				"Original" : "Legendary"
+			},
+			"WPN_Mystic_SoulKnife_UltimateWarhammer_Right" : 
 			{
 				"New" : "Common",
 				"Original" : "Legendary"
@@ -4252,6 +4267,8 @@
 			"WPN_Mace_Deva_copy" : true,
 			"WPN_Mystic_EruditeSpear" : true,
 			"WPN_Mystic_Failnaught" : true,
+			"WPN_Mystic_SoulKnife_UltimateDagger_Left" : false,
+			"WPN_Mystic_SoulKnife_UltimateWarhammer_Right" : false,
 			"WPN_Mystic_WanderersBow" : true,
 			"WPN_Paitm_HarmoniumBlade_Template" : true,
 			"WPN_PlanarGlaive_VSC" : false,

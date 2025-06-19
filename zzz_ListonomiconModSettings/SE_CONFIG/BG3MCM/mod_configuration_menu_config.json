@@ -15,11 +15,11 @@
 		"7a526492-f5f4-44a0-ab25-ddcc4c6c1e7e" : "Item Configuration",
 		"84b2cdba-ad21-4d8c-97d6-c09b95a6d9b4" : "Scribe",
 		"8f23afc7-2354-42e0-844f-80445bf72f36" : "General Settings",
-		"a2c4b0fc-e745-41df-81b7-fa53950d86a0" : "Levels",
+		"a2c4b0fc-e745-41df-81b7-fa53950d86a0" : "Miscellaneous",
 		"b1f292a4-f484-4631-8c58-532b53fd1c11" : "General",
 		"c19ca43a-c3c7-4e58-9d00-f7d928e72074" : "General Settings",
 		"cabed99e-5db6-4f0d-a69f-d49e8a20e663" : "Debug"
 	},
-	"lastUsedPage" : "a2c4b0fc-e745-41df-81b7-fa53950d86a0",
+	"lastUsedPage" : "7a526492-f5f4-44a0-ab25-ddcc4c6c1e7e",
 	"onConfigReloaded" : []
 }
