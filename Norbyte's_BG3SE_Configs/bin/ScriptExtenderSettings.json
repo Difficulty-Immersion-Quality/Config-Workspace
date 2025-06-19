@@ -1,0 +1,6 @@
+{
+  "CreateConsole": true,
+  "EnableLogging": false,
+  "LogDirectory": "Crashlogs",
+  "EnableAchievements": true
+}
