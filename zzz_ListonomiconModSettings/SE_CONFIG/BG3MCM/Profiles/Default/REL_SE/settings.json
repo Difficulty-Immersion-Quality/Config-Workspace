@@ -3,7 +3,7 @@
 	{
 		"Boss_Cosmetic" : 
 		{
-			"B_CosmeticRate" : 0
+			"B_CosmeticRate" : 200.0
 		},
 		"Boss_MultiLoot" : 
 		{
@@ -26,28 +26,28 @@
 			"A_Rate_Multiplier" : 0,
 			"A_common" : 9,
 			"A_rare" : 0.089999999999999997,
-			"A_total_count" : 0,
+			"A_total_count" : 1,
 			"A_uncommon" : 0.90000000000000002,
 			"A_veryrare" : 0.01
 		},
 		"Potion" : 
 		{
-			"P_HealingRate" : 25,
-			"P_IgnoreFail" : true,
+			"P_HealingRate" : 50.0,
+			"P_IgnoreFail" : false,
 			"P_Rate_Multiplier" : 0,
 			"P_common" : 9,
 			"P_rare" : 0.089999999999999997,
-			"P_total_count" : 0,
+			"P_total_count" : 2,
 			"P_uncommon" : 0.90000000000000002,
 			"P_veryrare" : 0.01
 		},
 		"Scroll" : 
 		{
-			"S_IgnoreFail" : true,
+			"S_IgnoreFail" : false,
 			"S_Rate_Multiplier" : 0,
 			"S_common" : 9,
 			"S_rare" : 0.089999999999999997,
-			"S_total_count" : 0,
+			"S_total_count" : 2,
 			"S_uncommon" : 0.90000000000000002,
 			"S_veryrare" : 0.0089999999999999993
 		}
@@ -231,19 +231,19 @@
 			"ChestVisible" : false,
 			"ClearLooted" : true,
 			"Compensate" : true,
-			"ConsumableVisible" : false,
+			"ConsumableVisible" : true,
 			"CosmeticVisible" : true,
 			"Dicesize" : 4,
 			"LevelBasedVisible" : false,
-			"MaxSize" : 200,
+			"MaxSize" : 300,
 			"MobVisible" : false,
 			"Ontology" : false,
 			"REL_Override" : true,
 			"TraderVisible" : true,
 			"legendary" : 1.0,
-			"rare" : 20.0,
-			"uncommon" : 30.0,
-			"veryrare" : 2.5
+			"rare" : 15.0,
+			"uncommon" : 25.0,
+			"veryrare" : 3.0
 		},
 		"Restriction" : 
 		{

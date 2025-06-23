@@ -289,6 +289,11 @@
 				"New" : "VeryRare",
 				"Original" : "Legendary"
 			},
+			"CC8_Kobold_Spawn_Ring_Classic" : 
+			{
+				"New" : "Rare",
+				"Original" : "Common"
+			},
 			"CC_Sorcerer_Equipment_Boots_of_Arcane_Haste" : 
 			{
 				"New" : "Uncommon",
@@ -2044,6 +2049,26 @@
 				"New" : "Legendary",
 				"Original" : "VeryRare"
 			},
+			"FFARMS_WEAPON_GUN_ABSOLUTE" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Rare"
+			},
+			"FFARMS_WEAPON_GUN_BLASTIN" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Rare"
+			},
+			"FFARMS_WEAPON_GUN_FROSTBRAND" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Legendary"
+			},
+			"FFARMS_WEAPON_GUN_HELLDUSK_UNSTABLE" : 
+			{
+				"New" : "Legendary",
+				"Original" : "VeryRare"
+			},
 			"FOR_WebStaff" : 
 			{
 				"New" : "Legendary",
@@ -2593,11 +2618,6 @@
 			{
 				"New" : "Rare",
 				"Original" : "Uncommon"
-			},
-			"MAG_Githborn_MageHandSupport_Gloves" : 
-			{
-				"New" : "Rare",
-				"Original" : "VeryRare"
 			},
 			"MAG_Githborn_PsionicMovement_Boots" : 
 			{
@@ -4106,6 +4126,7 @@
 			"MAG_FarRealmShard_Ring" : true,
 			"MAG_FireEssenceShard_Ring" : true,
 			"MAG_Fire_IncreaseSlashingDamageToBurning_Handaxe" : true,
+			"MAG_Githborn_MageHandSupport_Gloves" : true,
 			"MAG_GoodEssenceShard_Ring" : true,
 			"MAG_Gortash_Gloves" : true,
 			"MAG_GreaterNecromancy_Staff" : true,
