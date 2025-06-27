@@ -1280,7 +1280,7 @@
   "Overrides" : 
   {
     "S_TUT_Helm_MindFlayer_22a400ec-5f01-4659-82e1-aed0b203c846": {
-      "Passives": ["ARP_SpellSlot_1_3","ARP_SpellSlot_2_1","Goon_Defensive_Resource_3","Goon_Defensive_Mirror_Image_2"],
+      "Passives": ["ARP_ActionPoint","ARP_SpellSlot_1_3","ARP_SpellSlot_2_1","Goon_Defensive_Resource_3","Goon_Defensive_Mirror_Image_2"],
       "Spells": ["Shout_Shield_Wizard","Shout_MirrorImage","Shout_ActionSurge"],
       "HealthOverride": 200
   },
@@ -2132,7 +2132,7 @@
   },
     "S_TUT_Helm_Devil_005_ed103005-fd71-457d-ae6c-39654bbd8f2e": {
       "Passives": ["ARP_ActionPoint"],
-      "HealthOverride": 100
+      "HealthOverride": 110
   },
     "S_TUT_Helm_Devil_007_763addd5-aaf0-4148-95db-744ba8fe1dd2": {
       "Passives": ["ImmuneToDisarm"],
