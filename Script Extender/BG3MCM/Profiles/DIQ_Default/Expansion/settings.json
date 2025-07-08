@@ -23,7 +23,7 @@
 		{
 			"Barbarian" : true,
 			"Bard" : true,
-			"Cleric" : true,
+			"Cleric" : false,
 			"Druid" : true,
 			"Fighter" : true,
 			"Monk" : true,
