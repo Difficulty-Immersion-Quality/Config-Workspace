@@ -662,7 +662,7 @@
 	  },
 			"3": {
 			  "ExtraPassives": ["Goon_Summon_Potion_Healing_Superior_x1","ARA_Cloak_OwlWisdom","SYR_Feat_WarMagic_AltSpell_Passive","GG_Three_IncreasedElementalDamage_Passive","GG_One_Wildshape_TempHP_Passive","WW_ElementalBane_Passive"],
-			  "Spells": ["Projectile_MoonlightRay","ProjectileStrike_ConjureVolley","Shout_ATT_Shapechange_Dragon","Shout_MonstrosityForm","Projectile_TKSeekingBolt_Dawnstar"]			  
+			  "Spells": ["Projectile_MoonlightRay","Shout_ATT_Shapechange_Dragon","Shout_MonstrosityForm","Projectile_TKSeekingBolt_Dawnstar"]			  
 	  }
 	  }
 	  },
@@ -764,7 +764,7 @@
 	  },
 			"3": {
 			  "ExtraPassives": ["ARA_Cloak_ToSpellAttack_Passive","GG_Three_IncreasedElementalDamage_Passive","VV_LightningReflexes_Passive","﻿Goon_Target_Elemental_Weapon_Acid_Passive"],
-			  "Spells": ["Zone_SpiritBlade_Dawnstar","Target_SummonShadowspawn","Target_FarStep","Projectile_RaulothimsPsychicLance","Target_SummonElemental","ProjectileStrike_ConjureVolley","NPC_BurningHandsBA","NPC_CoC"]			  
+			  "Spells": ["Zone_SpiritBlade_Dawnstar","Target_SummonShadowspawn","Target_FarStep","Projectile_RaulothimsPsychicLance","Target_SummonElemental","NPC_BurningHandsBA","NPC_CoC"]			  
 	  }
 	  }
 	},
@@ -931,7 +931,7 @@
 	  },
 			"2": {
 			  "ExtraPassives": ["BB_PackHunters_Spear_Passive","BB_PiercingWind_Passive","Sharpshooter_AllIn","WeaponMaster","JWL_Passive_BeltPrimalRecall"],
-			  "Spells": ["ProjectileStrike_ConjureVolley"]
+			  "Spells": []
 			  
 	  },
 			"3": {

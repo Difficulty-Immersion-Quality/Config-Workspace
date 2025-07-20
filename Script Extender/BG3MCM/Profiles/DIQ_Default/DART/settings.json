@@ -1,0 +1,10 @@
+{
+	"DART_Settings" : 
+	{
+		"DART_AutoAttribute" : true,
+		"DART_CustomDialog" : true,
+		"DART_Prioritise_Tags" : true,
+		"DART_ShowOriginalSource" : false,
+		"DART_Verbose" : 0
+	}
+}
