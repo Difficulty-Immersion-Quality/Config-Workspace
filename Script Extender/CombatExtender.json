@@ -486,7 +486,7 @@
 	  "PassiveName": "CX_Bard_Swords_Boost",
 		"Act": {
 			"1": {
-			  "ExtraPassives": [],
+			  "ExtraPassives": ["Goon_BladeFlourishInterrupts_Unlock"],
 			  "Spells": []			  
 	},
 			"2": {
