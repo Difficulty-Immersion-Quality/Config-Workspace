@@ -340,6 +340,15 @@
 					"number_of_rounds" : 1
 				},
 				"chance_of_application" : 50,
+				"character_multipliers" : 
+				{
+					"tags" : 
+					{
+						"125b3d94-3997-4fc4-8211-1768b67dbe4a" : 0.0,
+						"22e5209c-eaeb-40dc-b6ef-a371794110c2" : 0.0,
+						"33c625aa-6982-4c27-904f-e47029a9b140" : 0.0
+					}
+				},
 				"damage" : 
 				{
 					"threshold" : 100
@@ -403,6 +412,7 @@
 					"number_of_rounds" : 1
 				},
 				"chance_of_application" : 50,
+				"character_multipliers" : [],
 				"damage" : 
 				{
 					"threshold" : 10
@@ -466,6 +476,7 @@
 					"number_of_rounds" : 1
 				},
 				"chance_of_application" : 50,
+				"character_multipliers" : [],
 				"damage" : 
 				{
 					"threshold" : 10
@@ -529,6 +540,7 @@
 					"number_of_rounds" : 1
 				},
 				"chance_of_application" : 50,
+				"character_multipliers" : [],
 				"damage" : 
 				{
 					"threshold" : 10
@@ -592,6 +604,7 @@
 					"number_of_rounds" : 1
 				},
 				"chance_of_application" : 50,
+				"character_multipliers" : [],
 				"damage" : 
 				{
 					"threshold" : 10
@@ -655,6 +668,7 @@
 					"number_of_rounds" : 1
 				},
 				"chance_of_application" : 50,
+				"character_multipliers" : [],
 				"damage" : 
 				{
 					"threshold" : 10
@@ -718,6 +732,7 @@
 					"number_of_rounds" : 1
 				},
 				"chance_of_application" : 50,
+				"character_multipliers" : [],
 				"damage" : 
 				{
 					"threshold" : 10
@@ -792,6 +807,7 @@
 					},
 					"number_of_rounds" : 1
 				},
+				"character_multipliers" : [],
 				"damage" : 
 				{
 					"threshold" : 10
@@ -818,8 +834,10 @@
 			{
 				"apply_on_status" : 
 				{
+					"applicable_statuses" : [],
 					"number_of_rounds" : 3
 				},
+				"character_multipliers" : [],
 				"damage" : 
 				{
 					"threshold" : 10
@@ -846,8 +864,10 @@
 			{
 				"apply_on_status" : 
 				{
+					"applicable_statuses" : [],
 					"number_of_rounds" : 3
 				},
+				"character_multipliers" : [],
 				"damage" : 
 				{
 					"threshold" : 10
@@ -874,8 +894,10 @@
 			{
 				"apply_on_status" : 
 				{
+					"applicable_statuses" : [],
 					"number_of_rounds" : 3
 				},
+				"character_multipliers" : [],
 				"damage" : 
 				{
 					"threshold" : 10
@@ -902,8 +924,10 @@
 			{
 				"apply_on_status" : 
 				{
+					"applicable_statuses" : [],
 					"number_of_rounds" : 3
 				},
+				"character_multipliers" : [],
 				"damage" : 
 				{
 					"threshold" : 10
@@ -930,8 +954,10 @@
 			{
 				"apply_on_status" : 
 				{
+					"applicable_statuses" : [],
 					"number_of_rounds" : 3
 				},
+				"character_multipliers" : [],
 				"damage" : 
 				{
 					"threshold" : 10
@@ -958,8 +984,10 @@
 			{
 				"apply_on_status" : 
 				{
+					"applicable_statuses" : [],
 					"number_of_rounds" : 3
 				},
+				"character_multipliers" : [],
 				"damage" : 
 				{
 					"threshold" : 10
@@ -1005,36 +1033,11 @@
 				},
 				"character_multipliers" : 
 				{
-					"races" : 
-					{
-						"010abdd6-1ed3-41d0-8b95-a324f5dfb50c" : 0.0,
-						"12f413f0-c6c6-4d04-af1f-f2922c3e8aa1" : 0.0,
-						"20c2a23c-07dc-4108-9db7-05d002dd6efc" : 0.0,
-						"2aea2906-f9bd-427f-aad8-300fb9107c0d" : 0.0,
-						"318e4b03-b7b6-4851-a36d-56fb08f146aa" : 0.0,
-						"37d3e534-02e1-4887-a98e-0a9cfcf9a8d6" : 0.0,
-						"3c066deb-eaaf-4bbf-b021-61ad0acc51a2" : 0.0,
-						"420f8e51-0d5a-46b4-aa94-562fdd510d77" : 0.0,
-						"4583934f-752d-4be7-a304-988fd70c929a" : 0.0,
-						"530e38f9-2e43-4a98-bd24-49f1e0cf6b94" : 0.0,
-						"56b3ae88-2b72-4838-9f3b-00929aeae6e1" : 0.0,
-						"651f6a67-e017-4e31-bf32-d7aed0527623" : 0.0,
-						"7722d7b5-c734-429e-b0f2-fd768caa5ae6" : 0.0,
-						"7c1d7ace-bbe9-4692-aaaa-bbbbccccdddd" : 0.0,
-						"90fb2456-c6c9-40b8-9753-e4d9bc7d7165" : 0.0,
-						"959e884c-d96c-4f09-91ea-e94a5835bf71" : 0.0,
-						"99fcf1c3-b189-48e0-b21a-08438e03c929" : 0.0,
-						"9d3a02d5-27e9-4847-9a80-9011e9689bfb" : 0.0,
-						"a20b3cf6-b71f-45f5-af9d-2f9d845d1658" : 0.0,
-						"a263d3f9-26d5-43ed-8d20-08968ea14aeb" : 0.0,
-						"ad533889-a032-41f2-b90c-592575b4e21c" : 0.0,
-						"cc06e91a-35d4-4a0d-9526-8d1f4263dfd4" : 0.0,
-						"f182870e-4274-4903-baa3-3978df3ebbed" : 0.0
-					},
 					"tags" : 
 					{
+						"125b3d94-3997-4fc4-8211-1768b67dbe4a" : 0.0,
 						"22e5209c-eaeb-40dc-b6ef-a371794110c2" : 0.0,
-						"6181b81c-b910-4e1c-b9ec-5099ac210ae7" : 0.0
+						"33c625aa-6982-4c27-904f-e47029a9b140" : 0.0
 					}
 				},
 				"damage" : 
@@ -1213,6 +1216,7 @@
 					},
 					"number_of_rounds" : 5
 				},
+				"character_multipliers" : [],
 				"damage" : 
 				{
 					"damage_types" : 
@@ -1444,36 +1448,11 @@
 				},
 				"character_multipliers" : 
 				{
-					"races" : 
-					{
-						"010abdd6-1ed3-41d0-8b95-a324f5dfb50c" : 0.0,
-						"12f413f0-c6c6-4d04-af1f-f2922c3e8aa1" : 0.0,
-						"20c2a23c-07dc-4108-9db7-05d002dd6efc" : 0.0,
-						"2aea2906-f9bd-427f-aad8-300fb9107c0d" : 0.0,
-						"318e4b03-b7b6-4851-a36d-56fb08f146aa" : 0.0,
-						"37d3e534-02e1-4887-a98e-0a9cfcf9a8d6" : 0.0,
-						"3c066deb-eaaf-4bbf-b021-61ad0acc51a2" : 0.0,
-						"420f8e51-0d5a-46b4-aa94-562fdd510d77" : 0.0,
-						"4583934f-752d-4be7-a304-988fd70c929a" : 0.0,
-						"530e38f9-2e43-4a98-bd24-49f1e0cf6b94" : 0.0,
-						"56b3ae88-2b72-4838-9f3b-00929aeae6e1" : 0.0,
-						"651f6a67-e017-4e31-bf32-d7aed0527623" : 0.0,
-						"7722d7b5-c734-429e-b0f2-fd768caa5ae6" : 0.0,
-						"7c1d7ace-bbe9-4692-aaaa-bbbbccccdddd" : 0.0,
-						"90fb2456-c6c9-40b8-9753-e4d9bc7d7165" : 0.0,
-						"959e884c-d96c-4f09-91ea-e94a5835bf71" : 0.0,
-						"99fcf1c3-b189-48e0-b21a-08438e03c929" : 0.0,
-						"9d3a02d5-27e9-4847-9a80-9011e9689bfb" : 0.0,
-						"a20b3cf6-b71f-45f5-af9d-2f9d845d1658" : 0.0,
-						"a263d3f9-26d5-43ed-8d20-08968ea14aeb" : 0.0,
-						"ad533889-a032-41f2-b90c-592575b4e21c" : 0.0,
-						"cc06e91a-35d4-4a0d-9526-8d1f4263dfd4" : 0.0,
-						"f182870e-4274-4903-baa3-3978df3ebbed" : 0.0
-					},
 					"tags" : 
 					{
+						"125b3d94-3997-4fc4-8211-1768b67dbe4a" : 0.0,
 						"22e5209c-eaeb-40dc-b6ef-a371794110c2" : 0.0,
-						"6181b81c-b910-4e1c-b9ec-5099ac210ae7" : 0.0
+						"33c625aa-6982-4c27-904f-e47029a9b140" : 0.0
 					}
 				},
 				"damage" : 
@@ -1584,36 +1563,11 @@
 				},
 				"character_multipliers" : 
 				{
-					"races" : 
-					{
-						"010abdd6-1ed3-41d0-8b95-a324f5dfb50c" : 0.0,
-						"12f413f0-c6c6-4d04-af1f-f2922c3e8aa1" : 0.0,
-						"20c2a23c-07dc-4108-9db7-05d002dd6efc" : 0.0,
-						"2aea2906-f9bd-427f-aad8-300fb9107c0d" : 0.0,
-						"318e4b03-b7b6-4851-a36d-56fb08f146aa" : 0.0,
-						"37d3e534-02e1-4887-a98e-0a9cfcf9a8d6" : 0.0,
-						"3c066deb-eaaf-4bbf-b021-61ad0acc51a2" : 0.0,
-						"420f8e51-0d5a-46b4-aa94-562fdd510d77" : 0.0,
-						"4583934f-752d-4be7-a304-988fd70c929a" : 0.0,
-						"530e38f9-2e43-4a98-bd24-49f1e0cf6b94" : 0.0,
-						"56b3ae88-2b72-4838-9f3b-00929aeae6e1" : 0.0,
-						"651f6a67-e017-4e31-bf32-d7aed0527623" : 0.0,
-						"7722d7b5-c734-429e-b0f2-fd768caa5ae6" : 0.0,
-						"7c1d7ace-bbe9-4692-aaaa-bbbbccccdddd" : 0.0,
-						"90fb2456-c6c9-40b8-9753-e4d9bc7d7165" : 0.0,
-						"959e884c-d96c-4f09-91ea-e94a5835bf71" : 0.0,
-						"99fcf1c3-b189-48e0-b21a-08438e03c929" : 0.0,
-						"9d3a02d5-27e9-4847-9a80-9011e9689bfb" : 0.0,
-						"a20b3cf6-b71f-45f5-af9d-2f9d845d1658" : 0.0,
-						"a263d3f9-26d5-43ed-8d20-08968ea14aeb" : 0.0,
-						"ad533889-a032-41f2-b90c-592575b4e21c" : 0.0,
-						"cc06e91a-35d4-4a0d-9526-8d1f4263dfd4" : 0.0,
-						"f182870e-4274-4903-baa3-3978df3ebbed" : 0.0
-					},
 					"tags" : 
 					{
+						"125b3d94-3997-4fc4-8211-1768b67dbe4a" : 0.0,
 						"22e5209c-eaeb-40dc-b6ef-a371794110c2" : 0.0,
-						"6181b81c-b910-4e1c-b9ec-5099ac210ae7" : 0.0
+						"33c625aa-6982-4c27-904f-e47029a9b140" : 0.0
 					}
 				},
 				"damage" : 
@@ -1716,36 +1670,11 @@
 				},
 				"character_multipliers" : 
 				{
-					"races" : 
-					{
-						"010abdd6-1ed3-41d0-8b95-a324f5dfb50c" : 0.0,
-						"12f413f0-c6c6-4d04-af1f-f2922c3e8aa1" : 0.0,
-						"20c2a23c-07dc-4108-9db7-05d002dd6efc" : 0.0,
-						"2aea2906-f9bd-427f-aad8-300fb9107c0d" : 0.0,
-						"318e4b03-b7b6-4851-a36d-56fb08f146aa" : 0.0,
-						"37d3e534-02e1-4887-a98e-0a9cfcf9a8d6" : 0.0,
-						"3c066deb-eaaf-4bbf-b021-61ad0acc51a2" : 0.0,
-						"420f8e51-0d5a-46b4-aa94-562fdd510d77" : 0.0,
-						"4583934f-752d-4be7-a304-988fd70c929a" : 0.0,
-						"530e38f9-2e43-4a98-bd24-49f1e0cf6b94" : 0.0,
-						"56b3ae88-2b72-4838-9f3b-00929aeae6e1" : 0.0,
-						"651f6a67-e017-4e31-bf32-d7aed0527623" : 0.0,
-						"7722d7b5-c734-429e-b0f2-fd768caa5ae6" : 0.0,
-						"7c1d7ace-bbe9-4692-aaaa-bbbbccccdddd" : 0.0,
-						"90fb2456-c6c9-40b8-9753-e4d9bc7d7165" : 0.0,
-						"959e884c-d96c-4f09-91ea-e94a5835bf71" : 0.0,
-						"99fcf1c3-b189-48e0-b21a-08438e03c929" : 0.0,
-						"9d3a02d5-27e9-4847-9a80-9011e9689bfb" : 0.0,
-						"a20b3cf6-b71f-45f5-af9d-2f9d845d1658" : 0.0,
-						"a263d3f9-26d5-43ed-8d20-08968ea14aeb" : 0.0,
-						"ad533889-a032-41f2-b90c-592575b4e21c" : 0.0,
-						"cc06e91a-35d4-4a0d-9526-8d1f4263dfd4" : 0.0,
-						"f182870e-4274-4903-baa3-3978df3ebbed" : 0.0
-					},
 					"tags" : 
 					{
+						"125b3d94-3997-4fc4-8211-1768b67dbe4a" : 0.0,
 						"22e5209c-eaeb-40dc-b6ef-a371794110c2" : 0.0,
-						"6181b81c-b910-4e1c-b9ec-5099ac210ae7" : 0.0
+						"33c625aa-6982-4c27-904f-e47029a9b140" : 0.0
 					}
 				},
 				"damage" : 
@@ -1837,6 +1766,7 @@
 					},
 					"number_of_rounds" : 10
 				},
+				"character_multipliers" : [],
 				"damage" : 
 				{
 					"damage_types" : 
@@ -1919,6 +1849,7 @@
 					},
 					"number_of_rounds" : 5
 				},
+				"character_multipliers" : [],
 				"damage" : 
 				{
 					"damage_types" : 
@@ -2013,6 +1944,7 @@
 					},
 					"number_of_rounds" : 1
 				},
+				"character_multipliers" : [],
 				"damage" : 
 				{
 					"damage_types" : 
@@ -2285,36 +2217,11 @@
 				},
 				"character_multipliers" : 
 				{
-					"races" : 
-					{
-						"010abdd6-1ed3-41d0-8b95-a324f5dfb50c" : 0.0,
-						"12f413f0-c6c6-4d04-af1f-f2922c3e8aa1" : 0.0,
-						"20c2a23c-07dc-4108-9db7-05d002dd6efc" : 0.0,
-						"2aea2906-f9bd-427f-aad8-300fb9107c0d" : 0.0,
-						"318e4b03-b7b6-4851-a36d-56fb08f146aa" : 0.0,
-						"37d3e534-02e1-4887-a98e-0a9cfcf9a8d6" : 0.0,
-						"3c066deb-eaaf-4bbf-b021-61ad0acc51a2" : 0.0,
-						"420f8e51-0d5a-46b4-aa94-562fdd510d77" : 0.0,
-						"4583934f-752d-4be7-a304-988fd70c929a" : 0.0,
-						"530e38f9-2e43-4a98-bd24-49f1e0cf6b94" : 0.0,
-						"56b3ae88-2b72-4838-9f3b-00929aeae6e1" : 0.0,
-						"651f6a67-e017-4e31-bf32-d7aed0527623" : 0.0,
-						"7722d7b5-c734-429e-b0f2-fd768caa5ae6" : 0.0,
-						"7c1d7ace-bbe9-4692-aaaa-bbbbccccdddd" : 0.0,
-						"90fb2456-c6c9-40b8-9753-e4d9bc7d7165" : 0.0,
-						"959e884c-d96c-4f09-91ea-e94a5835bf71" : 0.0,
-						"99fcf1c3-b189-48e0-b21a-08438e03c929" : 0.0,
-						"9d3a02d5-27e9-4847-9a80-9011e9689bfb" : 0.0,
-						"a20b3cf6-b71f-45f5-af9d-2f9d845d1658" : 0.0,
-						"a263d3f9-26d5-43ed-8d20-08968ea14aeb" : 0.0,
-						"ad533889-a032-41f2-b90c-592575b4e21c" : 0.0,
-						"cc06e91a-35d4-4a0d-9526-8d1f4263dfd4" : 0.0,
-						"f182870e-4274-4903-baa3-3978df3ebbed" : 0.0
-					},
 					"tags" : 
 					{
+						"125b3d94-3997-4fc4-8211-1768b67dbe4a" : 0.0,
 						"22e5209c-eaeb-40dc-b6ef-a371794110c2" : 0.0,
-						"6181b81c-b910-4e1c-b9ec-5099ac210ae7" : 0.0
+						"33c625aa-6982-4c27-904f-e47029a9b140" : 0.0
 					}
 				},
 				"damage" : 
@@ -2453,6 +2360,7 @@
 					},
 					"number_of_rounds" : 5
 				},
+				"character_multipliers" : [],
 				"damage" : 
 				{
 					"damage_types" : 
@@ -2547,6 +2455,7 @@
 					},
 					"number_of_rounds" : 3
 				},
+				"character_multipliers" : [],
 				"damage" : 
 				{
 					"damage_types" : 
@@ -2675,6 +2584,7 @@
 					},
 					"number_of_rounds" : 20
 				},
+				"character_multipliers" : [],
 				"damage" : 
 				{
 					"damage_types" : 
@@ -2755,6 +2665,7 @@
 					},
 					"number_of_rounds" : 3
 				},
+				"character_multipliers" : [],
 				"damage" : 
 				{
 					"damage_types" : 
@@ -2839,6 +2750,7 @@
 					},
 					"number_of_rounds" : 3
 				},
+				"character_multipliers" : [],
 				"damage" : 
 				{
 					"damage_types" : 
@@ -2944,6 +2856,7 @@
 					},
 					"number_of_rounds" : 6
 				},
+				"character_multipliers" : [],
 				"damage" : 
 				{
 					"damage_types" : 
@@ -3056,6 +2969,7 @@
 					},
 					"number_of_rounds" : 3
 				},
+				"character_multipliers" : [],
 				"damage" : 
 				{
 					"damage_types" : 
@@ -3318,36 +3232,11 @@
 				},
 				"character_multipliers" : 
 				{
-					"races" : 
-					{
-						"010abdd6-1ed3-41d0-8b95-a324f5dfb50c" : 0.0,
-						"12f413f0-c6c6-4d04-af1f-f2922c3e8aa1" : 0.0,
-						"20c2a23c-07dc-4108-9db7-05d002dd6efc" : 0.0,
-						"2aea2906-f9bd-427f-aad8-300fb9107c0d" : 0.0,
-						"318e4b03-b7b6-4851-a36d-56fb08f146aa" : 0.0,
-						"37d3e534-02e1-4887-a98e-0a9cfcf9a8d6" : 0.0,
-						"3c066deb-eaaf-4bbf-b021-61ad0acc51a2" : 0.0,
-						"420f8e51-0d5a-46b4-aa94-562fdd510d77" : 0.0,
-						"4583934f-752d-4be7-a304-988fd70c929a" : 0.0,
-						"530e38f9-2e43-4a98-bd24-49f1e0cf6b94" : 0.0,
-						"56b3ae88-2b72-4838-9f3b-00929aeae6e1" : 0.0,
-						"651f6a67-e017-4e31-bf32-d7aed0527623" : 0.0,
-						"7722d7b5-c734-429e-b0f2-fd768caa5ae6" : 0.0,
-						"7c1d7ace-bbe9-4692-aaaa-bbbbccccdddd" : 0.0,
-						"90fb2456-c6c9-40b8-9753-e4d9bc7d7165" : 0.0,
-						"959e884c-d96c-4f09-91ea-e94a5835bf71" : 0.0,
-						"99fcf1c3-b189-48e0-b21a-08438e03c929" : 0.0,
-						"9d3a02d5-27e9-4847-9a80-9011e9689bfb" : 0.0,
-						"a20b3cf6-b71f-45f5-af9d-2f9d845d1658" : 0.0,
-						"a263d3f9-26d5-43ed-8d20-08968ea14aeb" : 0.0,
-						"ad533889-a032-41f2-b90c-592575b4e21c" : 0.0,
-						"cc06e91a-35d4-4a0d-9526-8d1f4263dfd4" : 0.0,
-						"f182870e-4274-4903-baa3-3978df3ebbed" : 0.0
-					},
 					"tags" : 
 					{
+						"125b3d94-3997-4fc4-8211-1768b67dbe4a" : 0.0,
 						"22e5209c-eaeb-40dc-b6ef-a371794110c2" : 0.0,
-						"6181b81c-b910-4e1c-b9ec-5099ac210ae7" : 0.0
+						"33c625aa-6982-4c27-904f-e47029a9b140" : 0.0
 					}
 				},
 				"damage" : 
@@ -3610,6 +3499,7 @@
 					},
 					"number_of_rounds" : 5
 				},
+				"character_multipliers" : [],
 				"damage" : 
 				{
 					"damage_types" : 
@@ -3716,6 +3606,7 @@
 					},
 					"number_of_rounds" : 3
 				},
+				"character_multipliers" : [],
 				"damage" : 
 				{
 					"damage_types" : 
@@ -3821,36 +3712,11 @@
 				},
 				"character_multipliers" : 
 				{
-					"races" : 
-					{
-						"010abdd6-1ed3-41d0-8b95-a324f5dfb50c" : 0.0,
-						"12f413f0-c6c6-4d04-af1f-f2922c3e8aa1" : 0.0,
-						"20c2a23c-07dc-4108-9db7-05d002dd6efc" : 0.0,
-						"2aea2906-f9bd-427f-aad8-300fb9107c0d" : 0.0,
-						"318e4b03-b7b6-4851-a36d-56fb08f146aa" : 0.0,
-						"37d3e534-02e1-4887-a98e-0a9cfcf9a8d6" : 0.0,
-						"3c066deb-eaaf-4bbf-b021-61ad0acc51a2" : 0.0,
-						"420f8e51-0d5a-46b4-aa94-562fdd510d77" : 0.0,
-						"4583934f-752d-4be7-a304-988fd70c929a" : 0.0,
-						"530e38f9-2e43-4a98-bd24-49f1e0cf6b94" : 0.0,
-						"56b3ae88-2b72-4838-9f3b-00929aeae6e1" : 0.0,
-						"651f6a67-e017-4e31-bf32-d7aed0527623" : 0.0,
-						"7722d7b5-c734-429e-b0f2-fd768caa5ae6" : 0.0,
-						"7c1d7ace-bbe9-4692-aaaa-bbbbccccdddd" : 0.0,
-						"90fb2456-c6c9-40b8-9753-e4d9bc7d7165" : 0.0,
-						"959e884c-d96c-4f09-91ea-e94a5835bf71" : 0.0,
-						"99fcf1c3-b189-48e0-b21a-08438e03c929" : 0.0,
-						"9d3a02d5-27e9-4847-9a80-9011e9689bfb" : 0.0,
-						"a20b3cf6-b71f-45f5-af9d-2f9d845d1658" : 0.0,
-						"a263d3f9-26d5-43ed-8d20-08968ea14aeb" : 0.0,
-						"ad533889-a032-41f2-b90c-592575b4e21c" : 0.0,
-						"cc06e91a-35d4-4a0d-9526-8d1f4263dfd4" : 0.0,
-						"f182870e-4274-4903-baa3-3978df3ebbed" : 0.0
-					},
 					"tags" : 
 					{
+						"125b3d94-3997-4fc4-8211-1768b67dbe4a" : 0.0,
 						"22e5209c-eaeb-40dc-b6ef-a371794110c2" : 0.0,
-						"6181b81c-b910-4e1c-b9ec-5099ac210ae7" : 0.0
+						"33c625aa-6982-4c27-904f-e47029a9b140" : 0.0
 					}
 				},
 				"damage" : 
@@ -4023,36 +3889,11 @@
 				},
 				"character_multipliers" : 
 				{
-					"races" : 
-					{
-						"010abdd6-1ed3-41d0-8b95-a324f5dfb50c" : 0.0,
-						"12f413f0-c6c6-4d04-af1f-f2922c3e8aa1" : 0.0,
-						"20c2a23c-07dc-4108-9db7-05d002dd6efc" : 0.0,
-						"2aea2906-f9bd-427f-aad8-300fb9107c0d" : 0.0,
-						"318e4b03-b7b6-4851-a36d-56fb08f146aa" : 0.0,
-						"37d3e534-02e1-4887-a98e-0a9cfcf9a8d6" : 0.0,
-						"3c066deb-eaaf-4bbf-b021-61ad0acc51a2" : 0.0,
-						"420f8e51-0d5a-46b4-aa94-562fdd510d77" : 0.0,
-						"4583934f-752d-4be7-a304-988fd70c929a" : 0.0,
-						"530e38f9-2e43-4a98-bd24-49f1e0cf6b94" : 0.0,
-						"56b3ae88-2b72-4838-9f3b-00929aeae6e1" : 0.0,
-						"651f6a67-e017-4e31-bf32-d7aed0527623" : 0.0,
-						"7722d7b5-c734-429e-b0f2-fd768caa5ae6" : 0.0,
-						"7c1d7ace-bbe9-4692-aaaa-bbbbccccdddd" : 0.0,
-						"90fb2456-c6c9-40b8-9753-e4d9bc7d7165" : 0.0,
-						"959e884c-d96c-4f09-91ea-e94a5835bf71" : 0.0,
-						"99fcf1c3-b189-48e0-b21a-08438e03c929" : 0.0,
-						"9d3a02d5-27e9-4847-9a80-9011e9689bfb" : 0.0,
-						"a20b3cf6-b71f-45f5-af9d-2f9d845d1658" : 0.0,
-						"a263d3f9-26d5-43ed-8d20-08968ea14aeb" : 0.0,
-						"ad533889-a032-41f2-b90c-592575b4e21c" : 0.0,
-						"cc06e91a-35d4-4a0d-9526-8d1f4263dfd4" : 0.0,
-						"f182870e-4274-4903-baa3-3978df3ebbed" : 0.0
-					},
 					"tags" : 
 					{
+						"125b3d94-3997-4fc4-8211-1768b67dbe4a" : 0.0,
 						"22e5209c-eaeb-40dc-b6ef-a371794110c2" : 0.0,
-						"6181b81c-b910-4e1c-b9ec-5099ac210ae7" : 0.0
+						"33c625aa-6982-4c27-904f-e47029a9b140" : 0.0
 					}
 				},
 				"damage" : 
@@ -4215,36 +4056,11 @@
 				},
 				"character_multipliers" : 
 				{
-					"races" : 
-					{
-						"010abdd6-1ed3-41d0-8b95-a324f5dfb50c" : 0.0,
-						"12f413f0-c6c6-4d04-af1f-f2922c3e8aa1" : 0.0,
-						"20c2a23c-07dc-4108-9db7-05d002dd6efc" : 0.0,
-						"2aea2906-f9bd-427f-aad8-300fb9107c0d" : 0.0,
-						"318e4b03-b7b6-4851-a36d-56fb08f146aa" : 0.0,
-						"37d3e534-02e1-4887-a98e-0a9cfcf9a8d6" : 0.0,
-						"3c066deb-eaaf-4bbf-b021-61ad0acc51a2" : 0.0,
-						"420f8e51-0d5a-46b4-aa94-562fdd510d77" : 0.0,
-						"4583934f-752d-4be7-a304-988fd70c929a" : 0.0,
-						"530e38f9-2e43-4a98-bd24-49f1e0cf6b94" : 0.0,
-						"56b3ae88-2b72-4838-9f3b-00929aeae6e1" : 0.0,
-						"651f6a67-e017-4e31-bf32-d7aed0527623" : 0.0,
-						"7722d7b5-c734-429e-b0f2-fd768caa5ae6" : 0.0,
-						"7c1d7ace-bbe9-4692-aaaa-bbbbccccdddd" : 0.0,
-						"90fb2456-c6c9-40b8-9753-e4d9bc7d7165" : 0.0,
-						"959e884c-d96c-4f09-91ea-e94a5835bf71" : 0.0,
-						"99fcf1c3-b189-48e0-b21a-08438e03c929" : 0.0,
-						"9d3a02d5-27e9-4847-9a80-9011e9689bfb" : 0.0,
-						"a20b3cf6-b71f-45f5-af9d-2f9d845d1658" : 0.0,
-						"a263d3f9-26d5-43ed-8d20-08968ea14aeb" : 0.0,
-						"ad533889-a032-41f2-b90c-592575b4e21c" : 0.0,
-						"cc06e91a-35d4-4a0d-9526-8d1f4263dfd4" : 0.0,
-						"f182870e-4274-4903-baa3-3978df3ebbed" : 0.0
-					},
 					"tags" : 
 					{
+						"125b3d94-3997-4fc4-8211-1768b67dbe4a" : 0.0,
 						"22e5209c-eaeb-40dc-b6ef-a371794110c2" : 0.0,
-						"6181b81c-b910-4e1c-b9ec-5099ac210ae7" : 0.0
+						"33c625aa-6982-4c27-904f-e47029a9b140" : 0.0
 					}
 				},
 				"damage" : 
@@ -4505,36 +4321,11 @@
 				},
 				"character_multipliers" : 
 				{
-					"races" : 
-					{
-						"010abdd6-1ed3-41d0-8b95-a324f5dfb50c" : 0.0,
-						"12f413f0-c6c6-4d04-af1f-f2922c3e8aa1" : 0.0,
-						"20c2a23c-07dc-4108-9db7-05d002dd6efc" : 0.0,
-						"2aea2906-f9bd-427f-aad8-300fb9107c0d" : 0.0,
-						"318e4b03-b7b6-4851-a36d-56fb08f146aa" : 0.0,
-						"37d3e534-02e1-4887-a98e-0a9cfcf9a8d6" : 0.0,
-						"3c066deb-eaaf-4bbf-b021-61ad0acc51a2" : 0.0,
-						"420f8e51-0d5a-46b4-aa94-562fdd510d77" : 0.0,
-						"4583934f-752d-4be7-a304-988fd70c929a" : 0.0,
-						"530e38f9-2e43-4a98-bd24-49f1e0cf6b94" : 0.0,
-						"56b3ae88-2b72-4838-9f3b-00929aeae6e1" : 0.0,
-						"651f6a67-e017-4e31-bf32-d7aed0527623" : 0.0,
-						"7722d7b5-c734-429e-b0f2-fd768caa5ae6" : 0.0,
-						"7c1d7ace-bbe9-4692-aaaa-bbbbccccdddd" : 0.0,
-						"90fb2456-c6c9-40b8-9753-e4d9bc7d7165" : 0.0,
-						"959e884c-d96c-4f09-91ea-e94a5835bf71" : 0.0,
-						"99fcf1c3-b189-48e0-b21a-08438e03c929" : 0.0,
-						"9d3a02d5-27e9-4847-9a80-9011e9689bfb" : 0.0,
-						"a20b3cf6-b71f-45f5-af9d-2f9d845d1658" : 0.0,
-						"a263d3f9-26d5-43ed-8d20-08968ea14aeb" : 0.0,
-						"ad533889-a032-41f2-b90c-592575b4e21c" : 0.0,
-						"cc06e91a-35d4-4a0d-9526-8d1f4263dfd4" : 0.0,
-						"f182870e-4274-4903-baa3-3978df3ebbed" : 0.0
-					},
 					"tags" : 
 					{
+						"125b3d94-3997-4fc4-8211-1768b67dbe4a" : 0.0,
 						"22e5209c-eaeb-40dc-b6ef-a371794110c2" : 0.0,
-						"6181b81c-b910-4e1c-b9ec-5099ac210ae7" : 0.0
+						"33c625aa-6982-4c27-904f-e47029a9b140" : 0.0
 					}
 				},
 				"damage" : 
@@ -4671,36 +4462,11 @@
 				},
 				"character_multipliers" : 
 				{
-					"races" : 
-					{
-						"010abdd6-1ed3-41d0-8b95-a324f5dfb50c" : 0.0,
-						"12f413f0-c6c6-4d04-af1f-f2922c3e8aa1" : 0.0,
-						"20c2a23c-07dc-4108-9db7-05d002dd6efc" : 0.0,
-						"2aea2906-f9bd-427f-aad8-300fb9107c0d" : 0.0,
-						"318e4b03-b7b6-4851-a36d-56fb08f146aa" : 0.0,
-						"37d3e534-02e1-4887-a98e-0a9cfcf9a8d6" : 0.0,
-						"3c066deb-eaaf-4bbf-b021-61ad0acc51a2" : 0.0,
-						"420f8e51-0d5a-46b4-aa94-562fdd510d77" : 0.0,
-						"4583934f-752d-4be7-a304-988fd70c929a" : 0.0,
-						"530e38f9-2e43-4a98-bd24-49f1e0cf6b94" : 0.0,
-						"56b3ae88-2b72-4838-9f3b-00929aeae6e1" : 0.0,
-						"651f6a67-e017-4e31-bf32-d7aed0527623" : 0.0,
-						"7722d7b5-c734-429e-b0f2-fd768caa5ae6" : 0.0,
-						"7c1d7ace-bbe9-4692-aaaa-bbbbccccdddd" : 0.0,
-						"90fb2456-c6c9-40b8-9753-e4d9bc7d7165" : 0.0,
-						"959e884c-d96c-4f09-91ea-e94a5835bf71" : 0.0,
-						"99fcf1c3-b189-48e0-b21a-08438e03c929" : 0.0,
-						"9d3a02d5-27e9-4847-9a80-9011e9689bfb" : 0.0,
-						"a20b3cf6-b71f-45f5-af9d-2f9d845d1658" : 0.0,
-						"a263d3f9-26d5-43ed-8d20-08968ea14aeb" : 0.0,
-						"ad533889-a032-41f2-b90c-592575b4e21c" : 0.0,
-						"cc06e91a-35d4-4a0d-9526-8d1f4263dfd4" : 0.0,
-						"f182870e-4274-4903-baa3-3978df3ebbed" : 0.0
-					},
 					"tags" : 
 					{
+						"125b3d94-3997-4fc4-8211-1768b67dbe4a" : 0.0,
 						"22e5209c-eaeb-40dc-b6ef-a371794110c2" : 0.0,
-						"6181b81c-b910-4e1c-b9ec-5099ac210ae7" : 0.0
+						"33c625aa-6982-4c27-904f-e47029a9b140" : 0.0
 					}
 				},
 				"damage" : 
@@ -4785,6 +4551,7 @@
 					},
 					"number_of_rounds" : 2
 				},
+				"character_multipliers" : [],
 				"damage" : 
 				{
 					"damage_types" : 
@@ -4899,36 +4666,11 @@
 				},
 				"character_multipliers" : 
 				{
-					"races" : 
-					{
-						"010abdd6-1ed3-41d0-8b95-a324f5dfb50c" : 0.0,
-						"12f413f0-c6c6-4d04-af1f-f2922c3e8aa1" : 0.0,
-						"20c2a23c-07dc-4108-9db7-05d002dd6efc" : 0.0,
-						"2aea2906-f9bd-427f-aad8-300fb9107c0d" : 0.0,
-						"318e4b03-b7b6-4851-a36d-56fb08f146aa" : 0.0,
-						"37d3e534-02e1-4887-a98e-0a9cfcf9a8d6" : 0.0,
-						"3c066deb-eaaf-4bbf-b021-61ad0acc51a2" : 0.0,
-						"420f8e51-0d5a-46b4-aa94-562fdd510d77" : 0.0,
-						"4583934f-752d-4be7-a304-988fd70c929a" : 0.0,
-						"530e38f9-2e43-4a98-bd24-49f1e0cf6b94" : 0.0,
-						"56b3ae88-2b72-4838-9f3b-00929aeae6e1" : 0.0,
-						"651f6a67-e017-4e31-bf32-d7aed0527623" : 0.0,
-						"7722d7b5-c734-429e-b0f2-fd768caa5ae6" : 0.0,
-						"7c1d7ace-bbe9-4692-aaaa-bbbbccccdddd" : 0.0,
-						"90fb2456-c6c9-40b8-9753-e4d9bc7d7165" : 0.0,
-						"959e884c-d96c-4f09-91ea-e94a5835bf71" : 0.0,
-						"99fcf1c3-b189-48e0-b21a-08438e03c929" : 0.0,
-						"9d3a02d5-27e9-4847-9a80-9011e9689bfb" : 0.0,
-						"a20b3cf6-b71f-45f5-af9d-2f9d845d1658" : 0.0,
-						"a263d3f9-26d5-43ed-8d20-08968ea14aeb" : 0.0,
-						"ad533889-a032-41f2-b90c-592575b4e21c" : 0.0,
-						"cc06e91a-35d4-4a0d-9526-8d1f4263dfd4" : 0.0,
-						"f182870e-4274-4903-baa3-3978df3ebbed" : 0.0
-					},
 					"tags" : 
 					{
+						"125b3d94-3997-4fc4-8211-1768b67dbe4a" : 0.0,
 						"22e5209c-eaeb-40dc-b6ef-a371794110c2" : 0.0,
-						"6181b81c-b910-4e1c-b9ec-5099ac210ae7" : 0.0
+						"33c625aa-6982-4c27-904f-e47029a9b140" : 0.0
 					}
 				},
 				"damage" : 
@@ -5095,36 +4837,11 @@
 				},
 				"character_multipliers" : 
 				{
-					"races" : 
-					{
-						"010abdd6-1ed3-41d0-8b95-a324f5dfb50c" : 0.0,
-						"12f413f0-c6c6-4d04-af1f-f2922c3e8aa1" : 0.0,
-						"20c2a23c-07dc-4108-9db7-05d002dd6efc" : 0.0,
-						"2aea2906-f9bd-427f-aad8-300fb9107c0d" : 0.0,
-						"318e4b03-b7b6-4851-a36d-56fb08f146aa" : 0.0,
-						"37d3e534-02e1-4887-a98e-0a9cfcf9a8d6" : 0.0,
-						"3c066deb-eaaf-4bbf-b021-61ad0acc51a2" : 0.0,
-						"420f8e51-0d5a-46b4-aa94-562fdd510d77" : 0.0,
-						"4583934f-752d-4be7-a304-988fd70c929a" : 0.0,
-						"530e38f9-2e43-4a98-bd24-49f1e0cf6b94" : 0.0,
-						"56b3ae88-2b72-4838-9f3b-00929aeae6e1" : 0.0,
-						"651f6a67-e017-4e31-bf32-d7aed0527623" : 0.0,
-						"7722d7b5-c734-429e-b0f2-fd768caa5ae6" : 0.0,
-						"7c1d7ace-bbe9-4692-aaaa-bbbbccccdddd" : 0.0,
-						"90fb2456-c6c9-40b8-9753-e4d9bc7d7165" : 0.0,
-						"959e884c-d96c-4f09-91ea-e94a5835bf71" : 0.0,
-						"99fcf1c3-b189-48e0-b21a-08438e03c929" : 0.0,
-						"9d3a02d5-27e9-4847-9a80-9011e9689bfb" : 0.0,
-						"a20b3cf6-b71f-45f5-af9d-2f9d845d1658" : 0.0,
-						"a263d3f9-26d5-43ed-8d20-08968ea14aeb" : 0.0,
-						"ad533889-a032-41f2-b90c-592575b4e21c" : 0.0,
-						"cc06e91a-35d4-4a0d-9526-8d1f4263dfd4" : 0.0,
-						"f182870e-4274-4903-baa3-3978df3ebbed" : 0.0
-					},
 					"tags" : 
 					{
+						"125b3d94-3997-4fc4-8211-1768b67dbe4a" : 0.0,
 						"22e5209c-eaeb-40dc-b6ef-a371794110c2" : 0.0,
-						"6181b81c-b910-4e1c-b9ec-5099ac210ae7" : 0.0
+						"33c625aa-6982-4c27-904f-e47029a9b140" : 0.0
 					}
 				},
 				"damage" : 
@@ -5290,36 +5007,11 @@
 				},
 				"character_multipliers" : 
 				{
-					"races" : 
-					{
-						"010abdd6-1ed3-41d0-8b95-a324f5dfb50c" : 0.0,
-						"12f413f0-c6c6-4d04-af1f-f2922c3e8aa1" : 0.0,
-						"20c2a23c-07dc-4108-9db7-05d002dd6efc" : 0.0,
-						"2aea2906-f9bd-427f-aad8-300fb9107c0d" : 0.0,
-						"318e4b03-b7b6-4851-a36d-56fb08f146aa" : 0.0,
-						"37d3e534-02e1-4887-a98e-0a9cfcf9a8d6" : 0.0,
-						"3c066deb-eaaf-4bbf-b021-61ad0acc51a2" : 0.0,
-						"420f8e51-0d5a-46b4-aa94-562fdd510d77" : 0.0,
-						"4583934f-752d-4be7-a304-988fd70c929a" : 0.0,
-						"530e38f9-2e43-4a98-bd24-49f1e0cf6b94" : 0.0,
-						"56b3ae88-2b72-4838-9f3b-00929aeae6e1" : 0.0,
-						"651f6a67-e017-4e31-bf32-d7aed0527623" : 0.0,
-						"7722d7b5-c734-429e-b0f2-fd768caa5ae6" : 0.0,
-						"7c1d7ace-bbe9-4692-aaaa-bbbbccccdddd" : 0.0,
-						"90fb2456-c6c9-40b8-9753-e4d9bc7d7165" : 0.0,
-						"959e884c-d96c-4f09-91ea-e94a5835bf71" : 0.0,
-						"99fcf1c3-b189-48e0-b21a-08438e03c929" : 0.0,
-						"9d3a02d5-27e9-4847-9a80-9011e9689bfb" : 0.0,
-						"a20b3cf6-b71f-45f5-af9d-2f9d845d1658" : 0.0,
-						"a263d3f9-26d5-43ed-8d20-08968ea14aeb" : 0.0,
-						"ad533889-a032-41f2-b90c-592575b4e21c" : 0.0,
-						"cc06e91a-35d4-4a0d-9526-8d1f4263dfd4" : 0.0,
-						"f182870e-4274-4903-baa3-3978df3ebbed" : 0.0
-					},
 					"tags" : 
 					{
+						"125b3d94-3997-4fc4-8211-1768b67dbe4a" : 0.0,
 						"22e5209c-eaeb-40dc-b6ef-a371794110c2" : 0.0,
-						"6181b81c-b910-4e1c-b9ec-5099ac210ae7" : 0.0
+						"33c625aa-6982-4c27-904f-e47029a9b140" : 0.0
 					}
 				},
 				"damage" : 
@@ -5579,36 +5271,11 @@
 				},
 				"character_multipliers" : 
 				{
-					"races" : 
-					{
-						"010abdd6-1ed3-41d0-8b95-a324f5dfb50c" : 0.0,
-						"12f413f0-c6c6-4d04-af1f-f2922c3e8aa1" : 0.0,
-						"20c2a23c-07dc-4108-9db7-05d002dd6efc" : 0.0,
-						"2aea2906-f9bd-427f-aad8-300fb9107c0d" : 0.0,
-						"318e4b03-b7b6-4851-a36d-56fb08f146aa" : 0.0,
-						"37d3e534-02e1-4887-a98e-0a9cfcf9a8d6" : 0.0,
-						"3c066deb-eaaf-4bbf-b021-61ad0acc51a2" : 0.0,
-						"420f8e51-0d5a-46b4-aa94-562fdd510d77" : 0.0,
-						"4583934f-752d-4be7-a304-988fd70c929a" : 0.0,
-						"530e38f9-2e43-4a98-bd24-49f1e0cf6b94" : 0.0,
-						"56b3ae88-2b72-4838-9f3b-00929aeae6e1" : 0.0,
-						"651f6a67-e017-4e31-bf32-d7aed0527623" : 0.0,
-						"7722d7b5-c734-429e-b0f2-fd768caa5ae6" : 0.0,
-						"7c1d7ace-bbe9-4692-aaaa-bbbbccccdddd" : 0.0,
-						"90fb2456-c6c9-40b8-9753-e4d9bc7d7165" : 0.0,
-						"959e884c-d96c-4f09-91ea-e94a5835bf71" : 0.0,
-						"99fcf1c3-b189-48e0-b21a-08438e03c929" : 0.0,
-						"9d3a02d5-27e9-4847-9a80-9011e9689bfb" : 0.0,
-						"a20b3cf6-b71f-45f5-af9d-2f9d845d1658" : 0.0,
-						"a263d3f9-26d5-43ed-8d20-08968ea14aeb" : 0.0,
-						"ad533889-a032-41f2-b90c-592575b4e21c" : 0.0,
-						"cc06e91a-35d4-4a0d-9526-8d1f4263dfd4" : 0.0,
-						"f182870e-4274-4903-baa3-3978df3ebbed" : 0.0
-					},
 					"tags" : 
 					{
+						"125b3d94-3997-4fc4-8211-1768b67dbe4a" : 0.0,
 						"22e5209c-eaeb-40dc-b6ef-a371794110c2" : 0.0,
-						"6181b81c-b910-4e1c-b9ec-5099ac210ae7" : 0.0
+						"33c625aa-6982-4c27-904f-e47029a9b140" : 0.0
 					}
 				},
 				"damage" : 
@@ -5746,6 +5413,7 @@
 					},
 					"number_of_rounds" : 2
 				},
+				"character_multipliers" : [],
 				"damage" : 
 				{
 					"damage_types" : 
@@ -6048,36 +5716,11 @@
 				},
 				"character_multipliers" : 
 				{
-					"races" : 
-					{
-						"010abdd6-1ed3-41d0-8b95-a324f5dfb50c" : 0.0,
-						"12f413f0-c6c6-4d04-af1f-f2922c3e8aa1" : 0.0,
-						"20c2a23c-07dc-4108-9db7-05d002dd6efc" : 0.0,
-						"2aea2906-f9bd-427f-aad8-300fb9107c0d" : 0.0,
-						"318e4b03-b7b6-4851-a36d-56fb08f146aa" : 0.0,
-						"37d3e534-02e1-4887-a98e-0a9cfcf9a8d6" : 0.0,
-						"3c066deb-eaaf-4bbf-b021-61ad0acc51a2" : 0.0,
-						"420f8e51-0d5a-46b4-aa94-562fdd510d77" : 0.0,
-						"4583934f-752d-4be7-a304-988fd70c929a" : 0.0,
-						"530e38f9-2e43-4a98-bd24-49f1e0cf6b94" : 0.0,
-						"56b3ae88-2b72-4838-9f3b-00929aeae6e1" : 0.0,
-						"651f6a67-e017-4e31-bf32-d7aed0527623" : 0.0,
-						"7722d7b5-c734-429e-b0f2-fd768caa5ae6" : 0.0,
-						"7c1d7ace-bbe9-4692-aaaa-bbbbccccdddd" : 0.0,
-						"90fb2456-c6c9-40b8-9753-e4d9bc7d7165" : 0.0,
-						"959e884c-d96c-4f09-91ea-e94a5835bf71" : 0.0,
-						"99fcf1c3-b189-48e0-b21a-08438e03c929" : 0.0,
-						"9d3a02d5-27e9-4847-9a80-9011e9689bfb" : 0.0,
-						"a20b3cf6-b71f-45f5-af9d-2f9d845d1658" : 0.0,
-						"a263d3f9-26d5-43ed-8d20-08968ea14aeb" : 0.0,
-						"ad533889-a032-41f2-b90c-592575b4e21c" : 0.0,
-						"cc06e91a-35d4-4a0d-9526-8d1f4263dfd4" : 0.0,
-						"f182870e-4274-4903-baa3-3978df3ebbed" : 0.0
-					},
 					"tags" : 
 					{
+						"125b3d94-3997-4fc4-8211-1768b67dbe4a" : 0.0,
 						"22e5209c-eaeb-40dc-b6ef-a371794110c2" : 0.0,
-						"6181b81c-b910-4e1c-b9ec-5099ac210ae7" : 0.0
+						"33c625aa-6982-4c27-904f-e47029a9b140" : 0.0
 					}
 				},
 				"damage" : 
@@ -6346,36 +5989,10 @@
 				},
 				"character_multipliers" : 
 				{
-					"races" : 
-					{
-						"010abdd6-1ed3-41d0-8b95-a324f5dfb50c" : 0.0,
-						"12f413f0-c6c6-4d04-af1f-f2922c3e8aa1" : 0.0,
-						"20c2a23c-07dc-4108-9db7-05d002dd6efc" : 0.0,
-						"2aea2906-f9bd-427f-aad8-300fb9107c0d" : 0.0,
-						"318e4b03-b7b6-4851-a36d-56fb08f146aa" : 0.0,
-						"37d3e534-02e1-4887-a98e-0a9cfcf9a8d6" : 0.0,
-						"3c066deb-eaaf-4bbf-b021-61ad0acc51a2" : 0.0,
-						"420f8e51-0d5a-46b4-aa94-562fdd510d77" : 0.0,
-						"4583934f-752d-4be7-a304-988fd70c929a" : 0.0,
-						"530e38f9-2e43-4a98-bd24-49f1e0cf6b94" : 0.0,
-						"56b3ae88-2b72-4838-9f3b-00929aeae6e1" : 0.0,
-						"651f6a67-e017-4e31-bf32-d7aed0527623" : 0.0,
-						"7722d7b5-c734-429e-b0f2-fd768caa5ae6" : 0.0,
-						"7c1d7ace-bbe9-4692-aaaa-bbbbccccdddd" : 0.0,
-						"90fb2456-c6c9-40b8-9753-e4d9bc7d7165" : 0.0,
-						"959e884c-d96c-4f09-91ea-e94a5835bf71" : 0.0,
-						"99fcf1c3-b189-48e0-b21a-08438e03c929" : 0.0,
-						"9d3a02d5-27e9-4847-9a80-9011e9689bfb" : 0.0,
-						"a20b3cf6-b71f-45f5-af9d-2f9d845d1658" : 0.0,
-						"a263d3f9-26d5-43ed-8d20-08968ea14aeb" : 0.0,
-						"ad533889-a032-41f2-b90c-592575b4e21c" : 0.0,
-						"cc06e91a-35d4-4a0d-9526-8d1f4263dfd4" : 0.0,
-						"f182870e-4274-4903-baa3-3978df3ebbed" : 0.0
-					},
 					"tags" : 
 					{
 						"22e5209c-eaeb-40dc-b6ef-a371794110c2" : 0.0,
-						"6181b81c-b910-4e1c-b9ec-5099ac210ae7" : 0.0
+						"33c625aa-6982-4c27-904f-e47029a9b140" : 0.0
 					}
 				},
 				"damage" : 
@@ -6640,36 +6257,10 @@
 				},
 				"character_multipliers" : 
 				{
-					"races" : 
-					{
-						"010abdd6-1ed3-41d0-8b95-a324f5dfb50c" : 0.0,
-						"12f413f0-c6c6-4d04-af1f-f2922c3e8aa1" : 0.0,
-						"20c2a23c-07dc-4108-9db7-05d002dd6efc" : 0.0,
-						"2aea2906-f9bd-427f-aad8-300fb9107c0d" : 0.0,
-						"318e4b03-b7b6-4851-a36d-56fb08f146aa" : 0.0,
-						"37d3e534-02e1-4887-a98e-0a9cfcf9a8d6" : 0.0,
-						"3c066deb-eaaf-4bbf-b021-61ad0acc51a2" : 0.0,
-						"420f8e51-0d5a-46b4-aa94-562fdd510d77" : 0.0,
-						"4583934f-752d-4be7-a304-988fd70c929a" : 0.0,
-						"530e38f9-2e43-4a98-bd24-49f1e0cf6b94" : 0.0,
-						"56b3ae88-2b72-4838-9f3b-00929aeae6e1" : 0.0,
-						"651f6a67-e017-4e31-bf32-d7aed0527623" : 0.0,
-						"7722d7b5-c734-429e-b0f2-fd768caa5ae6" : 0.0,
-						"7c1d7ace-bbe9-4692-aaaa-bbbbccccdddd" : 0.0,
-						"90fb2456-c6c9-40b8-9753-e4d9bc7d7165" : 0.0,
-						"959e884c-d96c-4f09-91ea-e94a5835bf71" : 0.0,
-						"99fcf1c3-b189-48e0-b21a-08438e03c929" : 0.0,
-						"9d3a02d5-27e9-4847-9a80-9011e9689bfb" : 0.0,
-						"a20b3cf6-b71f-45f5-af9d-2f9d845d1658" : 0.0,
-						"a263d3f9-26d5-43ed-8d20-08968ea14aeb" : 0.0,
-						"ad533889-a032-41f2-b90c-592575b4e21c" : 0.0,
-						"cc06e91a-35d4-4a0d-9526-8d1f4263dfd4" : 0.0,
-						"f182870e-4274-4903-baa3-3978df3ebbed" : 0.0
-					},
 					"tags" : 
 					{
 						"22e5209c-eaeb-40dc-b6ef-a371794110c2" : 0.0,
-						"6181b81c-b910-4e1c-b9ec-5099ac210ae7" : 0.0
+						"33c625aa-6982-4c27-904f-e47029a9b140" : 0.0
 					}
 				},
 				"damage" : 
@@ -6735,40 +6326,16 @@
 			{
 				"apply_on_status" : 
 				{
+					"applicable_statuses" : [],
 					"number_of_rounds" : 3
 				},
 				"character_multipliers" : 
 				{
-					"races" : 
-					{
-						"010abdd6-1ed3-41d0-8b95-a324f5dfb50c" : 0.0,
-						"12f413f0-c6c6-4d04-af1f-f2922c3e8aa1" : 0.0,
-						"20c2a23c-07dc-4108-9db7-05d002dd6efc" : 0.0,
-						"2aea2906-f9bd-427f-aad8-300fb9107c0d" : 0.0,
-						"318e4b03-b7b6-4851-a36d-56fb08f146aa" : 0.0,
-						"37d3e534-02e1-4887-a98e-0a9cfcf9a8d6" : 0.0,
-						"3c066deb-eaaf-4bbf-b021-61ad0acc51a2" : 0.0,
-						"420f8e51-0d5a-46b4-aa94-562fdd510d77" : 0.0,
-						"4583934f-752d-4be7-a304-988fd70c929a" : 0.0,
-						"530e38f9-2e43-4a98-bd24-49f1e0cf6b94" : 0.0,
-						"56b3ae88-2b72-4838-9f3b-00929aeae6e1" : 0.0,
-						"651f6a67-e017-4e31-bf32-d7aed0527623" : 0.0,
-						"7722d7b5-c734-429e-b0f2-fd768caa5ae6" : 0.0,
-						"7c1d7ace-bbe9-4692-aaaa-bbbbccccdddd" : 0.0,
-						"90fb2456-c6c9-40b8-9753-e4d9bc7d7165" : 0.0,
-						"959e884c-d96c-4f09-91ea-e94a5835bf71" : 0.0,
-						"99fcf1c3-b189-48e0-b21a-08438e03c929" : 0.0,
-						"9d3a02d5-27e9-4847-9a80-9011e9689bfb" : 0.0,
-						"a20b3cf6-b71f-45f5-af9d-2f9d845d1658" : 0.0,
-						"a263d3f9-26d5-43ed-8d20-08968ea14aeb" : 0.0,
-						"ad533889-a032-41f2-b90c-592575b4e21c" : 0.0,
-						"cc06e91a-35d4-4a0d-9526-8d1f4263dfd4" : 0.0,
-						"f182870e-4274-4903-baa3-3978df3ebbed" : 0.0
-					},
 					"tags" : 
 					{
+						"125b3d94-3997-4fc4-8211-1768b67dbe4a" : 0.0,
 						"22e5209c-eaeb-40dc-b6ef-a371794110c2" : 0.0,
-						"6181b81c-b910-4e1c-b9ec-5099ac210ae7" : 0.0
+						"33c625aa-6982-4c27-904f-e47029a9b140" : 0.0
 					}
 				},
 				"damage" : 
@@ -6859,36 +6426,11 @@
 				},
 				"character_multipliers" : 
 				{
-					"races" : 
-					{
-						"010abdd6-1ed3-41d0-8b95-a324f5dfb50c" : 0.0,
-						"12f413f0-c6c6-4d04-af1f-f2922c3e8aa1" : 0.0,
-						"20c2a23c-07dc-4108-9db7-05d002dd6efc" : 0.0,
-						"2aea2906-f9bd-427f-aad8-300fb9107c0d" : 0.0,
-						"318e4b03-b7b6-4851-a36d-56fb08f146aa" : 0.0,
-						"37d3e534-02e1-4887-a98e-0a9cfcf9a8d6" : 0.0,
-						"3c066deb-eaaf-4bbf-b021-61ad0acc51a2" : 0.0,
-						"420f8e51-0d5a-46b4-aa94-562fdd510d77" : 0.0,
-						"4583934f-752d-4be7-a304-988fd70c929a" : 0.0,
-						"530e38f9-2e43-4a98-bd24-49f1e0cf6b94" : 0.0,
-						"56b3ae88-2b72-4838-9f3b-00929aeae6e1" : 0.0,
-						"651f6a67-e017-4e31-bf32-d7aed0527623" : 0.0,
-						"7722d7b5-c734-429e-b0f2-fd768caa5ae6" : 0.0,
-						"7c1d7ace-bbe9-4692-aaaa-bbbbccccdddd" : 0.0,
-						"90fb2456-c6c9-40b8-9753-e4d9bc7d7165" : 0.0,
-						"959e884c-d96c-4f09-91ea-e94a5835bf71" : 0.0,
-						"99fcf1c3-b189-48e0-b21a-08438e03c929" : 0.0,
-						"9d3a02d5-27e9-4847-9a80-9011e9689bfb" : 0.0,
-						"a20b3cf6-b71f-45f5-af9d-2f9d845d1658" : 0.0,
-						"a263d3f9-26d5-43ed-8d20-08968ea14aeb" : 0.0,
-						"ad533889-a032-41f2-b90c-592575b4e21c" : 0.0,
-						"cc06e91a-35d4-4a0d-9526-8d1f4263dfd4" : 0.0,
-						"f182870e-4274-4903-baa3-3978df3ebbed" : 0.0
-					},
 					"tags" : 
 					{
+						"125b3d94-3997-4fc4-8211-1768b67dbe4a" : 0.0,
 						"22e5209c-eaeb-40dc-b6ef-a371794110c2" : 0.0,
-						"6181b81c-b910-4e1c-b9ec-5099ac210ae7" : 0.0
+						"33c625aa-6982-4c27-904f-e47029a9b140" : 0.0
 					}
 				},
 				"damage" : 
@@ -7057,6 +6599,7 @@
 					},
 					"number_of_rounds" : 3
 				},
+				"character_multipliers" : [],
 				"damage" : 
 				{
 					"damage_types" : 
@@ -7158,6 +6701,7 @@
 					},
 					"number_of_rounds" : 3
 				},
+				"character_multipliers" : [],
 				"damage" : 
 				{
 					"damage_types" : 
@@ -7216,40 +6760,16 @@
 			{
 				"apply_on_status" : 
 				{
+					"applicable_statuses" : [],
 					"number_of_rounds" : 3
 				},
 				"character_multipliers" : 
 				{
-					"races" : 
-					{
-						"010abdd6-1ed3-41d0-8b95-a324f5dfb50c" : 0.0,
-						"12f413f0-c6c6-4d04-af1f-f2922c3e8aa1" : 0.0,
-						"20c2a23c-07dc-4108-9db7-05d002dd6efc" : 0.0,
-						"2aea2906-f9bd-427f-aad8-300fb9107c0d" : 0.0,
-						"318e4b03-b7b6-4851-a36d-56fb08f146aa" : 0.0,
-						"37d3e534-02e1-4887-a98e-0a9cfcf9a8d6" : 0.0,
-						"3c066deb-eaaf-4bbf-b021-61ad0acc51a2" : 0.0,
-						"420f8e51-0d5a-46b4-aa94-562fdd510d77" : 0.0,
-						"4583934f-752d-4be7-a304-988fd70c929a" : 0.0,
-						"530e38f9-2e43-4a98-bd24-49f1e0cf6b94" : 0.0,
-						"56b3ae88-2b72-4838-9f3b-00929aeae6e1" : 0.0,
-						"651f6a67-e017-4e31-bf32-d7aed0527623" : 0.0,
-						"7722d7b5-c734-429e-b0f2-fd768caa5ae6" : 0.0,
-						"7c1d7ace-bbe9-4692-aaaa-bbbbccccdddd" : 0.0,
-						"90fb2456-c6c9-40b8-9753-e4d9bc7d7165" : 0.0,
-						"959e884c-d96c-4f09-91ea-e94a5835bf71" : 0.0,
-						"99fcf1c3-b189-48e0-b21a-08438e03c929" : 0.0,
-						"9d3a02d5-27e9-4847-9a80-9011e9689bfb" : 0.0,
-						"a20b3cf6-b71f-45f5-af9d-2f9d845d1658" : 0.0,
-						"a263d3f9-26d5-43ed-8d20-08968ea14aeb" : 0.0,
-						"ad533889-a032-41f2-b90c-592575b4e21c" : 0.0,
-						"cc06e91a-35d4-4a0d-9526-8d1f4263dfd4" : 0.0,
-						"f182870e-4274-4903-baa3-3978df3ebbed" : 0.0
-					},
 					"tags" : 
 					{
+						"125b3d94-3997-4fc4-8211-1768b67dbe4a" : 0.0,
 						"22e5209c-eaeb-40dc-b6ef-a371794110c2" : 0.0,
-						"6181b81c-b910-4e1c-b9ec-5099ac210ae7" : 0.0
+						"33c625aa-6982-4c27-904f-e47029a9b140" : 0.0
 					}
 				},
 				"damage" : 
@@ -7494,6 +7014,7 @@
 					},
 					"number_of_rounds" : 2
 				},
+				"character_multipliers" : [],
 				"damage" : 
 				{
 					"damage_types" : 
@@ -7608,36 +7129,11 @@
 				},
 				"character_multipliers" : 
 				{
-					"races" : 
-					{
-						"010abdd6-1ed3-41d0-8b95-a324f5dfb50c" : 0.0,
-						"12f413f0-c6c6-4d04-af1f-f2922c3e8aa1" : 0.0,
-						"20c2a23c-07dc-4108-9db7-05d002dd6efc" : 0.0,
-						"2aea2906-f9bd-427f-aad8-300fb9107c0d" : 0.0,
-						"318e4b03-b7b6-4851-a36d-56fb08f146aa" : 0.0,
-						"37d3e534-02e1-4887-a98e-0a9cfcf9a8d6" : 0.0,
-						"3c066deb-eaaf-4bbf-b021-61ad0acc51a2" : 0.0,
-						"420f8e51-0d5a-46b4-aa94-562fdd510d77" : 0.0,
-						"4583934f-752d-4be7-a304-988fd70c929a" : 0.0,
-						"530e38f9-2e43-4a98-bd24-49f1e0cf6b94" : 0.0,
-						"56b3ae88-2b72-4838-9f3b-00929aeae6e1" : 0.0,
-						"651f6a67-e017-4e31-bf32-d7aed0527623" : 0.0,
-						"7722d7b5-c734-429e-b0f2-fd768caa5ae6" : 0.0,
-						"7c1d7ace-bbe9-4692-aaaa-bbbbccccdddd" : 0.0,
-						"90fb2456-c6c9-40b8-9753-e4d9bc7d7165" : 0.0,
-						"959e884c-d96c-4f09-91ea-e94a5835bf71" : 0.0,
-						"99fcf1c3-b189-48e0-b21a-08438e03c929" : 0.0,
-						"9d3a02d5-27e9-4847-9a80-9011e9689bfb" : 0.0,
-						"a20b3cf6-b71f-45f5-af9d-2f9d845d1658" : 0.0,
-						"a263d3f9-26d5-43ed-8d20-08968ea14aeb" : 0.0,
-						"ad533889-a032-41f2-b90c-592575b4e21c" : 0.0,
-						"cc06e91a-35d4-4a0d-9526-8d1f4263dfd4" : 0.0,
-						"f182870e-4274-4903-baa3-3978df3ebbed" : 0.0
-					},
 					"tags" : 
 					{
+						"125b3d94-3997-4fc4-8211-1768b67dbe4a" : 0.0,
 						"22e5209c-eaeb-40dc-b6ef-a371794110c2" : 0.0,
-						"6181b81c-b910-4e1c-b9ec-5099ac210ae7" : 0.0
+						"33c625aa-6982-4c27-904f-e47029a9b140" : 0.0
 					}
 				},
 				"damage" : 
@@ -7750,6 +7246,7 @@
 					},
 					"number_of_rounds" : 2
 				},
+				"character_multipliers" : [],
 				"damage" : 
 				{
 					"damage_types" : 
@@ -7840,6 +7337,7 @@
 					},
 					"number_of_rounds" : 5
 				},
+				"character_multipliers" : [],
 				"damage" : 
 				{
 					"damage_types" : 
@@ -7918,36 +7416,11 @@
 				},
 				"character_multipliers" : 
 				{
-					"races" : 
-					{
-						"010abdd6-1ed3-41d0-8b95-a324f5dfb50c" : 0.0,
-						"12f413f0-c6c6-4d04-af1f-f2922c3e8aa1" : 0.0,
-						"20c2a23c-07dc-4108-9db7-05d002dd6efc" : 0.0,
-						"2aea2906-f9bd-427f-aad8-300fb9107c0d" : 0.0,
-						"318e4b03-b7b6-4851-a36d-56fb08f146aa" : 0.0,
-						"37d3e534-02e1-4887-a98e-0a9cfcf9a8d6" : 0.0,
-						"3c066deb-eaaf-4bbf-b021-61ad0acc51a2" : 0.0,
-						"420f8e51-0d5a-46b4-aa94-562fdd510d77" : 0.0,
-						"4583934f-752d-4be7-a304-988fd70c929a" : 0.0,
-						"530e38f9-2e43-4a98-bd24-49f1e0cf6b94" : 0.0,
-						"56b3ae88-2b72-4838-9f3b-00929aeae6e1" : 0.0,
-						"651f6a67-e017-4e31-bf32-d7aed0527623" : 0.0,
-						"7722d7b5-c734-429e-b0f2-fd768caa5ae6" : 0.0,
-						"7c1d7ace-bbe9-4692-aaaa-bbbbccccdddd" : 0.0,
-						"90fb2456-c6c9-40b8-9753-e4d9bc7d7165" : 0.0,
-						"959e884c-d96c-4f09-91ea-e94a5835bf71" : 0.0,
-						"99fcf1c3-b189-48e0-b21a-08438e03c929" : 0.0,
-						"9d3a02d5-27e9-4847-9a80-9011e9689bfb" : 0.0,
-						"a20b3cf6-b71f-45f5-af9d-2f9d845d1658" : 0.0,
-						"a263d3f9-26d5-43ed-8d20-08968ea14aeb" : 0.0,
-						"ad533889-a032-41f2-b90c-592575b4e21c" : 0.0,
-						"cc06e91a-35d4-4a0d-9526-8d1f4263dfd4" : 0.0,
-						"f182870e-4274-4903-baa3-3978df3ebbed" : 0.0
-					},
 					"tags" : 
 					{
+						"125b3d94-3997-4fc4-8211-1768b67dbe4a" : 0.0,
 						"22e5209c-eaeb-40dc-b6ef-a371794110c2" : 0.0,
-						"6181b81c-b910-4e1c-b9ec-5099ac210ae7" : 0.0
+						"33c625aa-6982-4c27-904f-e47029a9b140" : 0.0
 					}
 				},
 				"damage" : 
@@ -8200,6 +7673,7 @@
 					},
 					"number_of_rounds" : 3
 				},
+				"character_multipliers" : [],
 				"damage" : 
 				{
 					"damage_types" : 
@@ -8514,6 +7988,7 @@
 					},
 					"number_of_rounds" : 4
 				},
+				"character_multipliers" : [],
 				"damage" : 
 				{
 					"damage_types" : 
@@ -8636,6 +8111,7 @@
 					},
 					"number_of_rounds" : 9
 				},
+				"character_multipliers" : [],
 				"damage" : 
 				{
 					"damage_types" : 
@@ -8710,6 +8186,7 @@
 					},
 					"number_of_rounds" : 3
 				},
+				"character_multipliers" : [],
 				"damage" : 
 				{
 					"damage_types" : 
@@ -8806,36 +8283,11 @@
 				},
 				"character_multipliers" : 
 				{
-					"races" : 
-					{
-						"010abdd6-1ed3-41d0-8b95-a324f5dfb50c" : 0.0,
-						"12f413f0-c6c6-4d04-af1f-f2922c3e8aa1" : 0.0,
-						"20c2a23c-07dc-4108-9db7-05d002dd6efc" : 0.0,
-						"2aea2906-f9bd-427f-aad8-300fb9107c0d" : 0.0,
-						"318e4b03-b7b6-4851-a36d-56fb08f146aa" : 0.0,
-						"37d3e534-02e1-4887-a98e-0a9cfcf9a8d6" : 0.0,
-						"3c066deb-eaaf-4bbf-b021-61ad0acc51a2" : 0.0,
-						"420f8e51-0d5a-46b4-aa94-562fdd510d77" : 0.0,
-						"4583934f-752d-4be7-a304-988fd70c929a" : 0.0,
-						"530e38f9-2e43-4a98-bd24-49f1e0cf6b94" : 0.0,
-						"56b3ae88-2b72-4838-9f3b-00929aeae6e1" : 0.0,
-						"651f6a67-e017-4e31-bf32-d7aed0527623" : 0.0,
-						"7722d7b5-c734-429e-b0f2-fd768caa5ae6" : 0.0,
-						"7c1d7ace-bbe9-4692-aaaa-bbbbccccdddd" : 0.0,
-						"90fb2456-c6c9-40b8-9753-e4d9bc7d7165" : 0.0,
-						"959e884c-d96c-4f09-91ea-e94a5835bf71" : 0.0,
-						"99fcf1c3-b189-48e0-b21a-08438e03c929" : 0.0,
-						"9d3a02d5-27e9-4847-9a80-9011e9689bfb" : 0.0,
-						"a20b3cf6-b71f-45f5-af9d-2f9d845d1658" : 0.0,
-						"a263d3f9-26d5-43ed-8d20-08968ea14aeb" : 0.0,
-						"ad533889-a032-41f2-b90c-592575b4e21c" : 0.0,
-						"cc06e91a-35d4-4a0d-9526-8d1f4263dfd4" : 0.0,
-						"f182870e-4274-4903-baa3-3978df3ebbed" : 0.0
-					},
 					"tags" : 
 					{
+						"125b3d94-3997-4fc4-8211-1768b67dbe4a" : 0.0,
 						"22e5209c-eaeb-40dc-b6ef-a371794110c2" : 0.0,
-						"6181b81c-b910-4e1c-b9ec-5099ac210ae7" : 0.0
+						"33c625aa-6982-4c27-904f-e47029a9b140" : 0.0
 					}
 				},
 				"damage" : 
@@ -8901,182 +8353,224 @@
 			{
 				"apply_on_status" : 
 				{
+					"applicable_statuses" : [],
 					"number_of_rounds" : 3
 				},
+				"character_multipliers" : [],
 				"damage" : 
 				{
 					"threshold" : 10
 				},
 				"include_in_random_table" : true,
+				"remove_on_status" : [],
 				"severity" : "Exclude"
 			},
 			"GOON_MADNESS_5E_LONGTERM_COMATOSED" : 
 			{
 				"apply_on_status" : 
 				{
+					"applicable_statuses" : [],
 					"number_of_rounds" : 3
 				},
+				"character_multipliers" : [],
 				"damage" : 
 				{
 					"threshold" : 10
 				},
 				"include_in_random_table" : true,
+				"remove_on_status" : [],
 				"severity" : "Exclude"
 			},
 			"GOON_MADNESS_5E_LONGTERM_HALLUCINATIONS" : 
 			{
 				"apply_on_status" : 
 				{
+					"applicable_statuses" : [],
 					"number_of_rounds" : 3
 				},
+				"character_multipliers" : [],
 				"damage" : 
 				{
 					"threshold" : 10
 				},
 				"include_in_random_table" : true,
+				"remove_on_status" : [],
 				"severity" : "Exclude"
 			},
 			"GOON_MADNESS_5E_LONGTERM_PANICKY" : 
 			{
 				"apply_on_status" : 
 				{
+					"applicable_statuses" : [],
 					"number_of_rounds" : 3
 				},
+				"character_multipliers" : [],
 				"damage" : 
 				{
 					"threshold" : 10
 				},
 				"include_in_random_table" : true,
+				"remove_on_status" : [],
 				"severity" : "Exclude"
 			},
 			"GOON_MADNESS_5E_LONGTERM_PARANOIA" : 
 			{
 				"apply_on_status" : 
 				{
+					"applicable_statuses" : [],
 					"number_of_rounds" : 3
 				},
+				"character_multipliers" : [],
 				"damage" : 
 				{
 					"threshold" : 10
 				},
 				"include_in_random_table" : true,
+				"remove_on_status" : [],
 				"severity" : "Exclude"
 			},
 			"GOON_MADNESS_5E_LONGTERM_TREMORS" : 
 			{
 				"apply_on_status" : 
 				{
+					"applicable_statuses" : [],
 					"number_of_rounds" : 3
 				},
+				"character_multipliers" : [],
 				"damage" : 
 				{
 					"threshold" : 10
 				},
 				"include_in_random_table" : true,
+				"remove_on_status" : [],
 				"severity" : "Exclude"
 			},
 			"GOON_MADNESS_5E_SHORTTERM_HALLUCINATIONS" : 
 			{
 				"apply_on_status" : 
 				{
+					"applicable_statuses" : [],
 					"number_of_rounds" : 3
 				},
+				"character_multipliers" : [],
 				"damage" : 
 				{
 					"threshold" : 10
 				},
 				"include_in_random_table" : true,
+				"remove_on_status" : [],
 				"severity" : "Exclude"
 			},
 			"GOON_MADNESS_5E_SHORTTERM_HOMICIDAL" : 
 			{
 				"apply_on_status" : 
 				{
+					"applicable_statuses" : [],
 					"number_of_rounds" : 3
 				},
+				"character_multipliers" : [],
 				"damage" : 
 				{
 					"threshold" : 10
 				},
 				"include_in_random_table" : true,
+				"remove_on_status" : [],
 				"severity" : "Exclude"
 			},
 			"GOON_MADNESS_5E_SHORTTERM_HYSTERIA" : 
 			{
 				"apply_on_status" : 
 				{
+					"applicable_statuses" : [],
 					"number_of_rounds" : 3
 				},
+				"character_multipliers" : [],
 				"damage" : 
 				{
 					"threshold" : 10
 				},
 				"include_in_random_table" : true,
+				"remove_on_status" : [],
 				"severity" : "Exclude"
 			},
 			"GOON_MADNESS_5E_SHORTTERM_INTIMIDATED" : 
 			{
 				"apply_on_status" : 
 				{
+					"applicable_statuses" : [],
 					"number_of_rounds" : 3
 				},
+				"character_multipliers" : [],
 				"damage" : 
 				{
 					"threshold" : 10
 				},
 				"include_in_random_table" : true,
+				"remove_on_status" : [],
 				"severity" : "Exclude"
 			},
 			"GOON_MADNESS_5E_SHORTTERM_PARALYSED" : 
 			{
 				"apply_on_status" : 
 				{
+					"applicable_statuses" : [],
 					"number_of_rounds" : 3
 				},
+				"character_multipliers" : [],
 				"damage" : 
 				{
 					"threshold" : 10
 				},
 				"include_in_random_table" : true,
+				"remove_on_status" : [],
 				"severity" : "Exclude"
 			},
 			"GOON_MADNESS_5E_SHORTTERM_STUNNED" : 
 			{
 				"apply_on_status" : 
 				{
+					"applicable_statuses" : [],
 					"number_of_rounds" : 3
 				},
+				"character_multipliers" : [],
 				"damage" : 
 				{
 					"threshold" : 10
 				},
 				"include_in_random_table" : true,
+				"remove_on_status" : [],
 				"severity" : "Exclude"
 			},
 			"GOON_MADNESS_5E_SHORTTERM_TONGUE_TIED" : 
 			{
 				"apply_on_status" : 
 				{
+					"applicable_statuses" : [],
 					"number_of_rounds" : 3
 				},
+				"character_multipliers" : [],
 				"damage" : 
 				{
 					"threshold" : 10
 				},
 				"include_in_random_table" : true,
+				"remove_on_status" : [],
 				"severity" : "Exclude"
 			},
 			"GOON_MADNESS_5E_SHORTTERM_UNCONSCIOUS" : 
 			{
 				"apply_on_status" : 
 				{
+					"applicable_statuses" : [],
 					"number_of_rounds" : 3
 				},
+				"character_multipliers" : [],
 				"damage" : 
 				{
 					"threshold" : 10
 				},
 				"include_in_random_table" : true,
+				"remove_on_status" : [],
 				"severity" : "Exclude"
 			}
 		},
