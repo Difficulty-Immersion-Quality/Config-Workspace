@@ -3,5 +3,14 @@
 	{
 		"level" : 0
 	},
+	"lastUsedModSubTabs" : 
+	{
+		"5442c1bf-c118-48bc-87f1-c90bcc024b1c" : "Injuries",
+		"5b5ad5b6-ce37-4a63-8dea-a1fee4cee156" : "Party",
+		"755a8a72-407f-4f0d-9a33-274ac0f0b53d" : "Debug",
+		"b3ba01c6-b385-416f-9bbe-7ad7f6a256f0" : "General",
+		"cabed99e-5db6-4f0d-a69f-d49e8a20e663" : "Features"
+	},
+	"lastUsedPage" : "b3ba01c6-b385-416f-9bbe-7ad7f6a256f0",
 	"onConfigReloaded" : []
 }
