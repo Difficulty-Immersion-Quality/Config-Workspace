@@ -1,6 +1,7 @@
 {
   "CreateConsole": true,
-  "EnableLogging": false,
-  "LogDirectory": "Crashlogs",
-  "EnableAchievements": true
+  "LogFailedCompile": true,
+  "LogDirectory": "Osiris Logs",
+  "DisableStoryMerge": true,
+  "InsanityCheck": true
 }
