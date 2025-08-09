@@ -37,6 +37,7 @@
 		"sneaking" : 
 		{
 			"SA_hide_sneaking_char_ghost" : true,
+			"SA_invisible_chars_are_eligible" : true,
 			"SA_sneaking_char_roll_stealth" : true,
 			"SA_sneaking_char_roll_stealth_with_advantage" : true,
 			"SA_sneaking_chars_are_eligible" : true,

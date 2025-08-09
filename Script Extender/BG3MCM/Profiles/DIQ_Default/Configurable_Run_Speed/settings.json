@@ -7,15 +7,15 @@
 	{
 		"ENEMY_COMBAT_SPEED_SETTINGS" : 
 		{
-			"Combat_Enemy_AccelerationMultiplier" : 1,
-			"Combat_Enemy_ClimbSpeedMultiplier" : 1,
-			"Combat_Enemy_MovementSpeedMultiplier" : 1
+			"Combat_Enemy_AccelerationMultiplier" : 10,
+			"Combat_Enemy_ClimbSpeedMultiplier" : 2,
+			"Combat_Enemy_MovementSpeedMultiplier" : 2
 		},
 		"EXPOLORATION_SPEED_SETTINGS" : 
 		{
-			"Exploration_AccelerationMultiplier" : 1,
-			"Exploration_ClimbSpeedMultiplier" : 1,
-			"Exploration_MovementSpeedMultiplier" : 1
+			"Exploration_AccelerationMultiplier" : 10,
+			"Exploration_ClimbSpeedMultiplier" : 2,
+			"Exploration_MovementSpeedMultiplier" : 2
 		},
 		"GENERAL_SETTINGS" : 
 		{
@@ -25,9 +25,9 @@
 		},
 		"PARTY_COMBAT_SPEED_SETTINGS" : 
 		{
-			"Combat_Party_AccelerationMultiplier" : 1,
-			"Combat_Party_ClimbSpeedMultiplier" : 1,
-			"Combat_Party_MovementSpeedMultiplier" : 1
+			"Combat_Party_AccelerationMultiplier" : 5,
+			"Combat_Party_ClimbSpeedMultiplier" : 2,
+			"Combat_Party_MovementSpeedMultiplier" : 2
 		}
 	},
 	"general" : 

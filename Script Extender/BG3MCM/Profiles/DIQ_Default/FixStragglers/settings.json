@@ -33,8 +33,14 @@
 		{
 			"key_teleport_party_to_you" : 
 			{
-				"Modifier" : "LShift",
-				"ScanCode" : "T"
+				"Keyboard" : 
+				{
+					"Key" : "T",
+					"ModifierKeys" : 
+					[
+						"LShift"
+					]
+				}
 			}
 		}
 	},

@@ -3,7 +3,8 @@
 	{
 		"debugging_settings" : 
 		{
-			"debug_level" : 0
+			"debug_level" : 0,
+			"ticks_to_wait_for_delivery" : 1
 		},
 		"general_settings" : 
 		{
@@ -93,9 +94,11 @@
 		"food_management" : 
 		{
 			"maximum_rarity" : "Common",
-			"move_beverages" : true,
+			"move_alcohol" : true,
 			"move_bought_food" : true,
-			"move_food" : true
+			"move_consumable" : true,
+			"move_food" : true,
+			"send_items_moved_automatically" : true
 		},
 		"inventory_management" : 
 		{
