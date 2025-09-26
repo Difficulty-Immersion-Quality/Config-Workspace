@@ -1,32 +1,25 @@
 {
-	"features" : 
-	{
-		"ignore_settings" : 
-		{
-			"ignore_nested" : false,
-			"ignore_quest" : true,
-			"ignore_wares" : true
-		},
-		"main_settings" : 
-		{
-			"process_instantly" : false
-		},
-		"ware_settings" : 
-		{
-			"mark_as_ware_instead" : false,
-			"mark_only_duplicates" : true
-		}
-	},
-	"general" : 
-	{
-		"debugging_settings" : 
-		{
-			"debug_level" : 0,
-			"process_now" : false
-		},
-		"general_settings" : 
-		{
-			"mod_enabled" : true
-		}
-	}
+    "features": {
+        "ignore_settings": {
+            "ignore_nested": false,
+            "ignore_quest": true,
+            "ignore_wares": true
+        },
+        "main_settings": {
+            "process_instantly": false
+        },
+        "ware_settings": {
+            "mark_as_ware_instead": false,
+            "mark_only_duplicates": true
+        }
+    },
+    "general": {
+        "debugging_settings": {
+            "debug_level": 0,
+            "process_now": false
+        },
+        "general_settings": {
+            "mod_enabled": true
+        }
+    }
 }

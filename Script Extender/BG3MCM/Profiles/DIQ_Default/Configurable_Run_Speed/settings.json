@@ -1,37 +1,30 @@
 {
-	"debug" : 
-	{
-		"debug_level" : 0
-	},
-	"features" : 
-	{
-		"ENEMY_COMBAT_SPEED_SETTINGS" : 
-		{
-			"Combat_Enemy_AccelerationMultiplier" : 10,
-			"Combat_Enemy_ClimbSpeedMultiplier" : 2,
-			"Combat_Enemy_MovementSpeedMultiplier" : 2
-		},
-		"EXPOLORATION_SPEED_SETTINGS" : 
-		{
-			"Exploration_AccelerationMultiplier" : 10,
-			"Exploration_ClimbSpeedMultiplier" : 2,
-			"Exploration_MovementSpeedMultiplier" : 2
-		},
-		"GENERAL_SETTINGS" : 
-		{
-			"COMBAT_ENABLED" : false,
-			"ON_SPEED_STATUS" : false,
-			"SNEAKING_ENABLED" : false
-		},
-		"PARTY_COMBAT_SPEED_SETTINGS" : 
-		{
-			"Combat_Party_AccelerationMultiplier" : 5,
-			"Combat_Party_ClimbSpeedMultiplier" : 2,
-			"Combat_Party_MovementSpeedMultiplier" : 2
-		}
-	},
-	"general" : 
-	{
-		"MOD_ENABLED" : false
-	}
+    "debug": {
+        "debug_level": 0
+    },
+    "features": {
+        "ENEMY_COMBAT_SPEED_SETTINGS": {
+            "Combat_Enemy_AccelerationMultiplier": 10,
+            "Combat_Enemy_ClimbSpeedMultiplier": 2,
+            "Combat_Enemy_MovementSpeedMultiplier": 2
+        },
+        "EXPOLORATION_SPEED_SETTINGS": {
+            "Exploration_AccelerationMultiplier": 10,
+            "Exploration_ClimbSpeedMultiplier": 2,
+            "Exploration_MovementSpeedMultiplier": 2
+        },
+        "GENERAL_SETTINGS": {
+            "COMBAT_ENABLED": false,
+            "ON_SPEED_STATUS": false,
+            "SNEAKING_ENABLED": false
+        },
+        "PARTY_COMBAT_SPEED_SETTINGS": {
+            "Combat_Party_AccelerationMultiplier": 5,
+            "Combat_Party_ClimbSpeedMultiplier": 2,
+            "Combat_Party_MovementSpeedMultiplier": 2
+        }
+    },
+    "general": {
+        "MOD_ENABLED": false
+    }
 }

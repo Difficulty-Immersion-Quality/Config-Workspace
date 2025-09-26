@@ -1,62 +1,52 @@
 {
-	"champion_blacklist" : 
-	{
-		"champion_blacklist_settings" : 
-		{
-			"EnableAssassin" : true,
-			"EnableBerserker" : true,
-			"EnableBloodthirsty" : true,
-			"EnableCryomancer" : true,
-			"EnableDruid" : true,
-			"EnableHealer" : true,
-			"EnableHeretic" : true,
-			"EnableIllusionist" : true,
-			"EnableNecromancer" : true,
-			"EnableOathbreaker" : false,
-			"EnablePaladin" : true,
-			"EnablePriest" : true,
-			"EnablePyromancer" : true,
-			"EnableShaman" : true,
-			"EnableStoneskin" : true,
-			"EnableStormcaller" : true,
-			"EnableTrickster" : true,
-			"EnableWebweaver" : true
-		}
-	},
-	"champions" : 
-	{
-		"ai_settings" : 
-		{
-			"ChampionsChance" : 5,
-			"ChampionsHealth" : 40,
-			"EnableChampions" : true,
-			"OnlyChampionClones" : false,
-			"Timer" : 5
-		}
-	},
-	"debug" : 
-	{
-		"debug_settings" : 
-		{
-			"Debug" : false
-		}
-	},
-	"golden_mode" : 
-	{
-		"golden_mode_settings" : 
-		{
-			"EnableCeremorph" : true,
-			"EnableGoldenChampion" : true,
-			"GoldenChampionChance" : 30,
-			"GoldenChampionHealth" : 15,
-			"TimerCeremorph" : 4
-		}
-	},
-	"randomized_classes" : 
-	{
-		"randomized_class_settings" : 
-		{
-			"RandomizedClassless" : true
-		}
-	}
+    "champion_blacklist": {
+        "champion_blacklist_settings": {
+            "EnableAssassin": true,
+            "EnableBerserker": true,
+            "EnableBloodthirsty": true,
+            "EnableCryomancer": true,
+            "EnableDruid": true,
+            "EnableHealer": true,
+            "EnableHeretic": true,
+            "EnableIllusionist": true,
+            "EnableNecromancer": true,
+            "EnableOathbreaker": false,
+            "EnablePaladin": true,
+            "EnablePriest": true,
+            "EnablePyromancer": true,
+            "EnableShaman": true,
+            "EnableStoneskin": true,
+            "EnableStormcaller": true,
+            "EnableTrickster": true,
+            "EnableWebweaver": true
+        }
+    },
+    "champions": {
+        "ai_settings": {
+            "ChampionsChance": 5,
+            "ChampionsHealth": 40,
+            "EnableChampions": true,
+            "OnlyChampionClones": false,
+            "Timer": 5
+        }
+    },
+    "debug": {
+        "debug_settings": {
+            "Debug": false
+        }
+    },
+    "golden_mode": {
+        "golden_mode_settings": {
+            "EnableCeremorph": true,
+            "EnableGoldenChampion": true,
+            "GoldenChampionChance": 30,
+            "GoldenChampionHealth": 15,
+            "TimerCeremorph": 4
+        }
+    },
+    "randomized_classes": {
+        "randomized_class_settings": {
+            "RandomizedClassless": true
+        }
+    }
 }
