@@ -164,7 +164,7 @@
 	  "PassiveName": "CX_Boss_Boost",
 		"Act": {
 			"1": {
-			  "ExtraPassives": ["ImmuneToDisarm","Goon_Immunity_Domination","MultiattackDefense","Tough","Goon_Immunity_Prone"],
+			  "ExtraPassives": ["ImmuneToDisarm","Goon_Immunity_Domination","MultiattackDefense","Tough"],
 			  "Spells": ["AJ_Shout_ActionSurge_Emergency","Target_ValkranaBoneLiquefaction"]
 	},
 			"2": {
@@ -185,7 +185,7 @@
 			  "Spells": []
 	},
 			"2": {
-			  "ExtraPassives": ["ImmuneToDisarm","Goon_Immunity_Domination","Goon_Immunity_Prone","MultiattackDefense","FinishingStrike"],
+			  "ExtraPassives": ["ImmuneToDisarm","Goon_Immunity_Domination","MultiattackDefense","FinishingStrike"],
 			  "Spells": ["AJ_HPSecondWind","Target_ValkranaBoneLiquefaction"]
 	},
 			"3": {
@@ -409,7 +409,7 @@
 			  "Spells": ["AJ_HPSecondWind"]			  
 	  },
 			"3": {
-			  "ExtraPassives": ["RR_Berserker_Heart_Passive","MAG_BBBG_MeatShield","BrutalCritical_3","Charger","RR_Thunderstruck_Passive","MM_FuryFlurry_Passive"],
+			  "ExtraPassives": ["RR_Berserker_Heart_Passive","MAG_BBBG_MeatShield","Charger","RR_Thunderstruck_Passive","MM_FuryFlurry_Passive"],
 			  "Spells": ["Projectile_Jump_Minotaur"]			  
   }
   }
@@ -597,7 +597,7 @@
 	  },
 			"3": {
 			  "ExtraPassives": ["Goon_Shout_HeroesFeast_Passive"],
-			  "Spells": ["Target_DragonsBreath","Target_SummonFey","Target_SummonElemental","Projectile_IceSpike","Target_BloodFeast","Target_LightningStorm","Shout_PlantForm","Shout_DinoForm","Shout_RazorRain_Dawnstar","Projectile_TKBolt_Dawnstar"]			  
+			  "Spells": ["Target_DragonsBreath","Target_SummonFey","Target_SummonElemental","Projectile_IceSpike","Target_LightningStorm","Shout_PlantForm","Shout_DinoForm","Shout_RazorRain_Dawnstar","Projectile_TKBolt_Dawnstar"]			  
   }
   }
   },
@@ -661,7 +661,7 @@
 	},
 			"2": {
 			  "ExtraPassives": ["GG_Three_Bleeding","GG_Three_Bleeding_Technical","GG_Three_Damage_Buff","Goon_Shout_Shillelagh_Passive","Goon_Summon_Potion_Healing_Greater_x1"],
-			  "Spells": ["Target_DragonsBreath","Target_SummonElemental","Projectile_IceSpike","Target_BloodFeast","Target_LightningStorm","Shout_RazorRain_Dawnstar","Target_ConjureWoodlandBeings"]
+			  "Spells": ["Target_DragonsBreath","Target_SummonElemental","Projectile_IceSpike","Target_LightningStorm","Shout_RazorRain_Dawnstar","Target_ConjureWoodlandBeings"]
 	},
 			"3": {
 			  "ExtraPassives": ["Goon_Summon_Potion_Healing_Superior_x1","ARA_Cloak_OwlWisdom","SYR_Feat_WarMagic_AltSpell_Passive","GG_Three_IncreasedElementalDamage_Passive","GG_One_Wildshape_TempHP_Passive","WW_ElementalBane_Passive"],
@@ -749,7 +749,7 @@
 			  "Spells": []
 	},
 			"3": {
-			  "ExtraPassives": ["Mod_CHA_CompassSpear_Passive","BrutalCritical_2","MartialAdept","MM_Unflinching_Passive","MM_FuryFlurry_Passive"],
+			  "ExtraPassives": ["Mod_CHA_CompassSpear_Passive","MartialAdept","MM_Unflinching_Passive","MM_FuryFlurry_Passive"],
 			  "Spells": []			  
   }
   }
@@ -780,7 +780,7 @@
 	},
 			"2": {
 			  "ExtraPassives": ["SYR_Feat_FeyTouched_Passive","MageSlayer_Advantage","MageSlayer_BreakConcentration","WW_GainArcaneAcuityOnDamage_Passive","WW_GainArcaneAcuityOnDamage_Passive","Goon_Shout_WeaponBond_Passive"],
-			  "Spells": ["Zone_AetherLance","NPC_BurningHands","Target_BloodFeast","Rush_MercurialStride"]			  
+			  "Spells": ["Zone_AetherLance","NPC_BurningHands","Rush_MercurialStride"]			  
 	},
 			"3": {
 			  "ExtraPassives": ["ARA_Cloak_ToSpellAttack_Passive","GG_Three_IncreasedElementalDamage_Passive","VV_LightningReflexes_Passive","Goon_Target_Elemental_Weapon_Acid_Passive"],
@@ -2258,11 +2258,11 @@
   },
     "S_MOO_OublietteHookHorror_000_eda129f0-b54b-4b05-95a3-ba626e4b765a": {
       "Passives": ["MAG_Critfisher_Passive","MagicResistance","Goon_Damage_Necrotic_d4_Attacks","BSM_BS_UnstoppableMassacre_Passive","VV_CorneredRat_Passive"],
-      "Spells": ["NPC_BloodFeast","AJ_Shout_ActionSurge_Emergency"]
+      "Spells": ["AJ_Shout_ActionSurge_Emergency"]
   },
     "S_MOO_OublietteHookHorror_001_8a086aaf-a785-4f09-8e24-125206d060f1": {
       "Passives": ["MAG_Critfisher_Passive","MagicResistance","Goon_Damage_Necrotic_d4_Attacks","BSM_BS_UnstoppableMassacre_Passive","VV_CorneredRat_Passive"],
-      "Spells": ["NPC_BloodFeast","AJ_Shout_ActionSurge_Emergency"]
+      "Spells": ["AJ_Shout_ActionSurge_Emergency"]
   },
     "S_MOO_AccessCultist_7f0f8d11-9d1e-4210-bbcb-41aa05666d58": {
       "Passives": ["Goon_Damage_Necrotic_d4_SpellAttacks","PP_SoulfireRetaliation_Passive","DevilsSight"],
@@ -2293,7 +2293,7 @@
   },
     "S_HAV_FlamingSpy_acb1dd9e-952b-4281-8e30-ec6f671493a6": {
       "Passives": ["MAG_Fighter_ActionSurge_AttackBonus_Gloves_Passive","MAG_BBBG_MirrorRageGloveEffect","MagicResistance","Goon_Psychic_Resistant","FeralInstinct","ARP_Rage_1","VV_CorneredRat_Passive","RR_Titan_Grip_Passive"],
-      "Spells": ["Zone_MindBlast_MindFlayer","NPC_Agonize","NPC_BloodFeast","Target_RiseUndead_DeathShepherd_Hardcore","AJ_MirrorImage_Emergency","AJ_Shout_ActionSurge_Emergency","AJ_Danse_Emergency"]
+      "Spells": ["Zone_MindBlast_MindFlayer","NPC_Agonize","Target_RiseUndead_DeathShepherd_Hardcore","AJ_MirrorImage_Emergency","AJ_Shout_ActionSurge_Emergency","AJ_Danse_Emergency"]
   },
     "S_HAV_FlyingGhoul_000_62dd0ebd-8325-4b76-ba41-99fbee98149a": {
       "Passives": ["ARP_Reaction_2","Goon_Necrotic_Immune","Goon_Fire_Resistant","Goon_Ligh tning_Resistant","Goon_Cold_Resistant","Goon_Fall_Damage_Resistance","Goon_Psychic_Resistant","BSM_BS_UnstoppableMassacre_Passive"],
@@ -2332,50 +2332,50 @@
   },
     "S_WYR_Circus_DoppelClown_21f541c1-e1bc-49a8-888f-d8a330c47336": {
       "Passives": ["MAG_Critfisher_Passive","WildMagic","LOW_Chasm_Mangle_Pushback","VV_Nightwhisper_Passive","FinishingStrike","CX_Boss_Boost"],
-      "Spells": ["Zone_MindBlast_MindFlayer","CUST_Summon_Minotaur","NPC_BloodFeast","AJ_Fireworks_Rocket_A","AJ_Fireworks_Rocket_B","AJ_Fireworks_Rocket_C","NPC_MassPolymorph","AJ_PWK_Emergency","AJ_Danse_Emergency","AJ_MirrorImage_Emergency","AJ_Shout_ActionSurge_Emergency"]
+      "Spells": ["Zone_MindBlast_MindFlayer","CUST_Summon_Minotaur","AJ_Fireworks_Rocket_A","AJ_Fireworks_Rocket_B","AJ_Fireworks_Rocket_C","NPC_MassPolymorph","AJ_PWK_Emergency","AJ_Danse_Emergency","AJ_MirrorImage_Emergency","AJ_Shout_ActionSurge_Emergency"]
   },
     "S_WYR_Circus_Thug_01_e11b95c9-0e4a-4777-b935-1ebaa5166a45": {
       "Passives": ["Assassinate_Ambush","Assassinate_Initiative","VV_Nightwhisper_Passive"],
-      "Spells": ["Target_MAG_Myrkulites_GhoulTouch","NPC_BloodFeast","AJ_Fireworks_Rocket_A"]
+      "Spells": ["Target_MAG_Myrkulites_GhoulTouch","AJ_Fireworks_Rocket_A"]
   },  
     "S_WYR_Circus_Thug_02_bc256194-1856-452b-a14e-f1c3f3b8c933": {
       "Passives": ["Assassinate_Ambush","Assassinate_Initiative","VV_Nightwhisper_Passive"],
-      "Spells": ["Target_MAG_Myrkulites_GhoulTouch","NPC_BloodFeast","AJ_Fireworks_Rocket_B"]
+      "Spells": ["Target_MAG_Myrkulites_GhoulTouch","AJ_Fireworks_Rocket_B"]
   },
     "S_WYR_OpenHand_Shifter_001_fa27a169-32ba-4cf2-a400-e0874056c572": {
       "Passives": ["Assassinate_Ambush","Assassinate_Initiative","VV_Nightwhisper_Passive","CAT_Autosummon_Shadow2/Wraith2_Passive"],
-      "Spells": ["Target_MAG_Myrkulites_GhoulTouch","NPC_BloodFeast"]
+      "Spells": ["Target_MAG_Myrkulites_GhoulTouch"]
   },
     "S_WYR_OpenHand_Shifter_002_076ff51e-5710-409e-b1d3-a4b0dcec1e4f": {
       "Passives": ["Assassinate_Ambush","Assassinate_Initiative","VV_Nightwhisper_Passive","CAT_Autosummon_Skeleton3_Passive"],
-      "Spells": ["Target_MAG_Myrkulites_GhoulTouch","NPC_BloodFeast"]
+      "Spells": ["Target_MAG_Myrkulites_GhoulTouch"]
   },
     "S_WYR_OpenHand_Shifter_003_83bbacf9-5395-4420-b5de-5a112d598840": {
       "Passives": ["Assassinate_Ambush","Assassinate_Initiative","VV_Nightwhisper_Passive","CAT_Autosummon_Ghoul3_Passive"],
-      "Spells": ["Target_MAG_Myrkulites_GhoulTouch","NPC_BloodFeast"]
+      "Spells": ["Target_MAG_Myrkulites_GhoulTouch"]
   },
     "S_WYR_Axe_DoppelgangerAssassin_001_7867564d-583d-4558-a927-1508ea61cf75": {
       "Passives": ["Assassinate_Ambush","Assassinate_Initiative","VV_Nightwhisper_Passive"]
   },
     "S_WYR_Axe_DoppelgangerAssassin_002_ba5b21ad-bcc4-407c-85a3-f0448a7094b5": {
       "Passives": ["BB_Precise_Strike_Passive","JWL_Passive_QuiverEfficient_RollBonus2","VV_Nightwhisper_Passive"],
-      "Spells": ["JWL_Shout_ElementalArrows","NPC_BloodFeast"]
+      "Spells": ["JWL_Shout_ElementalArrows"]
   },
     "S_WYR_Axe_DoppelgangerAssassin_003_b3ebb78f-2102-496a-b277-27ac214a88ca": {
       "Passives": ["JWL_Passive_QuiverEfficient_RollBonus2","VV_Nightwhisper_Passive"],
-      "Spells": ["JWL_Shout_ElementalArrows","NPC_BloodFeast"]
+      "Spells": ["JWL_Shout_ElementalArrows"]
   },
     "S_WYR_Axe_DoppelgangerAssassin_004_d2d5409c-4196-42b1-b641-b32db6ac04e7": {
       "Passives": ["JWL_Passive_QuiverEfficient_RollBonus2","VV_Nightwhisper_Passive"],
-      "Spells": ["JWL_Shout_ElementalArrows","NPC_BloodFeast"]
+      "Spells": ["JWL_Shout_ElementalArrows"]
   },
     "S_LOW_SerialKiller_Doppelganger_000_cb2bca61-95a9-4ce4-8bea-687682f95fb5": {
       "Passives": ["MAG_Critfisher_Passive","MagicResistance","VV_Nightwhisper_Passive"],
-      "Spells": ["Target_MAG_Myrkulites_GhoulTouch","NPC_BloodFeast","PP_Shout_EchoesOfSelf"]
+      "Spells": ["Target_MAG_Myrkulites_GhoulTouch","PP_Shout_EchoesOfSelf"]
   },
     "S_LOW_SerialKiller_Doppelganger_001_108c54a2-b364-4da0-bfc7-15bd5a8f39f2": {
       "Passives": ["MAG_Critfisher_Passive","MagicResistance","VV_Nightwhisper_Passive"],
-      "Spells": ["Target_MAG_Myrkulites_GhoulTouch","NPC_BloodFeast","PP_Shout_EchoesOfSelf"]
+      "Spells": ["Target_MAG_Myrkulites_GhoulTouch","PP_Shout_EchoesOfSelf"]
   },
     "S_LOW_SerialKiller_Doppelganger_002_41041cc2-d15c-4ea2-be5e-124a9e59a62c": {
       "Passives": ["MAG_Critfisher_Passive","MagicResistance","VV_Nightwhisper_Passive"],
@@ -2403,54 +2403,54 @@
   },
     "S_GLO_Cazador_2f1880e6-1297-4ca3-a79c-9fabc7f179d3": {
       "Passives": ["ARP_ActionPoint","Goon_Utility_Resource_5","Goon_Utility_Target_Invisibility_2","MultiattackDefense","MAG_Fighter_ActionSurge_AttackBonus_Gloves_Passive","Mobile_PassiveBonuses","Mobile_DashAcrossDifficultTerrain","ArmyArcana","LOW_Chasm_Mangle_Pushback","CC_CharismaticForce_Passive","Goon_Shout_ATT_CrownOfStars_Passive","CAT_Autosummon_Shadow2/Wraith2_Passive"],
-      "Spells": ["Shout_ActionSurge","Moghadam_Projectile_Disintegrate","Projectile_ChillingDarkness","Projectile_MoonlightRay","NPC_BloodFeast","NPC_EclipseBurst","NPC_Fissure","AJ_MirrorImage_Emergency"]
+      "Spells": ["Shout_ActionSurge","Moghadam_Projectile_Disintegrate","Projectile_ChillingDarkness","Projectile_MoonlightRay","NPC_EclipseBurst","NPC_Fissure","AJ_MirrorImage_Emergency"]
   },
     "S_SHA_SilentLibrary_Justiciar_Ranger_01_3df987bc-5c0f-4133-a87a-444352e86268": {
       "Passives": ["MAG_Frightened_Immunity_Passive","MAG_StunnImmunity_Passive","MAG_Shadow_BlindImmunity_Ring_Passive","ShadowyRetreat","FinishingStrike"],
-      "Spells": ["NPC_BloodFeast"]
+      "Spells": []
   },
     "S_SHA_SilentLibrary_Justiciar_Caster_03_435289b8-97b5-4623-8cfb-a3b02e263841": {
       "Passives": ["MAG_Frightened_Immunity_Passive","MAG_StunnImmunity_Passive","MAG_Shadow_BlindImmunity_Ring_Passive","ShadowyRetreat","FinishingStrike","CX_Cleric_Trickery_Boost"],
-      "Spells": ["NPC_BloodFeast"]
+      "Spells": []
   },
     "S_SHA_SilentLibrary_Justiciar_Caster_01_79c0ecfe-930b-4d1e-9b50-9e8836c91c12": {
       "Passives": ["MAG_Frightened_Immunity_Passive","MAG_StunnImmunity_Passive","MAG_Shadow_BlindImmunity_Ring_Passive","ShadowyRetreat","FinishingStrike","CX_Cleric_Trickery_Boost"],
-      "Spells": ["NPC_BloodFeast"]
+      "Spells": []
   },
     "S_SHA_SilentLibrary_Justiciar_Melee_01_95f6757b-8c98-4256-8071-26d60c613e59": {
       "Passives": ["MAG_Frightened_Immunity_Passive","MAG_StunnImmunity_Passive","MAG_Shadow_BlindImmunity_Ring_Passive","ShadowyRetreat","FinishingStrike"],
-      "Spells": ["NPC_BloodFeast"]
+      "Spells": []
   },
     "S_SHA_SilentLibrary_Justiciar_Caster_02_ec125743-513c-4427-adab-d8bf96bba40b": {
       "Passives": ["MAG_Frightened_Immunity_Passive","MAG_StunnImmunity_Passive","MAG_Shadow_BlindImmunity_Ring_Passive","ShadowyRetreat","FinishingStrike","CX_Cleric_Trickery_Boost"],
-      "Spells": ["NPC_BloodFeast"]
+      "Spells": []
   },
     "S_SHA_SilentLibrary_Justiciar_Ranger_02_f76831bc-3065-40e8-ac07-0e2d088e1e46": {
       "Passives": ["MAG_Frightened_Immunity_Passive","MAG_StunnImmunity_Passive","MAG_Shadow_BlindImmunity_Ring_Passive","ShadowyRetreat","FinishingStrike"],
-      "Spells": ["NPC_BloodFeast"]
+      "Spells": []
   },
     "S_TWN_Hospital_Surgeon_e58b8b34-038b-4858-b817-c2a8096a9381": {
       "Passives": ["ARP_ActionPoint","Goon_Necrotic_Resistant","Goon_Necrotic_Ignore_Resistance","Goon_Damage_Necrotic_d4_Attacks","BSM_BS_UnstoppableMassacre_Passive","FinishingStrike","CAT_Autosummon_DeathShepherd2/Ghoul2/SkeletalHound2_Passive"],
-      "Spells": ["NPC_BloodFeast","Target_RiseUndead_DeathShepherd_Hardcore","AJ_HPSpiritGuardians"]
+      "Spells": ["Target_RiseUndead_DeathShepherd_Hardcore","AJ_HPSpiritGuardians"]
   },
     "S_TWN_Hospital_ZealousAssistant_001_e2c2a930-2eb5-419f-9020-c141a0fd0753": {
       "Passives": ["BSM_BS_UnstoppableMassacre_Passive","FinishingStrike"],
-      "Spells": ["NPC_BloodFeast"],
+      "Spells": [],
       "HealthOverride": 69
   },
     "S_TWN_Hospital_ZealousAssistant_000_2250bda0-cf27-4567-8a71-b1a066113eb7": {
       "Passives": ["BSM_BS_UnstoppableMassacre_Passive","FinishingStrike"],
-      "Spells": ["NPC_BloodFeast"],
+      "Spells": [],
       "HealthOverride": 69
   },
     "S_TWN_Hospital_ZealousAssistant_002_a9e86a16-f426-4772-a187-39256c4568a1": {
       "Passives": ["BSM_BS_UnstoppableMassacre_Passive","FinishingStrike"],
-      "Spells": ["NPC_BloodFeast"],
+      "Spells": [],
       "HealthOverride": 69
   },
     "S_TWN_Hospital_ZealousAssistant_003_2be9d074-245f-4f4f-9385-260d08f4ea73": {
       "Passives": ["BSM_BS_UnstoppableMassacre_Passive","FinishingStrike"],
-      "Spells": ["NPC_BloodFeast"],
+      "Spells": [],
       "HealthOverride": 69
   },
     "S_LOW_HouseOfHope_PrisonSpectator01_d92a207c-874a-4409-9cad-4abcec33efa1": {
@@ -2467,7 +2467,7 @@
   },
     "S_LOW_HouseOfHope_Incubus_3947e0e2-3b4c-4a39-ac53-454e95665b26": {
       "Passives": ["CX_MiniBoss_Boost","CX_Barbarian_Boost","CX_Barbarian_WildMagic_Boost","Goon_Utility_Resource_2","Goon_Utility_Target_Invisibility_1","MultiattackDefense","Tough","Durable","MAG_Fighter_ActionSurge_AttackBonus_Gloves_Passive","RelentlessEndurance","VV_CorneredRat_Passive","CAT_Autosummon_MyrmidonSwarm_Passive"],
-      "Spells": ["NPC_SummonGildedHellsboar","NPC_HellfireOrb","NPC_ParalyzingRay","AJ_HPSummonCambion","NPC_Fissure","NPC_BloodFeast","NPC_ChillingDarkness","Shout_ActionSurge"]
+      "Spells": ["NPC_SummonGildedHellsboar","NPC_HellfireOrb","NPC_ParalyzingRay","AJ_HPSummonCambion","NPC_Fissure","NPC_ChillingDarkness","Shout_ActionSurge"]
   },
     "S_LOW_HouseOfHope_FlamingBoar01_0d1cf2a6-0b56-4c14-83d1-7587e9c8c63c": {
       "Passives": ["Goon_Increased_Weight_Size_Scale_1","Goon_Increased_Scale_1","Goon_Magic_Allergy_Unlock","Goon_Increased_Movement_2","Sentinel_Attack","Sentinel_OpportunityAdvantage","Sentinel_ZeroSpeed","LOW_Chasm_Mangle_Pushback","Goon_Necrotic_Resistant"],
