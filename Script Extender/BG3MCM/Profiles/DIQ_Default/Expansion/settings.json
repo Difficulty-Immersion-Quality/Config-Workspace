@@ -35,7 +35,7 @@
         "CustomClassFeats": "None"
     },
     "misc": {
-        "ExpansionBladesinger": false,
+        "ExpansionBladesinger": true,
         "ExpansionBladesingerIcon": false,
         "Sorcerer11thSubclass": true,
         "WizardBladesinger": false
