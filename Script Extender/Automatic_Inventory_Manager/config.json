@@ -1,0 +1,32 @@
+{
+    "ENABLED": 0,
+    "LOG_LEVEL": 0,
+    "PRESETS": {
+        "ACTIVE_PRESETS": {
+            "Automatic_Inventory_Manager-All-Defaults": [
+                "ALL"
+            ]
+        },
+        "FILTERS_PRESETS": {
+            "Automatic_Inventory_Manager-All-Defaults": [
+                "RootPartial",
+                "Weapons",
+                "Tags",
+                "Equipment",
+                "Roots"
+            ],
+            "Automatic_Inventory_Manager-Camp-Gold-Books": [
+                "RootPartial",
+                "Roots",
+                "Tags"
+            ]
+        },
+        "PRESETS_DIR": "presets"
+    },
+    "RECORD_APPLICABLE_ENTITY_PROPS": 0,
+    "RESET_CONFIGS": 0,
+    "RESPECT_CONTAINER_BLACKLIST_FOR_CUSTOM_STACK_CALCULATIONS": 0,
+    "SORT_CONSUMABLE_ITEMS_ON_USE_DURING_COMBAT": 0,
+    "SORT_ITEMS_DURING_COMBAT": 0,
+    "SORT_ITEMS_ON_FIRST_LOAD": 0
+}
