@@ -1,17 +1,17 @@
 {
     "OpenCloseSidekick": {
-        "Callback": "function: 00000213A90E3D30",
-        "Identifier": "bd2bab7d-8879-4442-a53c-e1c5da97f2ff",
+        "Callback": "function: 000001E0ADC52860",
+        "Identifier": "d8678430-bd62-45ce-a783-1459cd3c142c",
         "Modifiers": [
-            "NONE"
+            "SHIFT"
         ],
-        "ScanCode": "NONE"
+        "ScanCode": "R"
     },
     "SettingsAutoResize": true,
     "SidekickAutoResize": true,
     "ToggleImmortality": {
-        "Callback": "function: 00007FF3A0943700",
-        "Identifier": "0144f9f2-29fe-45d3-8751-7b88208a4299",
+        "Callback": "function: 00007FF43704F550",
+        "Identifier": "993bf8e4-6316-40a8-a58f-177b2c106a39",
         "Modifiers": [
             "NONE"
         ],
