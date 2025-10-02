@@ -2,9 +2,9 @@
     "features": {
         "item_distribution": {
             "distribute_items_in_combat": false,
-            "distribute_items_on_first_load": true,
+            "distribute_items_on_first_load": false,
             "redistribute_consumables_in_combat": false,
-            "respect_container_blacklist_in_stack_calcs": true
+            "respect_container_blacklist_in_stack_calcs": false
         }
     },
     "general": {
