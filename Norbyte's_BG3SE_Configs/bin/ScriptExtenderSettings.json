@@ -1,7 +1,8 @@
 {
   "CreateConsole": true,
   "LogFailedCompile": true,
-  "LogDirectory": "Osiris Logs",
+  "LogDirectory": "Big Fat Logs",
   "DisableStoryMerge": true,
-  "InsanityCheck": true
+  "InsanityCheck": true,
+  "EnablePerfMessages": false
 }
