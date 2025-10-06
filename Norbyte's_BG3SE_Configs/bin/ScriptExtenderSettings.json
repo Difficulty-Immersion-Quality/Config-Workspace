@@ -1,8 +1,0 @@
-{
-  "CreateConsole": true,
-  "LogFailedCompile": true,
-  "LogDirectory": "Big Fat Logs",
-  "DisableStoryMerge": true,
-  "InsanityCheck": true,
-  "EnablePerfMessages": false
-}
