@@ -9,15 +9,15 @@
         },
         "FILTERS_PRESETS": {
             "Automatic_Inventory_Manager-All-Defaults": [
+                "Tags",
                 "Weapons",
                 "Roots",
-                "Equipment",
-                "Tags",
-                "RootPartial"
+                "RootPartial",
+                "Equipment"
             ],
             "Automatic_Inventory_Manager-Camp-Gold-Books": [
-                "Roots",
                 "Tags",
+                "Roots",
                 "RootPartial"
             ]
         },
