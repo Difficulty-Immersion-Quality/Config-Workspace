@@ -24,10 +24,10 @@
     "champions": {
         "ai_settings": {
             "ChampionsChance": 5,
-            "ChampionsHealth": 40,
+            "ChampionsHealth": 50,
             "EnableChampions": true,
             "OnlyChampionClones": false,
-            "Timer": 5
+            "Timer": 3
         }
     },
     "debug": {
