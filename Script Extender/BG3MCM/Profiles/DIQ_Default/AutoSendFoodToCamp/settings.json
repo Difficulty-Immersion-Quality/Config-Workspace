@@ -29,7 +29,7 @@
                         "name": "DEN_UNI_Thieflings_Gruel"
                     },
                     {
-                        "enabled": false,
+                        "enabled": true,
                         "name": "CONS_FOOD_Fruit_Apple_A"
                     }
                 ],
@@ -72,7 +72,7 @@
                         "name": "WPN_HUM_Salami_A"
                     }
                 ],
-                "enabled": false
+                "enabled": true
             }
         }
     },
@@ -81,7 +81,7 @@
             "maximum_rarity": "Common",
             "move_alcohol": true,
             "move_bought_food": true,
-            "move_consumable": true,
+            "move_consumable": false,
             "move_food": true,
             "send_items_moved_automatically": true
         },
