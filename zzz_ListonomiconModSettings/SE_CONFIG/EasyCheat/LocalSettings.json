@@ -1,24 +1,20 @@
 {
-	"OpenCloseSidekick" : 
-	{
-		"Callback" : "function: 000002C503D57A90",
-		"Identifier" : "6a860bff-8cb9-4ea1-8ce3-8af5ed2a8e33",
-		"Modifiers" : 
-		[
-			"NONE"
-		],
-		"ScanCode" : "R"
-	},
-	"SettingsAutoResize" : true,
-	"SidekickAutoResize" : true,
-	"ToggleImmortality" : 
-	{
-		"Callback" : "function: 000002C4F4091F60",
-		"Identifier" : "c49676af-8f45-4696-ac4e-289fc227d316",
-		"Modifiers" : 
-		[
-			"NONE"
-		],
-		"ScanCode" : "NONE"
-	}
+    "OpenCloseSidekick": {
+        "Callback": "function: 000001F5B0F03EE0",
+        "Identifier": "fc99c4d2-af1b-49b7-aa97-5cde0e3120c5",
+        "Modifiers": [
+            "NONE"
+        ],
+        "ScanCode": "R"
+    },
+    "SettingsAutoResize": true,
+    "SidekickAutoResize": true,
+    "ToggleImmortality": {
+        "Callback": "function: 000001F58492FF40",
+        "Identifier": "3b5fc06c-e13f-441c-94da-3ae889511eec",
+        "Modifiers": [
+            "NONE"
+        ],
+        "ScanCode": "NONE"
+    }
 }

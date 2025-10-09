@@ -1,6 +1,5 @@
 {
-	"general" : 
-	{
-		"InitiativeDie" : 8
-	}
+    "general": {
+        "InitiativeDie": 8
+    }
 }

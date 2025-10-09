@@ -1,11 +1,9 @@
 {
-	"General" : 
-	{
-		"More mimics" : 
-		{
-			"EncounterPercentage" : 3,
-			"HarderMimics" : false,
-			"Seed" : "d67tk"
-		}
-	}
+    "General": {
+        "More mimics": {
+            "EncounterPercentage": 2,
+            "HarderMimics": false,
+            "Seed": "h887g"
+        }
+    }
 }

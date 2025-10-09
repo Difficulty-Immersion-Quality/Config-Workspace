@@ -3,7 +3,7 @@
 	{
 		"Boss_Cosmetic" : 
 		{
-			"B_CosmeticRate" : 200.0
+			"B_CosmeticRate" : 250.0
 		},
 		"Boss_MultiLoot" : 
 		{
@@ -11,7 +11,7 @@
 			"B_IgnoreFail" : true,
 			"B_MultiLootUnique" : 3,
 			"B_UniquePenalty" : 0,
-			"B_UniqueRate" : 3.3299999237060547
+			"B_UniqueRate" : 3.33
 		},
 		"Boss_Usable" : 
 		{
@@ -22,12 +22,12 @@
 	{
 		"Arrow" : 
 		{
-			"A_IgnoreFail" : true,
+			"A_IgnoreFail" : false,
 			"A_Rate_Multiplier" : 0,
-			"A_common" : 9,
-			"A_rare" : 0.089999999999999997,
+			"A_common" : 5,
+			"A_rare" : 0.089,
 			"A_total_count" : 1,
-			"A_uncommon" : 0.90000000000000002,
+			"A_uncommon" : 0.90,
 			"A_veryrare" : 0.01
 		},
 		"Potion" : 
@@ -36,20 +36,20 @@
 			"P_IgnoreFail" : false,
 			"P_Rate_Multiplier" : 0,
 			"P_common" : 9,
-			"P_rare" : 0.089999999999999997,
+			"P_rare" : 0.089,
 			"P_total_count" : 2,
-			"P_uncommon" : 0.90000000000000002,
+			"P_uncommon" : 0.90,
 			"P_veryrare" : 0.01
 		},
 		"Scroll" : 
 		{
 			"S_IgnoreFail" : false,
 			"S_Rate_Multiplier" : 0,
-			"S_common" : 9,
-			"S_rare" : 0.089999999999999997,
+			"S_common" : 5,
+			"S_rare" : 0.089,
 			"S_total_count" : 2,
-			"S_uncommon" : 0.90000000000000002,
-			"S_veryrare" : 0.0089999999999999993
+			"S_uncommon" : 0.90,
+			"S_veryrare" : 0.0089
 		}
 	},
 	"Cosmetic" : 
@@ -94,7 +94,7 @@
 				"elements" : 
 				[
 					{
-						"enabled" : true,
+						"enabled" : false,
 						"name" : "Adventure Backpack"
 					},
 					{
@@ -154,7 +154,7 @@
 						"name" : "Trunk of Protection"
 					},
 					{
-						"enabled" : true,
+						"enabled" : false,
 						"name" : "Vanity Wardrobe"
 					}
 				],
@@ -187,21 +187,21 @@
 		},
 		"Chest_Identifier" : 
 		{
-			"1Cosmetic" : 54.090000000000003,
+			"1Cosmetic" : 54.09,
 			"1legendary" : 0,
-			"1rare" : 4.0570000000000004,
-			"1uncommon" : 48.680999999999997,
-			"1veryrare" : 1.3520000000000001,
-			"2Cosmetic" : 77.045000000000002,
-			"2legendary" : 0.34100000000000003,
+			"1rare" : 4.057,
+			"1uncommon" : 48.68,
+			"1veryrare" : 1.352,
+			"2Cosmetic" : 77.045,
+			"2legendary" : 0.341,
 			"2rare" : 28.977,
-			"2uncommon" : 43.636000000000003,
-			"2veryrare" : 4.0910000000000002,
+			"2uncommon" : 43.636,
+			"2veryrare" : 4.091,
 			"3Cosmetic" : 100,
-			"3legendary" : 0.68200000000000005,
-			"3rare" : 53.896999999999998,
-			"3uncommon" : 38.591000000000001,
-			"3veryrare" : 6.8300000000000001,
+			"3legendary" : 0.682,
+			"3rare" : 53.89,
+			"3uncommon" : 38.59,
+			"3veryrare" : 6.83,
 			"enableChestSpecific" : false
 		},
 		"Chest_MultiLoot" : 
@@ -250,6 +250,7 @@
 			"Enable_Restriction" : false,
 			"L_LB" : 6,
 			"L_UB" : 30,
+			"LootBreak" : 0,
 			"R_LB" : 1,
 			"R_UB" : 16,
 			"U_LB" : 1,

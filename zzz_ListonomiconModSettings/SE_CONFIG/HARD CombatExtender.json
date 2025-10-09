@@ -249,7 +249,7 @@
 	  },
 			"2": {
 			  "ExtraPassives": ["SpellSniper_Empowered","SculptSpells","ArmyArcana"],
-			  "Spells": ["NPC_LightningBolt","NPC_FireworkBlast"]
+			  "Spells": ["Target_FireworkBlast","NPC_LightningBolt"]
 	  },
 			"3": {
 			  "ExtraPassives": ["CC_MaximizedOutput_Passive","EmpoweredEvocation","WW_CantripBooster_Arcana_Passive"],
@@ -454,7 +454,7 @@
 	  },
 			"2": {
 			  "ExtraPassives": ["SS_Dancers_Grace","Goon_Summon_Potion_Healing_Superior_x1","Actor","JackOfAllTrades","MAG_BardicInspiration_Heal_Hat_Passive","SS_SpellSaveDC_Rhythm","SS_AmplifiedResonance"],
-			  "Spells": ["TK_Thrust","Target_MindSpike","Target_MoonbladeSlash_Fire","Shout_DiscordantMelody","Target_FireworkBlast"]
+			  "Spells": ["TK_Thrust","Target_MindSpike","Target_MoonbladeSlash_Fire","Shout_DiscordantMelody"]
 	  },
 			"3": {
 			  "ExtraPassives": ["SYR_Feat_WarMagic_AltSpell_Passive","SS_SpringStep","SS_CharismaticFocus","SS_MarvelousEscape","SS_SoulfulHarmony","SS_EncorePerformance_LowHP","SS_PersuasionHat"],
@@ -969,7 +969,7 @@
 			  "Spells": ["Target_Feint","Target_Shove_Trip"]
 	  },
 			"3": {
-			  "ExtraPassives": ["Evasion","ReliableTalent","FightingStyle_Dueling","FightingStyle_TwoWeaponFighting","EscapeTheHorde","Mod_MAG_Infernal_Weapon_Passive","Mod_MAG_Slicing_Shortsword_Passive","Mod_PointBlank","Mod_Greater_LeaperStride","ARA_Cloak_CatGrace","BSM_BS_UnstoppableMassacre_Passive","VV_Bloodletter_Passive","Mod_DEN_Apprentice_DaggerOfShar_Passive","CrossbowExpert_PointBlank","JWL_Passive_KerzinsOoze","FinishingStrike"],
+			  "ExtraPassives": ["Evasion","FightingStyle_Dueling","FightingStyle_TwoWeaponFighting","EscapeTheHorde","Mod_MAG_Infernal_Weapon_Passive","Mod_MAG_Slicing_Shortsword_Passive","Mod_PointBlank","ARA_Cloak_CatGrace","BSM_BS_UnstoppableMassacre_Passive","VV_Bloodletter_Passive","CrossbowExpert_PointBlank"],
 			  "Spells": []
 	  }
 	}
@@ -1103,7 +1103,7 @@
 	  },
 			"2": {
 			  "ExtraPassives": ["AgonizingBlast","PP_Hellish_Resistance","PP_BloodPact_Enhancement_Passive","PP_WhispersOfVoid_Passive"],
-			  "Spells": ["Zone_AetherLance","VBT_Spell_3_EruptingEarth","VBT_Spell_3_DevouringForce","VBT_Spell_3_BreathOfHadar","VBT_Spell_3_HungeringDarkness","Target_FireworkBlast","Shout_OozeForm"]
+			  "Spells": ["Zone_AetherLance","VBT_Spell_3_EruptingEarth","VBT_Spell_3_DevouringForce","VBT_Spell_3_BreathOfHadar","VBT_Spell_3_HungeringDarkness","Shout_OozeForm"]
 	  },
 			"3": {
 			  "ExtraPassives": ["CC_AugmentedDefense_Passive","ARA_Cloak_DevilsSight_Passive","MAG_Myrkulites_CircletOfMyrkul_Circlet_Passive"],
@@ -1179,7 +1179,7 @@
 	  },
 	  {
 	  "PassiveName": "CX_Spells_L4",
-		"Spells": ["Target_FireworkBlast","Target_IceStorm"],
+		"Spells": ["Target_IceStorm"],
 		"ExtraSpellSlots": ["1","0","0","1","0","0"]
 	  },
 	  {
@@ -1963,7 +1963,7 @@
 		"Spells": ["NPC_Girzanjes","AJ_Shout_ActionSurge_Emergency"]
 	},
 	  "S_GLO_Nightsong_6c55edb0-901b-4ba4-b9e8-3475a8392d9b": {
-		"Passives": ["MAG_LC_Cyric_FearImmunity_Amulet_Passive","MAG_WYRM_UndeadProtector_Robe_Passive","Mod_MAG_LowHP_IncreaseDamage_Passive","FullSwing_Passive","Mod_MAG_Violence_LowHP_Violence_Passive","Goon_Necrotic_Immune","Goon_Radiant_Immune","Goon_Damage_Radiant_d6_Attacks","Goon_Sanctuary_Auto_Cast_Start_Combat","NPC_CbD","ArmyArcana","CC_CharismaticForce_Passive","CC_AugmentedRetaliation_Passive"],
+		"Passives": [],
 		"Spells": ["NPC_ScouringPulse","NPC_Girzanjes","NPC_MoonlightRay","NPC_SearingLight","NPC_GuardianOfFaith","NPC_AllyDeva","NPC_Heal","NPC_MassHeal"]
 	},
 	  "S_MOO_Executioner_8e75eb3b-7551-485e-8f98-2bf2e51d3e84": {
@@ -2275,6 +2275,16 @@
 		"Spells": ["AJ_Fireworks_Rocket_B"],
 		"HealthOverride": 44
 	},
+	"S_PLA_ZhentDungeon_Zhent10_200997f5-7e03-41ad-a1d5-de1c9dd464c8": {
+		"Passives": ["Goon_Poison_Resistant","VV_CorneredRat_Passive","CX_Fighter_Champion_Boost"],
+		"Spells": [],
+		"HealthOverride": 49
+	},
+	"S_PLA_ZhentDungeon_Zhent11_5045eb36-9310-4abf-8a10-063b790d0be6": {
+		"Passives": ["Goon_Poison_Resistant","VV_CorneredRat_Passive","CX_Paladin_Oathbreaker_Boost"],
+		"Spells": [],
+		"HealthOverride": 49
+	},
 	"S_PLA_ZhentDungeon_Zhent02_8a064abd-3582-4a32-a9f8-748ad60f63ca": {
 		"Passives": ["Goon_Fire_Resistant","Goon_Force_Resistant","Goon_Poison_Immune","Goon_Damage_Poison_d4_Attacks","Alert","ARA_Cloak_CatGrace","ARA_Cloak_PiercingAndForceResistanceBypass","ARA_Cloak_CritThreshold","VV_CorneredRat_Passive","CX_Rogue_Assassin_Boost","CX_MiniBoss_Boost"],
 		"Spells": ["ARA_Shout_Disappear"],
@@ -2337,7 +2347,7 @@
 	  "HealthOverride": 150
 	},
 	"S_SHA_LastJusticiar_594ba359-ce55-4b54-9efc-94eca306c540": {
-	  "Passives": ["FinishingStrike"],
+	  "Passives": ["FinishingStrike","CAT_Autosummon_Raven3_Passive"],
 	  "Spells": ["Shout_ActionSurge","AJ_Shout_ActionSurge_Emergency","AJ_MirrorImage_Emergency","AJ_HPSecondWind"]
 	},
 	"S_WYR_Jungle_Alioramus_01_b2bdcb69-3a93-4200-b64e-154f44723b71": {
@@ -2409,6 +2419,10 @@
 		"S_FOR_Bottomless_Ettercap_02_5c57bfc0-cd82-4b9f-9b70-b5475fb121db": {
 			"DisplayName": "T'las",
 			"Template": "S_GOB_AttackOnDen_Spider_002_de05b62e-6306-46e1-9f2f-2ac6554d0316"
+		},
+		"S_FOR_Bottomless_SpiderQueen_e6b2f3ba-2d02-4507-8680-6047322e1a4b": {
+			"DisplayName": "Gloop",
+			"Template": "S_UND_KethericCity_PanicRoomEnemy_003_b568549c-7b9d-451f-b862-ff26d2085bbe"
 		},
 		"S_UND_KethericCity_PanicRoomEnemy_003_b568549c-7b9d-451f-b862-ff26d2085bbe": {
 			"DisplayName": "Ooze Farmer",
