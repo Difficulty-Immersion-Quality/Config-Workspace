@@ -1,55 +1,57 @@
 {
-	"Levels" : 
-	{
-		"Level1" : 2,
-		"Level10" : 25000,
-		"Level11" : 19800,
-		"Level12" : 24000,
-		"Level13" : 34000,
-		"Level14" : 30000,
-		"Level15" : 32000,
-		"Level16" : 32000,
-		"Level17" : 34000,
-		"Level18" : 35000,
-		"Level19" : 36000,
-		"Level2" : 3,
-		"Level3" : 1660,
-		"Level4" : 2700,
-		"Level5" : 4700,
-		"Level6" : 5100,
-		"Level7" : 8000,
-		"Level8" : 9000,
-		"Level9" : 10000,
-		"MaxLevel" : 20,
-		"MaxXP" : 400000
-	},
-	"feats" : 
-	{
-		"BaseClassFeatSelection" : true,
-		"BaseClassFeats" : "None",
-		"CustomClassFeatSelection" : false,
-		"CustomClassFeats" : "None"
-	},
-	"misc" : 
-	{
-		"ExpansionBladesinger" : false,
-		"ExpansionBladesingerIcon" : false,
-		"Sorcerer11thSubclass" : true,
-		"WizardBladesinger" : false
-	},
-	"optional_features" : 
-	{
-		"Barbarian" : true,
-		"Bard" : true,
-		"Cleric" : true,
-		"Druid" : true,
-		"Fighter" : false,
-		"Monk" : false,
-		"Paladin" : false,
-		"Ranger" : true,
-		"Rogue" : false,
-		"Sorcerer" : false,
-		"Warlock" : false,
-		"Wizard" : false
-	}
+    "Levels": {
+        "DisableXPDataModification": true,
+        "HpPerLevel20+": false,
+        "Level1": 2,
+        "Level10": 30000,
+        "Level11": 20000,
+        "Level12": 24000,
+        "Level13": 34000,
+        "Level14": 30500,
+        "Level15": 32000,
+        "Level16": 32000,
+        "Level17": 34000,
+        "Level18": 35000,
+        "Level19": 36000,
+        "Level2": 3,
+        "Level20+": 50000,
+        "Level3": 1700,
+        "Level4": 2750,
+        "Level5": 4750,
+        "Level6": 5295,
+        "Level7": 8500,
+        "Level8": 9500,
+        "Level9": 10000,
+        "MaxLevel": 20
+    },
+    "boons": {
+        "BaseClassEpicBoons": false,
+        "CustomClassEpicBoons": false
+    },
+    "feats": {
+        "BaseClassFeatSelection": true,
+        "BaseClassFeats": "None",
+        "CustomClassFeatSelection": false,
+        "CustomClassFeats": "None"
+    },
+    "misc": {
+        "ExpansionBladesinger": false,
+        "ExpansionBladesingerIcon": false,
+        "Sorcerer11thSubclass": true,
+        "WizardBladesinger": false
+    },
+    "optional_features": {
+        "Barbarian": true,
+        "Bard": true,
+        "Cleric": true,
+        "Druid": true,
+        "Fighter": false,
+        "Monk": false,
+        "Paladin": false,
+        "Ranger": true,
+        "Rogue": false,
+        "Sorcerer": false,
+        "Warlock": false,
+        "Wizard": false
+    }
 }

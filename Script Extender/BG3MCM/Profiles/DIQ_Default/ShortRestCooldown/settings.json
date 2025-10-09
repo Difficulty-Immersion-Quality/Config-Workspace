@@ -1,18 +1,14 @@
 {
-	"debug" : 
-	{
-		"debug_level" : 0
-	},
-	"features" : 
-	{
-		"cooldown" : 
-		{
-			"cooldown_duration" : 2,
-			"only_in_multiplayer" : true
-		},
-		"general" : 
-		{
-			"mod_enabled" : true
-		}
-	}
+    "debug": {
+        "debug_level": 0
+    },
+    "features": {
+        "cooldown": {
+            "cooldown_duration": 2,
+            "only_in_multiplayer": true
+        },
+        "general": {
+            "mod_enabled": true
+        }
+    }
 }

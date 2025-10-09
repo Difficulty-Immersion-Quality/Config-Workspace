@@ -1,26 +1,26 @@
 {
-	"DEBUG" : 
-	{
-		"level" : 0
-	},
-	"lastUsedModSubTabs" : 
-	{
-		"0c8bb2e9-aa96-4de7-b793-a733d68ee6f0" : "Conditions",
-		"16b5fbb6-72fe-4a08-814a-87a9fc0b14bc" : "General",
-		"1c132ec4-4cd2-4c40-aeb9-ff6ee0467da8" : "Items to send to camp",
-		"227b61c2-e6ee-4d71-906e-c941b4211345" : "General",
-		"46d64b8d-41cb-424a-9960-1c19309271a0" : "General",
-		"4d5d0f12-090c-468c-b3f7-3a6be799fd43" : "Advanced Settings",
-		"5b5ad5b6-ce37-4a63-8dea-a1fee4cee156" : "EasyCheat",
-		"7a526492-f5f4-44a0-ab25-ddcc4c6c1e7e" : "General",
-		"84b2cdba-ad21-4d8c-97d6-c09b95a6d9b4" : "Scribe",
-		"8f23afc7-2354-42e0-844f-80445bf72f36" : "General Settings",
-		"a2c4b0fc-e745-41df-81b7-fa53950d86a0" : "Miscellaneous",
-		"b1f292a4-f484-4631-8c58-532b53fd1c11" : "General",
-		"b59bff19-7e28-4155-8768-428bed0492c1" : "General",
-		"c19ca43a-c3c7-4e58-9d00-f7d928e72074" : "General Settings",
-		"cabed99e-5db6-4f0d-a69f-d49e8a20e663" : "Debug"
-	},
-	"lastUsedPage" : "7429b169-5e11-4d31-9db3-b1285df2d191",
-	"onConfigReloaded" : []
+    "DEBUG": {
+        "level": 0
+    },
+    "lastUsedModSubTabs": {
+        "0c8bb2e9-aa96-4de7-b793-a733d68ee6f0": "General",
+        "16b5fbb6-72fe-4a08-814a-87a9fc0b14bc": "General",
+        "1c132ec4-4cd2-4c40-aeb9-ff6ee0467da8": "Items to send to camp",
+        "227b61c2-e6ee-4d71-906e-c941b4211345": "General",
+        "45963092-e2d4-44d4-bd29-d10ba8db0aae": "Auto Wares",
+        "46d64b8d-41cb-424a-9960-1c19309271a0": "General",
+        "4d5d0f12-090c-468c-b3f7-3a6be799fd43": "Advanced Settings",
+        "5b5ad5b6-ce37-4a63-8dea-a1fee4cee156": "EasyCheat",
+        "7a526492-f5f4-44a0-ab25-ddcc4c6c1e7e": "Item Configuration",
+        "84b2cdba-ad21-4d8c-97d6-c09b95a6d9b4": "Scribe",
+        "8f23afc7-2354-42e0-844f-80445bf72f36": "General Settings",
+        "a2c4b0fc-e745-41df-81b7-fa53950d86a0": "Epic Boons",
+        "b1f292a4-f484-4631-8c58-532b53fd1c11": "General",
+        "b59bff19-7e28-4155-8768-428bed0492c1": "General",
+        "c19ca43a-c3c7-4e58-9d00-f7d928e72074": "General Settings",
+        "cabed99e-5db6-4f0d-a69f-d49e8a20e663": "Debug",
+        "de58d193-9a32-7db1-de7c-69e4e55b4002": "CCEE"
+    },
+    "lastUsedPage": "45963092-e2d4-44d4-bd29-d10ba8db0aae",
+    "onConfigReloaded": []
 }

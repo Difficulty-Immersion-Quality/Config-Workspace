@@ -454,7 +454,7 @@
 	  },
 			"2": {
 			  "ExtraPassives": ["SS_Dancers_Grace","Goon_Summon_Potion_Healing_Superior_x1","Actor","JackOfAllTrades","MAG_BardicInspiration_Heal_Hat_Passive","SS_SpellSaveDC_Rhythm","SS_AmplifiedResonance"],
-			  "Spells": ["TK_Thrust","Target_MindSpike","Target_MoonbladeSlash_Fire","Shout_DiscordantMelody","Target_FireworkBlast"]
+			  "Spells": ["TK_Thrust","Target_MindSpike","Target_MoonbladeSlash_Fire","Shout_DiscordantMelody"]
 	  },
 			"3": {
 			  "ExtraPassives": ["SYR_Feat_WarMagic_AltSpell_Passive","SS_SpringStep","SS_CharismaticFocus","SS_MarvelousEscape","SS_SoulfulHarmony","SS_EncorePerformance_LowHP","SS_PersuasionHat"],
@@ -961,15 +961,15 @@
 	  "PassiveName": "CX_Rogue_Boost",
 		"Act": {
 			"1": {
-			  "ExtraPassives": ["SYR_Feat_LightArmorMaster_Passive","Mobile_PassiveBonuses","Mod_UNI_DarkUrge_Bleeding_Dagger_Passive","DefensiveDuelist","DefensiveDuelist_Precision"],
+			  "ExtraPassives": ["SYR_Feat_LightArmorMaster_Passive"],
 			  "Spells": ["Projectile_SneakAttack","Target_SneakAttack"]			  
 	  },
 			"2": {
-			  "ExtraPassives": ["UncannyDodge","SecondStoryWork_Jumping","Goon_Summon_Potion_Healing_Superior_x1","CrossbowExpert_Wounding","JWL_Passive_GuardianEmblem"],
+			  "ExtraPassives": ["Goon_Summon_Potion_Healing_Superior_x1","DirtyKickUnlock"],
 			  "Spells": ["Target_Feint","Target_Shove_Trip"]
 	  },
 			"3": {
-			  "ExtraPassives": ["Evasion","ReliableTalent","FightingStyle_Dueling","FightingStyle_TwoWeaponFighting","EscapeTheHorde","Mod_MAG_Infernal_Weapon_Passive","Mod_MAG_Slicing_Shortsword_Passive","Mod_PointBlank","Mod_Greater_LeaperStride","ARA_Cloak_CatGrace","VV_Bloodletter_Passive","Mod_DEN_Apprentice_DaggerOfShar_Passive","CrossbowExpert_PointBlank","JWL_Passive_KerzinsOoze"],
+			  "ExtraPassives": ["Mod_PointBlank","CrossbowExpert_PointBlank"],
 			  "Spells": []
 	  }
 	}
@@ -979,15 +979,15 @@
 		"Act": {
 			"1": {
 			  "ExtraPassives": ["Goon_Target_Longstrider_Passive"],
-			  "Spells": ["Target_MistyStep","Target_BoomingBlade","Target_GreenFlameBlade","Shout_BladeWard","Target_Sanctuary"]			  
+			  "Spells": ["Target_MistyStep","Target_BoomingBlade","Target_GreenFlameBlade"]			  
 	  },
 			"2": {
-			  "ExtraPassives": ["Goon_Damage_Psychic_d4_Attacks","MAG_SpellSaveDC_Enchantment_Lesser_Passive","WW_GainArcaneAcuityOnDamage_Passive"],
-			  "Spells": ["Target_PhantasmalForce","Shout_Blur","Shout_MAG_Critical_ArcanicCritical"]			  
+			  "ExtraPassives": ["WW_GainArcaneAcuityOnDamage_Passive"],
+			  "Spells": ["Shout_Blur"]			  
 	  },
 			"3": {
-			  "ExtraPassives": ["MAG_MonkCloak_NoCrit_Passive","OO_EverVigilant_Passive"],
-			  "Spells": ["Target_CrownOfMadness","Projectile_TKBolt_Dawnstar","Projectile_TKSeekingBolt_Dawnstar","Zone_TKScatterShot_Dawnstar","Target_TKFocusBeam_Dawnstar"]			  
+			  "ExtraPassives": [],
+			  "Spells": []			  
 	  }
 	  }
 	  },
@@ -1003,7 +1003,7 @@
 			  "Spells": []			  
 	  },
 			"3": {
-			  "ExtraPassives": ["MAG_Bhaalist_Aura_Of_Murder_Passive","VV_ImprovedCritical_Passive","VV_BackstabBlade_Assassinate_Passive","VV_Shadowskin_Passive","VV_QuickDraw_Passive","BB_PiercingWind_Passive"],
+			  "ExtraPassives": [],
 			  "Spells": []			  
 	  }
 	  }
@@ -1020,7 +1020,7 @@
 			  "Spells": []			  
 	  },
 			"3": {
-			  "ExtraPassives": ["MAG_MonkCloak_NoCrit_Passive"],
+			  "ExtraPassives": [],
 			  "Spells": []			  
 	  }
 	  }
@@ -1103,7 +1103,7 @@
 	  },
 			"2": {
 			  "ExtraPassives": ["AgonizingBlast","PP_Hellish_Resistance","PP_BloodPact_Enhancement_Passive","PP_WhispersOfVoid_Passive"],
-			  "Spells": ["Zone_AetherLance","VBT_Spell_3_EruptingEarth","VBT_Spell_3_DevouringForce","VBT_Spell_3_BreathOfHadar","VBT_Spell_3_HungeringDarkness","Target_FireworkBlast","Shout_OozeForm"]
+			  "Spells": ["Zone_AetherLance","VBT_Spell_3_EruptingEarth","VBT_Spell_3_DevouringForce","VBT_Spell_3_BreathOfHadar","VBT_Spell_3_HungeringDarkness","Shout_OozeForm"]
 	  },
 			"3": {
 			  "ExtraPassives": ["CC_AugmentedDefense_Passive","ARA_Cloak_DevilsSight_Passive","MAG_Myrkulites_CircletOfMyrkul_Circlet_Passive"],
@@ -1179,7 +1179,7 @@
 	  },
 	  {
 	  "PassiveName": "CX_Spells_L4",
-		"Spells": ["Target_FireworkBlast","Target_IceStorm"],
+		"Spells": ["Target_IceStorm"],
 		"ExtraSpellSlots": ["1","0","0","1","0","0"]
 	  },
 	  {
@@ -1988,7 +1988,7 @@
 		"Spells": ["NPC_Girzanjes","AJ_Shout_ActionSurge_Emergency"]
 	},
 	  "S_GLO_Nightsong_6c55edb0-901b-4ba4-b9e8-3475a8392d9b": {
-		"Passives": ["MAG_LC_Cyric_FearImmunity_Amulet_Passive","MAG_WYRM_UndeadProtector_Robe_Passive","Mod_MAG_LowHP_IncreaseDamage_Passive","FullSwing_Passive","Mod_MAG_Violence_LowHP_Violence_Passive","Goon_Necrotic_Immune","Goon_Radiant_Immune","Goon_Damage_Radiant_d6_Attacks","Goon_Sanctuary_Auto_Cast_Start_Combat","NPC_CbD","ArmyArcana","CC_CharismaticForce_Passive","CC_AugmentedRetaliation_Passive"],
+		"Passives": [],
 		"Spells": ["NPC_ScouringPulse","NPC_Girzanjes","NPC_MoonlightRay","NPC_SearingLight","NPC_GuardianOfFaith","NPC_AllyDeva","NPC_Heal","NPC_MassHeal"]
 	},
 	  "S_MOO_Executioner_8e75eb3b-7551-485e-8f98-2bf2e51d3e84": {
@@ -2266,6 +2266,16 @@
 		"Spells": ["AJ_Fireworks_Rocket_B"],
 		"HealthOverride": 44
 	},
+	"S_PLA_ZhentDungeon_Zhent10_200997f5-7e03-41ad-a1d5-de1c9dd464c8": {
+		"Passives": ["Goon_Poison_Resistant","VV_CorneredRat_Passive","CX_Fighter_Champion_Boost"],
+		"Spells": [],
+		"HealthOverride": 49
+	},
+	"S_PLA_ZhentDungeon_Zhent11_5045eb36-9310-4abf-8a10-063b790d0be6": {
+		"Passives": ["Goon_Poison_Resistant","VV_CorneredRat_Passive","CX_Paladin_Oathbreaker_Boost"],
+		"Spells": [],
+		"HealthOverride": 49
+	},
 	"S_PLA_ZhentDungeon_Zhent02_8a064abd-3582-4a32-a9f8-748ad60f63ca": {
 		"Passives": ["Goon_Fire_Resistant","Goon_Force_Resistant","Goon_Poison_Immune","Goon_Damage_Poison_d4_Attacks","Alert","ARA_Cloak_CatGrace","ARA_Cloak_PiercingAndForceResistanceBypass","ARA_Cloak_CritThreshold","VV_CorneredRat_Passive","CX_Rogue_Assassin_Boost","CX_MiniBoss_Boost"],
 		"Spells": ["ARA_Shout_Disappear"],
@@ -2328,7 +2338,7 @@
 	  "HealthOverride": 150
 	},
 	"S_SHA_LastJusticiar_594ba359-ce55-4b54-9efc-94eca306c540": {
-	  "Passives": [],
+	  "Passives": ["CAT_Autosummon_Raven3_Passive"],
 	  "Spells": ["Shout_ActionSurge","AJ_Shout_ActionSurge_Emergency","AJ_MirrorImage_Emergency","AJ_HPSecondWind"]
 	},
 	"S_LOW_BeachSahuagin_Sahuagin_Melee_01_576fa0c7-0227-41bd-9e1c-70bd4add32a2": {

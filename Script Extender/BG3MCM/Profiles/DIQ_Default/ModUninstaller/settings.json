@@ -1,11 +1,9 @@
 {
-	"features" : 
-	{
-		"advanced_uninstall_options" : 
-		{
-			"debug_level" : 2,
-			"delete_items" : true,
-			"remove_stats" : true
-		}
-	}
+    "features": {
+        "advanced_uninstall_options": {
+            "debug_level": 2,
+            "delete_items": true,
+            "remove_stats": true
+        }
+    }
 }

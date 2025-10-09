@@ -1,6 +1,5 @@
 {
-	"general" : 
-	{
-		"party_limit" : 4
-	}
+    "general": {
+        "party_limit": 4
+    }
 }

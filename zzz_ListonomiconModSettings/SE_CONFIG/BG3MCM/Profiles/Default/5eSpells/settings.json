@@ -1,36 +1,32 @@
 {
-	"settings" : 
-	{
-		"5e_spells_miscellaneous" : 
-		{
-			"BoomingBladeChange" : true
-		},
-		"5e_spells_raw" : 
-		{
-			"RaiseDead" : false,
-			"SparetheDying" : false
-		},
-		"remove_spells" : 
-		{
-			"5e1st" : false,
-			"5e2nd" : false,
-			"5e3rd" : false,
-			"5e4th" : false,
-			"5e5th" : false,
-			"5e6th" : false,
-			"5e7th" : false,
-			"5e8th" : false,
-			"5e9th" : false,
-			"Cantrips" : false,
-			"TCoE1st" : false,
-			"TCoE2nd" : false,
-			"TCoE3rd" : false,
-			"TCoE4th" : false,
-			"TCoE5th" : false,
-			"TCoE6th" : false,
-			"TCoE7th" : false,
-			"TCoE8th" : false,
-			"TCoE9th" : false
-		}
-	}
+    "settings": {
+        "5e_spells_miscellaneous": {
+            "BoomingBladeChange": true
+        },
+        "5e_spells_raw": {
+            "RaiseDead": false,
+            "SparetheDying": false
+        },
+        "remove_spells": {
+            "5e1st": false,
+            "5e2nd": false,
+            "5e3rd": false,
+            "5e4th": false,
+            "5e5th": false,
+            "5e6th": false,
+            "5e7th": false,
+            "5e8th": false,
+            "5e9th": false,
+            "Cantrips": false,
+            "TCoE1st": false,
+            "TCoE2nd": false,
+            "TCoE3rd": false,
+            "TCoE4th": false,
+            "TCoE5th": false,
+            "TCoE6th": false,
+            "TCoE7th": false,
+            "TCoE8th": false,
+            "TCoE9th": false
+        }
+    }
 }

@@ -1,24 +1,19 @@
 {
-	"features" : 
-	{
-		"item_distribution" : 
-		{
-			"distribute_items_in_combat" : false,
-			"distribute_items_on_first_load" : true,
-			"redistribute_consumables_in_combat" : false,
-			"respect_container_blacklist_in_stack_calcs" : true
-		}
-	},
-	"general" : 
-	{
-		"general_settings" : 
-		{
-			"mod_enabled" : false
-		},
-		"logging_and_utils" : 
-		{
-			"enable_epr" : false,
-			"log_level" : 0
-		}
-	}
+    "features": {
+        "item_distribution": {
+            "distribute_items_in_combat": false,
+            "distribute_items_on_first_load": false,
+            "redistribute_consumables_in_combat": false,
+            "respect_container_blacklist_in_stack_calcs": false
+        }
+    },
+    "general": {
+        "general_settings": {
+            "mod_enabled": false
+        },
+        "logging_and_utils": {
+            "enable_epr": false,
+            "log_level": 0
+        }
+    }
 }
