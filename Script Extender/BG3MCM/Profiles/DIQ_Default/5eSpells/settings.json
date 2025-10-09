@@ -1,13 +1,14 @@
 {
-    "settings": {
-        "5e_spells_miscellaneous": {
-            "BoomingBladeChange": true
-        },
-        "5e_spells_raw": {
-            "RaiseDead": false,
-            "SparetheDying": false
-        },
-        "remove_spells": {
+    "5e_spells_miscellaneous": {
+        "BoomingBladeChange": true
+    },
+    "5e_spells_raw": {
+        "RaiseDead": false,
+        "RitualSpells": false,
+        "SparetheDying": false
+    },
+    "remove_spells": {
+        "5e_spells": {
             "5e1st": false,
             "5e2nd": false,
             "5e3rd": false,
@@ -18,6 +19,17 @@
             "5e8th": true,
             "5e9th": true,
             "Cantrips": false,
+            "SpellExemptions": {
+                "elements": [
+                    {
+                        "enabled": true,
+                        "name": "ADD_SPELL_ID_NAMES_HERE"
+                    }
+                ],
+                "enabled": false
+            }
+        },
+        "tcoe_spells": {
             "TCoE1st": false,
             "TCoE2nd": false,
             "TCoE3rd": false,
