@@ -1,0 +1,25 @@
+{
+    "GeneralParameters": {
+        "general_settings": {
+            "debug_level": 0,
+            "mod_enabled": true
+        }
+    },
+    "pickpocketing_parameters": {
+        "AdvancedSettings": {
+            "pickpocket_experience_levels_per_point": 4.0,
+            "pickpocket_gold_value_per_point": 50,
+            "pickpocket_price_squared_threshold": 100.0,
+            "pickpocket_weight_per_point": 2000,
+            "pickpocket_weight_squared_threshold": 250000.0
+        },
+        "pickpocket_settings": {
+            "pickpocket_interaction_range": 1.0,
+            "pickpocketing_max_price": 1000,
+            "pickpocketing_minimum_dc": 5,
+            "pickpocketing_price_dc": 20,
+            "pickpocketing_price_modifier_constant": 0.5,
+            "pickpocketing_weight_modifier_constant": 0.20000000298023
+        }
+    }
+}
