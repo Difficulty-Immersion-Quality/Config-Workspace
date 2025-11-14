@@ -3,7 +3,8 @@
         "advanced_uninstall_options": {
             "debug_level": 2,
             "delete_items": true,
-            "remove_stats": true
+            "remove_stats": true,
+            "show_search_bar": true
         }
     }
 }
