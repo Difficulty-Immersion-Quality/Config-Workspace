@@ -13,6 +13,11 @@
                 "ModCtrl": false,
                 "ModShift": true
             }
+        },
+        "ManuallyRegisteredDocs": [],
+        "Visual": {
+            "BackgroundImageScaleX": 1.1051,
+            "BackgroundImageScaleY": 1.076
         }
     },
     "WindowStates": []
