@@ -1,0 +1,18 @@
+{
+    "CCEE-main": {
+        "general_settings": {
+            "ccee_enter_mirror": {
+                "Keyboard": {
+                    "Key": "",
+                    "ModifierKeys": []
+                }
+            },
+            "ccee_toggle_window": {
+                "Keyboard": {
+                    "Key": "",
+                    "ModifierKeys": []
+                }
+            }
+        }
+    }
+}

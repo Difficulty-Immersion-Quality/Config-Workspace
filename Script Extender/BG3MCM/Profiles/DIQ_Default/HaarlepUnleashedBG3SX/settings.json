@@ -3,8 +3,19 @@
         "encounter_settings": {
             "animation_preference": "All Animations",
             "character_selection_mode": "Haarlep Deal Character",
-            "enable_unequipping": true,
             "encounter_frequency": "30 minutes"
+        },
+        "stripping_settings": {
+            "strip_armor": true,
+            "strip_boots": true,
+            "strip_cloak": true,
+            "strip_gloves": true,
+            "strip_helmet": true,
+            "strip_instrument": true,
+            "strip_underwear": true,
+            "strip_vanity_body": true,
+            "strip_vanity_boots": true,
+            "strip_weapons": true
         }
     }
 }

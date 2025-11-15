@@ -1,5 +1,6 @@
 {
   "CreateConsole": true,
+  "EnableAchievements": true,
   "LogFailedCompile": true,
   "LogDirectory": "Big Fat Logs",
   "DisableStoryMerge": true,
