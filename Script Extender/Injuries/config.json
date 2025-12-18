@@ -332,6 +332,42 @@
                         "onApplication": true,
                         "stacks_to_remove": 1
                     },
+                    "GOON_EXHAUSTION_HOMEBREW_UNRESTABLE_2": {
+                        "ability": "No Save",
+                        "onApplication": false,
+                        "onRemoval": true,
+                        "stacks_to_remove": 1
+                    },
+                    "GOON_EXHAUSTION_HOMEBREW_UNRESTABLE_3": {
+                        "ability": "No Save",
+                        "onApplication": false,
+                        "onRemoval": true,
+                        "stacks_to_remove": 1
+                    },
+                    "GOON_EXHAUSTION_HOMEBREW_UNRESTABLE_4": {
+                        "ability": "No Save",
+                        "onApplication": false,
+                        "onRemoval": true,
+                        "stacks_to_remove": 1
+                    },
+                    "GOON_EXHAUSTION_HOMEBREW_UNRESTABLE_5": {
+                        "ability": "No Save",
+                        "onApplication": false,
+                        "onRemoval": true,
+                        "stacks_to_remove": 1
+                    },
+                    "GOON_EXHAUSTION_HOMEBREW_UNRESTABLE_6": {
+                        "ability": "No Save",
+                        "onApplication": false,
+                        "onRemoval": true,
+                        "stacks_to_remove": 1
+                    },
+                    "GOON_EXHAUSTION_HOMEBREW_UNRESTABLE_7": {
+                        "ability": "No Save",
+                        "onApplication": false,
+                        "onRemoval": true,
+                        "stacks_to_remove": 1
+                    },
                     "GOON_SONG_OF_REST_INJURY_REMOVAL": {
                         "ability": "No Save",
                         "onApplication": true,
@@ -389,6 +425,42 @@
                     "ALCH_POTION_REST_SLEEP_LESSER_RESTORATION": {
                         "ability": "No Save",
                         "onApplication": true,
+                        "stacks_to_remove": 1
+                    },
+                    "GOON_EXHAUSTION_HOMEBREW_UNRESTABLE_2": {
+                        "ability": "No Save",
+                        "onApplication": false,
+                        "onRemoval": true,
+                        "stacks_to_remove": 1
+                    },
+                    "GOON_EXHAUSTION_HOMEBREW_UNRESTABLE_3": {
+                        "ability": "No Save",
+                        "onApplication": false,
+                        "onRemoval": true,
+                        "stacks_to_remove": 1
+                    },
+                    "GOON_EXHAUSTION_HOMEBREW_UNRESTABLE_4": {
+                        "ability": "No Save",
+                        "onApplication": false,
+                        "onRemoval": true,
+                        "stacks_to_remove": 1
+                    },
+                    "GOON_EXHAUSTION_HOMEBREW_UNRESTABLE_5": {
+                        "ability": "No Save",
+                        "onApplication": false,
+                        "onRemoval": true,
+                        "stacks_to_remove": 1
+                    },
+                    "GOON_EXHAUSTION_HOMEBREW_UNRESTABLE_6": {
+                        "ability": "No Save",
+                        "onApplication": false,
+                        "onRemoval": true,
+                        "stacks_to_remove": 1
+                    },
+                    "GOON_EXHAUSTION_HOMEBREW_UNRESTABLE_7": {
+                        "ability": "No Save",
+                        "onApplication": false,
+                        "onRemoval": true,
                         "stacks_to_remove": 1
                     },
                     "GOON_SONG_OF_REST_INJURY_REMOVAL": {
@@ -450,6 +522,42 @@
                         "onApplication": true,
                         "stacks_to_remove": 1
                     },
+                    "GOON_EXHAUSTION_HOMEBREW_UNRESTABLE_2": {
+                        "ability": "No Save",
+                        "onApplication": false,
+                        "onRemoval": true,
+                        "stacks_to_remove": 1
+                    },
+                    "GOON_EXHAUSTION_HOMEBREW_UNRESTABLE_3": {
+                        "ability": "No Save",
+                        "onApplication": false,
+                        "onRemoval": true,
+                        "stacks_to_remove": 1
+                    },
+                    "GOON_EXHAUSTION_HOMEBREW_UNRESTABLE_4": {
+                        "ability": "No Save",
+                        "onApplication": false,
+                        "onRemoval": true,
+                        "stacks_to_remove": 1
+                    },
+                    "GOON_EXHAUSTION_HOMEBREW_UNRESTABLE_5": {
+                        "ability": "No Save",
+                        "onApplication": false,
+                        "onRemoval": true,
+                        "stacks_to_remove": 1
+                    },
+                    "GOON_EXHAUSTION_HOMEBREW_UNRESTABLE_6": {
+                        "ability": "No Save",
+                        "onApplication": false,
+                        "onRemoval": true,
+                        "stacks_to_remove": 1
+                    },
+                    "GOON_EXHAUSTION_HOMEBREW_UNRESTABLE_7": {
+                        "ability": "No Save",
+                        "onApplication": false,
+                        "onRemoval": true,
+                        "stacks_to_remove": 1
+                    },
                     "GOON_SONG_OF_REST_INJURY_REMOVAL": {
                         "ability": "No Save",
                         "onApplication": true,
@@ -507,6 +615,42 @@
                     "ALCH_POTION_REST_SLEEP_LESSER_RESTORATION": {
                         "ability": "No Save",
                         "onApplication": true,
+                        "stacks_to_remove": 1
+                    },
+                    "GOON_EXHAUSTION_HOMEBREW_UNRESTABLE_2": {
+                        "ability": "No Save",
+                        "onApplication": false,
+                        "onRemoval": true,
+                        "stacks_to_remove": 1
+                    },
+                    "GOON_EXHAUSTION_HOMEBREW_UNRESTABLE_3": {
+                        "ability": "No Save",
+                        "onApplication": false,
+                        "onRemoval": true,
+                        "stacks_to_remove": 1
+                    },
+                    "GOON_EXHAUSTION_HOMEBREW_UNRESTABLE_4": {
+                        "ability": "No Save",
+                        "onApplication": false,
+                        "onRemoval": true,
+                        "stacks_to_remove": 1
+                    },
+                    "GOON_EXHAUSTION_HOMEBREW_UNRESTABLE_5": {
+                        "ability": "No Save",
+                        "onApplication": false,
+                        "onRemoval": true,
+                        "stacks_to_remove": 1
+                    },
+                    "GOON_EXHAUSTION_HOMEBREW_UNRESTABLE_6": {
+                        "ability": "No Save",
+                        "onApplication": false,
+                        "onRemoval": true,
+                        "stacks_to_remove": 1
+                    },
+                    "GOON_EXHAUSTION_HOMEBREW_UNRESTABLE_7": {
+                        "ability": "No Save",
+                        "onApplication": false,
+                        "onRemoval": true,
                         "stacks_to_remove": 1
                     },
                     "GOON_SONG_OF_REST_INJURY_REMOVAL": {
@@ -568,6 +712,42 @@
                         "onApplication": true,
                         "stacks_to_remove": 1
                     },
+                    "GOON_EXHAUSTION_HOMEBREW_UNRESTABLE_2": {
+                        "ability": "No Save",
+                        "onApplication": false,
+                        "onRemoval": true,
+                        "stacks_to_remove": 1
+                    },
+                    "GOON_EXHAUSTION_HOMEBREW_UNRESTABLE_3": {
+                        "ability": "No Save",
+                        "onApplication": false,
+                        "onRemoval": true,
+                        "stacks_to_remove": 1
+                    },
+                    "GOON_EXHAUSTION_HOMEBREW_UNRESTABLE_4": {
+                        "ability": "No Save",
+                        "onApplication": false,
+                        "onRemoval": true,
+                        "stacks_to_remove": 1
+                    },
+                    "GOON_EXHAUSTION_HOMEBREW_UNRESTABLE_5": {
+                        "ability": "No Save",
+                        "onApplication": false,
+                        "onRemoval": true,
+                        "stacks_to_remove": 1
+                    },
+                    "GOON_EXHAUSTION_HOMEBREW_UNRESTABLE_6": {
+                        "ability": "No Save",
+                        "onApplication": false,
+                        "onRemoval": true,
+                        "stacks_to_remove": 1
+                    },
+                    "GOON_EXHAUSTION_HOMEBREW_UNRESTABLE_7": {
+                        "ability": "No Save",
+                        "onApplication": false,
+                        "onRemoval": true,
+                        "stacks_to_remove": 1
+                    },
                     "GOON_SONG_OF_REST_INJURY_REMOVAL": {
                         "ability": "No Save",
                         "onApplication": true,
@@ -627,6 +807,42 @@
                         "onApplication": true,
                         "stacks_to_remove": 1
                     },
+                    "GOON_EXHAUSTION_HOMEBREW_UNRESTABLE_2": {
+                        "ability": "No Save",
+                        "onApplication": false,
+                        "onRemoval": true,
+                        "stacks_to_remove": 1
+                    },
+                    "GOON_EXHAUSTION_HOMEBREW_UNRESTABLE_3": {
+                        "ability": "No Save",
+                        "onApplication": false,
+                        "onRemoval": true,
+                        "stacks_to_remove": 1
+                    },
+                    "GOON_EXHAUSTION_HOMEBREW_UNRESTABLE_4": {
+                        "ability": "No Save",
+                        "onApplication": false,
+                        "onRemoval": true,
+                        "stacks_to_remove": 1
+                    },
+                    "GOON_EXHAUSTION_HOMEBREW_UNRESTABLE_5": {
+                        "ability": "No Save",
+                        "onApplication": false,
+                        "onRemoval": true,
+                        "stacks_to_remove": 1
+                    },
+                    "GOON_EXHAUSTION_HOMEBREW_UNRESTABLE_6": {
+                        "ability": "No Save",
+                        "onApplication": false,
+                        "onRemoval": true,
+                        "stacks_to_remove": 1
+                    },
+                    "GOON_EXHAUSTION_HOMEBREW_UNRESTABLE_7": {
+                        "ability": "No Save",
+                        "onApplication": false,
+                        "onRemoval": true,
+                        "stacks_to_remove": 1
+                    },
                     "GOON_SONG_OF_REST_INJURY_REMOVAL": {
                         "ability": "No Save",
                         "onApplication": true,
@@ -684,6 +900,42 @@
                     "ALCH_POTION_REST_SLEEP_LESSER_RESTORATION": {
                         "ability": "No Save",
                         "onApplication": true,
+                        "stacks_to_remove": 1
+                    },
+                    "GOON_EXHAUSTION_HOMEBREW_UNRESTABLE_2": {
+                        "ability": "No Save",
+                        "onApplication": false,
+                        "onRemoval": true,
+                        "stacks_to_remove": 1
+                    },
+                    "GOON_EXHAUSTION_HOMEBREW_UNRESTABLE_3": {
+                        "ability": "No Save",
+                        "onApplication": false,
+                        "onRemoval": true,
+                        "stacks_to_remove": 1
+                    },
+                    "GOON_EXHAUSTION_HOMEBREW_UNRESTABLE_4": {
+                        "ability": "No Save",
+                        "onApplication": false,
+                        "onRemoval": true,
+                        "stacks_to_remove": 1
+                    },
+                    "GOON_EXHAUSTION_HOMEBREW_UNRESTABLE_5": {
+                        "ability": "No Save",
+                        "onApplication": false,
+                        "onRemoval": true,
+                        "stacks_to_remove": 1
+                    },
+                    "GOON_EXHAUSTION_HOMEBREW_UNRESTABLE_6": {
+                        "ability": "No Save",
+                        "onApplication": false,
+                        "onRemoval": true,
+                        "stacks_to_remove": 1
+                    },
+                    "GOON_EXHAUSTION_HOMEBREW_UNRESTABLE_7": {
+                        "ability": "No Save",
+                        "onApplication": false,
+                        "onRemoval": true,
                         "stacks_to_remove": 1
                     },
                     "GOON_SONG_OF_REST_INJURY_REMOVAL": {
