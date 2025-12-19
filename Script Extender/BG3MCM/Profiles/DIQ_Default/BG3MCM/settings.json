@@ -3,12 +3,22 @@
         "debug_settings": {
             "debug_level": 0,
             "print_deprecation_warnings": false,
-            "reset_lua": {
+            "reset_lua_both": {
                 "Keyboard": {
                     "Key": "",
-                    "ModifierKeys": [
-                        ""
-                    ]
+                    "ModifierKeys": []
+                }
+            },
+            "reset_lua_client": {
+                "Keyboard": {
+                    "Key": "",
+                    "ModifierKeys": []
+                }
+            },
+            "reset_lua_server": {
+                "Keyboard": {
+                    "Key": "",
+                    "ModifierKeys": []
                 }
             }
         },
@@ -22,7 +32,7 @@
     },
     "load_order_checks": {
         "health_check_toggles": {
-            "enable_invalid_uuids_check": true,
+            "enable_invalid_meta_check": true,
             "enable_loadorder_dependencies_check": true,
             "enable_mcmprecedence_check": true,
             "enable_modconflicts_check": true,
@@ -36,12 +46,15 @@
             "enable_hover": true,
             "toggle_mcm_sidebar_keybinding": {
                 "Keyboard": {
-                    "Key": "CAPSLOCK"
+                    "Key": ""
                 }
             }
         }
     },
     "window": {
+        "advanced_settings": {
+            "hide_main_menu_mcm_button": false
+        },
         "interface_preferences": {
             "font_size": "Small",
             "open_on_start": false,
