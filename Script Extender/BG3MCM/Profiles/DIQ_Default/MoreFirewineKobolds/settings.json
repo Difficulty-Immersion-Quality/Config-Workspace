@@ -4,7 +4,7 @@
             "debug_level": 0
         },
         "general_settings": {
-            "global_spawn_rate": 100,
+            "global_spawn_rate": 25,
             "mod_enabled": true,
             "use_advanced_settings": true
         },
