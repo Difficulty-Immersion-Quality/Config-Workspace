@@ -648,7 +648,7 @@
 	},
 			"3": {
 			  "ExtraPassives": ["HeavyArmorMaster","MAG_StarAura_Ring_Passive","MAG_ShatteredSun_Attack","OO_RadiantSurge_Passive"],
-			  "Spells": ["AJ_HPSecondWind","Target_FlameStrike"]			  
+			  "Spells": ["AJ_HPSecondWind","Target_FlameStrike"]
   }
   }
   },
@@ -800,7 +800,7 @@
           "Spells": []
   },
         "3": {
-          "ExtraPassives": ["Goon_SavageFister","MAG_MonkCloak_NoCrit_Passive","BeguilingDefenses","SteelWill","Goon_Immunity_Frightened","MAG_WisdomMomentum_Boots_Passive"],
+          "ExtraPassives": ["Goon_SavageFister","MAG_MonkCloak_NoCrit_Passive","BeguilingDefenses","SteelWill","MAG_WisdomMomentum_Boots_Passive"],
           "Spells": []
   }
   }
@@ -851,7 +851,7 @@
           "Spells": []
     },
         "3": {
-          "ExtraPassives": ["ShieldMaster_PassiveBonuses","Mod_MAG_Critical_Force_Critical_Passive","Mod_CriticalVsObjects_Passive","HeavyArmorMaster","Goon_Immunity_Frightened","ShieldMaster_Block","BeguilingDefenses"],
+          "ExtraPassives": ["ShieldMaster_PassiveBonuses","Mod_MAG_Critical_Force_Critical_Passive","Mod_CriticalVsObjects_Passive","HeavyArmorMaster","ShieldMaster_Block","BeguilingDefenses"],
           "Spells": ["AJ_Shout_ActionSurge_Emergency","Target_Smite_Blinding"]
   }
   }
