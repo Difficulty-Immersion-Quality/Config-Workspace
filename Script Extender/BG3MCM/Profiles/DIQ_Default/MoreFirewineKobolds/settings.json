@@ -9,11 +9,11 @@
             "use_advanced_settings": true
         },
         "region_spawn_rates": {
-            "BGO_spawn_rate": 100,
-            "CRE_spawn_rate": 100,
-            "SCL_spawn_rate": 100,
-            "WLD_Hag_spawn_rate": 100,
-            "WLD_spawn_rate": 100
+            "BGO_spawn_rate": 30,
+            "CRE_spawn_rate": 75,
+            "SCL_spawn_rate": 10,
+            "WLD_Hag_spawn_rate": 25,
+            "WLD_spawn_rate": 25
         }
     }
 }
