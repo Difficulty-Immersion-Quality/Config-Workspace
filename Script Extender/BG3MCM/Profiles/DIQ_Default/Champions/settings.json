@@ -10,7 +10,7 @@
             "EnableHeretic": true,
             "EnableIllusionist": true,
             "EnableNecromancer": true,
-            "EnableOathbreaker": false,
+            "EnableOathbreaker": true,
             "EnablePaladin": true,
             "EnablePriest": true,
             "EnablePyromancer": true,
@@ -27,7 +27,7 @@
             "ChampionsHealth": 50,
             "EnableChampions": true,
             "OnlyChampionClones": false,
-            "Timer": 3
+            "Timer": 5
         }
     },
     "debug": {
