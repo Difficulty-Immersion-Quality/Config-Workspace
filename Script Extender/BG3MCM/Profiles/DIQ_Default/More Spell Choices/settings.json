@@ -92,7 +92,7 @@
             "spellChoiceMultiplier": 1.0
         },
         "WarningSection": {
-            "warningMessage": "NOTE: Every setting in here only applies on game start. After changing anything, must RESTART game to take effect."
+            "warningMessage": "NOTE: Every setting in here only applies on booting up the game. After changing anything, must RESTART game to take effect. \nThis does not mean you need to start a new save, you can change settings mid-playthrough as long as you reboot the game."
         }
     },
     "SpellSlotSettingsTab": {
