@@ -42,7 +42,7 @@
     "sidebar": {
         "sidebar_settings": {
             "collapsed_by_default": false,
-            "enable_auto_collapse": false,
+            "enable_auto_collapse": true,
             "enable_hover": true,
             "toggle_mcm_sidebar_keybinding": {
                 "Keyboard": {
@@ -58,7 +58,7 @@
         "interface_preferences": {
             "font_size": "Small",
             "open_on_start": false,
-            "restore_last_page": false,
+            "restore_last_page": true,
             "restore_last_subtab": true,
             "typeface": ""
         },
@@ -67,7 +67,7 @@
         },
         "window_behavior": {
             "close_mcm_keybinding": {
-                "Enabled": false,
+                "Enabled": true,
                 "Keyboard": {
                     "Key": "ESCAPE",
                     "ModifierKeys": []
@@ -76,9 +76,12 @@
             "reposition_window_if_out_of_bounds": true,
             "toggle_detached_with_main": true,
             "toggle_mcm_keybinding": {
+                "AllowConflict": false,
                 "Keyboard": {
-                    "Key": "INSERT",
-                    "ModifierKeys": []
+                    "Key": "M",
+                    "ModifierKeys": [
+                        "LSHIFT"
+                    ]
                 }
             }
         }
