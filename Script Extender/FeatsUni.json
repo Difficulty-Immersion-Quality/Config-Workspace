@@ -1,4 +1,25 @@
 {
-	"alwaysGrantFeatAtLevels" : [],
-	"customLevels" : []
+    "advancedCustomClasses": [
+        {
+            "alwaysGrantFeatLevels_Str": "420",
+            "featFrequency": 1,
+            "name": "xXxSkibidiXxXRizzardxXx69"
+        }
+    ],
+    "alwaysGrantFeatAtLevels": {
+        "4": true,
+        "8": true,
+        "12": true,
+        "16": true,
+        "19": true
+    },
+    "customClassFeat": "None",
+    "customClassFeatLevels": 1,
+    "customGrantFeatAtLevels": [],
+    "enableAdvancedSettings": false,
+    "enableMod": true,
+    "featFrequency": 0,
+    "fighterfeat": 6,
+    "multiclassFeatAtLevel1": false,
+    "roguefeat": 10
 }
