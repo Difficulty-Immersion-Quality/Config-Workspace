@@ -19,7 +19,7 @@
             "process_now": false
         },
         "general_settings": {
-            "mod_enabled": true
+            "mod_enabled": false
         }
     }
 }

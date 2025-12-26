@@ -2,8 +2,8 @@
     "DART_Settings": {
         "DART_AutoAttribute": true,
         "DART_CustomDialog": true,
-        "DART_DeityClass_Tags": "Cleric",
-        "DART_PreferSubclasses": false,
+        "DART_DeityClass_Tags": "Both",
+        "DART_PreferSubclasses": true,
         "DART_Prioritise_Tags": true,
         "DART_ShowOriginalSource": false,
         "DART_Verbose": 0

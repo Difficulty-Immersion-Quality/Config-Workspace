@@ -1,0 +1,35 @@
+{
+    "KE_Development_Settings": {
+        "KE_Section_Filters": {
+            "KE_Noesis_Hide_Booleans": false,
+            "KE_Noesis_Hide_Empty_Nodes": true,
+            "KE_Noesis_Hide_Numbers": false,
+            "KE_Noesis_Include_Commands": false,
+            "KE_key_refresh": {
+                "Controller": {
+                    "Buttons": []
+                },
+                "Keyboard": {
+                    "Key": "R",
+                    "ModifierKeys": [
+                        "LShift"
+                    ]
+                }
+            },
+            "KE_key_toggle": {
+                "Controller": {
+                    "Buttons": []
+                },
+                "Keyboard": {
+                    "Key": "K",
+                    "ModifierKeys": [
+                        "LShift"
+                    ]
+                }
+            }
+        },
+        "KE_Section_General": {
+            "KE_Show_Noesis_Browser": false
+        }
+    }
+}
