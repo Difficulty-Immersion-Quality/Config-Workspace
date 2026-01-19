@@ -67,7 +67,8 @@
         },
         "window_behavior": {
             "close_mcm_keybinding": {
-                "Enabled": true,
+                "AllowConflict": false,
+                "Enabled": false,
                 "Keyboard": {
                     "Key": "ESCAPE",
                     "ModifierKeys": []
