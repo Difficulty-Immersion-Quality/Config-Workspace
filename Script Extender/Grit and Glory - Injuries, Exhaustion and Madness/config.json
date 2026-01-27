@@ -265,6 +265,12 @@
                             "multiplier": 1,
                             "onApplication": true
                         },
+                        "MARA_EXHAUSTION_TECHNICAL": {
+                            "guarantee_application": true,
+                            "multiplier": 1,
+                            "onApplication": true,
+                            "onRemoval": false
+                        },
                         "SG_Sleeping": {
                             "excluded_statuses": [
                                 "LONG_REST",
