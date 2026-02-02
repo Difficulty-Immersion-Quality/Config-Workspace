@@ -274,7 +274,7 @@
 	  },
 			"3": {
 			  "ExtraPassives": ["SOF_Mushroom_Hat_Passive","FOR_SpiderQueen_Robe_Passive","PoisonAdeptPassiveFeat","InuredtoUndeath","MAG_Heightened_Necromancy_Passive"],
-			  "Spells": ["Target_CircleOfDeath","Target_ExplodeCorpse_Dawnstar","Target_FingerOfDeath","Target_MaddeningDarkness","AJ_Danse_Emergency","Shout_DevouringDarkness"]
+			  "Spells": ["Target_CircleOfDeath","Target_FingerOfDeath","Target_MaddeningDarkness","AJ_Danse_Emergency","Shout_DevouringDarkness"]
   }
   }
   },
@@ -474,11 +474,11 @@
 	},
 			"2": {
 			  "ExtraPassives": ["UND_SocietyOfBrilliance_MagicMissileNecklace_Passive"],
-			  "Spells": ["Zone_Fear","Target_Confusion","Target_StinkingCloud","Projectile_MagicMissile","Target_HungerOfHadar"]			  
+			  "Spells": ["Zone_Fear","Target_StinkingCloud","Projectile_MagicMissile"]			  
 	},
 			"3": {
 			  "ExtraPassives": ["SS_AmplifiedResonance"],
-			  "Spells": ["Projectile_TKBolt_Dawnstar","Target_TKImplosion_Dawnstar","Zone_TKForce_Dawnstar","Target_TKEruption_Dawnstar","Projectile_TKSeekingBolt_Dawnstar","Zone_TKScatterShot_Dawnstar","Target_TKForceField_Dawnstar","Target_TKFocusBeam_Dawnstar"]			  
+			  "Spells": ["Target_Confusion","Target_HungerOfHadar"]			  
   }
   }
   },
@@ -529,7 +529,7 @@
   },
         "3": {
           "ExtraPassives": ["ShieldMaster_PassiveBonuses","Goon_Summon_Potion_Healing_Superior_x1","ARA_Cloak_OwlWisdom","SYR_Feat_WarMagic_AltSpell_Passive","MAG_AlignmentsWrath_Passive"],
-          "Spells": ["Zone_SpiritBlade_Dawnstar","Target_CureWounds_Mass","Target_Heal","Target_Harm"]
+          "Spells": ["Target_CureWounds_Mass","Target_Heal","Target_Harm"]
   }
   }
   },
@@ -541,12 +541,12 @@
 			  "Spells": ["Target_Web","Target_MistyStep"]			  
 	},
 			"2": {
-			  "ExtraPassives": ["JackOfAllTrades","OO_EverVigilant_Passive","Goon_Shout_Shillelagh_Passive"],
+			  "ExtraPassives": ["JackOfAllTrades","OO_EverVigilant_Passive"],
 			  "Spells": ["Target_Counterspell"]			  
 	},
 			"3": {
 			  "ExtraPassives": ["ReliableTalent","Goon_Target_ShieldOfFaith_Passive"],
-			  "Spells": ["Target_HellfireStorm_Dawnstar","Projectile_DivineLance"]			  
+			  "Spells": ["Projectile_DivineLance"]			  
   }
   }
   },
@@ -563,7 +563,7 @@
 	},
 			"3": {
 			  "ExtraPassives": ["Goon_Shout_HeroesFeast_Passive"],
-			  "Spells": ["Target_PlanarAlly_Container","Shout_HolyAura"]			  
+			  "Spells": ["Shout_HolyAura"]			  
   }
   }
   },
@@ -593,11 +593,11 @@
 	  },
 			"2": {
 			  "ExtraPassives": ["WW_ElementalBane_Passive"],
-			  "Spells": ["Projectile_WaterBomb_Dawnstar","Target_CrushingBubble_Dawnstar","Zone_WaterTorrent_Dawnstar","Zone_TidalWave_Dawnstar","Projectile_SnowBall","Projectile_WaterBlast","Zone_CrashingWave","Zone_ArcticBreath","Target_Snare","Zone_RimesBindingIce","Target_SummonBeast","Target_ConjureWoodlandBeings"]			  
+			  "Spells": ["Projectile_SnowBall","Projectile_WaterBlast","Zone_CrashingWave","Zone_ArcticBreath","Target_Snare","Zone_RimesBindingIce","Target_SummonBeast","Target_ConjureWoodlandBeings"]			  
 	  },
 			"3": {
 			  "ExtraPassives": ["Goon_Shout_HeroesFeast_Passive"],
-			  "Spells": ["Target_DragonsBreath","Target_SummonFey","Target_SummonElemental","Projectile_IceSpike","Target_LightningStorm","Shout_PlantForm","Shout_DinoForm","Shout_RazorRain_Dawnstar","Projectile_TKBolt_Dawnstar"]			  
+			  "Spells": ["Target_DragonsBreath","Target_SummonFey","Target_SummonElemental","Projectile_IceSpike","Target_LightningStorm","Shout_PlantForm","Shout_DinoForm"]			  
   }
   }
   },
@@ -614,7 +614,7 @@
 	  },
 			"3": {
 			  "ExtraPassives": ["UncannyDodge","SYR_Feat_DeadlyAlacrity_Passive","Goon_Increased_Movement_2","MO_Projectile_Jump_Dex","DirtyKickUnlock","CrossbowExpert_Wounding","JWL_Passive_GuardianEmblem"],
-			  "Spells": ["Shout_MAG_Critical_ArcanicCritical","Projectile_ChillingDarkness"]			  
+			  "Spells": ["Projectile_ChillingDarkness"]			  
   }
   }
   },
@@ -631,7 +631,7 @@
 	},
 			"3": {
 			  "ExtraPassives": ["Goon_Damage_Thunder_d4_Attacks","VV_LightningReflexes_Passive"],
-			  "Spells": ["Target_WitchStorm_Dawnstar","Target_FlameStrike"]
+			  "Spells": ["Target_FlameStrike"]
   }
   }
   },
@@ -657,15 +657,15 @@
 		"Act": {
 			"1": {
 			  "ExtraPassives": ["Mod_DEN_TunnelStaff_Passive","SYR_Feat_FeyTouched_Passive"],
-			  "Spells": ["Projectile_WaterBomb_Dawnstar","Zone_WaterTorrent_Dawnstar","Zone_TidalWave_Dawnstar","Projectile_SnowBall","Projectile_WaterBlast","Zone_CrashingWave","Zone_ArcticBreath","Target_HealingWord","Target_Snare","Zone_AganazzarsScorcher"]			  
+			  "Spells": ["Projectile_SnowBall","Projectile_WaterBlast","Zone_CrashingWave","Zone_ArcticBreath","Target_HealingWord","Target_Snare","Zone_AganazzarsScorcher"]			  
 	},
 			"2": {
 			  "ExtraPassives": ["GG_Three_Bleeding","GG_Three_Bleeding_Technical","GG_Three_Damage_Buff","Goon_Shout_Shillelagh_Passive","Goon_Summon_Potion_Healing_Greater_x1"],
-			  "Spells": ["Target_DragonsBreath","Target_SummonElemental","Projectile_IceSpike","Target_LightningStorm","Shout_RazorRain_Dawnstar","Target_ConjureWoodlandBeings"]
+			  "Spells": ["Target_DragonsBreath","Target_SummonElemental","Projectile_IceSpike","Target_LightningStorm","Target_ConjureWoodlandBeings"]
 	},
 			"3": {
 			  "ExtraPassives": ["Goon_Summon_Potion_Healing_Superior_x1","ARA_Cloak_OwlWisdom","SYR_Feat_WarMagic_AltSpell_Passive","GG_Three_IncreasedElementalDamage_Passive","GG_One_Wildshape_TempHP_Passive","WW_ElementalBane_Passive"],
-			  "Spells": ["Projectile_MoonlightRay","Projectile_TKSeekingBolt_Dawnstar"]			  
+			  "Spells": ["Projectile_MoonlightRay"]			  
   }
   }
   },
@@ -691,7 +691,7 @@
 		"Act": {
 			"1": {
 			  "ExtraPassives": ["GG_Three_PoisonResist_Passive","JWL_Passive_KerzinsOoze"],
-			  "Spells": ["Projectile_LarlochsMinorDrain","Zone_SpiritBlade_Dawnstar"]
+			  "Spells": ["Projectile_LarlochsMinorDrain"]
 	},
 			"2": {
 			  "ExtraPassives": ["FungalBody","SOF_Mushroom_Hat_Passive","FOR_SpiderQueen_Robe_Passive","PoisonAdeptPassiveFeat","ExtraAttack"],
@@ -708,7 +708,7 @@
 		"Act": {
 			"1": {
 			  "ExtraPassives": [],
-			  "Spells": ["Target_CrushingBubble_Dawnstar","Target_SummonBeast"]
+			  "Spells": ["Target_SummonBeast"]
 	},
 			"2": {
 			  "ExtraPassives": ["Goon_SavageCaster"],
@@ -784,7 +784,7 @@
 	},
 			"3": {
 			  "ExtraPassives": ["ARA_Cloak_ToSpellAttack_Passive","GG_Three_IncreasedElementalDamage_Passive","VV_LightningReflexes_Passive","Goon_Target_Elemental_Weapon_Acid_Passive"],
-			  "Spells": ["Zone_SpiritBlade_Dawnstar","Target_SummonShadowspawn","Target_FarStep","Projectile_RaulothimsPsychicLance","Target_SummonElemental","NPC_BurningHandsBA","NPC_CoC"]			
+			  "Spells": ["Target_SummonShadowspawn","Target_FarStep","Projectile_RaulothimsPsychicLance","Target_SummonElemental","NPC_BurningHandsBA","NPC_CoC"]			
   }
   }
   },
@@ -865,7 +865,7 @@
 	  },
 			"2": {
 			  "ExtraPassives": ["ARA_Cloak_ToAC_Passive","MageSlayer_Advantage","MageSlayer_BreakConcentration","OO_EmbraceRadiance_Passive","Goon_Target_ShieldOfFaith_Passive"],
-			  "Spells": ["Zone_SpiritBlade_Dawnstar"]			  
+			  "Spells": []			  
 	  },
 			"3": {
 			  "ExtraPassives": ["BlessedStrikes","OO_CelestialWard_Passive"],
@@ -904,7 +904,7 @@
 	  },
 			"3": {
 			  "ExtraPassives": ["Divine_Strike_Trickery","PP_Hellish_Resistance","GraveMagic","MAG_Myrkulites_CircletOfMyrkul_Circlet_Passive","Goon_Target_Elemental_Weapon_Cold_Passive"],
-			  "Spells": ["Target_HellfireStorm_Dawnstar","Target_CharmMonster","Shout_ShadowOfMoil","Target_FarStep","Target_FingerOfDeath","Target_MaddeningDarkness","Shout_DevouringDarkness"]	  
+			  "Spells": ["Shout_ShadowOfMoil","Target_FarStep","Target_FingerOfDeath","Shout_DevouringDarkness"]	  
   }
   }
   },
@@ -1007,7 +1007,7 @@
 	  },
 			"3": {
 			  "ExtraPassives": ["MAG_MonkCloak_NoCrit_Passive","OO_EverVigilant_Passive"],
-			  "Spells": ["Target_CrownOfMadness","Projectile_TKBolt_Dawnstar","Projectile_TKSeekingBolt_Dawnstar","Zone_TKScatterShot_Dawnstar","Target_TKFocusBeam_Dawnstar"]			  
+			  "Spells": ["Target_CrownOfMadness"]			  
   }
   }
   },
@@ -1054,7 +1054,7 @@
 	  },
 			"2": {
 			  "ExtraPassives": ["SYR_Feat_FeyTouched_Passive","AJ_Emergency_Teleport"],
-			  "Spells": ["Target_CharmMonster","Projectile_RaulothimsPsychicLance","Projectile_TKBolt_Dawnstar","Projectile_TKSeekingBolt_Dawnstar","Target_TKFocusBeam_Dawnstar"]
+			  "Spells": ["Target_CharmMonster","Projectile_RaulothimsPsychicLance"]
 			  
 	  },
 			"3": {
@@ -1161,7 +1161,7 @@
 	  },
 			"3": {
 			  "ExtraPassives": ["PP_VolcanicBlase_Passive","MAG_Zhentarim_Demonspirit_Gloves_Passive","SickeningBlast"],
-			  "Spells": ["Target_ORI_Wyll_SummonCambion","Shout_DevilForm","Target_HellfireStorm_Dawnstar"]			  
+			  "Spells": ["Target_ORI_Wyll_SummonCambion","Shout_DevilForm"]			  
   }
   }
   },
