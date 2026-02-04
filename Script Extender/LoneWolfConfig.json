@@ -1,0 +1,17 @@
+{
+    "abilityBonus": 4,
+    "actionPoints": 1,
+    "bonusActionPoints": 1,
+    "carryMultiplier": 2.0,
+    "drPercent": 50,
+    "drType": "Half",
+    "enableCoreBuffs": true,
+    "enableDamageReduction": false,
+    "enableHpMax": true,
+    "enableStatBoosts": true,
+    "enabled": true,
+    "hpPercent": 30,
+    "partyLimit": 2,
+    "reactionPoints": 1,
+    "requirePassive": true
+}
