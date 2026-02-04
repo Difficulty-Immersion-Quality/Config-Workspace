@@ -41,9 +41,11 @@
     },
     "sidebar": {
         "sidebar_settings": {
+            "animation_duration": 200,
             "collapsed_by_default": false,
             "enable_auto_collapse": true,
             "enable_hover": true,
+            "sidebar_width": 390,
             "toggle_mcm_sidebar_keybinding": {
                 "Keyboard": {
                     "Key": ""
