@@ -521,15 +521,15 @@
       "Act": {
         "1": {
           "ExtraPassives": ["ShieldMaster_Blow"],
-          "Spells": ["Shout_WordOfRadiance","Projectile_GuidingBolt","Target_InflictWounds","Target_HealingWord","Shout_HealingWord_Mass"]
+          "Spells": ["Target_HealingWord"]
   },
         "2": {
           "ExtraPassives": ["Goon_Summon_Potion_Healing_Greater_x1","MAG_Healer_HealSelf_Passive"],
-          "Spells": []
+          "Spells": ["Shout_HealingWord_Mass"]
   },
         "3": {
           "ExtraPassives": ["ShieldMaster_PassiveBonuses","Goon_Summon_Potion_Healing_Superior_x1","ARA_Cloak_OwlWisdom","SYR_Feat_WarMagic_AltSpell_Passive","MAG_AlignmentsWrath_Passive"],
-          "Spells": ["Target_CureWounds_Mass","Target_Heal","Target_Harm"]
+          "Spells": ["Target_Heal","Target_Harm"]
   }
   }
   },
@@ -555,7 +555,7 @@
 		"Act": {
 			"1": {
 			  "ExtraPassives": ["MAG_MaximizedHealCleric_Passive","MAG_ClericMovementHeal_Passive"],
-			  "Spells": ["Target_CureWounds"]			  
+			  "Spells": ["Projectile_GuidingBolt"]			  
 	},
 			"2": {
 			  "ExtraPassives": ["MAG_GroveTempHP_Passive","Goon_Target_Magic_Weapon_Passive"],
@@ -563,7 +563,7 @@
 	},
 			"3": {
 			  "ExtraPassives": ["Goon_Shout_HeroesFeast_Passive"],
-			  "Spells": ["Shout_HolyAura"]			  
+			  "Spells": ["Shout_HolyAura","Target_CureWounds_Mass"]			  
   }
   }
   },
@@ -572,7 +572,7 @@
 		"Act": {
 			"1": {
 			  "ExtraPassives": ["MAG_Radiant_RadiatingOrb_Armor_Passive","MAG_Twilight_Damage_Passive"],
-			  "Spells": ["Projectile_FireBolt","Target_Moonbeam"]			  
+			  "Spells": ["Target_Moonbeam"]			  
 	  },
 			"2": {
 			  "ExtraPassives": [],
@@ -580,7 +580,7 @@
 	  },
 			"3": {
 			  "ExtraPassives": ["MAG_ShatteredSun_Attack","Goon_Target_Elemental_Weapon_Fire_Passive"],
-			  "Spells": ["Target_FlameStrike","Projectile_SearingLight"]
+			  "Spells": ["Target_FlameStrike"]
   }
   }
   },
@@ -593,11 +593,11 @@
 	  },
 			"2": {
 			  "ExtraPassives": ["WW_ElementalBane_Passive"],
-			  "Spells": ["Projectile_SnowBall","Projectile_WaterBlast","Zone_CrashingWave","Zone_ArcticBreath","Target_Snare","Zone_RimesBindingIce","Target_SummonBeast","Target_ConjureWoodlandBeings"]			  
+			  "Spells": ["Projectile_SnowBall"]			  
 	  },
 			"3": {
 			  "ExtraPassives": ["Goon_Shout_HeroesFeast_Passive"],
-			  "Spells": ["Target_DragonsBreath","Target_SummonFey","Target_SummonElemental","Projectile_IceSpike","Target_LightningStorm","Shout_PlantForm","Shout_DinoForm"]			  
+			  "Spells": ["Projectile_IceSpike","Target_LightningStorm"]			  
   }
   }
   },
@@ -606,7 +606,7 @@
 		"Act": {
 			"1": {
 			  "ExtraPassives": ["Goon_Target_ShieldOfFaith_Passive","Goon_Sanctuary_Auto_Cast_End_Turn"],
-			  "Spells": []			  
+			  "Spells": ["Target_InflictWounds"]			  
 	  },
 			"2": {
 			  "ExtraPassives": ["MAG_SpellSaveDC_Enchantment_Passive","SYR_Feat_LightArmorMaster_Passive","Mobile_PassiveBonuses","Mod_UNI_DarkUrge_Bleeding_Dagger_Passive","SYR_Feat_DeadlyAlacrity_Passive"],
@@ -657,11 +657,11 @@
 		"Act": {
 			"1": {
 			  "ExtraPassives": ["Mod_DEN_TunnelStaff_Passive","SYR_Feat_FeyTouched_Passive"],
-			  "Spells": ["Projectile_SnowBall","Projectile_WaterBlast","Zone_CrashingWave","Zone_ArcticBreath","Target_HealingWord","Target_Snare","Zone_AganazzarsScorcher"]			  
+			  "Spells": ["Zone_ArcticBreath","Target_HealingWord","Target_Snare"]			  
 	},
 			"2": {
 			  "ExtraPassives": ["GG_Three_Bleeding","GG_Three_Bleeding_Technical","GG_Three_Damage_Buff","Goon_Shout_Shillelagh_Passive","Goon_Summon_Potion_Healing_Greater_x1"],
-			  "Spells": ["Target_DragonsBreath","Target_SummonElemental","Projectile_IceSpike","Target_LightningStorm","Target_ConjureWoodlandBeings"]
+			  "Spells": ["Target_DragonsBreath","Projectile_IceSpike","Target_LightningStorm","Target_ConjureWoodlandBeings"]
 	},
 			"3": {
 			  "ExtraPassives": ["Goon_Summon_Potion_Healing_Superior_x1","ARA_Cloak_OwlWisdom","SYR_Feat_WarMagic_AltSpell_Passive","GG_Three_IncreasedElementalDamage_Passive","GG_One_Wildshape_TempHP_Passive","WW_ElementalBane_Passive"],
@@ -674,7 +674,7 @@
 		"Act": {
 			"1": {
 			  "ExtraPassives": [],
-			  "Spells": ["Projectile_ElectricArc","Projectile_Moonflare","Zone_RimesBindingIce"]
+			  "Spells": ["Projectile_Moonflare","Zone_RimesBindingIce"]
 	},
 			"2": {
 			  "ExtraPassives": ["MAG_Twilight_Damage_Passive","GG_Two_WildshapeAC"],
