@@ -1,0 +1,18 @@
+{
+    "controllerDialogueConfirm": "A",
+    "controllerDialogueDown": "DPadDown",
+    "controllerDialogueSkip": "X",
+    "controllerDialogueUp": "DPadUp",
+    "controllerEnabled": true,
+    "controllerRollContinue": "NONE",
+    "controllerRollInspiration": "A",
+    "controllerRollTrigger": "X",
+    "dialogueConfirm": "E",
+    "dialogueDown": "S",
+    "dialogueSkip": "SPACE",
+    "dialogueUp": "W",
+    "enabled": true,
+    "rollContinue": "NONE",
+    "rollInspiration": "E",
+    "rollTrigger": "SPACE"
+}
