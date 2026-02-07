@@ -1,7 +1,7 @@
 {
     "OpenCloseSidekick": {
-        "Callback": "function: 000001D5ADFBDE70",
-        "Identifier": "770b8500-ef82-4db2-9202-a757998f1d5e",
+        "Callback": "",
+        "Identifier": "",
         "Modifiers": [
             "Ctrl"
         ],
@@ -10,8 +10,8 @@
     "SettingsAutoResize": true,
     "SidekickAutoResize": true,
     "ToggleImmortality": {
-        "Callback": "function: 00007FF3A682E650",
-        "Identifier": "f03ecd85-7fb4-4c3a-832f-c2093d6f7717",
+        "Callback": "",
+        "Identifier": "",
         "Modifiers": [
             "NONE"
         ],
