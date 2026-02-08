@@ -1,0 +1,10 @@
+{
+    "general": {
+        "general-mod-behavior": {
+            "cast_animation": false,
+            "cast_animation_combat": false,
+            "enabled": false,
+            "log_level": 0
+        }
+    }
+}

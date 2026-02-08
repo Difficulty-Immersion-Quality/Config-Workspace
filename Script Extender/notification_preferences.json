@@ -2,6 +2,9 @@
     "BG3MCM": {
         "Dependency_Version_Issue_2c404d2b-14d4-07d7-9e18-c026db27c878_Requires_55f3a851-e375-906c-fafc-cf59003a9018_1.0.0.10_Loaded_1.0.0.8": {
             "show": false
+        },
+        "Dependency_Version_Issue_4dd024b7-9dd0-a9fc-de22-6da914b7fcf8_Requires_f148638d-8ffc-635d-4307-d4db40d40734_1.0.0.52_Loaded_1.0.0.35": {
+            "show": false
         }
     }
 }

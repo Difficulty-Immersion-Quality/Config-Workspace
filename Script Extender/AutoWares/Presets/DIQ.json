@@ -1,6 +1,5 @@
 {
     "ARM_Gloves_Hide": true,
-    "ARR_Arrow_Normal": true,
     "BASE_CONS_Drink_Potion": true,
     "BASE_LOOT_Arrow": true,
     "BASE_LOOT_Belt": true,
@@ -16,7 +15,6 @@
     "BASE_LOOT_Valuable": true,
     "BGO_Cabbage_Spoiled": true,
     "BOOK_GEN_Paper_Gortash_Poster_A": true,
-    "CINE_ARR_Arrow_Normal": true,
     "CINE_CONS_GEN_Drink_Mug_Metal_A_Empty": true,
     "CINE_DEC_FARM_Bucket_A": true,
     "CINE_DEC_GEN_Corpse_Body_Part_DecapitedHead_C": true,

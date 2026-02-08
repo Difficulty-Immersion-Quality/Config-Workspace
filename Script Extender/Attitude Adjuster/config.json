@@ -1,0 +1,19 @@
+{
+    "companions": {
+        "0de603c5-42e2-4811-9dad-f652de080eba": {
+            "negFlat": 0,
+            "negMultiplier": 1.0,
+            "posFlat": 0,
+            "posMultiplier": 1.0
+        }
+    },
+    "debug": false,
+    "exact": [],
+    "global": {
+        "negFlat": 0,
+        "negMultiplier": 1.0,
+        "posFlat": 0,
+        "posMultiplier": 0.75
+    },
+    "version": 1
+}

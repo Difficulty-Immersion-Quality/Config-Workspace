@@ -13,8 +13,8 @@
         "16": true,
         "19": true
     },
-    "customClassFeat": "None",
-    "customClassFeatLevels": 1,
+    "customClassFeat": "Fighter",
+    "customClassFeatLevels": 14,
     "customGrantFeatAtLevels": [],
     "enableAdvancedSettings": false,
     "enableMod": true,
