@@ -3,7 +3,7 @@
     "controllerDialogueDown": "DPadDown",
     "controllerDialogueSkip": "X",
     "controllerDialogueUp": "DPadUp",
-    "controllerEnabled": true,
+    "controllerEnabled": false,
     "controllerRollContinue": "NONE",
     "controllerRollInspiration": "A",
     "controllerRollTrigger": "X",
