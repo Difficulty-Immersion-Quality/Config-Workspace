@@ -1336,6 +1336,7 @@
       "HealthOverride": 80
   },
     "S_END_MindBrain_f8bb04a3-22e5-41b0-aed7-5dcf852343d1": {
+      "HealthOverride": 569,
       "Passives": [],
       "Spells": []
   },
