@@ -1,0 +1,364 @@
+{
+    "ML_Development_Settings": {
+        "ML_Section_Algorithm": {
+            "ML_Elevation_Type": "Raycast"
+        },
+        "ML_Section_Debugging": {
+            "ML_Show_Inspect_Window": false,
+            "ML_Show_Noesis_Events": false
+        },
+        "RF_GUI_Settings_Debug": {
+            "ML_Enable_Spawn": false,
+            "ML_Spawn_UUID": "b0f372f0-f74f-4c00-84e6-34ba09117578"
+        },
+        "Section_Object_Limits": {
+            "ML_MaxObjects": 3000,
+            "key_carpet_down": {
+                "AllowConflict": false,
+                "Keyboard": {
+                    "Key": "DOWN",
+                    "ModifierKeys": [
+                        "LSHIFT"
+                    ]
+                }
+            },
+            "key_carpet_left": {
+                "Keyboard": {
+                    "Key": "LEFT",
+                    "ModifierKeys": []
+                }
+            },
+            "key_carpet_right": {
+                "Keyboard": {
+                    "Key": "RIGHT",
+                    "ModifierKeys": []
+                }
+            },
+            "key_carpet_up": {
+                "AllowConflict": false,
+                "Keyboard": {
+                    "Key": "UP",
+                    "ModifierKeys": [
+                        "LSHIFT"
+                    ]
+                }
+            },
+            "key_carpet_y_down": {
+                "AllowConflict": false,
+                "Keyboard": {
+                    "Key": "DOWN",
+                    "ModifierKeys": []
+                }
+            },
+            "key_carpet_y_up": {
+                "AllowConflict": false,
+                "Keyboard": {
+                    "Key": "UP",
+                    "ModifierKeys": []
+                }
+            }
+        }
+    },
+    "ML_Pathing_Settings": {
+        "Section_Pathing": {
+            "ML_Copy_Path_Parameters": "None",
+            "ML_PS_Dump_Checkpoints": false,
+            "ML_PS_Dump_CostPath": false,
+            "ML_PS_Dump_Nodes": false,
+            "ML_PS_Dump_Path_Settings": false,
+            "ML_PS_GetDistanceSearchHorizon": 500,
+            "ML_Path_Parameters": "Default"
+        },
+        "Section_Pathing_Actions": {
+            "ML_PS_CanUseCombatPortals": false,
+            "ML_PS_CanUseLadders": false,
+            "ML_PS_CanUsePortals": false,
+            "ML_PS_CheckLockedDoors": false,
+            "ML_PS_PickUpTarget": false,
+            "ML_PS_PreciseItemInteraction": false
+        },
+        "Section_Pathing_Bounds": {
+            "ML_PS_AddBoundsToMargin": true,
+            "ML_PS_AddSourceBoundsToMargin": false,
+            "ML_PS_MovingBound": 0.24899999797344208,
+            "ML_PS_MovingBound2": 0.24899999797344208,
+            "ML_PS_MovingBoundTiles": 0,
+            "ML_PS_MovingBoundTiles2": 0,
+            "ML_PS_StandingBound": 0.49900001287460327,
+            "ML_PS_StandingBoundTiles": 1
+        },
+        "Section_Pathing_Collision": {
+            "ML_PS_CloseEnoughCeiling": 0.0,
+            "ML_PS_CloseEnoughFloor": 0.0,
+            "ML_PS_CloseEnoughMax": 0.0,
+            "ML_PS_CloseEnoughMin": 0.0,
+            "ML_PS_CloseEnoughPreference": 0.0,
+            "ML_PS_Height": 1.2999999523162842
+        },
+        "Section_Pathing_General": {
+            "ML_PS_Adjust_Surface_Avoidance": false,
+            "ML_PS_IsBidirectionalSearch": true,
+            "ML_PS_IsPlayer": true,
+            "ML_PS_Player_Weights": true,
+            "ML_PS_SearchHorizon": 3200
+        },
+        "Section_Pathing_Mysterious": {
+            "ML_PS_Climbing": false,
+            "ML_PS_ClosestCollidingCount": 2147483647,
+            "ML_PS_ClosestCost": 3.402823466385289e38,
+            "ML_PS_ClosestFullTileIndex": -1,
+            "ML_PS_CoverFlags": 0,
+            "ML_PS_DestinationReached": false,
+            "ML_PS_InteractionRange": 0,
+            "ML_PS_LimitNodeIndex": 0,
+            "ML_PS_PathType": 3,
+            "ML_PS_field_136": 0,
+            "ML_PS_field_154": 0
+        },
+        "Section_Pathing_Qualities": {
+            "ML_PS_TurningNodeAngle": 30.0,
+            "ML_PS_TurningNodeOffset": 1.0,
+            "ML_PS_UseSmoothing": true,
+            "ML_PS_UseSplines": true,
+            "ML_PS_UseStandAtDestination": false,
+            "ML_PS_UseTurning": true
+        },
+        "Section_Pathing_Thresholds": {
+            "ML_PS_StepHeight": 0.6000000238418579,
+            "ML_PS_WorldClimbType": 1,
+            "ML_PS_WorldClimbingHeight": 2.0999999046325684,
+            "ML_PS_WorldClimbingRadius": -1.0,
+            "ML_PS_WorldDropType": 0
+        }
+    },
+    "ML_Pathing_Settings_Collision_Flags": {
+        "Section_Pathing_Collision_Mask": {
+            "ML_PS_X_Blocker": false,
+            "ML_PS_X_CanClimbOn": false,
+            "ML_PS_X_CloudSurfaceBlock": false,
+            "ML_PS_X_Door": false,
+            "ML_PS_X_DoorItemBlock": false,
+            "ML_PS_X_GroundSurfaceBlock": false,
+            "ML_PS_X_Indestructible": false,
+            "ML_PS_X_Portal": false,
+            "ML_PS_X_PortalTarget": false,
+            "ML_PS_X_ShootBlock": false,
+            "ML_PS_X_ShootBlockCharacter": false,
+            "ML_PS_X_ShootBlockItem": false,
+            "ML_PS_X_SubgridEdge": false,
+            "ML_PS_X_Trap": false,
+            "ML_PS_X_UnknownBlock1": false,
+            "ML_PS_X_UnknownBlock2": false,
+            "ML_PS_X_UnknownBlock3": false,
+            "ML_PS_X_UnknownBlock4": false,
+            "ML_PS_X_UnknownBlock5": false,
+            "ML_PS_X_WalkBlock": false,
+            "ML_PS_X_WalkBlock2": false,
+            "ML_PS_X_WalkBlockCharacter": false,
+            "ML_PS_X_WalkBlockItem": false
+        },
+        "Section_Pathing_Collision_Mask_Flags": {
+            "ML_PS_CollisionMask": "18014398513676420",
+            "ML_PS_CollisionMaskMove": "8014398509482116",
+            "ML_PS_CollisionMaskStand": "16"
+        },
+        "Section_Pathing_Collision_Mask_Other": {
+            "ML_PS_X_Bit_24": false,
+            "ML_PS_X_Bit_25": false,
+            "ML_PS_X_Bit_26": false,
+            "ML_PS_X_Bit_27": false,
+            "ML_PS_X_Bit_28": false,
+            "ML_PS_X_Bit_29": false,
+            "ML_PS_X_Bit_30": false,
+            "ML_PS_X_Bit_31": false,
+            "ML_PS_X_Bit_32": false,
+            "ML_PS_X_Bit_33": false,
+            "ML_PS_X_Bit_34": false,
+            "ML_PS_X_Bit_35": false,
+            "ML_PS_X_Bit_36": false,
+            "ML_PS_X_Bit_37": false,
+            "ML_PS_X_Bit_38": false,
+            "ML_PS_X_Bit_39": false,
+            "ML_PS_X_Bit_40": false,
+            "ML_PS_X_Bit_41": false,
+            "ML_PS_X_Bit_42": false,
+            "ML_PS_X_Bit_43": false,
+            "ML_PS_X_Bit_44": false,
+            "ML_PS_X_Bit_45": false,
+            "ML_PS_X_Bit_46": false,
+            "ML_PS_X_Bit_47": false,
+            "ML_PS_X_Bit_48": false,
+            "ML_PS_X_Bit_49": false,
+            "ML_PS_X_Bit_50": false,
+            "ML_PS_X_Bit_51": false,
+            "ML_PS_X_Bit_52": false,
+            "ML_PS_X_Bit_53": false,
+            "ML_PS_X_Bit_54": false,
+            "ML_PS_X_Bit_55": false,
+            "ML_PS_X_Bit_56": false,
+            "ML_PS_X_Bit_57": false,
+            "ML_PS_X_Bit_58": false,
+            "ML_PS_X_Bit_59": false,
+            "ML_PS_X_Bit_60": false,
+            "ML_PS_X_Bit_61": false,
+            "ML_PS_X_Bit_62": false,
+            "ML_PS_X_Bit_63": false,
+            "ML_PS_X_Bit_64": false
+        },
+        "Section_Pathing_Collision_Move": {
+            "ML_PS_XM_Blocker": false,
+            "ML_PS_XM_CanClimbOn": false,
+            "ML_PS_XM_CloudSurfaceBlock": false,
+            "ML_PS_XM_Door": false,
+            "ML_PS_XM_DoorItemBlock": false,
+            "ML_PS_XM_GroundSurfaceBlock": false,
+            "ML_PS_XM_Indestructible": false,
+            "ML_PS_XM_Portal": false,
+            "ML_PS_XM_PortalTarget": false,
+            "ML_PS_XM_ShootBlock": false,
+            "ML_PS_XM_ShootBlockCharacter": false,
+            "ML_PS_XM_ShootBlockItem": false,
+            "ML_PS_XM_SubgridEdge": false,
+            "ML_PS_XM_Trap": false,
+            "ML_PS_XM_UnknownBlock1": false,
+            "ML_PS_XM_UnknownBlock2": false,
+            "ML_PS_XM_UnknownBlock3": false,
+            "ML_PS_XM_UnknownBlock4": false,
+            "ML_PS_XM_UnknownBlock5": false,
+            "ML_PS_XM_WalkBlock": false,
+            "ML_PS_XM_WalkBlock2": false,
+            "ML_PS_XM_WalkBlockCharacter": false,
+            "ML_PS_XM_WalkBlockItem": false
+        },
+        "Section_Pathing_Collision_Move_Other": {
+            "ML_PS_XM_Bit_24": false,
+            "ML_PS_XM_Bit_25": false,
+            "ML_PS_XM_Bit_26": false,
+            "ML_PS_XM_Bit_27": false,
+            "ML_PS_XM_Bit_28": false,
+            "ML_PS_XM_Bit_29": false,
+            "ML_PS_XM_Bit_30": false,
+            "ML_PS_XM_Bit_31": false,
+            "ML_PS_XM_Bit_32": false,
+            "ML_PS_XM_Bit_33": false,
+            "ML_PS_XM_Bit_34": false,
+            "ML_PS_XM_Bit_35": false,
+            "ML_PS_XM_Bit_36": false,
+            "ML_PS_XM_Bit_37": false,
+            "ML_PS_XM_Bit_38": false,
+            "ML_PS_XM_Bit_39": false,
+            "ML_PS_XM_Bit_40": false,
+            "ML_PS_XM_Bit_41": false,
+            "ML_PS_XM_Bit_42": false,
+            "ML_PS_XM_Bit_43": false,
+            "ML_PS_XM_Bit_44": false,
+            "ML_PS_XM_Bit_45": false,
+            "ML_PS_XM_Bit_46": false,
+            "ML_PS_XM_Bit_47": false,
+            "ML_PS_XM_Bit_48": false,
+            "ML_PS_XM_Bit_49": false,
+            "ML_PS_XM_Bit_50": false,
+            "ML_PS_XM_Bit_51": false,
+            "ML_PS_XM_Bit_52": false,
+            "ML_PS_XM_Bit_53": false,
+            "ML_PS_XM_Bit_54": false,
+            "ML_PS_XM_Bit_55": false,
+            "ML_PS_XM_Bit_56": false,
+            "ML_PS_XM_Bit_57": false,
+            "ML_PS_XM_Bit_58": false,
+            "ML_PS_XM_Bit_59": false,
+            "ML_PS_XM_Bit_60": false,
+            "ML_PS_XM_Bit_61": false,
+            "ML_PS_XM_Bit_62": false,
+            "ML_PS_XM_Bit_63": false,
+            "ML_PS_XM_Bit_64": false
+        },
+        "Section_Pathing_Collision_Stand": {
+            "ML_PS_XS_Blocker": false,
+            "ML_PS_XS_CanClimbOn": false,
+            "ML_PS_XS_CloudSurfaceBlock": false,
+            "ML_PS_XS_Door": false,
+            "ML_PS_XS_DoorItemBlock": false,
+            "ML_PS_XS_GroundSurfaceBlock": false,
+            "ML_PS_XS_Indestructible": false,
+            "ML_PS_XS_Portal": false,
+            "ML_PS_XS_PortalTarget": false,
+            "ML_PS_XS_ShootBlock": false,
+            "ML_PS_XS_ShootBlockCharacter": false,
+            "ML_PS_XS_ShootBlockItem": false,
+            "ML_PS_XS_SubgridEdge": false,
+            "ML_PS_XS_Trap": false,
+            "ML_PS_XS_UnknownBlock1": false,
+            "ML_PS_XS_UnknownBlock2": false,
+            "ML_PS_XS_UnknownBlock3": false,
+            "ML_PS_XS_UnknownBlock4": false,
+            "ML_PS_XS_UnknownBlock5": false,
+            "ML_PS_XS_WalkBlock": false,
+            "ML_PS_XS_WalkBlock2": false,
+            "ML_PS_XS_WalkBlockCharacter": false,
+            "ML_PS_XS_WalkBlockItem": false
+        },
+        "Section_Pathing_Collision_Stand_Other": {
+            "ML_PS_XS_Bit_24": false,
+            "ML_PS_XS_Bit_25": false,
+            "ML_PS_XS_Bit_26": false,
+            "ML_PS_XS_Bit_27": false,
+            "ML_PS_XS_Bit_28": false,
+            "ML_PS_XS_Bit_29": false,
+            "ML_PS_XS_Bit_30": false,
+            "ML_PS_XS_Bit_31": false,
+            "ML_PS_XS_Bit_32": false,
+            "ML_PS_XS_Bit_33": false,
+            "ML_PS_XS_Bit_34": false,
+            "ML_PS_XS_Bit_35": false,
+            "ML_PS_XS_Bit_36": false,
+            "ML_PS_XS_Bit_37": false,
+            "ML_PS_XS_Bit_38": false,
+            "ML_PS_XS_Bit_39": false,
+            "ML_PS_XS_Bit_40": false,
+            "ML_PS_XS_Bit_41": false,
+            "ML_PS_XS_Bit_42": false,
+            "ML_PS_XS_Bit_43": false,
+            "ML_PS_XS_Bit_44": false,
+            "ML_PS_XS_Bit_45": false,
+            "ML_PS_XS_Bit_46": false,
+            "ML_PS_XS_Bit_47": false,
+            "ML_PS_XS_Bit_48": false,
+            "ML_PS_XS_Bit_49": false,
+            "ML_PS_XS_Bit_50": false,
+            "ML_PS_XS_Bit_51": false,
+            "ML_PS_XS_Bit_52": false,
+            "ML_PS_XS_Bit_53": false,
+            "ML_PS_XS_Bit_54": false,
+            "ML_PS_XS_Bit_55": false,
+            "ML_PS_XS_Bit_56": false,
+            "ML_PS_XS_Bit_57": false,
+            "ML_PS_XS_Bit_58": false,
+            "ML_PS_XS_Bit_59": false,
+            "ML_PS_XS_Bit_60": false,
+            "ML_PS_XS_Bit_61": false,
+            "ML_PS_XS_Bit_62": false,
+            "ML_PS_XS_Bit_63": false,
+            "ML_PS_XS_Bit_64": false
+        }
+    },
+    "ML_QoL": {
+        "Section_UI": {
+            "ML_Close_Mod_Warnings": false
+        }
+    },
+    "ML_Surface_Settings": {
+        "Section_SM_Experimental": {
+            "ML_Surface_Monitoring_INSURFACE": false
+        },
+        "Section_SM_General": {
+            "ML_Surface_Monitoring_Enabled": false,
+            "ML_Surface_Monitoring_Enemies": false
+        },
+        "Section_SM_Statuses": {
+            "ML_Surface_Monitoring_Fire": false,
+            "ML_Surface_Monitoring_Ice": false,
+            "ML_Surface_Monitoring_Water": false
+        }
+    }
+}
