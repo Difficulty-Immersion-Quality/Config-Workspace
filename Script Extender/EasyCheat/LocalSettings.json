@@ -3,9 +3,9 @@
         "Callback": "",
         "Identifier": "",
         "Modifiers": [
-            "Ctrl"
+            "Shift"
         ],
-        "ScanCode": "R"
+        "ScanCode": "T"
     },
     "SettingsAutoResize": true,
     "SidekickAutoResize": true,

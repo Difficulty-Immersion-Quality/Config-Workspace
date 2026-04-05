@@ -1,0 +1,22 @@
+{
+    "CurrentTheme": "00000000-0000-0000-0000-000000000000",
+    "FirstTimeAgreed": false,
+    "OpenCloseScribe": {
+        "Callback": "",
+        "Identifier": "",
+        "Modifiers": [
+            "Shift"
+        ],
+        "ScanCode": "T"
+    },
+    "OpenCloseWatchWindow": {
+        "Callback": "",
+        "Identifier": "",
+        "Modifiers": [
+            "Shift"
+        ],
+        "ScanCode": "Y"
+    },
+    "SeparateTagsAndFlags": false,
+    "SettingsAutoResize": true
+}
