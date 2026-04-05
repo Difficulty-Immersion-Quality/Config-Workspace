@@ -2,6 +2,9 @@
     "BG3MCM": {
         "Dependency_Version_Issue_4dd024b7-9dd0-a9fc-de22-6da914b7fcf8_Requires_f148638d-8ffc-635d-4307-d4db40d40734_1.0.0.52_Loaded_1.0.0.35": {
             "show": false
+        },
+        "mcm_gamepad_onboarding": {
+            "show": true
         }
     }
 }
