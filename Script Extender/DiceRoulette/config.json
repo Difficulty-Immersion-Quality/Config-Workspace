@@ -1,0 +1,11 @@
+{
+    "blacklistedHandles": [],
+    "debug": false,
+    "enabled": true,
+    "holidayAssignments": {
+        "h9e616d35g9222g4e4eg9e9dg63bf2f121b67": {
+            "halloween": true
+        }
+    },
+    "holidayModeEnabled": true
+}
