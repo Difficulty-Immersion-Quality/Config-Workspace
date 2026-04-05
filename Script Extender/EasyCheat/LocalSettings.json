@@ -16,5 +16,13 @@
             "NONE"
         ],
         "ScanCode": "NONE"
+    },
+    "ToggleQuickTeleport": {
+        "Callback": "",
+        "Identifier": "",
+        "Modifiers": [
+            "NONE"
+        ],
+        "ScanCode": "NONE"
     }
 }
