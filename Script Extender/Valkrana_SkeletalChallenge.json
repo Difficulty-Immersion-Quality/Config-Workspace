@@ -1,0 +1,10 @@
+{
+    "Archetypes": false,
+    "Bosses": false,
+    "Chance": 1,
+    "Max": 1,
+    "Min": 1,
+    "ThirdFaction": true,
+    "TierOverride": false,
+    "_Comment": "Chance determines per-encounter spawn chance. Min and Max determine the minimum and maximum skeletons per spawn. If set to an integer, TierOverride will set the skeleton spawns to a static tier pool from Skeleton Crew rather than a scaling pool (3 is highest, 1 lowest). Archetypes will spawn only archetype skeletons, such as Venn the Graftling Necrobroker, if set to true."
+}

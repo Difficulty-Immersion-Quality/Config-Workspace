@@ -1,0 +1,14 @@
+{
+    "General": {
+        "apply_to_companions": true,
+        "auto_end_concentration": true,
+        "auto_end_slayer": false,
+        "auto_end_wildshape": false,
+        "mod_enabled": false
+    },
+    "debug": {
+        "debug": {
+            "debug_level": 0
+        }
+    }
+}

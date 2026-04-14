@@ -1,0 +1,188 @@
+{
+    "LightyLights-main": {
+        "general_settings": {
+            "ll_apply_anl": {
+                "AllowConflict": false,
+                "Enabled": false,
+                "Keyboard": {
+                    "Key": "NUM_3",
+                    "ModifierKeys": [
+                        "LShift"
+                    ]
+                }
+            },
+            "ll_beam": {
+                "AllowConflict": false,
+                "Enabled": false,
+                "Keyboard": {
+                    "Key": "A",
+                    "ModifierKeys": [
+                        "LAlt"
+                    ]
+                }
+            },
+            "ll_bone_redo": {
+                "AllowConflict": false,
+                "Enabled": false,
+                "Keyboard": {
+                    "Key": "X",
+                    "ModifierKeys": [
+                        "LShift"
+                    ]
+                }
+            },
+            "ll_bone_undo": {
+                "AllowConflict": false,
+                "Enabled": false,
+                "Keyboard": {
+                    "Key": "Z",
+                    "ModifierKeys": [
+                        "LShift"
+                    ]
+                }
+            },
+            "ll_duplicate": {
+                "AllowConflict": false,
+                "Enabled": false,
+                "Keyboard": {
+                    "Key": "C",
+                    "ModifierKeys": [
+                        "LAlt"
+                    ]
+                }
+            },
+            "ll_hide_gobo": {
+                "AllowConflict": false,
+                "Enabled": false,
+                "Keyboard": {
+                    "Key": "",
+                    "ModifierKeys": [
+                        "NONE"
+                    ]
+                }
+            },
+            "ll_move_to_cursor": {
+                "AllowConflict": false,
+                "Enabled": false,
+                "Keyboard": {
+                    "Key": "",
+                    "ModifierKeys": []
+                }
+            },
+            "ll_next": {
+                "AllowConflict": false,
+                "Enabled": false,
+                "Keyboard": {
+                    "Key": "E",
+                    "ModifierKeys": [
+                        "LAlt"
+                    ]
+                }
+            },
+            "ll_pm_next_dummy": {
+                "AllowConflict": false,
+                "Enabled": false,
+                "Keyboard": {
+                    "Key": "E",
+                    "ModifierKeys": [
+                        "LShift"
+                    ]
+                }
+            },
+            "ll_pm_prev_dummy": {
+                "AllowConflict": false,
+                "Enabled": false,
+                "Keyboard": {
+                    "Key": "Q",
+                    "ModifierKeys": [
+                        "LShift"
+                    ]
+                }
+            },
+            "ll_prev": {
+                "AllowConflict": false,
+                "Enabled": false,
+                "Keyboard": {
+                    "Key": "Q",
+                    "ModifierKeys": [
+                        "LAlt"
+                    ]
+                }
+            },
+            "ll_selected_popup": {
+                "AllowConflict": false,
+                "Enabled": false,
+                "Keyboard": {
+                    "Key": "S",
+                    "ModifierKeys": [
+                        "LAlt"
+                    ]
+                }
+            },
+            "ll_stick": {
+                "AllowConflict": false,
+                "Enabled": false,
+                "Keyboard": {
+                    "Key": "R",
+                    "ModifierKeys": [
+                        "LAlt"
+                    ]
+                }
+            },
+            "ll_toggle_all_lights": {
+                "AllowConflict": false,
+                "Enabled": false,
+                "Keyboard": {
+                    "Key": "",
+                    "ModifierKeys": []
+                }
+            },
+            "ll_toggle_all_markers": {
+                "AllowConflict": false,
+                "Enabled": false,
+                "Keyboard": {
+                    "Key": "",
+                    "ModifierKeys": []
+                }
+            },
+            "ll_toggle_bz_symm": {
+                "AllowConflict": false,
+                "Enabled": false,
+                "Keyboard": {
+                    "Key": "F",
+                    "ModifierKeys": [
+                        "LAlt"
+                    ]
+                }
+            },
+            "ll_toggle_light": {
+                "AllowConflict": false,
+                "Enabled": false,
+                "Keyboard": {
+                    "Key": "X",
+                    "ModifierKeys": [
+                        "LAlt"
+                    ]
+                }
+            },
+            "ll_toggle_marker": {
+                "AllowConflict": false,
+                "Enabled": false,
+                "Keyboard": {
+                    "Key": "",
+                    "ModifierKeys": []
+                }
+            },
+            "ll_toggle_window": {
+                "AllowConflict": false,
+                "Enabled": false,
+                "Keyboard": {
+                    "Key": "NUM_4",
+                    "ModifierKeys": [
+                        "LAlt"
+                    ]
+                }
+            }
+        }
+    }
+}

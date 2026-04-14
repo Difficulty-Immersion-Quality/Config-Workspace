@@ -1,13 +1,14 @@
 {
   "DeveloperMode": true,
   "CreateConsole": true,
-  "EnablePerfMessages": false,
   "EnableAchievements": true,
+  "EnablePerfMessages": false,
   "LogFailedCompile": true,
   "LogCompile": true,
   "LogDirectory": "Big Fat Logs",
   "LogRuntime": true,
   "DisableStoryMerge": true,
-  "DisableModValidation": false,
+  "ClearOnReset": true,
+  "ShowPerfWarnings": true,
   "InsanityCheck": true
 }

@@ -3,13 +3,21 @@
         "Callback": "",
         "Identifier": "",
         "Modifiers": [
-            "Ctrl"
+            "Shift"
         ],
-        "ScanCode": "R"
+        "ScanCode": "T"
     },
     "SettingsAutoResize": true,
     "SidekickAutoResize": true,
     "ToggleImmortality": {
+        "Callback": "",
+        "Identifier": "",
+        "Modifiers": [
+            "NONE"
+        ],
+        "ScanCode": "NONE"
+    },
+    "ToggleQuickTeleport": {
         "Callback": "",
         "Identifier": "",
         "Modifiers": [

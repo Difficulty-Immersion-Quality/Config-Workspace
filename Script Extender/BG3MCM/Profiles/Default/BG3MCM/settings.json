@@ -79,12 +79,10 @@
             "reposition_window_if_out_of_bounds": true,
             "toggle_detached_with_main": true,
             "toggle_mcm_keybinding": {
-                "AllowConflict": false,
+                "Enabled": true,
                 "Keyboard": {
-                    "Key": "M",
-                    "ModifierKeys": [
-                        "LSHIFT"
-                    ]
+                    "Key": "INSERT",
+                    "ModifierKeys": []
                 }
             }
         }

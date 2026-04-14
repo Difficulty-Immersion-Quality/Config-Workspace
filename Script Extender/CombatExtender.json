@@ -643,7 +643,7 @@
 			  "Spells": ["Target_Smite_Blind","Target_Smite_Searing","Target_Smite_Thunderous"]			  
 	},
 			"2": {
-			  "ExtraPassives": ["MageSlayer_Advantage","MageSlayer_BreakConcentration","Crusade_NonMagical_Resistance_Passive","Goon_Sanctuary_Auto_Cast_Start_Combat"],
+			  "ExtraPassives": ["MageSlayer_Advantage","MageSlayer_BreakConcentration","Crusade_NonMagical_Resistance_Passive"],
 			  "Spells": []			  
 	},
 			"3": {

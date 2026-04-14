@@ -1,11 +1,11 @@
 {
     "Features": {
         "Profiles": {
-            "DefaultProfile": "DIQ_Default",
+            "DefaultProfile": "Default",
             "Profiles": [
-                "DIQ_Default"
+                "Default"
             ],
-            "SelectedProfile": "DIQ_Default"
+            "SelectedProfile": "Default"
         }
     }
 }
