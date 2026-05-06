@@ -4,8 +4,10 @@
             "ML_Elevation_Type": "Raycast"
         },
         "ML_Section_Debugging": {
+            "ML_Show_Animation_Blueprint_Debug_Window": false,
             "ML_Show_Inspect_Window": false,
-            "ML_Show_Noesis_Events": false
+            "ML_Show_Location_Selector_Debug_Window": false,
+            "RM_Show_Camera_Debug_Window": false
         },
         "RF_GUI_Settings_Debug": {
             "ML_Enable_Spawn": false,
@@ -13,50 +15,41 @@
         },
         "Section_Object_Limits": {
             "ML_MaxObjects": 3000,
-            "key_carpet_down": {
-                "AllowConflict": false,
+            "ML_key_add_path_designer_current_location": {
                 "Keyboard": {
-                    "Key": "DOWN",
-                    "ModifierKeys": [
-                        "LSHIFT"
-                    ]
-                }
-            },
-            "key_carpet_left": {
-                "Keyboard": {
-                    "Key": "LEFT",
+                    "Key": "",
                     "ModifierKeys": []
                 }
             },
-            "key_carpet_right": {
+            "ML_key_add_path_designer_location": {
                 "Keyboard": {
-                    "Key": "RIGHT",
+                    "Key": "",
                     "ModifierKeys": []
                 }
             },
-            "key_carpet_up": {
-                "AllowConflict": false,
+            "ML_key_toggle_path_designer": {
                 "Keyboard": {
-                    "Key": "UP",
-                    "ModifierKeys": [
-                        "LSHIFT"
-                    ]
-                }
-            },
-            "key_carpet_y_down": {
-                "AllowConflict": false,
-                "Keyboard": {
-                    "Key": "DOWN",
+                    "Key": "",
                     "ModifierKeys": []
                 }
             },
-            "key_carpet_y_up": {
-                "AllowConflict": false,
+            "ML_key_toggle_path_designer_recording": {
                 "Keyboard": {
-                    "Key": "UP",
+                    "Key": "",
                     "ModifierKeys": []
                 }
             }
+        }
+    },
+    "ML_General": {
+        "Section_Noesis": {
+            "ML_Auto_Let_KEN_Helper_Monitor_Noesis": false,
+            "ML_Send_Noesis_ModEvents": true,
+            "ML_Show_Noesis_Events": false
+        },
+        "Section_UI": {
+            "ML_Close_Mod_Warnings": false,
+            "ML_Print_Game_State_Changes": false
         }
     },
     "ML_Pathing_Settings": {
@@ -105,7 +98,7 @@
         "Section_Pathing_Mysterious": {
             "ML_PS_Climbing": false,
             "ML_PS_ClosestCollidingCount": 2147483647,
-            "ML_PS_ClosestCost": 3.402823466385289e38,
+            "ML_PS_ClosestCost": 3.4028234663852886e38,
             "ML_PS_ClosestFullTileIndex": -1,
             "ML_PS_CoverFlags": 0,
             "ML_PS_DestinationReached": false,
@@ -340,11 +333,6 @@
             "ML_PS_XS_Bit_62": false,
             "ML_PS_XS_Bit_63": false,
             "ML_PS_XS_Bit_64": false
-        }
-    },
-    "ML_QoL": {
-        "Section_UI": {
-            "ML_Close_Mod_Warnings": false
         }
     },
     "ML_Surface_Settings": {

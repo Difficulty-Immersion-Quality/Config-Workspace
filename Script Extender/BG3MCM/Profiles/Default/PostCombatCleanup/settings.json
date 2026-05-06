@@ -4,6 +4,173 @@
         "auto_end_concentration": true,
         "auto_end_slayer": false,
         "auto_end_wildshape": false,
+        "auto_exit_sneak": false,
+        "concentration_exceptions": {
+            "elements": [
+                {
+                    "enabled": true,
+                    "name": "Target_Guidance"
+                },
+                {
+                    "enabled": true,
+                    "name": "Target_Resistance"
+                },
+                {
+                    "enabled": true,
+                    "name": "Target_Bless"
+                },
+                {
+                    "enabled": true,
+                    "name": "Shout_DivineFavor"
+                },
+                {
+                    "enabled": true,
+                    "name": "Shout_ExpeditiousRetreat"
+                },
+                {
+                    "enabled": true,
+                    "name": "Target_Heroism"
+                },
+                {
+                    "enabled": true,
+                    "name": "Target_HuntersMark"
+                },
+                {
+                    "enabled": true,
+                    "name": "Target_ProtectionFromEvilAndGood"
+                },
+                {
+                    "enabled": true,
+                    "name": "Target_Smite_Searing"
+                },
+                {
+                    "enabled": true,
+                    "name": "Target_ShieldOfFaith"
+                },
+                {
+                    "enabled": true,
+                    "name": "Target_Smite_Wrathful"
+                },
+                {
+                    "enabled": true,
+                    "name": "Target_Barkskin"
+                },
+                {
+                    "enabled": true,
+                    "name": "Shout_Blur"
+                },
+                {
+                    "enabled": true,
+                    "name": "Target_Smite_Branding_Container"
+                },
+                {
+                    "enabled": true,
+                    "name": "Target_CalmEmotions"
+                },
+                {
+                    "enabled": true,
+                    "name": "Shout_DetectThoughts"
+                },
+                {
+                    "enabled": true,
+                    "name": "Target_EnhanceAbility"
+                },
+                {
+                    "enabled": true,
+                    "name": "Target_EnlargeReduce"
+                },
+                {
+                    "enabled": true,
+                    "name": "Target_Invisibility"
+                },
+                {
+                    "enabled": true,
+                    "name": "Target_MagicWeapon"
+                },
+                {
+                    "enabled": true,
+                    "name": "Shout_PassWithoutTrace"
+                },
+                {
+                    "enabled": true,
+                    "name": "Shout_BeaconOfHope"
+                },
+                {
+                    "enabled": true,
+                    "name": "Shout_CrusadersMantle"
+                },
+                {
+                    "enabled": true,
+                    "name": "Target_ElementalWeapon"
+                },
+                {
+                    "enabled": true,
+                    "name": "Target_Fly"
+                },
+                {
+                    "enabled": true,
+                    "name": "Target_Haste"
+                },
+                {
+                    "enabled": true,
+                    "name": "Target_ProtectionFromEnergy"
+                },
+                {
+                    "enabled": true,
+                    "name": "Target_Invisibility_Greater"
+                },
+                {
+                    "enabled": true,
+                    "name": "Target_Stoneskin"
+                },
+                {
+                    "enabled": true,
+                    "name": "Throw_Telekinesis"
+                },
+                {
+                    "enabled": true,
+                    "name": "Teleportation_ArcaneGate"
+                },
+                {
+                    "enabled": true,
+                    "name": "Zone_Sunbeam"
+                }
+            ],
+            "enabled": [
+                "Target_Guidance",
+                "Target_Resistance",
+                "Target_Bless",
+                "Shout_DivineFavor",
+                "Shout_ExpeditiousRetreat",
+                "Target_Heroism",
+                "Target_HuntersMark",
+                "Target_ProtectionFromEvilAndGood",
+                "Target_Smite_Searing",
+                "Target_ShieldOfFaith",
+                "Target_Smite_Wrathful",
+                "Target_Barkskin",
+                "Shout_Blur",
+                "Target_Smite_Branding_Container",
+                "Target_CalmEmotions",
+                "Shout_DetectThoughts",
+                "Target_EnhanceAbility",
+                "Target_EnlargeReduce",
+                "Target_Invisibility",
+                "Target_MagicWeapon",
+                "Shout_PassWithoutTrace",
+                "Shout_BeaconOfHope",
+                "Shout_CrusadersMantle",
+                "Target_ElementalWeapon",
+                "Target_Fly",
+                "Target_Haste",
+                "Target_ProtectionFromEnergy",
+                "Target_Invisibility_Greater",
+                "Target_Stoneskin",
+                "Throw_Telekinesis",
+                "Teleportation_ArcaneGate",
+                "Zone_Sunbeam"
+            ]
+        },
         "mod_enabled": false
     },
     "debug": {
