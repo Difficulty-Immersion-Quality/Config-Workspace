@@ -136,40 +136,7 @@
                     "name": "Zone_Sunbeam"
                 }
             ],
-            "enabled": [
-                "Target_Guidance",
-                "Target_Resistance",
-                "Target_Bless",
-                "Shout_DivineFavor",
-                "Shout_ExpeditiousRetreat",
-                "Target_Heroism",
-                "Target_HuntersMark",
-                "Target_ProtectionFromEvilAndGood",
-                "Target_Smite_Searing",
-                "Target_ShieldOfFaith",
-                "Target_Smite_Wrathful",
-                "Target_Barkskin",
-                "Shout_Blur",
-                "Target_Smite_Branding_Container",
-                "Target_CalmEmotions",
-                "Shout_DetectThoughts",
-                "Target_EnhanceAbility",
-                "Target_EnlargeReduce",
-                "Target_Invisibility",
-                "Target_MagicWeapon",
-                "Shout_PassWithoutTrace",
-                "Shout_BeaconOfHope",
-                "Shout_CrusadersMantle",
-                "Target_ElementalWeapon",
-                "Target_Fly",
-                "Target_Haste",
-                "Target_ProtectionFromEnergy",
-                "Target_Invisibility_Greater",
-                "Target_Stoneskin",
-                "Throw_Telekinesis",
-                "Teleportation_ArcaneGate",
-                "Zone_Sunbeam"
-            ]
+            "enabled": true
         },
         "mod_enabled": false
     },
