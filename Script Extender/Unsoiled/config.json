@@ -1,0 +1,24 @@
+{
+    "npcs": {
+        "25721313-0c15-4935-8176-9f134385451b": {
+            "enabled": true,
+            "label": "Minthara"
+        },
+        "2c76687d-93a2-477b-8b18-8a14b549304c": {
+            "enabled": true,
+            "label": "Karlach"
+        },
+        "91b6b200-7d00-4d62-8dc9-99e8339dfa1a": {
+            "enabled": true,
+            "label": "Jaheira"
+        },
+        "ef1b7a12-6439-470a-885c-fa47851728cd": {
+            "enabled": true,
+            "label": "ef1b7a12-6439-470a-885c-fa47851728cd"
+        },
+        "f769815c-d437-4a45-9ae4-aebd53ec8f7c": {
+            "enabled": true,
+            "label": "Quartermaster Talli"
+        }
+    }
+}
