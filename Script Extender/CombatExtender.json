@@ -525,7 +525,7 @@
   },
         "2": {
           "ExtraPassives": ["Goon_Summon_Potion_Healing_Greater_x1","MAG_Healer_HealSelf_Passive"],
-          "Spells": ["Shout_HealingWord_Mass"]
+          "Spells": []
   },
         "3": {
           "ExtraPassives": ["ShieldMaster_PassiveBonuses","Goon_Summon_Potion_Healing_Superior_x1","ARA_Cloak_OwlWisdom","SYR_Feat_WarMagic_AltSpell_Passive","MAG_AlignmentsWrath_Passive"],
@@ -542,7 +542,7 @@
 	},
 			"2": {
 			  "ExtraPassives": ["JackOfAllTrades","OO_EverVigilant_Passive"],
-			  "Spells": ["Target_Counterspell"]			  
+			  "Spells": ["Shout_HealingWord_Mass","Target_Counterspell"]			  
 	},
 			"3": {
 			  "ExtraPassives": ["ReliableTalent","Goon_Target_ShieldOfFaith_Passive"],
@@ -559,7 +559,7 @@
 	},
 			"2": {
 			  "ExtraPassives": ["MAG_GroveTempHP_Passive","Goon_Target_Magic_Weapon_Passive"],
-			  "Spells": ["Shout_SpiritGuardians"]			  
+			  "Spells": ["Shout_HealingWord_Mass","Shout_SpiritGuardians"]			  
 	},
 			"3": {
 			  "ExtraPassives": ["Goon_Shout_HeroesFeast_Passive"],
@@ -576,7 +576,7 @@
 	  },
 			"2": {
 			  "ExtraPassives": [],
-			  "Spells": ["Target_Dawn","Projectile_Fireball"]			  
+			  "Spells": ["Shout_HealingWord_Mass","Target_Dawn"]			  
 	  },
 			"3": {
 			  "ExtraPassives": ["MAG_ShatteredSun_Attack","Goon_Target_Elemental_Weapon_Fire_Passive"],
@@ -593,7 +593,7 @@
 	  },
 			"2": {
 			  "ExtraPassives": ["WW_ElementalBane_Passive"],
-			  "Spells": ["Projectile_SnowBall"]			  
+			  "Spells": ["Shout_HealingWord_Mass","Projectile_SnowBall"]			  
 	  },
 			"3": {
 			  "ExtraPassives": ["Goon_Shout_HeroesFeast_Passive"],
