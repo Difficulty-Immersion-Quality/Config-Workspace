@@ -109,6 +109,22 @@
                     ]
                 }
             },
+            "ll_select_item_main": {
+                "Keyboard": {
+                    "Key": "",
+                    "ModifierKeys": [
+                        "NONE"
+                    ]
+                }
+            },
+            "ll_select_item_off": {
+                "Keyboard": {
+                    "Key": "",
+                    "ModifierKeys": [
+                        "NONE"
+                    ]
+                }
+            },
             "ll_selected_popup": {
                 "AllowConflict": false,
                 "Enabled": false,
