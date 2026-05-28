@@ -605,7 +605,7 @@
 	  "PassiveName": "CX_Cleric_Trickery_Boost",
 		"Act": {
 			"1": {
-			  "ExtraPassives": ["Goon_Target_ShieldOfFaith_Passive","Goon_Sanctuary_Auto_Cast_End_Turn"],
+			  "ExtraPassives": ["Goon_Target_ShieldOfFaith_Passive"],
 			  "Spells": ["Target_InflictWounds"]			  
 	  },
 			"2": {
