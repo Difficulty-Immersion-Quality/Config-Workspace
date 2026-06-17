@@ -303,7 +303,7 @@
 			  "Spells": ["Target_SpiritualWeapon","Projectile_IceKnife","Target_Web","Target_SleetStorm"]
 	  },
 			"2": {
-			  "ExtraPassives": ["MAG_Zhentarim_Demonspirit_Gloves_Passive"],
+			  "ExtraPassives": [],
 			  "Spells": ["Target_ConjureElementals_Minor_Container","Target_ConjureWoodlandBeings","Target_GuardianOfFaith","Target_PlanarAlly_Container","Target_BlackTentacles"]
 	  },
 			"3": {
@@ -1160,7 +1160,7 @@
 			  "Spells": []			  
 	  },
 			"3": {
-			  "ExtraPassives": ["PP_VolcanicBlase_Passive","MAG_Zhentarim_Demonspirit_Gloves_Passive","SickeningBlast"],
+			  "ExtraPassives": ["PP_VolcanicBlase_Passive","SickeningBlast"],
 			  "Spells": ["Target_ORI_Wyll_SummonCambion","Shout_DevilForm"]			  
   }
   }
@@ -1177,7 +1177,7 @@
 			  "Spells": ["Shout_OozeForm"]			  
 	  },
 			"3": {
-			  "ExtraPassives": ["MAG_Zhentarim_Demonspirit_Gloves_Passive","BeshadowedBlast"],
+			  "ExtraPassives": ["BeshadowedBlast"],
 			  "Spells": ["Shout_DevouringDarkness","Target_DominateMonster"]
   }
   }
