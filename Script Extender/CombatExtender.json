@@ -1969,7 +1969,7 @@
       "Spells": ["Target_Smite_Branding","Target_Smite_Wrathful","Target_Smite_Blinding","Shout_Enlarge_Duergar","AJ_PWK_Emergency","AJ_MirrorImage_Emergency","AJ_Shout_ActionSurge_Emergency"]
   },
     "S_GLO_Orin_bf24e0ec-a3a6-4905-bd2d-45dc8edf8101": {
-      "Passives": ["ARP_ActionPoint","MAG_Critical_Force_Critical_Passive","Mod_AntiMagic_Attacks_Passive","ClarifiedMortality","Mobile_PassiveBonuses","Mobile_CounterAttackOfOpportunity","Mobile_DashAcrossDifficultTerrain","MOO_KethericArmor","FightingStyle_TwoWeaponFighting","MAG_Frightened_Immunity_Passive","MAG_StunnImmunity_Passive","MAG_Shadow_BlindImmunity_Ring_Passive","BSM_BS_BerzerkerSeekingBlood_Passive","BSM_BS_BerzerkerMindAndSoul_Passive","BSM_BS_OniSkin_Passive","ImmuneToDisarm","VV_KillerRespite_Passive"],
+      "Passives": ["MAG_Critical_Force_Critical_Passive","Mod_AntiMagic_Attacks_Passive","ClarifiedMortality","Mobile_PassiveBonuses","Mobile_CounterAttackOfOpportunity","Mobile_DashAcrossDifficultTerrain","MOO_KethericArmor","FightingStyle_TwoWeaponFighting","MAG_Frightened_Immunity_Passive","MAG_StunnImmunity_Passive","MAG_Shadow_BlindImmunity_Ring_Passive","BSM_BS_BerzerkerSeekingBlood_Passive","BSM_BS_BerzerkerMindAndSoul_Passive","BSM_BS_OniSkin_Passive","ImmuneToDisarm","VV_KillerRespite_Passive"],
       "Spells": []
   },
     "S_MOO_Ketheric_e9918f3e-5b87-40a3-a9bd-61545151573f": {
