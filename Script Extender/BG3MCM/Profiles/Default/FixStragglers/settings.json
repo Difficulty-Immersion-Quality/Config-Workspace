@@ -27,10 +27,11 @@
             "always_force_teleport": false,
             "key_teleport_party_to_you": {
                 "AllowConflict": false,
+                "Enabled": false,
                 "Keyboard": {
                     "Key": "T",
                     "ModifierKeys": [
-                        "LCTRL"
+                        "LSHIFT"
                     ]
                 }
             }

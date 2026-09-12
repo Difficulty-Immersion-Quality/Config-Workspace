@@ -2,20 +2,27 @@
     "debug": {
         "debug_settings": {
             "debug_level": 0,
+            "enable_blueprint_cache": false,
             "print_deprecation_warnings": false,
             "reset_lua_both": {
+                "AllowConflict": false,
+                "Enabled": false,
                 "Keyboard": {
                     "Key": "",
                     "ModifierKeys": []
                 }
             },
             "reset_lua_client": {
+                "AllowConflict": false,
+                "Enabled": false,
                 "Keyboard": {
                     "Key": "",
                     "ModifierKeys": []
                 }
             },
             "reset_lua_server": {
+                "AllowConflict": false,
+                "Enabled": false,
                 "Keyboard": {
                     "Key": "",
                     "ModifierKeys": []
@@ -47,8 +54,11 @@
             "enable_hover": true,
             "sidebar_width": 390,
             "toggle_mcm_sidebar_keybinding": {
+                "AllowConflict": false,
+                "Enabled": false,
                 "Keyboard": {
-                    "Key": ""
+                    "Key": "CAPSLOCK",
+                    "ModifierKeys": []
                 }
             }
         }
@@ -79,6 +89,7 @@
             "reposition_window_if_out_of_bounds": true,
             "toggle_detached_with_main": true,
             "toggle_mcm_keybinding": {
+                "AllowConflict": false,
                 "Enabled": true,
                 "Keyboard": {
                     "Key": "INSERT",

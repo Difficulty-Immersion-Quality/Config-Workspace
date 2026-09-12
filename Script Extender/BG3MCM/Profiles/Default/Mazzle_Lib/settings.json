@@ -4,10 +4,8 @@
             "ML_Elevation_Type": "Raycast"
         },
         "ML_Section_Debugging": {
-            "ML_Show_Animation_Blueprint_Debug_Window": false,
-            "ML_Show_Inspect_Window": false,
             "ML_Show_Location_Selector_Debug_Window": false,
-            "RM_Show_Camera_Debug_Window": false
+            "ML_Show_Travel_Zone_UI": false
         },
         "RF_GUI_Settings_Debug": {
             "ML_Enable_Spawn": false,
@@ -16,24 +14,32 @@
         "Section_Object_Limits": {
             "ML_MaxObjects": 3000,
             "ML_key_add_path_designer_current_location": {
+                "AllowConflict": false,
+                "Enabled": false,
                 "Keyboard": {
                     "Key": "",
                     "ModifierKeys": []
                 }
             },
             "ML_key_add_path_designer_location": {
+                "AllowConflict": false,
+                "Enabled": false,
                 "Keyboard": {
                     "Key": "",
                     "ModifierKeys": []
                 }
             },
             "ML_key_toggle_path_designer": {
+                "AllowConflict": false,
+                "Enabled": false,
                 "Keyboard": {
                     "Key": "",
                     "ModifierKeys": []
                 }
             },
             "ML_key_toggle_path_designer_recording": {
+                "AllowConflict": false,
+                "Enabled": false,
                 "Keyboard": {
                     "Key": "",
                     "ModifierKeys": []
@@ -49,7 +55,15 @@
         },
         "Section_UI": {
             "ML_Close_Mod_Warnings": false,
-            "ML_Print_Game_State_Changes": false
+            "ML_Close_Third_Party_Mod_Warnings": false,
+            "ML_Print_Game_State_Changes": false,
+            "ML_Server_Lag_Warnings_Enabled": true
+        }
+    },
+    "ML_Map_UI_Settings": {
+        "ML_Map_UI_Markers": {
+            "ML_MapUI_Markers_Enabled": true,
+            "ML_MapUI_Max_Markers": 300
         }
     },
     "ML_Pathing_Settings": {
@@ -98,7 +112,7 @@
         "Section_Pathing_Mysterious": {
             "ML_PS_Climbing": false,
             "ML_PS_ClosestCollidingCount": 2147483647,
-            "ML_PS_ClosestCost": 3.4028234663852886e38,
+            "ML_PS_ClosestCost": 3.402823466385289e38,
             "ML_PS_ClosestFullTileIndex": -1,
             "ML_PS_CoverFlags": 0,
             "ML_PS_DestinationReached": false,
@@ -335,10 +349,57 @@
             "ML_PS_XS_Bit_64": false
         }
     },
-    "ML_Surface_Settings": {
-        "Section_SM_Experimental": {
-            "ML_Surface_Monitoring_INSURFACE": false
+    "ML_Raycast_Tester": {
+        "ML_Raycast_Tester_Extra_Flags": {
+            "ML_RT_Show_EF_BlockAoEDamage": true,
+            "ML_RT_Show_EF_ShootThroughGargantuan": true,
+            "ML_RT_Show_EF_ShootThroughHuge": true,
+            "ML_RT_Show_EF_ShootThroughLarge": true,
+            "ML_RT_Show_EF_ShootThroughMedium": true,
+            "ML_RT_Show_EF_ShootThroughSmall": true,
+            "ML_RT_Show_EF_ShootThroughTiny": true
         },
+        "ML_Raycast_Tester_Physics_Groups": {
+            "ML_RT_Show_PG_AttackableWhenClickThrough": true,
+            "ML_RT_Show_PG_CanClickThrough": true,
+            "ML_RT_Show_PG_CanClimbOn": true,
+            "ML_RT_Show_PG_CanClimbOnStatic": true,
+            "ML_RT_Show_PG_CanSeeThrough": true,
+            "ML_RT_Show_PG_CanSeeThrough2": true,
+            "ML_RT_Show_PG_CanShineThrough": true,
+            "ML_RT_Show_PG_CanShootThrough": true,
+            "ML_RT_Show_PG_CanWalkOn": true,
+            "ML_RT_Show_PG_Character": true,
+            "ML_RT_Show_PG_ClimbableTileConstruction": true,
+            "ML_RT_Show_PG_Dead": true,
+            "ML_RT_Show_PG_DisableBoundCollision": true,
+            "ML_RT_Show_PG_Dragging": true,
+            "ML_RT_Show_PG_Fadeable": true,
+            "ML_RT_Show_PG_Falling": true,
+            "ML_RT_Show_PG_Group01": true,
+            "ML_RT_Show_PG_Group02": true,
+            "ML_RT_Show_PG_Group04": true,
+            "ML_RT_Show_PG_Group08": true,
+            "ML_RT_Show_PG_Group100": true,
+            "ML_RT_Show_PG_Group10000000": true,
+            "ML_RT_Show_PG_Group40": true,
+            "ML_RT_Show_PG_Group80": true,
+            "ML_RT_Show_PG_IsDecorative": true,
+            "ML_RT_Show_PG_Item": true,
+            "ML_RT_Show_PG_PlatformOwner": true,
+            "ML_RT_Show_PG_PointerBlocker": true,
+            "ML_RT_Show_PG_Scenery": true,
+            "ML_RT_Show_PG_Terrain": true,
+            "ML_RT_Show_PG_TimelinePreview": true,
+            "ML_RT_Show_PG_VisibleItem": true,
+            "ML_RT_Show_PG_Wadable": true
+        },
+        "ML_Raycast_Tester_Window": {
+            "ML_RT_Print_Collisions": false,
+            "ML_Show_Raycast_Tester_Window": false
+        }
+    },
+    "ML_Surface_Settings": {
         "Section_SM_General": {
             "ML_Surface_Monitoring_Enabled": false,
             "ML_Surface_Monitoring_Enemies": false
@@ -347,6 +408,14 @@
             "ML_Surface_Monitoring_Fire": false,
             "ML_Surface_Monitoring_Ice": false,
             "ML_Surface_Monitoring_Water": false
+        }
+    },
+    "ML_World_UI_Settings": {
+        "ML_World_UI_Right_Click": {
+            "ML_WorldUI_Right_Click_Enabled": true,
+            "ML_WorldUI_Right_Click_Require_Alt": true,
+            "ML_WorldUI_Right_Click_Require_Ctrl": false,
+            "ML_WorldUI_Right_Click_Require_Shift": false
         }
     }
 }
