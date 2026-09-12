@@ -1,0 +1,5 @@
+{
+    "blockDuringCombat": true,
+    "blockDuringDialogue": false,
+    "onlySaveDuringCombat": false
+}
