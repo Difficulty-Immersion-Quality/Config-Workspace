@@ -1715,7 +1715,7 @@
   },
     "S_LOW_Lorroakan_a9d4b71d-b0ef-429e-8210-6dc8be986ee9": {
       "Passives": ["ARP_ActionPoint","MAG_Acid_NoxiousFumes_Gloves_Passive","MAG_Extended_Target_Cantrip_Passive","Goon_Fall_Damage_Resistance","ControlledChaos","TempestuousMagic","Goon_Reduced_Weight_Size_Scale_1","Goon_Reduced_Scale_1","MAG_PHB_OfRegeneration_Ring_Passive","Alert","ElementalAdept_Cold","ElementalAdept_Lightning","ARA_Cloak_SpellSaveDC_Passive","MAG_FrostTalon_ChillingCounter_Passive","MAG_Cold_ChilledOnSpellDamage_Passive","MAG_Frost_GenerateFrostOnDamage_Gloves_Passive","MAG_Frost_GenerateFrostOnStatusApply_Hat_Passive","CC_KineticRedirection_Passive","CC_LivingCurrent_Passive","CC_ChaoticHarmony_Passive","CC_MaximizedOutput_Passive","WW_ShiftingElements"],
-      "Spells": ["NPC_AllyDjinni","NPC_LightningBolt","NPC_OttoDance","NPC_ParalyzingRay","NPC_PolarRay","NPC_SummonArchmage","Zone_PrismaticSpray","Target_Sunburst","NPC_PrismaticSpray","AJ_Shout_ActionSurge_Emergency"],
+      "Spells": ["NPC_AllyDjinni","NPC_LightningBolt","NPC_OttoDance","NPC_ParalyzingRay","NPC_PolarRay","NPC_SummonArchmage","Target_Sunburst","NPC_PrismaticSpray","AJ_Shout_ActionSurge_Emergency"],
       "HealthOverride": 300
   },
     "S_LOW_Krank_47a3de7a-049b-462d-b526-60a178a649db": {
@@ -2219,7 +2219,7 @@
   },
     "EO_Lathanders_Image_e84d8eb3-89ab-4b65-b6e1-05b04afc2d1c": {
       "Passives": ["ShieldMaster_Blow","MAG_Shove_DealDamage","MOO_KethericArmor","CSS_Lathander_Pass_DivineWeave","CSS_Lathander_Pass_IlluminateAC","CSS_Lathander_Pass_UndeadKiller","CRE_LathandersLight_Passive","ARA_Cloak_OnHealSanctuary","LOW_Chasm_Mangle_Pushback","CC_KineticRedirection_Passive","FinishingStrike"],
-      "Spells": ["CSS_Lathy_CrusadersMantle","Rush_Charger_Push","NPC_MassHealingWord","NPC_GuardianOfFaith","NPC_Girzanjes","NPC_MoonlightRay","AJ_HPSummonDeva","AJ_Shout_ActionSurge_Emergency","NPC_PrisSpray","NPC_BurningHandsBA"],
+      "Spells": ["CSS_Lathy_CrusadersMantle","Rush_Charger_Push","NPC_MassHealingWord","NPC_GuardianOfFaith","NPC_Girzanjes","NPC_MoonlightRay","AJ_HPSummonDeva","AJ_Shout_ActionSurge_Emergency","NPC_PrismaticSpray","NPC_BurningHandsBA"],
       "healthOverride": 133
   },
     "EO_Lathander_Guard_1_403f0c08-1fe7-4c1f-8f38-892792e74933": {
