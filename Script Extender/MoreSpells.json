@@ -1,0 +1,18 @@
+{
+    "AllResourceMultiplier": 1.0,
+    "advancedCustomClasses": [
+        {
+            "name": "Wizard",
+            "resourceMultiplier": 1.0,
+            "spellChoiceMultiplier": 1.0,
+            "spellSlotMultiplier": 1.0
+        }
+    ],
+    "enableAdvancedSettings": false,
+    "enableMod": false,
+    "excludeFirstSpellSelector": false,
+    "ignoreAlwaysPrepared": false,
+    "multiclassSpellSlotMultiplier": 1.0,
+    "spellChoiceMultiplier": 1.0,
+    "spellSlotMultiplier": 1.0
+}
