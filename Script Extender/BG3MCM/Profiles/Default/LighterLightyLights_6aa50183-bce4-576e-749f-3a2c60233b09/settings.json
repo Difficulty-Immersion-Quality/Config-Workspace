@@ -1,6 +1,14 @@
 {
     "LightyLights-main": {
         "general_settings": {
+            "ll_add_bone": {
+                "AllowConflict": false,
+                "Enabled": false,
+                "Keyboard": {
+                    "Key": "",
+                    "ModifierKeys": []
+                }
+            },
             "ll_apply_anl": {
                 "AllowConflict": false,
                 "Enabled": false,
@@ -39,6 +47,22 @@
                     "ModifierKeys": [
                         "LShift"
                     ]
+                }
+            },
+            "ll_cycle_bone_gizmo": {
+                "AllowConflict": false,
+                "Enabled": false,
+                "Keyboard": {
+                    "Key": "",
+                    "ModifierKeys": []
+                }
+            },
+            "ll_dummy_popup": {
+                "AllowConflict": false,
+                "Enabled": false,
+                "Keyboard": {
+                    "Key": "",
+                    "ModifierKeys": []
                 }
             },
             "ll_duplicate": {
@@ -109,20 +133,28 @@
                     ]
                 }
             },
-            "ll_select_item_main": {
+            "ll_select_bone": {
+                "AllowConflict": false,
+                "Enabled": false,
                 "Keyboard": {
                     "Key": "",
-                    "ModifierKeys": [
-                        "NONE"
-                    ]
+                    "ModifierKeys": []
+                }
+            },
+            "ll_select_item_main": {
+                "AllowConflict": false,
+                "Enabled": false,
+                "Keyboard": {
+                    "Key": "",
+                    "ModifierKeys": []
                 }
             },
             "ll_select_item_off": {
+                "AllowConflict": false,
+                "Enabled": false,
                 "Keyboard": {
                     "Key": "",
-                    "ModifierKeys": [
-                        "NONE"
-                    ]
+                    "ModifierKeys": []
                 }
             },
             "ll_selected_popup": {

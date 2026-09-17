@@ -2,7 +2,7 @@
     "general": {
         "debugging_settings": {
             "debug_level": 0,
-            "ticks_to_wait_for_delivery": 1
+            "ticks_to_wait_before_delivery": 3
         },
         "general_settings": {
             "mod_enabled": true
@@ -81,7 +81,7 @@
             "maximum_rarity": "Common",
             "move_alcohol": true,
             "move_bought_food": true,
-            "move_consumable": false,
+            "move_consumables": false,
             "move_food": true,
             "send_items_moved_automatically": true
         },

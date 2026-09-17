@@ -1,6 +1,10 @@
 {
     "General": {
+        "apply_to_allies": false,
         "apply_to_companions": true,
+        "apply_to_enemies": false,
+        "apply_to_non_party_members": false,
+        "apply_to_summons": false,
         "auto_end_concentration": true,
         "auto_end_slayer": false,
         "auto_end_wildshape": false,

@@ -28,6 +28,9 @@
         "BaseClassEpicBoons": true,
         "CustomClassEpicBoons": true
     },
+    "expansion_debug": {
+        "DebugAmend": false
+    },
     "feats": {
         "BaseClassFeatSelection": false,
         "BaseClassFeats": "None",
@@ -41,17 +44,53 @@
         "WizardBladesinger": false
     },
     "optional_features": {
-        "Barbarian": true,
-        "Bard": true,
-        "Cleric": true,
-        "Druid": true,
-        "Fighter": true,
-        "Monk": true,
-        "Paladin": true,
-        "Ranger": true,
-        "Rogue": true,
-        "Sorcerer": true,
-        "Warlock": true,
-        "Wizard": true
+        "barbarian_optional_features": {
+            "Barbarian_InstinctivePounce": true,
+            "Barbarian_PrimalKnowledge": true
+        },
+        "bard_optional_features": {
+            "Bard": true
+        },
+        "cleric_optional_features": {
+            "Cleric_BlessedStrikes": false,
+            "Cleric_CantripVersatility": true,
+            "Cleric_HarnessDivinePower": true
+        },
+        "druid_optional_features": {
+            "Druid_CantripVersatility": true,
+            "Druid_WildCompanion": true
+        },
+        "fighter_optional_features": {
+            "Fighter": true
+        },
+        "monk_optional_features": {
+            "Monk_DedicatedWeapon": true,
+            "Monk_FocusedAim": true,
+            "Monk_KiFueledAttack": true,
+            "Monk_QuickenedHealing": true
+        },
+        "paladin_optional_features": {
+            "Paladin_HarnessDivinePower": true,
+            "Paladin_MartialVersatility": true
+        },
+        "ranger_optional_features": {
+            "Ranger_DeftExplorer": true,
+            "Ranger_FavoredFoe": true,
+            "Ranger_MartialVersatility": true,
+            "Ranger_NaturesVeil": true,
+            "Ranger_PrimalAwareness": true
+        },
+        "rogue_optional_features": {
+            "Rogue": true
+        },
+        "sorcerer_optional_features": {
+            "Sorcerer": true
+        },
+        "warlock_optional_features": {
+            "Warlock": true
+        },
+        "wizard_optional_features": {
+            "Wizard": true
+        }
     }
 }

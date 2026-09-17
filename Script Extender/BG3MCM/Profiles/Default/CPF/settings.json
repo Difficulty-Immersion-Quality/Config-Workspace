@@ -11,10 +11,12 @@
     },
     "preset_manager": {
         "open_cpf": {
+            "AllowConflict": false,
+            "Enabled": false,
             "Keyboard": {
                 "Key": "P",
                 "ModifierKeys": [
-                    "LShift"
+                    "LSHIFT"
                 ]
             }
         }

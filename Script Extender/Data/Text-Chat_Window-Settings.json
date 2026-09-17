@@ -1,0 +1,17 @@
+{
+    "ActiveAlpha": 1.0,
+    "AutoHideDelaySeconds": 8,
+    "AutoHideEnabled": true,
+    "ChatFormat": "discord",
+    "GameWindowWidth": 3440.0,
+    "InactiveAlpha": 0.5,
+    "OpenKey": "RETURN",
+    "OverheadTextEnabled": true,
+    "ShowHintMessage": true,
+    "ShowTimestamps": true,
+    "TypingNotificationsEnabled": true,
+    "WindowHeight": 178.0,
+    "WindowWidth": 658.0,
+    "WindowXPos": 1857.0,
+    "WindowYPos": 842.0
+}
