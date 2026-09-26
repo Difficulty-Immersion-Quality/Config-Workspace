@@ -199,7 +199,7 @@
     "Act": {
       "1": {
         "ExtraPassives": ["ShieldMaster_Blow"],
-        "Spells": ["Projectile_StoneThrow","Target_Shove"]
+        "Spells": ["Target_Shove"]
   },
       "2": {
         "ExtraPassives": [],
