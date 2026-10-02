@@ -1,11 +1,65 @@
 {
+    "avoidRepeats": true,
     "blacklistedHandles": [],
+    "dateRanges": {
+        "h23f3a1bcg6dc1g3370gdd0dg73aab4670247": {
+            "first": "12-24",
+            "last": "12-31"
+        },
+        "h5778d575g86f9g4722g2aceg3afed6ac439e": {
+            "first": "12-24",
+            "last": "12-31"
+        },
+        "h60ebfa04gd5b0g97c0gaafeg46177531dff5": {
+            "first": "12-24",
+            "last": "12-31"
+        },
+        "h79c2dfc9g6a52g6d1egf037g9156e2e4ca93": {
+            "first": "12-24",
+            "last": "12-31"
+        },
+        "h8edf160agc346g24dbg7b91ga14e3e63390a": {
+            "first": "12-24",
+            "last": "12-31"
+        },
+        "hb55860a9g764dg2becg1a4cg040610297c2b": {
+            "first": "12-24",
+            "last": "12-31"
+        }
+    },
     "debug": false,
     "enabled": true,
+    "everydayHandles": {
+        "h14df8565g1839g477eg999fgf1599b49fcc2": true,
+        "h23f3a1bcg6dc1g3370gdd0dg73aab4670247": false,
+        "h3783cb6bg15d0g4587g9020g1df90273b266": true,
+        "h54e00f37gf58eg481dg0c95gb25c0f2d488a": true,
+        "h5778d575g86f9g4722g2aceg3afed6ac439e": false,
+        "h60ebfa04gd5b0g97c0gaafeg46177531dff5": true,
+        "h79c2dfc9g6a52g6d1egf037g9156e2e4ca93": false,
+        "h8edf160agc346g24dbg7b91ga14e3e63390a": false,
+        "h9e616d35g9222g4e4eg9e9dg63bf2f121b67": true,
+        "hb55860a9g764dg2becg1a4cg040610297c2b": false,
+        "hda4cfb8bg33aag23e7g1eddg77a4a5b87541": true
+    },
     "holidayAssignments": {
+        "h14df8565g1839g477eg999fgf1599b49fcc2": {
+            "halloween": true
+        },
+        "h3783cb6bg15d0g4587g9020g1df90273b266": {
+            "halloween": true
+        },
+        "h54e00f37gf58eg481dg0c95gb25c0f2d488a": {
+            "halloween": true
+        },
         "h9e616d35g9222g4e4eg9e9dg63bf2f121b67": {
+            "halloween": true
+        },
+        "hda4cfb8bg33aag23e7g1eddg77a4a5b87541": {
             "halloween": true
         }
     },
-    "holidayModeEnabled": true
+    "holidayExclusive": true,
+    "holidayModeEnabled": true,
+    "weights": []
 }
