@@ -453,7 +453,7 @@
 		"Act": {
 			"1": {
 			  "ExtraPassives": ["DefensiveDuelist","Goon_Summon_Potion_Healing_x1","CC_AugmentedDefense_Passive"],
-			  "Spells": ["Target_SoundBurst","Target_ThunderNote","Projectile_IllusionaryDart","Target_HealingWord","Shout_HealingWord_Mass","Shout_ShadowBlade_Class","Target_Antagonize","Target_MotivationalSpeech","Target_CharmMonster","Projectile_PercussiveImpact","Target_ViciousMockery","SD_Projectile_StarryWisp","Target_Bane","Target_DissonantWhispers","Target_HideousLaughter","Target_Blindness"]			  
+			  "Spells": ["Target_SoundBurst","Target_ThunderNote","Projectile_IllusionaryDart","Target_HealingWord","Shout_ShadowBlade_Class","Target_Antagonize","Target_MotivationalSpeech","Target_CharmMonster","Projectile_PercussiveImpact","Target_ViciousMockery","SD_Projectile_StarryWisp","Target_Bane","Target_DissonantWhispers","Target_HideousLaughter","Target_Blindness"]			  
 	},
 			"2": {
 			  "ExtraPassives": ["DualWielder_PassiveBonuses","DualWielder_BonusAC","SS_Dancers_Grace","Goon_Summon_Potion_Healing_Superior_x1","Actor","MAG_BardicInspiration_Heal_Hat_Passive","SS_SpellSaveDC_Rhythm","SS_AmplifiedResonance"],
@@ -508,7 +508,7 @@
 	},
 			"2": {
 			  "ExtraPassives": ["Lucky","Lucky_Unlock","SYR_Feat_WarMagic_AltSpell_Passive","SS_MaestroPrecision","SS_SpotlightEmbrace","SS_QuickbladeGrace","Goon_Target_Elemental_Weapon_Fire_Passive"],
-			  "Spells": ["Target_Smite_Blinding"]			  
+			  "Spells": ["Shout_MAG_DevoteesMace_Healing_Aura","Target_Smite_Blinding"]			  
 	},
 			"3": {
 			  "ExtraPassives": ["ColossusSlayer","SS_AmplifiedResonance"],
@@ -542,11 +542,11 @@
 	},
 			"2": {
 			  "ExtraPassives": ["JackOfAllTrades","OO_EverVigilant_Passive"],
-			  "Spells": ["Shout_HealingWord_Mass","Target_Counterspell"]			  
+			  "Spells": ["Shout_MAG_DevoteesMace_Healing_Aura","Target_Counterspell"]			  		  
 	},
 			"3": {
 			  "ExtraPassives": ["ReliableTalent","Goon_Target_ShieldOfFaith_Passive"],
-			  "Spells": ["Projectile_DivineLance"]			  
+			  "Spells": ["Projectile_DivineLance","Target_CureWounds_Mass"]		  
   }
   }
   },
@@ -559,11 +559,11 @@
 	},
 			"2": {
 			  "ExtraPassives": ["MAG_GroveTempHP_Passive","Goon_Target_Magic_Weapon_Passive"],
-			  "Spells": ["Shout_HealingWord_Mass","Shout_SpiritGuardians"]			  
+			  "Spells": ["Shout_MAG_DevoteesMace_Healing_Aura","Target_CureWounds_Mass","Shout_SpiritGuardians"]			  
 	},
 			"3": {
 			  "ExtraPassives": ["Goon_Shout_HeroesFeast_Passive"],
-			  "Spells": ["Shout_HolyAura","Target_CureWounds_Mass"]			  
+			  "Spells": ["Shout_HolyAura"]			  
   }
   }
   },
@@ -576,7 +576,7 @@
 	  },
 			"2": {
 			  "ExtraPassives": [],
-			  "Spells": ["Shout_HealingWord_Mass","Target_Dawn"]			  
+			  "Spells": ["Shout_MAG_DevoteesMace_Healing_Aura","Target_Dawn"]			  
 	  },
 			"3": {
 			  "ExtraPassives": ["MAG_ShatteredSun_Attack","Goon_Target_Elemental_Weapon_Fire_Passive"],
@@ -593,7 +593,7 @@
 	  },
 			"2": {
 			  "ExtraPassives": ["WW_ElementalBane_Passive"],
-			  "Spells": ["Shout_HealingWord_Mass","Projectile_SnowBall"]			  
+			  "Spells": ["Shout_MAG_DevoteesMace_Healing_Aura","Projectile_SnowBall"]			  
 	  },
 			"3": {
 			  "ExtraPassives": ["Goon_Shout_HeroesFeast_Passive"],
