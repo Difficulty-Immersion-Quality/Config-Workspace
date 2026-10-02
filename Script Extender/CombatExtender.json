@@ -453,15 +453,15 @@
 		"Act": {
 			"1": {
 			  "ExtraPassives": ["DefensiveDuelist","Goon_Summon_Potion_Healing_x1","CC_AugmentedDefense_Passive"],
-			  "Spells": ["Target_SoundBurst","Target_ThunderNote","Projectile_IllusionaryDart","Target_HealingWord","Shout_ShadowBlade_Class","Target_Antagonize","Target_MotivationalSpeech","Target_CharmMonster","Projectile_PercussiveImpact","Target_ViciousMockery","SD_Projectile_StarryWisp","Target_Bane","Target_DissonantWhispers","Target_HideousLaughter","Target_Blindness"]			  
+			  "Spells": ["Target_ThunderNote","Projectile_IllusionaryDart","Target_HealingWord","Projectile_PercussiveImpact"]			  
 	},
 			"2": {
 			  "ExtraPassives": ["DualWielder_PassiveBonuses","DualWielder_BonusAC","SS_Dancers_Grace","Goon_Summon_Potion_Healing_Superior_x1","Actor","MAG_BardicInspiration_Heal_Hat_Passive","SS_SpellSaveDC_Rhythm","SS_AmplifiedResonance"],
-			  "Spells": ["TK_Thrust","Target_MindSpike","Target_MoonbladeSlash_Fire","Shout_DiscordantMelody"]
+			  "Spells": ["Target_MindSpike"]
 	},
 			"3": {
-			  "ExtraPassives": ["Goon_Utility_Resource_3","Goon_Utility_Target_Invisibility_2","SYR_Feat_WarMagic_AltSpell_Passive","SS_SpringStep","SS_CharismaticFocus","SS_MarvelousEscape","SS_SoulfulHarmony","SS_EncorePerformance_LowHP","SS_PersuasionHat"],
-			  "Spells": ["Target_Shove_Trip","Shout_GirzanjesMarch","Target_DominateMonster","Target_Feeblemind","Target_PowerWordStun","Zone_CrushingDespair","Target_IrresistibleDance","Target_Taunt_NPC","Target_Persuade_NPC"]
+			  "ExtraPassives": ["SYR_Feat_WarMagic_AltSpell_Passive","SS_SpringStep","SS_CharismaticFocus","SS_MarvelousEscape","SS_SoulfulHarmony","SS_EncorePerformance_LowHP","SS_PersuasionHat"],
+			  "Spells": ["Target_Shove_Trip","Target_IrresistibleDance"]
   }
   }
   },
@@ -469,16 +469,16 @@
 	  "PassiveName": "CX_Bard_Lore_Boost",
 		"Act": {
 			"1": {
-			  "ExtraPassives": ["CuttingWords"],
-			  "Spells": ["Target_CuttingWords"]			  
+			  "ExtraPassives": [],
+			  "Spells": ["Target_HideousLaughter","Target_MotivationalSpeech"]			  
 	},
 			"2": {
 			  "ExtraPassives": ["UND_SocietyOfBrilliance_MagicMissileNecklace_Passive"],
 			  "Spells": ["Zone_Fear","Target_StinkingCloud","Projectile_MagicMissile"]			  
 	},
 			"3": {
-			  "ExtraPassives": ["SS_AmplifiedResonance"],
-			  "Spells": ["Target_Confusion","Target_HungerOfHadar"]			  
+			  "ExtraPassives": ["Goon_Utility_Resource_3","Goon_Utility_Target_Invisibility_2","SS_AmplifiedResonance"],
+			  "Spells": ["Target_Confusion","Target_HungerOfHadar","Zone_CrushingDespair"]			  
   }
   }
   },
@@ -487,15 +487,15 @@
 		"Act": {
 			"1": {
 			  "ExtraPassives": ["Goon_BladeFlourishInterrupts_Unlock"],
-			  "Spells": []			  
+			  "Spells": ["Target_ViciousMockery","Shout_ShadowBlade_Class"]			  
 	},
 			"2": {
 			  "ExtraPassives": ["SYR_Feat_DeadlyAlacrity_Passive","Lucky","Lucky_Unlock","SYR_Feat_WarMagic_AltSpell_Passive","SS_MaestroPrecision","SS_SpotlightEmbrace","SS_QuickbladeGrace","Goon_Target_ShieldOfFaith_Passive"],
-			  "Spells": []			  
+			  "Spells": ["Target_MoonbladeSlash_Fire"]			  
 	},
 			"3": {
 			  "ExtraPassives": ["Goon_SavageShooter","Sharpshooter_Allin","Sharpshooter_Bonuses"],
-			  "Spells": []			  
+			  "Spells": ["Target_Taunt_NPC","Target_PowerWordStun"]			  
   }
   }
   },
@@ -504,15 +504,15 @@
 		"Act": {
 			"1": {
 			  "ExtraPassives": [],
-			  "Spells": ["Target_ThornWhip","Target_Smite_Thunderous","Shout_Blur"]			  
+			  "Spells": ["Target_ThornWhip","Target_Smite_Thunderous","Shout_Blur","Target_SoundBurst"]			  
 	},
 			"2": {
 			  "ExtraPassives": ["Lucky","Lucky_Unlock","SYR_Feat_WarMagic_AltSpell_Passive","SS_MaestroPrecision","SS_SpotlightEmbrace","SS_QuickbladeGrace","Goon_Target_Elemental_Weapon_Fire_Passive"],
-			  "Spells": ["Shout_MAG_DevoteesMace_Healing_Aura","Target_Smite_Blinding"]			  
+			  "Spells": ["Target_Smite_Blinding","Shout_DiscordantMelody"]			  
 	},
 			"3": {
 			  "ExtraPassives": ["ColossusSlayer","SS_AmplifiedResonance"],
-			  "Spells": ["Target_BlackTentacles","Target_StaggeringSmite"]			  
+			  "Spells": ["Target_BlackTentacles","Target_StaggeringSmite","Target_Feeblemind"]					  
   }
   }
   },
@@ -986,7 +986,7 @@
     },
         "2": {
           "ExtraPassives": ["UncannyDodge","Goon_Increased_Movement_2","Goon_Summon_Potion_Healing_Superior_x1","DirtyKickUnlock","CrossbowExpert_Wounding","JWL_Passive_GuardianEmblem"],
-          "Spells": ["Target_Shove_Trip","MO_Projectile_Jump_Dex"]
+          "Spells": ["Target_Shove_Trip"]
     },
         "3": {
 			  "ExtraPassives": ["Evasion","EscapeTheHorde","MAG_Infernal_Weapon_Passive","MAG_Slicing_Shortsword_Passive","ARA_Cloak_CatGrace","BSM_BS_UnstoppableMassacre_Passive","CrossbowExpert_PointBlank"],
