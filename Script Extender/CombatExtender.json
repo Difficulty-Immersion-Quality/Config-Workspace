@@ -644,7 +644,7 @@
 	},
 			"2": {
 			  "ExtraPassives": ["MageSlayer_Advantage","MageSlayer_BreakConcentration","Crusade_NonMagical_Resistance_Passive"],
-			  "Spells": []			  
+			  "Spells": ["Shout_SpiritGuardians"]	  
 	},
 			"3": {
 			  "ExtraPassives": ["MAG_StarAura_Ring_Passive","MAG_ShatteredSun_Attack","OO_RadiantSurge_Passive"],
