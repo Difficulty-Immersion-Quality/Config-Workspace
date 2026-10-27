@@ -164,7 +164,7 @@
 	  "PassiveName": "CX_Boss_Boost",
 		"Act": {
 			"1": {
-			  "ExtraPassives": ["ImmuneToDisarm","Goon_Immunity_Domination","MultiattackDefense"],
+			  "ExtraPassives": ["ImmuneToDisarm","Goon_Immunity_Domination","MultiattackDefense","NZX_NotSpellRestrict"],
 			  "Spells": ["AJ_Shout_ActionSurge_Emergency","Target_ValkranaBoneLiquefaction"]
 	},
 			"2": {
