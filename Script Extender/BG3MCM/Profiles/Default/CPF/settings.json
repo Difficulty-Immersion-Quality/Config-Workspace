@@ -1,5 +1,6 @@
 {
     "General": {
+        "apply_race_and_body": false,
         "auto_enter_mirror": true,
         "auto_generate_portrait": false,
         "list_private_parts": true
