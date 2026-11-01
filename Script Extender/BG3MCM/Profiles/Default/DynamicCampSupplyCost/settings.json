@@ -70,10 +70,10 @@
     },
     "Categories": {
         "core_categories": {
-            "category_active_party_multiplier": 2.0,
+            "category_active_party_multiplier": 1.75,
             "category_children": 0.75,
             "category_hireling_multiplier": 1.0,
-            "category_idle_follower_multiplier": 2.0,
+            "category_idle_follower_multiplier": 1.75,
             "category_pet_multiplier": 0.25,
             "category_supernatural_multiplier": 0.0,
             "category_unknown_multiplier": 0.5
