@@ -1,0 +1,22 @@
+{
+    "FOCK_Settings": {
+        "FOCK_Creature_Sounds": {
+            "FOCK_Creature_Vocalizations_Outside_Combat": false,
+            "FOCK_Suppress_Creature_Movement": false,
+            "FOCK_Suppress_Creature_Vocalizations": false
+        },
+        "FOCK_NPC_Banter": {
+            "FOCK_Banter_Once": false,
+            "FOCK_Banter_Once_Include_Party": false
+        },
+        "FOCK_Overhead_Damage": {
+            "FOCK_Hide_Damage_Out_Of_Combat": false,
+            "FOCK_Hide_Zero_Damage": true,
+            "MML_Hide_Damage_Numbers": false
+        },
+        "FOCK_Overhead_Text": {
+            "FOCK_Hide_All_Barks": false,
+            "MML_Hide_Obstructed_Barks": false
+        }
+    }
+}
