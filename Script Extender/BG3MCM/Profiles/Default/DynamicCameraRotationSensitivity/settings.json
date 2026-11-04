@@ -1,0 +1,15 @@
+{
+    "General": {
+        "DefaultMouseRotationSpeed": 90,
+        "MaxSensitivity": 1.0,
+        "MinSensitivity": 0.4000000059604645,
+        "SmoothingFactor": 0.009999999776482582,
+        "VelocityThreshold": 10,
+        "mod_enabled": true
+    },
+    "debug": {
+        "debug": {
+            "debug_level": 0
+        }
+    }
+}
