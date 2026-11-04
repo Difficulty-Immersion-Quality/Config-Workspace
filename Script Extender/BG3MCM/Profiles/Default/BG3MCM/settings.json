@@ -48,7 +48,7 @@
     },
     "sidebar": {
         "sidebar_settings": {
-            "animation_duration": 200,
+            "animation_duration": 100,
             "collapsed_by_default": false,
             "enable_auto_collapse": true,
             "enable_hover": true,
@@ -69,10 +69,12 @@
         },
         "interface_preferences": {
             "font_size": "Small",
+            "font_style_all_mods": true,
             "open_on_start": false,
             "restore_last_page": true,
             "restore_last_subtab": true,
-            "typeface": ""
+            "typeface": "",
+            "window_opacity": 0.8500000238418579
         },
         "multiplayer_settings": {
             "host-only_mode": false
@@ -93,6 +95,13 @@
                 "Enabled": true,
                 "Keyboard": {
                     "Key": "INSERT",
+                    "ModifierKeys": []
+                }
+            },
+            "toggle_mcm_windows_visibility_keybinding": {
+                "Enabled": true,
+                "Keyboard": {
+                    "Key": "F10",
                     "ModifierKeys": []
                 }
             }
