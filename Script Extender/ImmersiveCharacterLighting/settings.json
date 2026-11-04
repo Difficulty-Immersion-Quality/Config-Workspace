@@ -1,0 +1,104 @@
+{
+    "orientation": "offsets",
+    "saved": {
+        "PL_EXT_NOON": {
+            "base": "Immersive",
+            "cinematic": 50,
+            "preset": "Custom",
+            "ref": {
+                "Fill:intensity": "Vanilla"
+            },
+            "v": {
+                "Fill": {
+                    "att": [
+                        1,
+                        1
+                    ],
+                    "col": [
+                        1,
+                        1,
+                        1
+                    ],
+                    "dim": [
+                        1,
+                        1,
+                        1
+                    ],
+                    "intensity": 12000.0,
+                    "kelvin": 6000.0,
+                    "kelvinOn": false,
+                    "pos": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "rot": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                "Key": {
+                    "att": [
+                        1,
+                        1
+                    ],
+                    "col": [
+                        1,
+                        1,
+                        1
+                    ],
+                    "dim": [
+                        1,
+                        1,
+                        1
+                    ],
+                    "intensity": 0,
+                    "kelvin": 5000,
+                    "kelvinOn": false,
+                    "pos": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "rot": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                "Rim": {
+                    "att": [
+                        1,
+                        1
+                    ],
+                    "col": [
+                        1,
+                        1,
+                        1
+                    ],
+                    "dim": [
+                        1,
+                        1,
+                        1
+                    ],
+                    "intensity": 25000.0,
+                    "kelvin": 6000.0,
+                    "kelvinOn": false,
+                    "pos": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "rot": [
+                        0,
+                        0,
+                        0
+                    ]
+                }
+            }
+        }
+    },
+    "version": 5,
+    "zones": []
+}
