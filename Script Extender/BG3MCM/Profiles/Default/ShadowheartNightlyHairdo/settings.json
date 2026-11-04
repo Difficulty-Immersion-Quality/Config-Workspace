@@ -3,7 +3,7 @@
         "advanced": {
             "AutoSwap": false,
             "DebugOutput": false,
-            "KeepExtensions": false
+            "KeepExtensions": true
         }
     }
 }
