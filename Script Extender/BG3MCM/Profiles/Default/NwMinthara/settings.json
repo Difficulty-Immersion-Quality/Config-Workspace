@@ -1,9 +1,9 @@
 {
     "advanced": {
         "advanced": {
-            "AutoSwap": false,
+            "AutoSwap": true,
             "DebugOutput": false,
-            "KeepExtensions": false
+            "KeepExtensions": true
         }
     }
 }

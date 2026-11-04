@@ -1,0 +1,16 @@
+{
+    "NwM_DayExtensions": "[]",
+    "NwM_DayGreyingIntensity": 0.0,
+    "NwM_DayGreyingUUID": "509e4a17-ea4c-47f2-8a3b-67f9c1a7d3f6",
+    "NwM_DayHairColourUUID": "f110bcb1-8998-4158-a4b0-b2e8a4d02101",
+    "NwM_DayHairUUID": "30207433-976d-372b-a0a3-43d0b0201157",
+    "NwM_DayHighlightIntensity": 0.0,
+    "NwM_DayHighlightUUID": "de0d5d04-a223-4024-8f2a-6ccec36af62e",
+    "NwM_NightExtensions": "",
+    "NwM_NightGreyingIntensity": 0,
+    "NwM_NightGreyingUUID": "",
+    "NwM_NightHairColourUUID": "f110bcb1-8998-4158-a4b0-b2e8a4d02101",
+    "NwM_NightHairUUID": "0936c033-5416-4451-9e12-4f7ece6c30e6",
+    "NwM_NightHighlightIntensity": 0,
+    "NwM_NightHighlightUUID": ""
+}
