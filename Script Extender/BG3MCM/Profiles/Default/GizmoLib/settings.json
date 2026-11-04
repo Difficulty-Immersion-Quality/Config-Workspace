@@ -1,0 +1,101 @@
+{
+    "GizmoLib_GUI": {
+        "GL_Camera": {
+            "gizmolib_camera_disable_bg3sx_snapping": true,
+            "gizmolib_camera_enabled": true,
+            "gizmolib_camera_hide_ui": true,
+            "gizmolib_camera_speed": 15.0
+        },
+        "GL_Colors": {
+            "boxsel_border_color": [
+                0.0,
+                0.47,
+                0.07,
+                1.0
+            ],
+            "boxsel_fill_color": [
+                0.07,
+                0.07,
+                0.07,
+                0.07
+            ],
+            "close_button_color": [
+                0.29,
+                0.0,
+                0.0,
+                0.76
+            ],
+            "close_button_hovered_color": [
+                0.57,
+                0.0,
+                0.0,
+                0.59
+            ],
+            "toolbar_bg_color": [
+                0.1,
+                0.1,
+                0.1,
+                0.92
+            ],
+            "toolbar_combo_arrow_color": [
+                0.22,
+                0.22,
+                0.22,
+                1.0
+            ],
+            "toolbar_frame_bg_color": [
+                0.18,
+                0.18,
+                0.18,
+                1.0
+            ],
+            "toolbar_hint_text_color": [
+                0.5,
+                0.5,
+                0.5,
+                1.0
+            ],
+            "toolbar_text_color": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+            ]
+        },
+        "RB_Gizmo": {
+            "gizmo_size": 0.1
+        },
+        "RB_Toolbar": {
+            "box_selection_depth_step": 0.35,
+            "box_selection_move_step": 0.1,
+            "box_selection_rotate_step": 15.0,
+            "box_selection_size_step": 10.0,
+            "notification_position": "Top Right",
+            "toolbar_position": 0.5,
+            "transform_controls_move_step": 1.0,
+            "transform_controls_rotate_step": 15.0,
+            "transform_controls_scale_step": 81.0
+        }
+    },
+    "GizmoLib_Keys": {
+        "key_toggle_transform_toolbar": {
+            "AllowConflict": false,
+            "Enabled": false,
+            "Keyboard": {
+                "Key": "T",
+                "ModifierKeys": [
+                    "LSHIFT"
+                ]
+            }
+        }
+    },
+    "GizmoLib_Main": {
+        "RB_Main": {
+            "box_selection_containment_percent": 90,
+            "box_selection_initial_depth": 0.1,
+            "max_selection_size": 300,
+            "move_step": 1.0,
+            "slider_int_debug_level": 0
+        }
+    }
+}
