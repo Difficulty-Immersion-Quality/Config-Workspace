@@ -1,24 +1,6 @@
 {
     "LightyLights-main": {
         "general_settings": {
-            "ll_add_bone": {
-                "AllowConflict": false,
-                "Enabled": false,
-                "Keyboard": {
-                    "Key": "",
-                    "ModifierKeys": []
-                }
-            },
-            "ll_apply_anl": {
-                "AllowConflict": false,
-                "Enabled": false,
-                "Keyboard": {
-                    "Key": "NUM_3",
-                    "ModifierKeys": [
-                        "LShift"
-                    ]
-                }
-            },
             "ll_beam": {
                 "AllowConflict": false,
                 "Enabled": false,
@@ -49,12 +31,12 @@
                     ]
                 }
             },
-            "ll_cycle_bone_gizmo": {
-                "AllowConflict": false,
-                "Enabled": false,
+            "ll_bz_quicksave": {
                 "Keyboard": {
-                    "Key": "",
-                    "ModifierKeys": []
+                    "Key": "S",
+                    "ModifierKeys": [
+                        "LSHIFT"
+                    ]
                 }
             },
             "ll_dummy_popup": {
@@ -83,6 +65,14 @@
                     "ModifierKeys": [
                         "NONE"
                     ]
+                }
+            },
+            "ll_hide_window": {
+                "AllowConflict": false,
+                "Enabled": false,
+                "Keyboard": {
+                    "Key": "F10",
+                    "ModifierKeys": []
                 }
             },
             "ll_move_to_cursor": {
@@ -131,14 +121,6 @@
                     "ModifierKeys": [
                         "LAlt"
                     ]
-                }
-            },
-            "ll_select_bone": {
-                "AllowConflict": false,
-                "Enabled": false,
-                "Keyboard": {
-                    "Key": "",
-                    "ModifierKeys": []
                 }
             },
             "ll_select_item_main": {
