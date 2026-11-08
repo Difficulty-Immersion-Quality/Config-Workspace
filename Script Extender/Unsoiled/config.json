@@ -1,5 +1,9 @@
 {
     "npcs": {
+        "0e47fcb9-c0c4-4b0c-902b-2d13d209e760": {
+            "enabled": true,
+            "label": "Gandrel"
+        },
         "25721313-0c15-4935-8176-9f134385451b": {
             "enabled": true,
             "label": "Minthara"
@@ -8,9 +12,85 @@
             "enabled": true,
             "label": "Karlach"
         },
+        "3f461909-81a2-825c-2365-5387db9121f9": {
+            "enabled": true,
+            "label": "Auntie Ethel"
+        },
+        "4c42f14a-c99a-4ba0-891c-136bf7ed38bb": {
+            "enabled": true,
+            "label": "Oliver Quarlic"
+        },
+        "511c9413-25fe-449c-a81d-4b09bc20745a": {
+            "enabled": true,
+            "label": "Araj Oblodra"
+        },
+        "5e52cf9c-b673-45b7-888c-2c105eb4d890": {
+            "enabled": true,
+            "label": "Ulma"
+        },
+        "630d63de-ae45-4649-8cbd-563b6d3055ae": {
+            "enabled": true,
+            "label": "Pumler Grejit"
+        },
+        "646936f3-8d8d-484e-9361-cd1ed484c615": {
+            "enabled": true,
+            "label": "Roah Moonglow"
+        },
+        "6c55edb0-901b-4ba4-b9e8-3475a8392d9b": {
+            "enabled": true,
+            "label": "Nightsong"
+        },
+        "7628bc0e-52b8-42a7-856a-13a6fd413323": {
+            "enabled": true,
+            "label": "Halsin"
+        },
+        "8948bd61-52a0-41a0-99b8-bb6d4c301255": {
+            "enabled": true,
+            "label": "Katelyn Lerskin"
+        },
         "91b6b200-7d00-4d62-8dc9-99e8339dfa1a": {
             "enabled": true,
             "label": "Jaheira"
+        },
+        "95eb2b0b-a522-4ea5-8167-c5f4d1418156": {
+            "enabled": true,
+            "label": "Kagha"
+        },
+        "a4ef7429-bca0-4e2f-9aab-a4eff9ac95e9": {
+            "enabled": true,
+            "label": "Cassivora Dophir"
+        },
+        "afbb70d4-5cc4-444f-90b6-0d243b6418c3": {
+            "enabled": true,
+            "label": "Dominica Arsetz"
+        },
+        "b878a854-f790-4999-95c4-3f20f00f65ac": {
+            "enabled": true,
+            "label": "Lord Enver Gortash"
+        },
+        "c2e4f43d-c5e6-4f86-9bfc-2dd3804408f5": {
+            "enabled": true,
+            "label": "Lord Enver Gortash"
+        },
+        "c457d064-83fb-4ec6-b74d-1f30dfafd12d": {
+            "enabled": true,
+            "label": "Auntie Ethel"
+        },
+        "c8ab1ca6-96bb-467e-91c9-af87bc4d3925": {
+            "enabled": true,
+            "label": "Mol"
+        },
+        "d6e7f76b-9922-43b2-a44d-d9f91f9d9fd6": {
+            "enabled": true,
+            "label": "Auntie Ethel"
+        },
+        "e8d29eff-5c93-4f53-b996-0a769cb4aefd": {
+            "enabled": true,
+            "label": "CINE_Humans_Female_Strong_NightSong_BothOutfits"
+        },
+        "eb08e3f6-9059-498a-8125-1d9af24ee67f": {
+            "enabled": true,
+            "label": "Godfrey Mordels"
         },
         "ef1b7a12-6439-470a-885c-fa47851728cd": {
             "enabled": true,
@@ -19,6 +99,10 @@
         "f769815c-d437-4a45-9ae4-aebd53ec8f7c": {
             "enabled": true,
             "label": "Quartermaster Talli"
+        },
+        "fb9cc235-398e-418d-a4a2-5da058fe7055": {
+            "enabled": true,
+            "label": "Auntie Ethel"
         }
     }
 }

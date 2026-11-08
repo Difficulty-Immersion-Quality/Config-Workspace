@@ -1,0 +1,13 @@
+{
+    "settings": {
+        "cache": {
+            "enable_cache": true
+        },
+        "compatibility": {
+            "patch_unknown_textures": false
+        },
+        "debug": {
+            "debug_level": 0
+        }
+    }
+}

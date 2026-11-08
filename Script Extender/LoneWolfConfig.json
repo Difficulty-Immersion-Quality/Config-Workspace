@@ -10,6 +10,7 @@
     "enableHpMax": true,
     "enableStatBoosts": true,
     "enabled": true,
+    "excludeSpellRestriction": true,
     "hpPercent": 30,
     "partyLimit": 2,
     "reactionPoints": 1,
