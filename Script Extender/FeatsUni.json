@@ -21,5 +21,6 @@
     "featFrequency": 0,
     "fighterfeat": 6,
     "multiclassFeatAtLevel1": false,
-    "roguefeat": 10
+    "roguefeat": 10,
+    "useCharacterLevel": false
 }
