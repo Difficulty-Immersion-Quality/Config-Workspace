@@ -1,0 +1,15 @@
+{
+    "OPENQUESTIONMARK": false,
+    "animCntNotReallyASetting": 0,
+    "autoUpdate": false,
+    "changeLogVersion": "Dani",
+    "currentDeafaultAnim": "745ceba9-a068-c791-cbf5-bc973d03c212",
+    "currentDeafaultAnimMapKey": "0f07ec6e-4ef0-434e-9a51-1353260ccff8",
+    "enablePM": true,
+    "moveSearch": false,
+    "preventServer": true,
+    "style": 1,
+    "syncDummies": false,
+    "tooltipsEnabled": true,
+    "uiRounding": false
+}
