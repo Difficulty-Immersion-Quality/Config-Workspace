@@ -15,7 +15,6 @@
         "Level19": 50000,
         "Level2": 1,
         "Level20+": 50000,
-        "Level20PlusList": "",
         "Level3": 1500,
         "Level4": 3500,
         "Level5": 7000,
@@ -33,32 +32,10 @@
         "DebugAmend": false
     },
     "feats": {
-        "feats_base": {
-            "BaseClassFeatMode": "All Base Classes",
-            "BaseClassFeatSelection": false,
-            "BaseClassFeats": "None",
-            "ExtraFeats_Barbarian": "",
-            "ExtraFeats_Bard": "",
-            "ExtraFeats_Cleric": "",
-            "ExtraFeats_Druid": "",
-            "ExtraFeats_Fighter": "",
-            "ExtraFeats_Monk": "",
-            "ExtraFeats_Paladin": "",
-            "ExtraFeats_Ranger": "",
-            "ExtraFeats_Rogue": "",
-            "ExtraFeats_Sorcerer": "",
-            "ExtraFeats_Warlock": "",
-            "ExtraFeats_Wizard": ""
-        },
-        "feats_custom": {
-            "CustomClassFeatMode": "All Custom Classes",
-            "CustomClassFeatSelection": false,
-            "CustomClassFeats": "None",
-            "ExtraFeats_CustomClasses": {
-                "elements": [],
-                "enabled": false
-            }
-        }
+        "BaseClassFeatSelection": false,
+        "BaseClassFeats": "None",
+        "CustomClassFeatSelection": false,
+        "CustomClassFeats": "None"
     },
     "misc": {
         "ExpansionBladesinger": true,

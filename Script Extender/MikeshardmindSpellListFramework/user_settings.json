@@ -1,0 +1,18 @@
+{
+    "active_mod_provided_rules": [],
+    "active_user_rules": [
+		"DIQ.DIQ"
+	],
+    "dump_lists": false,
+    "inactive_mod_provided_rules": [],
+    "inactive_user_rules": [
+        "examples.BladeCantrips"
+    ],
+    "use_mod_provided_settings": [
+        "*"
+    ],
+    "user_rule_namespaces": [
+        "examples",
+		"DIQ"
+    ]
+}
