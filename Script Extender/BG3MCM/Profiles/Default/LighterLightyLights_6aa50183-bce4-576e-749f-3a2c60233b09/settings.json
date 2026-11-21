@@ -93,6 +93,12 @@
                     ]
                 }
             },
+            "ll_pm_hideuiandkeepcontrols": {
+                "Keyboard": {
+                    "Key": "F11",
+                    "ModifierKeys": []
+                }
+            },
             "ll_pm_next_dummy": {
                 "AllowConflict": false,
                 "Enabled": false,
