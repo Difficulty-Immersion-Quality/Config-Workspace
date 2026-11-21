@@ -21,6 +21,16 @@
             "ML_MaxObjects": 3000
         }
     },
+    "ML_Facial_Animation_And_Speech": {
+        "ML_Section_Facial_Animation": {
+            "ML_Force_SE_Calibration": false,
+            "ML_LipSync_Backend": "Audio2Face"
+        },
+        "ML_Section_Speech": {
+            "ML_NativeSpeech_Stream": false,
+            "ML_SpeechReplacement_Backend": "None"
+        }
+    },
     "ML_General": {
         "Section_Noesis": {
             "ML_Auto_Let_KEN_Helper_Monitor_Noesis": true,
@@ -104,9 +114,18 @@
         }
     },
     "ML_World_UI_Settings": {
+        "ML_Inspect_Settings": {
+            "ML_Inspect_Dump_Next_Entity": false,
+            "ML_Inspect_Last_Position": false,
+            "ML_Inspect_Right_Click_Enabled": false,
+            "ML_Inspect_Tile": false
+        },
+        "ML_Teleport_Settings": {
+            "ML_Teleport_Right_Click_Enabled": false
+        },
         "ML_World_UI_Right_Click": {
-            "ML_WorldUI_Right_Click_Enabled": true,
-            "ML_WorldUI_Right_Click_Require_Alt": true,
+            "ML_WorldUI_Right_Click_Enabled": false,
+            "ML_WorldUI_Right_Click_Require_Alt": false,
             "ML_WorldUI_Right_Click_Require_Ctrl": false,
             "ML_WorldUI_Right_Click_Require_Shift": false
         }

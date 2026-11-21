@@ -3810,10 +3810,6 @@
                         "ability": "No Save",
                         "onApplication": true
                     },
-                    "GOON_GRIT_GLORY_LONGTERM_MADNESS_REMOVAL": {
-                        "ability": "No Save",
-                        "onApplication": true
-                    },
                     "GOON_HEAL_INJURY_REMOVAL": {
                         "ability": "No Save",
                         "onApplication": true
@@ -7284,10 +7280,6 @@
                 "include_in_random_table": true,
                 "remove_on_status": {
                     "GOON_GREATER_RESTORATION_INJURY_REMOVAL": {
-                        "ability": "No Save",
-                        "onApplication": true
-                    },
-                    "GOON_GRIT_GLORY_SHORTTERM_MADNESS_REMOVAL": {
                         "ability": "No Save",
                         "onApplication": true
                     },

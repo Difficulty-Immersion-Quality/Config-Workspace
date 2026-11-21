@@ -1,0 +1,93 @@
+{
+    "CoJ_General": {
+        "Section_UI": {
+            "CoJ_Enabled": false,
+            "CoJ_Radius": 8.0,
+            "CoJ_Rotation_Speed": 0.25,
+            "CoJ_Spin_Speed": 12.5
+        }
+    },
+    "CoJ_Models": {
+        "Section_MCM_Enabling": {},
+        "Section_Model_DGB_F": {
+            "CoJ_DGB_F_UUID": "8ef4c8ea-317d-4539-aa5b-c5e899cf0f31",
+            "CoJ_Include_DGB_F": true
+        },
+        "Section_Model_DGB_M": {
+            "CoJ_DGB_M_UUID": "c66bc36f-7cb0-41fa-92f0-6d81d7d17ba3",
+            "CoJ_Include_DGB_M": true
+        },
+        "Section_Model_DWR_F": {
+            "CoJ_DWR_F_UUID": "70cddf7f-fab6-4470-9815-85c255e05d27",
+            "CoJ_Include_DWR_F": true
+        },
+        "Section_Model_DWR_M": {
+            "CoJ_DWR_M_UUID": "72f584af-b29b-4e79-be4a-a175b2e1f864",
+            "CoJ_Include_DWR_M": true
+        },
+        "Section_Model_GNO_F": {
+            "CoJ_GNO_F_UUID": "7b532ee4-f59d-418c-8eff-7b6df269c355",
+            "CoJ_Include_GNO_F": true
+        },
+        "Section_Model_GNO_M": {
+            "CoJ_GNO_M_UUID": "130fc56f-4361-41a4-955b-fee0e4541670",
+            "CoJ_Include_GNO_M": true
+        },
+        "Section_Model_GTY_F": {
+            "CoJ_GTY_F_UUID": "58a69333-40bf-8358-1d17-fff240d7fb12",
+            "CoJ_Include_GTY_F": true
+        },
+        "Section_Model_GTY_M": {
+            "CoJ_GTY_M_UUID": "ba63c9de-13fc-4011-94a1-0ca11c29893e",
+            "CoJ_Include_GTY_M": true
+        },
+        "Section_Model_HFL_F": {
+            "CoJ_HFL_F_UUID": "0c44cf75-a73c-4165-b57e-8a4af925214e",
+            "CoJ_Include_HFL_F": true
+        },
+        "Section_Model_HFL_M": {
+            "CoJ_HFL_M_UUID": "598cd559-3fb9-4b23-a3b8-a8b5b5d7b8f7",
+            "CoJ_Include_HFL_M": true
+        },
+        "Section_Model_HRC_F": {
+            "CoJ_HRC_F_UUID": "cf7809c0-2b84-4062-8aef-0184ccea4aba",
+            "CoJ_Include_HRC_F": true
+        },
+        "Section_Model_HRC_M": {
+            "CoJ_HRC_M_UUID": "51af09b7-6062-4d8e-88d0-09e9225b06e6",
+            "CoJ_Include_HRC_M": true
+        },
+        "Section_Model_HUM_F": {
+            "CoJ_HUM_F_UUID": "2ac51f22-e357-4639-b81d-022d462c8c6a",
+            "CoJ_Include_HUM_F": true
+        },
+        "Section_Model_HUM_FS": {
+            "CoJ_HUM_FS_UUID": "3303e8f6-a7e4-4b24-b64c-d64bbc152803",
+            "CoJ_Include_HUM_FS": true
+        },
+        "Section_Model_HUM_M": {
+            "CoJ_HUM_M_UUID": "fd7f2707-8f86-4836-bda8-e0db99c389cc",
+            "CoJ_Include_HUM_M": true
+        },
+        "Section_Model_HUM_MS": {
+            "CoJ_HUM_MS_UUID": "0de603c5-42e2-4811-9dad-f652de080eba",
+            "CoJ_Include_HUM_MS": true
+        },
+        "Section_Model_TIF_F": {
+            "CoJ_Include_TIF_F": true,
+            "CoJ_TIF_F_UUID": "7fada45e-9347-4530-8193-1fcd0242d8dd"
+        },
+        "Section_Model_TIF_FS": {
+            "CoJ_Include_TIF_FS": true,
+            "CoJ_TIF_FS_UUID": "3ab0a797-0904-47cb-955d-cdc3ec32409c"
+        },
+        "Section_Model_TIF_M": {
+            "CoJ_Include_TIF_M": true,
+            "CoJ_TIF_M_UUID": "1fde348c-ea64-4ca6-a20c-b6841fbd3e43"
+        },
+        "Section_Model_TIF_MS": {
+            "CoJ_Include_TIF_MS": true,
+            "CoJ_TIF_MS_UUID": "3232f9b3-2ad5-442c-9861-92624b258e5b"
+        }
+    }
+}
