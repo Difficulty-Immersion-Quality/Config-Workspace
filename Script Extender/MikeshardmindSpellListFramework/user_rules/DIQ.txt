@@ -1,0 +1,53 @@
+[rulegroup]
+name: DIQ
+description: DIQ consistency (Sailor > Luma > 5e > ATT > Various > Base)
+prefer: Target_BoomingBlade_5e, Target_BoomingBlade_Default, Target_BoomingBlade, Target_BoomingBlade_ClassSpell
+prefer: Shout_LHB_SEL_Druidcraft, Shout_Druidcraft, Target_Druidcraft
+prefer: Target_LHB_SEL_Frostbite, Target_Frostbite
+prefer: Target_LHB_SEL_Gust, Target_Gust
+prefer: Target_LHB_SEL_LightningLure, Target_LightningLure
+prefer: Target_LHB_SEL_Mind_Sliver, Target_MindSliver, Target_IB_MindSliver
+prefer: Target_LHB_SEL_PrimalSavagery, Target_PrimalSavagery
+prefer: Target_LHB_SEL_SappingSting, Target_ATT_SappingSting
+prefer: Target_LHB_SEL_SpareTheDying, Target_SpareTheDying
+prefer: Shout_LHB_SEL_SwordBurst, Shout_SwordBurst
+prefer: Shout_LHB_SEL_Thunderclap, Shout_Thunderclap
+prefer: Shout_LHB_FavoredSoul_UnearthlyRecovery, Shout_UnearthlyRecovery
+prefer: Shout_LHB_SEL_WordOfRadiance, Shout_WordOfRadiance
+prefer: Shout_AbsorbElements, Shout_AbsorbElements_Artificer
+prefer: Target_LHB_SEL_CauseFear, Target_CauseFear
+prefer: Zone_LHB_SEL_FrostFingers, Zone_FrostFingers
+prefer: Target_LHB_SEL_GiftOfAlacrity, Target_ATT_GiftOfAlacrity
+prefer: Target_LHB_SEL_MagnifyGravity, Target_ATT_MagnifyGravity
+prefer: Zone_LHB_SEL_AganazzarsScorcher, Zone_AganazzarsScorcher
+prefer: Target_LHB_SEL_FortunesFavor, Target_ATT_FortuneFavour
+prefer: Target_LHB_SEL_MindSpike, Target_MindSpike
+prefer: Target_LHB_SEL_SnillocsSnowballSwarm, Target_SnillocsSnowballStorm, Target_SnowballSwarm
+prefer: Shout_LHB_SEL_Catnap, Target_Catnap
+prefer: Target_LHB_SEL_IntellectFortress, Target_IntellectFortress, Target_IntellectFortress_Penance
+prefer: Target_LHB_SEL_LifeTransference, Target_LifeTransference
+prefer: Target_LHB_SEL_MotivationalSpeech, Target_MotivationalSpeech
+prefer: Zone_LHB_SEL_PulseWave, Zone_ATT_PulseWaveContainer
+prefer: Shout_SpeakWithPlants, Shout_SpeakWithPlants_Hedge
+prefer: Shout_LHB_SEL_AuraOfPurity, Shout_AuraOfPurity_Watchers
+prefer: Target_LHB_SEL_CharmMonster, Target_CharmMonster
+prefer: Target_LHB_SEL_RaulothimsPsychicLance, Projectile_RaulothimsPsychicLance
+prefer: Shout_LHB_SEL_ShadowOfMoil, Shout_ShadowOfMoil
+prefer: Shout_LHB_SEL_CircleOfPower, Shout_CircleOfPower
+prefer: Target_LHB_SEL_ConjureVolley, ProjectileStrike_ConjureVolley
+prefer: Target_LHB_SEL_NegativeEnergyFlood, Projectile_NegativeEnergyFlood
+prefer: Teleportation_LHB_SEL_RaiseDead, Target_RaiseDead
+prefer: Target_LHB_SEL_SteelWindStrike, Target_SteelWindStrike
+prefer: Target_LHB_SEL_SynapticStatic, Target_SynapticStatic, Target_SynapticStatic_Penance
+prefer: Shout_CrownOfStars, Shout_ATT_CrownOfStars
+prefer: Shout_DivineWord, Shout_LLDivineRight_DivineWord
+prefer: Target_FingerOfDeath, Projectile_VlaakithBeam
+prefer: Target_Regenerate, Target_ATT_Regenerate
+prefer: Target_DominateMonster, Target_ATT_DominateMonster
+prefer: Target_Feeblemind, Projectile_ATT_Feeblemind
+prefer: Shout_HolyAura, Shout_ATT_HolyAura
+prefer: Target_MindBlank, Target_ATT_MindBlank
+prefer: Target_Foresight, Target_ATT_Foresight
+prefer: Target_PowerWordHeal, Target_ATT_PowerWordHeal
+prefer: Target_ATT_PowerWordKill, Target_PowerWordKill
+prefer: Shout_SailorCat_Wish, Shout_Wish
