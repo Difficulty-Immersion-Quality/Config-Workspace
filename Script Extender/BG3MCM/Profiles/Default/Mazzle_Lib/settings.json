@@ -42,7 +42,7 @@
             "ML_Close_Third_Party_Mod_Warnings": false,
             "ML_MCM_Icon_Collapse_Enabled": true,
             "ML_Print_Game_State_Changes": false,
-            "ML_Server_Lag_Warnings_Enabled": true,
+            "ML_Server_Lag_Warnings_Enabled": false,
             "ML_Window_Hotbar_Enabled": true
         }
     },
