@@ -51,3 +51,5 @@ prefer: Target_Foresight, Target_ATT_Foresight
 prefer: Target_PowerWordHeal, Target_ATT_PowerWordHeal
 prefer: Target_ATT_PowerWordKill, Target_PowerWordKill
 prefer: Shout_SailorCat_Wish, Shout_Wish
+prefer: Target_MindWhip, Target_TashasMindWhip
+prefer: Zone_CausticBrew, Zone_TashasCausticBrew
