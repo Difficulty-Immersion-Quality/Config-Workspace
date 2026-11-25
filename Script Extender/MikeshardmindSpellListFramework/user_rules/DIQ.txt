@@ -53,3 +53,9 @@ prefer: Target_ATT_PowerWordKill, Target_PowerWordKill
 prefer: Shout_SailorCat_Wish, Shout_Wish
 prefer: Target_MindWhip, Target_TashasMindWhip
 prefer: Zone_CausticBrew, Zone_TashasCausticBrew
+
+[rulegroup]
+name: Replace stinky blade
+description: Swaps Shadow Blade for its Patch #8 non-item version on spell lists
+spell_list: *
+prefer: Shout_ShadowBlade_Class, Shout_ShadowBlade
